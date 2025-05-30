@@ -1,0 +1,183 @@
+body {
+  display: flex;
+  height: 100vh;
+  margin: 0;
+}
+
+#sidebar {
+  flex-shrink: 0; /* 不能被壓縮 */
+  width: 200px; /* 固定側邊欄寬度 */
+  min-width: 200px;
+  order: 1; /* 側邊欄順位第二 */
+  background: #f1f1f1;
+  padding: 10px;
+  overflow-y: auto;
+  border-right: 1px solid #ccc;
+  transition: width 0.3s ease-in-out;
+}
+
+#quizTitle {
+  text-align: center; /* 置中 */
+  font-size: 24px; /* 調整字體大小 */
+  font-weight: bold; /* 加粗 */
+  margin-top: 0px; /* 與上方內容留出間距 */
+}
+
+/* 主要作答區 */
+#main {
+  flex-grow: 1; /* 讓其填滿剩餘空間 */
+  order: 2; /* 作答區順位最低 */
+  padding: 20px;
+  min-width: 500px;
+}
+
+/* 🔹 題目區塊 */
+.question-block {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeIn 0.3s forwards;
+}
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 🔹 已回答與標記題目 */
+.marked {
+  background: yellow;
+}
+
+.answered {
+  font-weight: bold;
+  color: #ff0000; /* 突出顯示已回答題目 */
+  background: rgba(255, 0, 0, 0.1); /* 增加淡紅色背景 */
+  padding: 5px;
+  border-radius: 4px;
+  transition: background 0.3s;
+}
+
+.answered:hover {
+  background: rgba(255, 0, 0, 0.2); /* 滑鼠懸停時加深背景色 */
+}
+
+/* 🔹 題目列表按鈕 */
+.question-row {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  margin-bottom: 5px;
+  flex-wrap: nowrap; /* 防止換行 */
+}
+
+.question-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+}
+
+.option-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px 0; /* 移除 auto，確保靠左 */
+  text-align: left; /* 若圖片在父元素內，這可能有幫助 */
+}
+
+.question-row button {
+  width: 35px; /* 縮小按鈕寬度 */
+  height: 35px;
+  font-size: 14px;
+  padding: 5px;
+  text-align: center;
+  border: 1px solid #ccc;
+  background: white;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.question-row button.answered {
+  color: rgb(236, 11, 11);
+}
+
+.question-row button.marked {
+  background: yellow;
+}
+
+/* 🔹 進度條 */
+#progress-container {
+  margin-bottom: 0px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#quiz-progress { 
+  width: 100%; height: 10px; /* 調整進度條厚度 */ 
+}
+
+/* 🔹 選項區塊 */
+fieldset {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+legend {
+  font-weight: bold;
+  color: #333;
+}
+
+.option-block {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.option-block:hover {
+  background: #e3f2fd;
+}
+
+.option-block input {
+  margin-right: 10px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #ddd;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+  gap: 10px;
+}
+
+.feedback-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.feedback-columns {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  width: 100%;
+}
+
+.feedback-left, .feedback-right {
+  width: 45%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background: #f9f9f9;
+  border-radius: 5px;
+  min-height: 50px;
+}
