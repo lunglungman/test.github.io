@@ -1,0 +1,1437 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 細胞氧化呼吸鏈的成員中，下列何者無法將H+由mitochondrial matrix轉移至intermembrane space？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A complex I",
+        "images": []
+      },
+      {
+        "text": "B complex III",
+        "images": []
+      },
+      {
+        "text": "C complex IV",
+        "images": []
+      },
+      {
+        "text": "D ATP synthase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 葡萄糖代謝途徑包括：①pyruvate；②Krebs cycle；③acetyl CoA；④glycolysis；⑤electron transport chain，下列順序何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ① → ② → ③ → ④ → ⑤",
+        "images": []
+      },
+      {
+        "text": "B ④ → ① → ③ → ② → ⑤",
+        "images": []
+      },
+      {
+        "text": "C ① → ④ → ③ → ② → ⑤",
+        "images": []
+      },
+      {
+        "text": "D ④ → ② → ① → ③ → ⑤",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 細胞進行發酵作用時，經由下列那一方式產生ATP？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 電子傳遞鏈（the electron transport chain）",
+        "images": []
+      },
+      {
+        "text": "B 化學滲透（chemiosmosis）",
+        "images": []
+      },
+      {
+        "text": "C 氧化磷酸化（oxidative phosphorylation）",
+        "images": []
+      },
+      {
+        "text": "D 受質階級磷酸化（substrate-level phosphorylation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which of the following is a true statement?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Anabolic pathways build molecules, require energy, and are endergonic.",
+        "images": []
+      },
+      {
+        "text": "B Catabolic pathways build molecules, release energy, and are exergonic.",
+        "images": []
+      },
+      {
+        "text": "C Catabolic pathways break down molecules, require energy, and are exergonic.",
+        "images": []
+      },
+      {
+        "text": "D Anabolic pathways break down molecules, require energy, and are endergonic.",
+        "images": []
+      },
+      {
+        "text": "E The second and third answers are correct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. A torpor for animals to survive long period of high temperature and water scarcity.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A hibernation",
+        "images": []
+      },
+      {
+        "text": "B estivation",
+        "images": []
+      },
+      {
+        "text": "C adaptation",
+        "images": []
+      },
+      {
+        "text": "D thermoregulation",
+        "images": []
+      },
+      {
+        "text": "E acclimatization",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 在細胞呼吸作用（cellular respiration）的電子傳遞鏈，下面哪一項是最終電子接受者和產物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷酸根 / ATP",
+        "images": []
+      },
+      {
+        "text": "B 輔酶A（CoA）/ 乙醯輔酶A（acetyl CoA）",
+        "images": []
+      },
+      {
+        "text": "C 氧 / 水",
+        "images": []
+      },
+      {
+        "text": "D NAD+/ NADH",
+        "images": []
+      },
+      {
+        "text": "E 氫 / 二氧化碳",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列何者在檸檬酸循環（citric acid cycle）中扮演電子攜帶者的角色？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A NAD+",
+        "images": []
+      },
+      {
+        "text": "B NADH和FADH2",
+        "images": []
+      },
+      {
+        "text": "C isocitrate",
+        "images": []
+      },
+      {
+        "text": "D ADP和ATP",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. Glucose in human hepatocyte can be synthesized from which combination of the following non-sugar sources?①adenine　②alanine　③lactate　④palmitate　⑤glycerol",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①②③",
+        "images": []
+      },
+      {
+        "text": "B ①④",
+        "images": []
+      },
+      {
+        "text": "C ②③④⑤",
+        "images": []
+      },
+      {
+        "text": "D ④⑤",
+        "images": []
+      },
+      {
+        "text": "E ②③⑤",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 一隻大象的個體代謝率比一隻老鼠高，但換算成每公克體重的代謝率，大象比老鼠低得多，這是因為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大象細胞的分工程度比老鼠細胞高，每個細胞所需的能量比較低",
+        "images": []
+      },
+      {
+        "text": "B 大象的個體活動量比老鼠低，平均下來單位體重消耗的能量也比較低",
+        "images": []
+      },
+      {
+        "text": "C 大象的脂肪組織在單位體重的含量比例上比老鼠多，脂肪能提供的能量比較多，因此大象不要很高的代謝率",
+        "images": []
+      },
+      {
+        "text": "D 大象的表面積比上體積的比值比老鼠低，單位體重散失的熱能比較少，因此不需要很高的代謝率",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 真核細胞進行有氧呼吸及無氧發酵時，共用那一種代謝中間產物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 丙酮酸（pyruvate）",
+        "images": []
+      },
+      {
+        "text": "B 檸檬酸（citric acid）",
+        "images": []
+      },
+      {
+        "text": "C 琥珀酸（succinate）",
+        "images": []
+      },
+      {
+        "text": "D 乙醯輔酶A（acetyl CoA）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 有關糖解作用（glycolysis）的敍述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 發生在粒線體的內膜",
+        "images": []
+      },
+      {
+        "text": "B 消耗2個ATP，產生4個ATP",
+        "images": []
+      },
+      {
+        "text": "C 產生2個NADH",
+        "images": []
+      },
+      {
+        "text": "D 不論在有氧或無氧狀況下皆可進行",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 有關外溫動物（ectotherm）與內溫動物（endotherm）主要的差異在於：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 外溫動物大多為水生動物；內溫動物大部分為陸生",
+        "images": []
+      },
+      {
+        "text": "B 外溫動物體熱來自環境中所吸收的熱能；內溫動物的體熱主要來自代謝產生的熱能",
+        "images": []
+      },
+      {
+        "text": "C 外溫動物熱量主要來自發酵作用；內溫動物熱源來自細胞呼吸作用",
+        "images": []
+      },
+      {
+        "text": "D 外溫動物大多為無脊椎動物；內溫動物大部分為脊椎動物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 在糖分解反應中主要的控制點（control point）為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 異檸檬酸去氫酶（isocitrate dehydrogenase）",
+        "images": []
+      },
+      {
+        "text": "B 檸檬酸鹽（citrate）累積的負迴饋（negative feedback）",
+        "images": []
+      },
+      {
+        "text": "C 氧氣的有無",
+        "images": []
+      },
+      {
+        "text": "D 磷酸果糖激酶（phosphofructokinase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 糖解作用（glycolysis）的最終產物包括有？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ATP, NADH, 丙酮酸（pyruvate）",
+        "images": []
+      },
+      {
+        "text": "B ATP, H2O, NADPH",
+        "images": []
+      },
+      {
+        "text": "C CO2, H2O, NADH",
+        "images": []
+      },
+      {
+        "text": "D ATP, CO2, 丙酮酸（pyruvate）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 關於單一細胞，下列何種胞器構造可控制細胞內各種代謝作用之進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內質網（ER）",
+        "images": []
+      },
+      {
+        "text": "B 微粒體（microbody）",
+        "images": []
+      },
+      {
+        "text": "C 高基氏體（golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "D 細胞核（nucleus）",
+        "images": []
+      },
+      {
+        "text": "E 粒線體（mitochondria）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 何謂質子動力論（proton-motive force）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 質子濃度梯度和電荷差異（proton concentration gradient and electric charge difference）",
+        "images": []
+      },
+      {
+        "text": "B 是一代謝途徑",
+        "images": []
+      },
+      {
+        "text": "C 一種ATP 合成酶",
+        "images": []
+      },
+      {
+        "text": "D 一氧化還原反應",
+        "images": []
+      },
+      {
+        "text": "E 氧化NADH來產生NAD+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 當身體人體攝取的食物，包括碳水化合物、脂肪及蛋白質，經降解代謝（catabolism）成小分子可被當作燃料用以製造ATP或會被用來合成大的有機分子。下列對於這些巨分子降解代謝過程的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脂肪降解代謝過程中會產生甘油醛-3-磷酸（glyceraldehyde-3-phosphate）",
+        "images": []
+      },
+      {
+        "text": "B 脂肪降解代謝過程中會產生乙醯輔酶A（acetyl CoA）",
+        "images": []
+      },
+      {
+        "text": "C 蛋白質降解代謝過程中不會產生丙酮酸（pyruvate）",
+        "images": []
+      },
+      {
+        "text": "D 蛋白質降解代謝過程中不會產生甘油醛-3-磷酸（glyceraldehyde-3-phosphate）",
+        "images": []
+      },
+      {
+        "text": "E 碳水化合物降解代謝過程中會產生丙酮酸（pyruvate）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 有關丙酮酸（Pyruvate）氧化之描述，下列何者錯誤?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 丙酮酸被氧化成乙酸（Acetate）放出二氧化碳",
+        "images": []
+      },
+      {
+        "text": "B 還原NAD+變成NADH＋H+",
+        "images": []
+      },
+      {
+        "text": "C 生成二分子ATP",
+        "images": []
+      },
+      {
+        "text": "D 主要酵素為Pyruvate dehydrogenase complex",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 關於化學滲透作用（chemiosmosis）的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 不需要ATP synthase就可合成ATP",
+        "images": []
+      },
+      {
+        "text": "B 僅在呼吸作用電子傳遞鏈發生",
+        "images": []
+      },
+      {
+        "text": "C 質子隨濃度梯度流過ATP合成酶管道蛋白，ADP磷酸化生成ATP的機制",
+        "images": []
+      },
+      {
+        "text": "D 呼吸作用中質子的來源是由於水的分解",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 關於細胞呼吸作用的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 糖解作用需先提供能量，經受質層次磷酸化（substrate-level phosphorylation）直接產生ATP",
+        "images": []
+      },
+      {
+        "text": "B 檸檬酸循環經受質層次磷酸化直接產生ATP",
+        "images": []
+      },
+      {
+        "text": "C 糖解作用及檸檬酸循環產生的NADH及FADH2進入電子傳遞鏈經氧化磷酸化（oxidative phosphorylation）產生ATP",
+        "images": []
+      },
+      {
+        "text": "D 整個細胞呼吸的主要關鍵點在糖解作用的第一個反應酵素-己糖激酶（hexokinase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 電子傳遞鏈發生於粒線體內膜（mitochondrial inner membrane）上，下列何種構造有相似於粒線體內膜的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 革蘭氏陰性菌外膜（Gram-negative bacteria outer membrane）",
+        "images": []
+      },
+      {
+        "text": "B 細胞核膜內膜（nuclear envelope inner membrane）",
+        "images": []
+      },
+      {
+        "text": "C 葉綠體內膜（chloroplast inner membrane）",
+        "images": []
+      },
+      {
+        "text": "D 類囊體膜（thylakoid membrane）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何者為細胞呼吸和光合作用都有的代謝過程？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 將光能轉化為化學能",
+        "images": []
+      },
+      {
+        "text": "B 分解H2O分子且釋放O2",
+        "images": []
+      },
+      {
+        "text": "C 藉著H+的跨膜運輸而儲存能量",
+        "images": []
+      },
+      {
+        "text": "D 將CO2轉化為葡萄糖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. The immediate energy source that drives ATP synthesis by ATP synthase during oxidative phosphorylation is the",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A H+concentration gradient across the membrane holding ATP synthase.",
+        "images": []
+      },
+      {
+        "text": "B flow of electrons down the electron transport chain.",
+        "images": []
+      },
+      {
+        "text": "C transfer of phosphate to ADP.",
+        "images": []
+      },
+      {
+        "text": "D oxidation of glucose and other organic compounds.",
+        "images": []
+      },
+      {
+        "text": "E electron transmission of photosynthesis.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 有關動物生理敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 相同體重的兔子和蜥蜴的總代謝速率相同",
+        "images": []
+      },
+      {
+        "text": "B 人體瘦素（leptin）濃度下降，則基礎代謝速率上升",
+        "images": []
+      },
+      {
+        "text": "C 胰島素刺激肝臟進行肝糖分解作用（glycogenolysis）和糖質新生作用（Gluconeogenesis）",
+        "images": []
+      },
+      {
+        "text": "D 動物具有可以從蛋白質轉換生合成葡萄糖的代謝路徑",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. In mitochondrial electron transport, what is the direct role of O2?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A to provide the driving force for the synthesis of ATP from ADP and Pi",
+        "images": []
+      },
+      {
+        "text": "B to oxidize NADH and FADH2from glycolysis, acetyl CoA formation, and the citric acid cycle",
+        "images": []
+      },
+      {
+        "text": "C to provide the driving force for the production of a proton gradient",
+        "images": []
+      },
+      {
+        "text": "D to function as the final electron acceptor in the electron transport chain",
+        "images": []
+      },
+      {
+        "text": "E to provide electrons",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. In glycolysis, for each molecule of glucose oxidized to pyruvate",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 4 molecules of ATP are used and 2 molecules of ATP and 4 molecules of NADH are produced.",
+        "images": []
+      },
+      {
+        "text": "B 2 molecules of ATP are used and 4 molecules of ATP and 2 molecules of NAD are produced.",
+        "images": []
+      },
+      {
+        "text": "C 2 molecules of ATP are used and 4 molecules of ATP and 2 molecules of NADH are produced.",
+        "images": []
+      },
+      {
+        "text": "D 2 molecules of ATP are used and 4 molecules of ATP and 1 molecules of NADH are produced.",
+        "images": []
+      },
+      {
+        "text": "E 2 molecules of ATP are used and 2 molecules of ATP and 2 molecules of NADH are produced.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 關於脊椎動物消化與吸收所獲得的營養進行生理生化作用的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在細胞中產生大量ATP",
+        "images": []
+      },
+      {
+        "text": "B 作為修復組織破損的原料",
+        "images": []
+      },
+      {
+        "text": "C 維持運輸氧氣到細胞的進行",
+        "images": []
+      },
+      {
+        "text": "D 形成骨骼的成分",
+        "images": []
+      },
+      {
+        "text": "E 葡萄糖主要經由二次性主動運輸（secondary active transport）進入組織細胞中",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 關於真核細胞中的ATP之敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可用以磷酸化細胞內的蛋白質",
+        "images": []
+      },
+      {
+        "text": "B 主要在粒線體合成",
+        "images": []
+      },
+      {
+        "text": "C 由核醣、含氮鹼基及三個磷酸根組成",
+        "images": []
+      },
+      {
+        "text": "D 其水解產生的能量主要來自磷酸根本身所釋出",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 關於能量代謝，下列敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 碳水化合物，蛋白質與脂肪都能被利用在細胞呼吸作用（cellular respiration）",
+        "images": []
+      },
+      {
+        "text": "B 醣解作用（glycolysis）是發酵（fermentation）及細胞呼吸作用的共同步驟",
+        "images": []
+      },
+      {
+        "text": "C 丙酮酸（pyruvate）參與了發酵及細胞呼吸作用",
+        "images": []
+      },
+      {
+        "text": "D 酒精發酵（alcohol fermentation）和乳酸發酵（lactic acid fermentation）產生的ATP數量不一樣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 以下哪一種反應需要氧分子的參與？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 糖解反應（glycolysis）",
+        "images": []
+      },
+      {
+        "text": "B 檸檬酸循環（the citric acid cycle）",
+        "images": []
+      },
+      {
+        "text": "C 電子傳遞鏈（the electron transport chain）",
+        "images": []
+      },
+      {
+        "text": "D ATP合成酶（ATP synthase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. In vertebrate animals, brown fat tissue's color is due to abundant mitochondria. White fat tissue, on the other hand, is specialized for fat storage and contains relatively few mitochondria. Brown fat cells have a specialized protein that dissipates the proton-motive force across the mitochondrial membranes. Which of the following might be the function of the brown fat tissue?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A to allow other membranes of the cell to perform mitochondrial function.",
+        "images": []
+      },
+      {
+        "text": "B to increase the rate of oxidative phosphorylation from its few mitochondria.",
+        "images": []
+      },
+      {
+        "text": "C to allow the animals to regulate their metabolic rate when it is especially hot.",
+        "images": []
+      },
+      {
+        "text": "D to regulate temperature by converting energy from NADH oxidation to heat.",
+        "images": []
+      },
+      {
+        "text": "E to increase the production of ATP synthase.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 磷酸果糖激酶（phosphofructokinase, PFK）是催化醣解作用的關鍵酵素，約有10%的史賓格獵犬患有犬類PFK缺乏症，患此病的犬最有可能表現出以下哪種症狀？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 經常低血糖",
+        "images": []
+      },
+      {
+        "text": "B 死於胚胎期",
+        "images": []
+      },
+      {
+        "text": "C 嗜睡且運動不耐",
+        "images": []
+      },
+      {
+        "text": "D 代償性氧化磷酸化增強",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列那一種酵素可調控糖解作用（glycolysis），並催化fructose phosphate轉化成為fructose bisphosphate？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pyruvate dehydrogenase",
+        "images": []
+      },
+      {
+        "text": "B phosphofructokinase",
+        "images": []
+      },
+      {
+        "text": "C phosphoenol pyruvate carboxylase",
+        "images": []
+      },
+      {
+        "text": "D phenylalanine hydroxylase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 關於標準代謝率（SMR）與基礎代謝率（BMR）的敘述，下列何項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 兩者皆於動物休息及禁食時測量",
+        "images": []
+      },
+      {
+        "text": "B 兩者皆為哺乳類動物脂肪代謝量的標準測量法",
+        "images": []
+      },
+      {
+        "text": "C 標準代謝率於運動時測量，基礎代謝率於休息時測量",
+        "images": []
+      },
+      {
+        "text": "D 在同一物種中，兩者測量時之溫度範圍很廣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. During glycolysis NADH is produced in the cytosol. Under aerobic conditions, what is the primary fate of this NADH?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A It accumulates in the cytosol.",
+        "images": []
+      },
+      {
+        "text": "B It diffuses into the mitochondria.",
+        "images": []
+      },
+      {
+        "text": "C It transfers its reducing equivalents directly to NADP+.",
+        "images": []
+      },
+      {
+        "text": "D The reducing equivalents are transferred by a shuttle system to the mitochondrial electron transport system.",
+        "images": []
+      },
+      {
+        "text": "E It is used to reduce glucose to sorbitol.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 脂肪的代謝產物以何種形式進入檸檬酸循環（citric acid cycle）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 丙酮酸（pyruvate）",
+        "images": []
+      },
+      {
+        "text": "B 乙醯輔酶（Acetyl CoA）",
+        "images": []
+      },
+      {
+        "text": "Cα-酮基戊二酸鹽（α-ketoglutarate）",
+        "images": []
+      },
+      {
+        "text": "D 琥珀醯基輔酶A（succinyl CoA）",
+        "images": []
+      },
+      {
+        "text": "E 蘋果酸（malate）或延胡索酸（fumarate）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 下列何者為最先參與細胞進行葡萄糖分解的酵素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Phosphoglucoisomerase",
+        "images": []
+      },
+      {
+        "text": "B Phosphofructokinase",
+        "images": []
+      },
+      {
+        "text": "C Hexokinase",
+        "images": []
+      },
+      {
+        "text": "D Phosphoglycerokinase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. A young animal has never had much energy. He is brought to a veterinarian for help and is sent to the animal hospital for some tests. There they discover his mitochondria can use only fatty acids and amino acids for respiration, and his cells produce more lactate than normal. Of the following, which is the best explanation of his condition?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A His mitochondria lack the transport protein that moves pyruvate across the outer mitochondrial membrane.",
+        "images": []
+      },
+      {
+        "text": "B His cells cannot move NADH from glycolysis into the mitochondria.",
+        "images": []
+      },
+      {
+        "text": "C His cells contain something that inhibits oxygen use in his mitochondria.",
+        "images": []
+      },
+      {
+        "text": "D His cells lack the enzyme in glycolysis that forms pyruvate.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 有關細菌和酵母菌利用葡萄糖發酵反應（fermentation）以製備酒精的過程中，此類發酵反應最終的電子受體，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 丙酮酸（pyruvate）",
+        "images": []
+      },
+      {
+        "text": "B 輔酶NAD+",
+        "images": []
+      },
+      {
+        "text": "C 乙醛（acetaldehyde）",
+        "images": []
+      },
+      {
+        "text": "D 輔酶NADH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 比較真核細胞之細胞呼吸作用（cellular respiration）與植物細胞光合作用（photosynthesis），下列哪一個步驟為兩者皆有進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 光反應（light reaction）",
+        "images": []
+      },
+      {
+        "text": "B 電子傳遞鏈（electron transport chain）",
+        "images": []
+      },
+      {
+        "text": "C 糖解作用（glycolysis）",
+        "images": []
+      },
+      {
+        "text": "D 檸檬酸循環（citric acid cycle）",
+        "images": []
+      },
+      {
+        "text": "E 卡爾文循環（Calvin cycle）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 用酵母菌來釀酒，要保持在什麼樣的環境，產量才會高？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在氧氣充足的環境，如此酵母菌才會快速繁殖",
+        "images": []
+      },
+      {
+        "text": "B 在氧氣充足的環境，才會產生足夠的ATP以進行糖酵解作用（glycolysis）",
+        "images": []
+      },
+      {
+        "text": "C 在無氧的環境，才能促使酵母菌進行發酵作用（fermentation）",
+        "images": []
+      },
+      {
+        "text": "D 在無氧的環境，釀酒酵母是絕對厭氧生物（obligate anaerobe），在有氧的環境下無法存活",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. Assuming a fat molecule can be oxidized into 2 glycerol molecules, which are then converted to glyceraldehyde-3-phosphate in intermediate glycolysis, how many ATP can be produced from a fat molecule?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 4",
+        "images": []
+      },
+      {
+        "text": "B 8",
+        "images": []
+      },
+      {
+        "text": "C 24",
+        "images": []
+      },
+      {
+        "text": "D 36",
+        "images": []
+      },
+      {
+        "text": "E 48",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 一莫耳葡萄糖經完全燃燒可產生686 kcal的能量（ΔG＝-686kcal/mol），在細胞內ADP若轉換成ATP需耗費7.3 kcal/mol的能量，依據上述資訊，計算動物肌肉細胞若完全利用一莫耳葡萄糖進行細胞呼吸作用後，其轉換能量的效率（efficiency），下列何者最接近？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 85%",
+        "images": []
+      },
+      {
+        "text": "B 68%",
+        "images": []
+      },
+      {
+        "text": "C 34%",
+        "images": []
+      },
+      {
+        "text": "D 17%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 在細胞中，葡萄糖會被降解來產生能量供給細胞活動，將葡萄糖分解形成二個pyruvate分子過程在下列哪一細胞區域？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 粒線體膜間區域（mitochondrial intermembrane space）",
+        "images": []
+      },
+      {
+        "text": "B 粒線體內膜（mitochondrial inner membrane ）",
+        "images": []
+      },
+      {
+        "text": "C 粒線體基質（mitochondrial matrix）",
+        "images": []
+      },
+      {
+        "text": "D 高基氏體（golgi body）",
+        "images": []
+      },
+      {
+        "text": "E 細胞質（cytosol）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 醣解作用（glycolysis）中所產生的ATP，主要是經由下列何種方式？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 化學滲透（chemiosmosis）",
+        "images": []
+      },
+      {
+        "text": "B 電子傳遞（electron transport）",
+        "images": []
+      },
+      {
+        "text": "C 光磷酸化（photophosphorylation）",
+        "images": []
+      },
+      {
+        "text": "D 受質階層磷酸化（substrate-level phosphorylation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列那一個過程不能產生ATP？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 受質層次磷酸化（substrate-level phosphorylation）",
+        "images": []
+      },
+      {
+        "text": "B 電子傳遞鏈",
+        "images": []
+      },
+      {
+        "text": "C 化學滲透（chemiosmosis）",
+        "images": []
+      },
+      {
+        "text": "D 雙醣轉換單醣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 下列哪一種酵素可調控糖解作用（glycolysis）的速度，並催化fructose phosphate轉化成為fructose bisphosphate？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pyruvate dehydrogenase",
+        "images": []
+      },
+      {
+        "text": "B phosphofructokinase",
+        "images": []
+      },
+      {
+        "text": "C phosphoenolpyrute carboxylase",
+        "images": []
+      },
+      {
+        "text": "D phenylanine hydroxylase",
+        "images": []
+      },
+      {
+        "text": "E phosphodiesterase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 下列有關呼吸作用的敘述中，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葡萄糖 → 二氧化碳，以上反應葡萄糖被氧化",
+        "images": []
+      },
+      {
+        "text": "B 丙酮酸 → 乳酸，以上反應丙酮酸被還原",
+        "images": []
+      },
+      {
+        "text": "C 醋酸和酒精都氧化成二氧化碳和水時，醋酸可以釋放出比較多的能量",
+        "images": []
+      },
+      {
+        "text": "D 糖解作用發生在細胞質，淨產生2個NADH、2個ATP",
+        "images": []
+      },
+      {
+        "text": "E 電子傳遞鏈中，氧氣是電子接受者",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 在動物或植物細胞內可見許多膜狀區隔（如：粒線體及細胞核），這些區隔具有哪些特色？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 所有細胞包括細菌及真菌都是常見的構造",
+        "images": []
+      },
+      {
+        "text": "B 便於細胞分裂時將細胞內成份平均分配到兩個細胞中",
+        "images": []
+      },
+      {
+        "text": "C 可作為支撐細胞的骨架",
+        "images": []
+      },
+      {
+        "text": "D 便於儲存生化代謝物",
+        "images": []
+      },
+      {
+        "text": "E 有利於各種不同代謝反應的進行",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 有關新陳代謝的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生物體內所有的化學反應合稱為新陳代謝，包括同化作用和異化作用",
+        "images": []
+      },
+      {
+        "text": "B 葡萄糖合成肝醣時會釋放出能量",
+        "images": []
+      },
+      {
+        "text": "C 光合作用為同化作用；呼吸作用為異化作用",
+        "images": []
+      },
+      {
+        "text": "D 受精卵發育成個體時只發生同化作用",
+        "images": []
+      },
+      {
+        "text": "E 個體成長時需耗大量能量，所以同化作用的速率小於異化作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ]
+  }
+]

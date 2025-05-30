@@ -1,0 +1,1445 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 有關哺乳類的免疫球蛋白（immunoglobulins）的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A IgA為單節體，遇到抗原會釋出組織胺，引起過敏反應",
+        "images": []
+      },
+      {
+        "text": "B IgM為五節體，存在於唾液、汗腺中，透過上皮細胞運送",
+        "images": []
+      },
+      {
+        "text": "C IgG為五節體，為生物個體暴露在抗原之後最早出現的抗體",
+        "images": []
+      },
+      {
+        "text": "D IgD為單節體，主要存在於初乳中，能保護幼體防止胃腸道的感染",
+        "images": []
+      },
+      {
+        "text": "E 抗體都有其固定的恆定區，恆定區的特性決定此抗體的防禦功能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 脊椎動物被病毒感染後，以下列何種細胞進行先天性免疫反應防止病毒擴散？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 毒殺性T細胞（cytotoxic T cell）",
+        "images": []
+      },
+      {
+        "text": "B 輔助性T細胞（helper T cell）",
+        "images": []
+      },
+      {
+        "text": "C 記憶性細胞（memory cell）",
+        "images": []
+      },
+      {
+        "text": "D 自然殺手細胞（natural killer cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列何者能分化為巨噬細胞的先驅細胞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 單核細胞（monocyte）",
+        "images": []
+      },
+      {
+        "text": "B B細胞（B cell）",
+        "images": []
+      },
+      {
+        "text": "C T細胞（T cell）",
+        "images": []
+      },
+      {
+        "text": "D 紅血球（erythrocyte）",
+        "images": []
+      },
+      {
+        "text": "E 嗜酸性白血球（eosinophile）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Complement proteins can do all of these functions except",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A enhance phagocytosis by innate immune cells by attaching to cell invaders.",
+        "images": []
+      },
+      {
+        "text": "B help trigger the inflammatory response.",
+        "images": []
+      },
+      {
+        "text": "C attack cancer and virus-infected cells after they are released by natural killer cells.",
+        "images": []
+      },
+      {
+        "text": "D act as chemical signals to recruit more immune cells to the site of infection.",
+        "images": []
+      },
+      {
+        "text": "E lysis of target cells.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 當輔助T細胞（helper T cell）的CD4蛋白喪失功能，此輔助T細胞將不能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 對胸腺非依賴抗原（thymus-independent antigen）產生反應",
+        "images": []
+      },
+      {
+        "text": "B 溶解癌細胞",
+        "images": []
+      },
+      {
+        "text": "C 刺激胞毒型T細胞（cytotoxic T cell）",
+        "images": []
+      },
+      {
+        "text": "D 與第二型主要組織相容性複體-抗原複合體（MHC II -antigen complex）交互作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 假設一病人體內的肥大細胞（mast cells）活性很高，血管擴張且血壓急遽降低，則此病人最可能正面臨何種免疫狀況？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 自體免疫疾病（autoimmune disease）",
+        "images": []
+      },
+      {
+        "text": "B 皮膚移植手術（植皮）",
+        "images": []
+      },
+      {
+        "text": "C 對抗組織胺藥物（antihistamine drug）產生過敏反應",
+        "images": []
+      },
+      {
+        "text": "D 接觸到過敏原（allergen）產生的過敏性休克（anaphylactic shock）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. Clonal selection",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A determines the pool of mature leukocytes that will be stimulated by macrophages.",
+        "images": []
+      },
+      {
+        "text": "B requires the activation of natural killer cells.",
+        "images": []
+      },
+      {
+        "text": "C describes the proliferation of B and T lymphocytes after they have been activated by an antigen.",
+        "images": []
+      },
+      {
+        "text": "D requires the presence and activation of complement.",
+        "images": []
+      },
+      {
+        "text": "E describes the selection of mature non-self T cells.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 關於免疫學上株系選擇學說（clonal selection），下列敍述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 兄弟姊妹之間有類似的免疫反應",
+        "images": []
+      },
+      {
+        "text": "B 抗原可以誘發特定淋巴細胞進行有絲分裂",
+        "images": []
+      },
+      {
+        "text": "C 只有特定的細胞可以產生干擾素",
+        "images": []
+      },
+      {
+        "text": "D 基因突變是抗體多樣性的原因",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "複選題",
+    "question": "9. 病原體入侵細胞被巨噬細胞吞噬後，抗原分子與細胞表面的主要組織相容性複合體（major histocompatibility complex, MHC）結合，形成抗原呈現細胞（antigenpresenting cells, APC），啟動一系列免疫反應中不包括何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 發炎反應（inflammation）",
+        "images": []
+      },
+      {
+        "text": "B 巨噬細胞（macrophage）與輔助T細胞（helper T cell）相互作用",
+        "images": []
+      },
+      {
+        "text": "C 分泌白血球介白素–1（interleukin-1）和白血球介白素–2（interleukin-2）",
+        "images": []
+      },
+      {
+        "text": "D T細胞活化產生記憶細胞（memory B cell），後者下一次可識別病原體，引發免疫反應效率更高",
+        "images": []
+      },
+      {
+        "text": "E 產生更多胞殺T細胞（cytotoxic T cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列有關人體因感染引起發炎反應的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 發炎早期會有微血管收縮的現象",
+        "images": []
+      },
+      {
+        "text": "B 輔助T細胞會遷徙至發炎部位進行毒殺作用",
+        "images": []
+      },
+      {
+        "text": "C 嗜鹼性白血球（basophil）會遷徙至發炎部位並分泌肝素（heparin）",
+        "images": []
+      },
+      {
+        "text": "D 嗜酸性白血球（eosinophil）會遷徙至發炎部位並分化成具吞噬能力的細胞",
+        "images": []
+      },
+      {
+        "text": "E 受傷組織及肥大細胞（mast cell）可釋放組織胺，具有止痛及消炎的功能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. Which is the correct order of steps taken by B and T cells to defend against infection in body fluids and cells?1. B and T cells move to the lymph nodes, spleen, and other parts of the lymphatic system.2. B and T cells leave the bone marrow and thymus and move to the bloodstream.3. B and T cells meet and begin to fight viruses or other infectious agents.4. B and T cells develop antigen receptors.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 4, 2, 3, 1",
+        "images": []
+      },
+      {
+        "text": "B 2, 4, 3, 1",
+        "images": []
+      },
+      {
+        "text": "C 4, 3, 2, 1",
+        "images": []
+      },
+      {
+        "text": "D 2, 4, 1, 3",
+        "images": []
+      },
+      {
+        "text": "E 4, 2, 1, 3",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. Which of the following cells are phagocytes?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A monocytes and neutrophils",
+        "images": []
+      },
+      {
+        "text": "B basophils and eosinophils",
+        "images": []
+      },
+      {
+        "text": "C eosinophils and lymphocytes",
+        "images": []
+      },
+      {
+        "text": "D lymphocytes and basophils",
+        "images": []
+      },
+      {
+        "text": "E monocytes and mast cells",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 有關人類的多發性硬化症（multiple sclerosis），下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在病理診斷上屬於急性，且好發於20～40歲的神經增生性疾病",
+        "images": []
+      },
+      {
+        "text": "B 會引發免疫系統的誘發與攻擊",
+        "images": []
+      },
+      {
+        "text": "C 會破壞中樞神經系統區域的室膜細胞",
+        "images": []
+      },
+      {
+        "text": "D 與個體的基因調控與功能性無關",
+        "images": []
+      },
+      {
+        "text": "E 會攻擊周邊神經系統的許旺氏細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列有關人體免疫的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 接種疫苗屬於主動式免疫（active immunity）",
+        "images": []
+      },
+      {
+        "text": "B 胸腺屬於初級淋巴器官（primary lymphoid organs）",
+        "images": []
+      },
+      {
+        "text": "C 抗體IgA主要存在分泌物中，如乳汁與唾液",
+        "images": []
+      },
+      {
+        "text": "D 補體系統(complement system）屬於先天性免疫（innate immunity）的一環",
+        "images": []
+      },
+      {
+        "text": "E 自然殺手細胞（natural killer cells）屬於後天性免疫（acquired immunity）的一環",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Which of the following type of leukocyte would play a role as “antigen presenting cells” and trigger the MHC class II mediated immune response?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Basophils",
+        "images": []
+      },
+      {
+        "text": "B Eosinophils",
+        "images": []
+      },
+      {
+        "text": "C T lymphocytes",
+        "images": []
+      },
+      {
+        "text": "D Macrophages",
+        "images": []
+      },
+      {
+        "text": "E Neutrophils",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 對於抗原認識（antigen recognition）與淋巴球活化（lymphocyte activation）的敘述下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Interleukin-1 (IL-1)會刺激B細胞產生interleukin-2",
+        "images": []
+      },
+      {
+        "text": "B T細胞會認識細菌表面抗原產生免疫球蛋白",
+        "images": []
+      },
+      {
+        "text": "C NK（natural killer）細胞不對抗原有專一性，但可攻擊病毒感染的細胞",
+        "images": []
+      },
+      {
+        "text": "D Helper T細胞會產生不同類型的免疫球蛋白（immunoglobulins）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下列何種細胞具吞噬能力？(1)嗜中性球（neutrophils）(2)巨噬細胞（macrophages）(3)淋巴結內成熟型樹突細胞（mature dendritic cells）(4)自然殺手細胞（natural killer cells）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)",
+        "images": []
+      },
+      {
+        "text": "B (3)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "D (1)(2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列配對何者正確？(1)眼淚–溶菌酶(2)活化的巨噬細胞–腫瘤壞死因子-α（TNF-α）(3)幫助形Ｔ細胞–免疫球蛋白(4)毒殺形Ｔ細胞–穿孔素（perforin）(5)被病毒感染的細胞–干擾素",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "C (1)(3)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "D (1)(4)(5)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. Which description about “innate immunity” is NOT CORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Innate immunity is found in all animals.",
+        "images": []
+      },
+      {
+        "text": "B The great success of insects in habitats teeming with diverse microbes highlights the effectiveness of invertebrate innate immunity.",
+        "images": []
+      },
+      {
+        "text": "C Innate immune responses are distinct for different classes of pathogens.",
+        "images": []
+      },
+      {
+        "text": "D Recognition and response in innate immunity of mammalian occur with tremendous specificity.",
+        "images": []
+      },
+      {
+        "text": "E Each mammalian Toll-like receptor binds to fragments of molecules characteristic of a set of pathogens.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 下列有關正常人體內B細胞與T細胞之特性及功能的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 特性或功能：青春期以前，主要分化成熟之場所。B細胞：骨髓。T細胞：胸腺。",
+        "images": []
+      },
+      {
+        "text": "B 特性或功能：是否可產生直接摧毀細胞的化學物質。B細胞：否。T細胞：是。",
+        "images": []
+      },
+      {
+        "text": "C 特性或功能：是否參與專一性免疫。B細胞：是。T細胞：是。",
+        "images": []
+      },
+      {
+        "text": "D 特性或功能：是否會產生表面抗體IgM或IgD。B細胞：否。T細胞：是。",
+        "images": []
+      },
+      {
+        "text": "E 特性或功能：是否會自血管中遷徙至感染部位。B細胞：是。T細胞：是。",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 治療過敏時所用的抗組織胺藥物，可能會直接影響何種非特異性免疫反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 自然殺手細胞的活化",
+        "images": []
+      },
+      {
+        "text": "B 抗體的生成",
+        "images": []
+      },
+      {
+        "text": "C 微血管擴張及通透性增加",
+        "images": []
+      },
+      {
+        "text": "D T細胞的活化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列人類神經系統疾病與其相關因素的配對何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 思覺失調症（schizophrenia）：多巴胺（dopamine）",
+        "images": []
+      },
+      {
+        "text": "B 阿茲海默症（Alzheimer’s disease）：澱粉樣蛋白（β-amyloid）",
+        "images": []
+      },
+      {
+        "text": "C 多發性硬化症（multiple sclerosis）：自體反應性T細胞（autoreactive T cells）",
+        "images": []
+      },
+      {
+        "text": "D 重肌無力症（myasthenia gravis）：微絲蛋白（microfilaments）變異",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 在動物的免疫系統中，有關受傷區域的發炎反應初始階段（initial stages）參與的細胞和訊息分子，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 吞噬細胞（phagocytes）和溶菌酶（lysozymes）",
+        "images": []
+      },
+      {
+        "text": "B 吞噬細胞和細胞介素（cytokines）",
+        "images": []
+      },
+      {
+        "text": "C 樹突細胞（dendritic cells）和干擾素（interferons）",
+        "images": []
+      },
+      {
+        "text": "D 淋巴球（lymphocytes）和干擾素",
+        "images": []
+      },
+      {
+        "text": "E 肥大細胞（mast cells）和組織胺（histamines）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 何種抗體未能與①～⑨之描述吻合？①促進細菌凝集、溶解②存在於體液中的主要抗體形式，是次級免疫反應（secondary immune response）中分泌的抗體③存在於血清和體外分泌物中的主要抗體形式④促進組織胺和其他攻擊病原因子（pathogens）釋放的主要抗體⑤新生兒從母乳中獲得⑥能引起第I型過敏反應⑦在血清中含量最高⑧唯一能通過胎盤⑨在免疫反應過程中最早合成的",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A IgE",
+        "images": []
+      },
+      {
+        "text": "B IgG",
+        "images": []
+      },
+      {
+        "text": "C IgM",
+        "images": []
+      },
+      {
+        "text": "D IgD",
+        "images": []
+      },
+      {
+        "text": "E IgA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 有關病毒躲避毒殺型T細胞（cytotoxic T cell, CTL）攻擊的機制，下列何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 不讓受感染細胞表現自己的病毒抗原",
+        "images": []
+      },
+      {
+        "text": "B 模擬內質網中護衛蛋白質（invariant chain）的作用",
+        "images": []
+      },
+      {
+        "text": "C 抑制內質網膜上TAP（transporter associated with antigen processing）蛋白質的作用",
+        "images": []
+      },
+      {
+        "text": "D 抑制組織相容蛋白質I（major histocompatibility complex I, MHC I）的表現",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. Which of the following is not true about helper T cells?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A They function in both cell-mediated and humoral immune responses.",
+        "images": []
+      },
+      {
+        "text": "B They bear surface CD4 molecules.",
+        "images": []
+      },
+      {
+        "text": "C They recognize polysaccharide fragments presented by infected cells.",
+        "images": []
+      },
+      {
+        "text": "D They are subject to infection by HIV.",
+        "images": []
+      },
+      {
+        "text": "E When activated, they secrete cytokines that stimulate other lymphocytes.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何者是HIV病毒主要感染的免疫細胞？甲：毒殺T細胞（cytotoxic T cells）乙：天然殺手細胞（natural killer cells）丙：輔助Th1細胞（helper Th1 cells）丁：輔助Th2細胞（helper Th2 cells）戊：記憶細胞（memory cells）己：樹突細胞（dendritic cells）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甲乙",
+        "images": []
+      },
+      {
+        "text": "B 乙丙",
+        "images": []
+      },
+      {
+        "text": "C 丙丁",
+        "images": []
+      },
+      {
+        "text": "D 丁戊",
+        "images": []
+      },
+      {
+        "text": "E 戊己",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 病毒感染宿主的範圍主要決定於：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病毒為DNA或RNA病毒",
+        "images": []
+      },
+      {
+        "text": "B 宿主細胞表面的蛋白受器",
+        "images": []
+      },
+      {
+        "text": "C 病毒感染細胞前產生的酵素",
+        "images": []
+      },
+      {
+        "text": "D 宿主細胞質內的蛋白",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 有關免疫機制的論述，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 個體對病原微生物的防禦能力",
+        "images": []
+      },
+      {
+        "text": "B 個體抗傳染的過程",
+        "images": []
+      },
+      {
+        "text": "C 個體識別和排除抗原性異物的功能",
+        "images": []
+      },
+      {
+        "text": "D 個體清除消滅自體突變細胞的功能",
+        "images": []
+      },
+      {
+        "text": "E 個體清除自身衰老、死亡細胞的功能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 一病人有大量肥大細胞去顆粒化、血管擴張及血壓急降的狀況，此病人可能正遭受：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 器官移植",
+        "images": []
+      },
+      {
+        "text": "B 過敏性休克",
+        "images": []
+      },
+      {
+        "text": "C 自體免疫疾病",
+        "images": []
+      },
+      {
+        "text": "D 典型過敏反應、並應給予抗組織胺治療",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 抗原決定位（epitope）之描述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它會與抗體輕鏈的變異區結合",
+        "images": []
+      },
+      {
+        "text": "B 一個蛋白質抗原可能包含不只一個抗原決定位",
+        "images": []
+      },
+      {
+        "text": "C 它會與抗體重鏈的變異區結合",
+        "images": []
+      },
+      {
+        "text": "D 以一個具感染力病毒顆粒而言，大部分的抗原決定位分布於顆粒的內部而非表面",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. Which of the following statements about skeleton is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Nematodes use hydrostatic skeleton to move.",
+        "images": []
+      },
+      {
+        "text": "B The exoskeletons of insect contain chitin.",
+        "images": []
+      },
+      {
+        "text": "C The osteoblasts are bone-building cells.",
+        "images": []
+      },
+      {
+        "text": "D The osteoclasts are bone-resorbing cells.",
+        "images": []
+      },
+      {
+        "text": "E The joint between the head of ulna and the humerus is a pivot joint.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 有關T helper cell之敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 只對細胞免疫有影響，而對體液免疫無顯著作用",
+        "images": []
+      },
+      {
+        "text": "B 透過MHC class II分子呈現胜肽片段，進而活化它",
+        "images": []
+      },
+      {
+        "text": "C 它具有CD4及趨化激素受體（chemokine receptor）",
+        "images": []
+      },
+      {
+        "text": "D 它易受HIV病毒感染",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. A nitrogen-containing carbohydrate is ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A chitin",
+        "images": []
+      },
+      {
+        "text": "B glucose",
+        "images": []
+      },
+      {
+        "text": "C starch",
+        "images": []
+      },
+      {
+        "text": "D cellulose",
+        "images": []
+      },
+      {
+        "text": "E glycogen",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. What causes a differentiating B cell to become committed to producing only one species of antibody molecule?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA rearrangements in the genome",
+        "images": []
+      },
+      {
+        "text": "B RNA rearrangements in the genome",
+        "images": []
+      },
+      {
+        "text": "C protein rearrangements in the genome",
+        "images": []
+      },
+      {
+        "text": "D DNA rearrangements in the mitochondria",
+        "images": []
+      },
+      {
+        "text": "E RNA rearrangements in the mitochondria",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. Which of these statements about a secondary immune response is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Antibodies of the IgE class are produced.",
+        "images": []
+      },
+      {
+        "text": "B Antibodies are made quickly and in great amounts.",
+        "images": []
+      },
+      {
+        "text": "C Antibody production lasts longer than in a primary response.",
+        "images": []
+      },
+      {
+        "text": "D Lymphocyte clones are believed to develop.",
+        "images": []
+      },
+      {
+        "text": "E It provides active immunity against the specific pathogens.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 甲～戊為外來抗原入侵人體而引起之初次體液性免疫反應（primary humoral immunity）的階段：甲、活化B細胞乙、活化輔助T細胞丙、漿細胞分化與增殖丁、分泌抗體戊、第二型主要組織相容複體（MHCclass II）結合並呈現抗原下列何者為正確的順序？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 戊乙甲丙丁",
+        "images": []
+      },
+      {
+        "text": "B 丁戊乙甲丙",
+        "images": []
+      },
+      {
+        "text": "C 戊甲乙丙丁",
+        "images": []
+      },
+      {
+        "text": "D 丁戊丙甲乙",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 重症肌無力（myasthenia gravis）是自體免疫的疾病，會引致肌肉顫動、軟弱及容易疲勞。下列何者是最合理的治療方式?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加移入肌漿網（sarcoplasmic reticulum）內的鈣離子量",
+        "images": []
+      },
+      {
+        "text": "B 增加乙醯膽鹼受體（acetylcholine receptor）的數目",
+        "images": []
+      },
+      {
+        "text": "C 增加運動神經元的髓鞘（myelin）量",
+        "images": []
+      },
+      {
+        "text": "D 增加骨骼肌細胞質中ATP的合成與活性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 在長期工作壓力下________會釋放，而造成免疫功能低下。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 糖皮質激素（glucocorticoid）",
+        "images": []
+      },
+      {
+        "text": "B 鹽皮質激素（mineralocorticoid）",
+        "images": []
+      },
+      {
+        "text": "C 升糖素（glucagon）",
+        "images": []
+      },
+      {
+        "text": "D 褪黑激素（melatonin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 動物細胞膜醣蛋白及醣脂質上面的醣類，下列何者最符合其功能的敍述？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 維持細胞膜的流動性",
+        "images": []
+      },
+      {
+        "text": "B 維持細胞膜的完整性",
+        "images": []
+      },
+      {
+        "text": "C 活化分子的通透性",
+        "images": []
+      },
+      {
+        "text": "D 媒介細胞與細胞間的辨識作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 研究顯示有少部分的人不會被HIV（human immunodeficiency virus）病毒感染，目前已知這些人的分子上有缺失，而使得病毒不會感染個體細胞。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A CD4",
+        "images": []
+      },
+      {
+        "text": "B CD8",
+        "images": []
+      },
+      {
+        "text": "C CCR5",
+        "images": []
+      },
+      {
+        "text": "D CXCL8",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 請問抗體利用下列何者與抗原結合？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 輕鏈（light chain）",
+        "images": []
+      },
+      {
+        "text": "B 重鏈（heavy chain）",
+        "images": []
+      },
+      {
+        "text": "C 高度變異區（hypervariable region）",
+        "images": []
+      },
+      {
+        "text": "D 醣蛋白區（glycoprotein region）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 下列何種細胞激素（cytokine）抑制病毒複製的效果最佳？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 介白素-1（IL-1）",
+        "images": []
+      },
+      {
+        "text": "B 介白素-2（IL-2）",
+        "images": []
+      },
+      {
+        "text": "C 干擾素-α（IFN-α）",
+        "images": []
+      },
+      {
+        "text": "D 腫瘤壞死因子-α（TNF-α）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 請問眼睛及呼吸道為透過下列何者保護以避免感染？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 免疫細胞產生的干擾素（interferon）",
+        "images": []
+      },
+      {
+        "text": "B 釋出的補體蛋白（complement protein）",
+        "images": []
+      },
+      {
+        "text": "C 微鹼性的分泌液（alkaline secretion）",
+        "images": []
+      },
+      {
+        "text": "D 分泌溶菌酶（lysozyme）在其表面",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列有關人體免疫系統的敘述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 漿細胞（plasma cells）能產生專一性抗體",
+        "images": []
+      },
+      {
+        "text": "B 巨噬細胞（macrophages）可呈現抗原給輔助型T細胞（helper T cells）",
+        "images": []
+      },
+      {
+        "text": "C 激活後的輔助型T細胞（activated helper T cells），可釋放細胞激素（cytokines）",
+        "images": []
+      },
+      {
+        "text": "D 人類免疫缺乏病毒（human immunodeficiency virus）感染人類後，會透過辨識輔助型T細胞表面蛋白質CD8後，進而直接感染與攻擊輔助型T細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. Toll-like receptor (TLR)是哺乳類免疫系統中相當重要的受體，其主要功能是偵測外來病原的入侵，例如病毒的何種組成最可能引起TLR啟動訊息傳遞而活化免疫反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 醣蛋白",
+        "images": []
+      },
+      {
+        "text": "B 雙股RNA",
+        "images": []
+      },
+      {
+        "text": "C 脂多醣類",
+        "images": []
+      },
+      {
+        "text": "D 蛋白外殼（capsid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. The dengue virus fragments will be presented by virus-infected cells along with which of the following?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Toll receptor",
+        "images": []
+      },
+      {
+        "text": "B Complement",
+        "images": []
+      },
+      {
+        "text": "C Antibodies",
+        "images": []
+      },
+      {
+        "text": "D Class I MHC molecules",
+        "images": []
+      },
+      {
+        "text": "E Class II MHC molecules",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 致病原（pathogens）會發展特別的方式對抗或逃避免疫系統的攻擊，下列配對何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 第一型疱疹病毒－潛伏",
+        "images": []
+      },
+      {
+        "text": "B 布魯氏錐蟲－改變表面抗原（antigenic variation）",
+        "images": []
+      },
+      {
+        "text": "C 愛滋病毒－殺死CD4 T cell",
+        "images": []
+      },
+      {
+        "text": "D 肺結核分枝桿菌－分泌毒素殺死毒殺T細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列關於自然殺手細胞（natural killer cells）活化的敍述何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 自然殺手細胞的活性是由其表面的活化型與抑制型受體共同調節",
+        "images": []
+      },
+      {
+        "text": "B 自然殺手細胞的抑制型受體會與第二型主要組織相容分子（MHC-II）結合",
+        "images": []
+      },
+      {
+        "text": "C 自然殺手細胞的活化型受體會與病毒誘導出的細胞表面配體結合",
+        "images": []
+      },
+      {
+        "text": "D 抗體IgG也可經由結合自然殺手細胞表面的IgG Fc受體來活化自然殺手細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 下列何種Toll-like receptors (TLRs)位於細胞內涵體（endosome），可用來察覺病毒入侵並傳遞訊號？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A TLR2",
+        "images": []
+      },
+      {
+        "text": "B TLR3",
+        "images": []
+      },
+      {
+        "text": "C TLR4",
+        "images": []
+      },
+      {
+        "text": "D TLR5",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

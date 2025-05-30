@@ -1,0 +1,1484 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 科學家發現微小的RNA 分子（miRNA）在調節基因表現方面扮演重要角色。下列對於這些RNA 分子的作用機制及其應用的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A miRNA 可與互補的RNA 序列結合並抑制其轉錄（轉譯）",
+        "images": []
+      },
+      {
+        "text": "B miRNA 是一段長約20 個鹼基對（base pairs）的雙股RNA",
+        "images": []
+      },
+      {
+        "text": "C RNA 干擾技術（RNA interference, RNAi）在癌症治療的潛在應用上主要作用對象是抑癌基因（tumor suppressor genes）",
+        "images": []
+      },
+      {
+        "text": "D 第一個miRNA 序列是在線蟲（C. elegans）發現的",
+        "images": []
+      },
+      {
+        "text": "E miRNA 本身具有酵素活性，可將其目標RNA 降解",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 有關細胞凋亡（apoptosis）的敘述，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 過程中細胞膜仍維持完整，但核DNA開始片段化（DNA fragment）",
+        "images": []
+      },
+      {
+        "text": "B 過程中引起發炎（inflammation）反應",
+        "images": []
+      },
+      {
+        "text": "C 過程中活化細胞酵素如caspases",
+        "images": []
+      },
+      {
+        "text": "D 屬於一種細胞訊息傳導路徑",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列何者為微型RNA （microRNA, miRNA）與小干擾RNA（small interfering RNA, siRNA）之主要區別？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A miRNA不參與RNA干擾作用，siRNA參與",
+        "images": []
+      },
+      {
+        "text": "B miRNA為單股結構，siRNA 為雙股結構",
+        "images": []
+      },
+      {
+        "text": "C miRNA源自於基因體，siRNA為外源性",
+        "images": []
+      },
+      {
+        "text": "D miRNA是由其前驅物經由Dicer酵素切割產生，siRNA是由核酸內切酶",
+        "images": []
+      },
+      {
+        "text": "E （endonuclease）切割產生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which of the following is NOT a characteristic of microRNAs?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A MicroRNAs are found in eukaryotes including animals and plants.",
+        "images": []
+      },
+      {
+        "text": "B MicroRNAs regulate gene expression by degradation ofspecificmRNAs.",
+        "images": []
+      },
+      {
+        "text": "C MicroRNAs regulate gene expression by translational inhibition ofspecificmRNAs.",
+        "images": []
+      },
+      {
+        "text": "D MicroRNAs usually act as negative regulator of gene expression.",
+        "images": []
+      },
+      {
+        "text": "E MicroRNAs can function when they are short double-stranded RNA.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Proto-oncogenes can change into oncogenes that cause cancer, which one can best explain the characteristic of proto-oncogenes?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A p53 gene and ras gene belong to one of proto-oncogenes.",
+        "images": []
+      },
+      {
+        "text": "B Pro-oncogenes are the normal cellular genes.",
+        "images": []
+      },
+      {
+        "text": "C Cells produce proto-oncogenes as they age.",
+        "images": []
+      },
+      {
+        "text": "D All of the above.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. A researcher found a method she could use to manipulate and quantify phosphorylation and methylation in embryonic cells in culture. One of her colleagues suggested she try increased methylation of C nucleotides in a mammalian system. Which of the following results would she most likely see?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A increased chromatin condensation",
+        "images": []
+      },
+      {
+        "text": "B decreased chromatin concentration",
+        "images": []
+      },
+      {
+        "text": "C abnormalities of mouse embryos",
+        "images": []
+      },
+      {
+        "text": "D decreased binding of transcription factors",
+        "images": []
+      },
+      {
+        "text": "E inactivation of the selected genes",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 某些膀胱癌患者身上帶有Ras基因的突變，導致細胞不正常分裂，其最有可能的原因是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ras蛋白無法被活化",
+        "images": []
+      },
+      {
+        "text": "B Ras蛋白無法結合到GTP",
+        "images": []
+      },
+      {
+        "text": "C Ras蛋白無法水解GTP",
+        "images": []
+      },
+      {
+        "text": "D Ras蛋白無法水解GDP",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 在自噬作用（autophagy）開始時，訊號分子Beclin 1蛋白會和下列何種蛋白結合，阻止細胞凋亡（apoptosis）的啟動？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Bcl-2",
+        "images": []
+      },
+      {
+        "text": "B Bax",
+        "images": []
+      },
+      {
+        "text": "C Bid",
+        "images": []
+      },
+      {
+        "text": "D Bad",
+        "images": []
+      },
+      {
+        "text": "E Bak",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列對基因表現（gene expression）調節的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 決定基因表現的關鍵步驟主要為由RNA 聚合酶負責的基因轉錄",
+        "images": []
+      },
+      {
+        "text": "B 真核生物和原核生物都可由一個啟動子控制多個基因的轉錄",
+        "images": []
+      },
+      {
+        "text": "C 某些基因可經由不同的mRNA 修剪（Splicing）的方式，使一個基因轉譯出多於一種的肽鏈",
+        "images": []
+      },
+      {
+        "text": "D miRNA 可以與目標mRNA 互補結合，導致目標mRNA 被分解或無法繼續進行轉譯",
+        "images": []
+      },
+      {
+        "text": "E 真核生物DNA 甲基化可調控基因表現",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. Which genes should be turned on first to determinate the body axis during embryogenesis of Drosophila?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Pair rule genes",
+        "images": []
+      },
+      {
+        "text": "B Segmentation genes",
+        "images": []
+      },
+      {
+        "text": "C Segmentation polarity genes",
+        "images": []
+      },
+      {
+        "text": "D Maternal effect genes",
+        "images": []
+      },
+      {
+        "text": "E Homeotic genes",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. A mutation that inactivates the regulatory gene of a repressible operon in an E.coli cell would result in",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A complete inhibition of transcription of the structural gene controlled by that regulator.",
+        "images": []
+      },
+      {
+        "text": "B continuous transcription of the structural gene controlled by that regulator.",
+        "images": []
+      },
+      {
+        "text": "C irreversible binding of the repressor to the operator.",
+        "images": []
+      },
+      {
+        "text": "D inactivation of RNA polymerase by alteration of its active site.",
+        "images": []
+      },
+      {
+        "text": "E continuous translation of the mRNA because of alteration of its structure.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. Which of the following statements concerning regulation of eukaryotic gene expression is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA methylation can activate or inactivate gene expression.",
+        "images": []
+      },
+      {
+        "text": "B Acetylation of histone tails promotes condensation of the chromatin.",
+        "images": []
+      },
+      {
+        "text": "C Enhancers are segments of DNA that may be within an intron.",
+        "images": []
+      },
+      {
+        "text": "D Unlike operons in E. coli, dispersed genes can be coordinately controlled by transcription activators or repressors in eukaryotes.",
+        "images": []
+      },
+      {
+        "text": "E Alternative RNA splicing can produce different mRNA molecules from the same primary transcript.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列何者最能說明表徵遺傳（epigenetic inheritance）的特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 表徵遺傳與狂牛症有關",
+        "images": []
+      },
+      {
+        "text": "B 具表徵遺傳的細胞通常比其他細胞有更多的突變",
+        "images": []
+      },
+      {
+        "text": "C 表徵遺傳只發生在哺乳動物",
+        "images": []
+      },
+      {
+        "text": "D 具有相同基因序列卻有不同性徵的兩個細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 請問肌肉細胞與神經細胞之間最大的不同點在於？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 表現不同的基因",
+        "images": []
+      },
+      {
+        "text": "B 含有不同的基因",
+        "images": []
+      },
+      {
+        "text": "C 利用不同的遺傳密碼（genetic code）",
+        "images": []
+      },
+      {
+        "text": "D 有獨特的核醣體（ribosome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Attaching the activation domain of Gal4 to the Tet (tetracycline) repressor creates a hybrid protein that will",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A bind to the Gal4 binding site in response to galactose.",
+        "images": []
+      },
+      {
+        "text": "B bind to the Gal4 binding site in response to tetracycline.",
+        "images": []
+      },
+      {
+        "text": "C bind to the tet operator in response to tetracycline.",
+        "images": []
+      },
+      {
+        "text": "D bind to the tet operator in response to galactose.",
+        "images": []
+      },
+      {
+        "text": "E all of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 泛素（ubiquitin）屬於一種蛋白質輔因子（cofactor），主要參與下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 訊息RNA轉錄本（mRNA transcript）的降解作用",
+        "images": []
+      },
+      {
+        "text": "B 訊息RNA前體分子的差異性剪接（differential splicing）",
+        "images": []
+      },
+      {
+        "text": "C 細胞骨架的建構",
+        "images": []
+      },
+      {
+        "text": "D 成熟的訊息RNA在細胞質中選擇性運輸作用（selective transport）",
+        "images": []
+      },
+      {
+        "text": "E 蛋白質的降解作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 細胞凋亡（Apoptosis）為細胞有計劃性的死亡（programmed cell death），下列何項不是它的特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞凋亡是正常發育過程不可或缺的作用",
+        "images": []
+      },
+      {
+        "text": "B 細胞凋亡時，染色質會濃集（chromatin condense），DNA斷裂",
+        "images": []
+      },
+      {
+        "text": "C 凋亡細胞最後會形成凋亡小體（apoptotic body）為週邊細胞所吸收",
+        "images": []
+      },
+      {
+        "text": "D 細胞凋亡可由活化一連串的Caspase酵素所誘導發生",
+        "images": []
+      },
+      {
+        "text": "E 細胞凋亡通常會引發發炎反應",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. Which of the following statements is true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A miRNAs are made from long dsRNAs, whereas siRNAs are made from large hairpin precursors.",
+        "images": []
+      },
+      {
+        "text": "B miRNAs are made from large hairpin precursors, whereas siRNAs are made from long dsRNAs.",
+        "images": []
+      },
+      {
+        "text": "C Both miRNAs and siRNAs are made from long dsRNAs.",
+        "images": []
+      },
+      {
+        "text": "D Both miRNAs and siRNAs are made from large hairpin precursors.",
+        "images": []
+      },
+      {
+        "text": "E none of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. In the lactose operon of E. coli, which one is the description of the product of the lacI gene?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Transcriptional activator protein",
+        "images": []
+      },
+      {
+        "text": "B β-Galactosidase",
+        "images": []
+      },
+      {
+        "text": "C Induces lac operon transcription",
+        "images": []
+      },
+      {
+        "text": "D Binds to the RNA polymerase",
+        "images": []
+      },
+      {
+        "text": "E Binds to the operator",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. Which of the following is NOT a post-translational modification?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Phosphorylation.",
+        "images": []
+      },
+      {
+        "text": "B Glycosylation.",
+        "images": []
+      },
+      {
+        "text": "C Acetylation.",
+        "images": []
+      },
+      {
+        "text": "D Methylation.",
+        "images": []
+      },
+      {
+        "text": "E Ubiquitination.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. Which of the following is NOT a feature of apoptosis?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A formation of apoptotic body",
+        "images": []
+      },
+      {
+        "text": "B DNA fragmentation",
+        "images": []
+      },
+      {
+        "text": "C cell swelling",
+        "images": []
+      },
+      {
+        "text": "D activation of caspases",
+        "images": []
+      },
+      {
+        "text": "E release of cytochrome C from mitochondria",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Which of the following best describes siRNA?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a short double-stranded RNA, one of whose strands can complement and inactivate a sequence of mRNA",
+        "images": []
+      },
+      {
+        "text": "B a single-stranded RNA that can, where it has internal complementary base pairs, fold into cloverleaf patterns",
+        "images": []
+      },
+      {
+        "text": "C a double-stranded RNA that is formed by cleavage of hairpin loops in a larger precursor",
+        "images": []
+      },
+      {
+        "text": "D a molecule, known as Dicer, that can degrade other mRNA sequences",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. Protooncogene 可能轉變成oncogene 引起癌症，下列對於protooncogene之敘述，何者最為恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Protooncogene 最早是從感染的病毒帶進細胞的",
+        "images": []
+      },
+      {
+        "text": "B Protooncogene正常的情況下可調控細胞分裂",
+        "images": []
+      },
+      {
+        "text": "C Protooncogene是正常基因突變後的版本",
+        "images": []
+      },
+      {
+        "text": "D 細胞老化過程中會製造protooncogene",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列有關細胞凋亡（apoptosis）的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 會出現染色質與細胞質的濃縮",
+        "images": []
+      },
+      {
+        "text": "B 能維持生物體細胞數目的恆定",
+        "images": []
+      },
+      {
+        "text": "C 凋亡的細胞會分泌毒素，引起發炎反應",
+        "images": []
+      },
+      {
+        "text": "D 凋亡後的殘體若不清除，可能會引起自體免疫反應",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. Which of the following statements about bacterial gene regulation is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Tryptophan binds to activate repressor of trp operon.",
+        "images": []
+      },
+      {
+        "text": "B Allolactose is an inducer of lac operon.",
+        "images": []
+      },
+      {
+        "text": "C The product of lac I is the repressor of lac operon.",
+        "images": []
+      },
+      {
+        "text": "D Inactive repressor turns the repressible operon off.",
+        "images": []
+      },
+      {
+        "text": "E Catabolite activator protein (CAP) is activated by cAMP in lac operon.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 下列有關細胞凋亡（apoptosis）的敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一定造成發炎反應",
+        "images": []
+      },
+      {
+        "text": "B 會發生DNA的斷裂",
+        "images": []
+      },
+      {
+        "text": "C 參與抗自體分子淋巴球的剔除",
+        "images": []
+      },
+      {
+        "text": "D 線蟲最主要的凋亡蛋白酶（caspase）是 Ced-3",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何項遺傳上的改變（genetic change）導致原致癌基因（proto-oncogene）轉變為致癌基因（oncogene）的可能性最小？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因抑制 （suppression）",
+        "images": []
+      },
+      {
+        "text": "B 基因易位 （translocation）",
+        "images": []
+      },
+      {
+        "text": "C 基因擴增 （amplification）",
+        "images": []
+      },
+      {
+        "text": "D 基因點突變 （point mutation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列何者專有名詞是用來解釋自體顯性遺傳之表現性徵差異程度？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Penetrance",
+        "images": []
+      },
+      {
+        "text": "B Variability",
+        "images": []
+      },
+      {
+        "text": "C Concordance",
+        "images": []
+      },
+      {
+        "text": "D Expressivity",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. Abnormal chromosomes are frequent in malignant tumors. Errors such as translocations may place a gene in close proximity to different control regions. Which of the following might then occur to make the cancer worse?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Sensitivity of the immune system",
+        "images": []
+      },
+      {
+        "text": "B An increase in non-disjunction",
+        "images": []
+      },
+      {
+        "text": "C Expression of inappropriate gene products",
+        "images": []
+      },
+      {
+        "text": "D A decrease in mitotic frequency",
+        "images": []
+      },
+      {
+        "text": "E Death of the cancer cells in the tumor",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. When DNA is compacted by histones into 10 nm and 30 nm fibers, the DNA is unable to interact with proteins required for gene expression. Therefore, to allow for these proteins to act, the chromatin must constantly alter its structure. Which processes contribute to this dynamic activity?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA supercoiling at or around H1",
+        "images": []
+      },
+      {
+        "text": "B methylation and phosphorylation of histone tails",
+        "images": []
+      },
+      {
+        "text": "C hydrolysis of DNA molecules where they are wrapped around the nucleosome core",
+        "images": []
+      },
+      {
+        "text": "D accessibility of heterochromatin to phosphorylating enzymes",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 細胞凋亡（apoptosis）不包含以下何種過程？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA 片段化（fragmentation）",
+        "images": []
+      },
+      {
+        "text": "B 細胞傳遞途徑（cell-signaling pathway）",
+        "images": []
+      },
+      {
+        "text": "C 活化細胞中的酵素",
+        "images": []
+      },
+      {
+        "text": "D 細胞的裂解（lysis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 人的手在胚胎發育的過程中原本有蹼，但出生時卻消失了，請問是何作用讓蹼消失？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞壞死",
+        "images": []
+      },
+      {
+        "text": "B 細胞凋亡",
+        "images": []
+      },
+      {
+        "text": "C 細胞自噬",
+        "images": []
+      },
+      {
+        "text": "D 細胞增生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. Which of the following can maintain gene expression from lac operon?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A High level of glucose from the breakdown of lactose",
+        "images": []
+      },
+      {
+        "text": "B Lactose must binds to the operator",
+        "images": []
+      },
+      {
+        "text": "C High level of cAMP in the presence of lactose",
+        "images": []
+      },
+      {
+        "text": "D Repressor must binds to operator",
+        "images": []
+      },
+      {
+        "text": "E Stop producing repressor",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. Which of the following occurs during apoptosis?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A release of proteases outside the cell",
+        "images": []
+      },
+      {
+        "text": "B lysis of the cell",
+        "images": []
+      },
+      {
+        "text": "C direct contact between signaling cells",
+        "images": []
+      },
+      {
+        "text": "D fragmentation of the DNA",
+        "images": []
+      },
+      {
+        "text": "E DNA replication",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. The role of a metabolite that controls a repressible operon is to",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A increase the production of inactive repressor proteins.",
+        "images": []
+      },
+      {
+        "text": "B bind to the repressor protein and activate it.",
+        "images": []
+      },
+      {
+        "text": "C bind to the repressor protein and inactivate it.",
+        "images": []
+      },
+      {
+        "text": "D bind to the operator region and block the attachment of RNA polymerase to the promoter.",
+        "images": []
+      },
+      {
+        "text": "E bind to the promoter region and decrease the affinity of RNA polymerase for the promoter.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. ①∼⑤為結腸細胞癌化過程中的事件：①癌細胞轉移、②致癌基因活化、③抑癌基因突變、④癌細胞增生、⑤新血管生成。下列何者為最合理之排序？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ③→②→⑤→④→①",
+        "images": []
+      },
+      {
+        "text": "B ⑤→④→③→②→①",
+        "images": []
+      },
+      {
+        "text": "C ②→⑤→③→④→①",
+        "images": []
+      },
+      {
+        "text": "D ②→③→④→⑤→①",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. Inheritance of phenotype sometimes does not directly involving the nucleotide is termed epigenetic inheritance.The epigenetic inheritance",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A only refers to genomic imprinting.",
+        "images": []
+      },
+      {
+        "text": "B only effects female offspring.",
+        "images": []
+      },
+      {
+        "text": "C only effects male offspring.",
+        "images": []
+      },
+      {
+        "text": "D only refers to X inactivation.",
+        "images": []
+      },
+      {
+        "text": "E can result in the expression of different alleles in different generations.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 細胞中執行細胞凋亡（apoptosis）主要的蛋白分解酶（proteases）為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A GTPase",
+        "images": []
+      },
+      {
+        "text": "B cyclins",
+        "images": []
+      },
+      {
+        "text": "C caspases",
+        "images": []
+      },
+      {
+        "text": "D phosphodiesterase",
+        "images": []
+      },
+      {
+        "text": "E lipase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 線蟲為生物學的模式生物之一，其於胚胎發育過程中原有1090個細胞，但在成體線蟲僅具有959個細胞。請問線蟲少掉的131 （1090-959）個細胞經歷何種過程？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞壞死（necrosis）",
+        "images": []
+      },
+      {
+        "text": "B 細胞衰老（aging）",
+        "images": []
+      },
+      {
+        "text": "C 細胞分化（differentiation）",
+        "images": []
+      },
+      {
+        "text": "D 細胞凋亡（apoptosis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 研究發現，DNA上有些特別樞紐，稱之為基因開關，這些序列不具合成蛋白質的訊息而是控制基因的表現，因此動物多樣化的外型主要肇因於：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因本身發生改變",
+        "images": []
+      },
+      {
+        "text": "B 控制基因的基因開關發生突變",
+        "images": []
+      },
+      {
+        "text": "C 基因開關失去作用",
+        "images": []
+      },
+      {
+        "text": "D 調節序列的突變，同時也是唯一的演化模式",
+        "images": []
+      },
+      {
+        "text": "E 在基因附近常可發現加強子（enhancer）之DNA序列，為基因開關之組件，但並非促成動物演化的關鍵",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. In E.coli, biosynthesis of tryptophan can be repressed. The repressor protein of the trp operon",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A is activated by the binding of tryptophan.",
+        "images": []
+      },
+      {
+        "text": "B is inactivated by the binding of tryptophan.",
+        "images": []
+      },
+      {
+        "text": "C is not affected by tryptophan.",
+        "images": []
+      },
+      {
+        "text": "D is activated by the binding of free tRNA.",
+        "images": []
+      },
+      {
+        "text": "E is only synthesized in the presence of tryptophan.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. If a Drosophila female has a homozygous mutation for a maternal effect gene,",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A only her male offspring will show the mutant phenotype.",
+        "images": []
+      },
+      {
+        "text": "B her offspring will show the mutant phenotype only if they are also homozygous for the mutation.",
+        "images": []
+      },
+      {
+        "text": "C all of her offspring will show the mutant phenotype, regardless of their genotype.",
+        "images": []
+      },
+      {
+        "text": "D only her female offspring will show the mutant phenotype.",
+        "images": []
+      },
+      {
+        "text": "E she will not develop past the early embryonic stage.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. The effect of 5-Azacytosine on gene expression is to",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A prevent chromatin remodeling.",
+        "images": []
+      },
+      {
+        "text": "B prevent RNA editing.",
+        "images": []
+      },
+      {
+        "text": "C remove DNA methylation.",
+        "images": []
+      },
+      {
+        "text": "D enhance DNA recombination.",
+        "images": []
+      },
+      {
+        "text": "E remove histone acetylation.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. Which of the following statements concerning “genomic imprinting” is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A It is an exception to standard Medelian inheritance.",
+        "images": []
+      },
+      {
+        "text": "B In many cases, methylation of cytosine involves in genomic imprint during embryo formation.",
+        "images": []
+      },
+      {
+        "text": "C A given allele will have different effect that depends on father or mother passed along the allele.",
+        "images": []
+      },
+      {
+        "text": "D Most of the known imprinted genes are critical for embryonic development in mammal.",
+        "images": []
+      },
+      {
+        "text": "E In heterozygous of normal and recessive mutant Igf2 gene, the dwarf phenotype can be seen.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 當一個基因之啟動子序列突變時，可能會造成下列那種後果？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 該基因之轉錄速率會改變",
+        "images": []
+      },
+      {
+        "text": "B 該基因之mRNA序列會改變",
+        "images": []
+      },
+      {
+        "text": "C 基因之mRNA無法被正確轉譯",
+        "images": []
+      },
+      {
+        "text": "D 該基因之pre-mRNA無法正確被剪接成mRNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 因DNA組蛋白複合物的改變而增加轉錄的活性，被稱為下列何種作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因調控",
+        "images": []
+      },
+      {
+        "text": "B 核小體的形成",
+        "images": []
+      },
+      {
+        "text": "C 染色質重塑",
+        "images": []
+      },
+      {
+        "text": "D DNA甲基化",
+        "images": []
+      },
+      {
+        "text": "E 誘導突變",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. Which of the following functional groups participate in chromatin-mediated gene expression?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A OH",
+        "images": []
+      },
+      {
+        "text": "B COOH",
+        "images": []
+      },
+      {
+        "text": "C CH3",
+        "images": []
+      },
+      {
+        "text": "D NH2",
+        "images": []
+      },
+      {
+        "text": "E CO",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 關於細胞轉錄後調控（post-transcriptional regulation）機制之敘述，下列何者較正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 此機制發生在細胞質",
+        "images": []
+      },
+      {
+        "text": "B RNA剪接（RNA splicing）屬於此機制之一種",
+        "images": []
+      },
+      {
+        "text": "C Pre-mRNA的外顯子（exons）會被裁除，並將內含子（introns）連接在一起",
+        "images": []
+      },
+      {
+        "text": "D Primary RNA的5’端會加上多腺核苷酸尾（poly-A tail）",
+        "images": []
+      },
+      {
+        "text": "E 原核生物與真核生物細胞均有此機制",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列有關RNA干擾（RNA interference）的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 反義（antisense）RNA主要是和tRNA  (transfer RNA)產生互補",
+        "images": []
+      },
+      {
+        "text": "B 反義RNA是一種鹼基對，主要是用來刺激轉譯的作用",
+        "images": []
+      },
+      {
+        "text": "C 使用短片干擾性RNA（short interfering RNA）可以用來壓抑基因的轉錄過程",
+        "images": []
+      },
+      {
+        "text": "D siRNA在細胞內會和DNA雜交，而產生雙股的DNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. Which of the following statements regarding epigenetics is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The study of inherited changes in genotype, especially in gene expression caused by the changes of DNA sequence.",
+        "images": []
+      },
+      {
+        "text": "B Specific epigenetic processes include imprinting, gene silencing, X chromosome inactivation, and position effect.",
+        "images": []
+      },
+      {
+        "text": "C Some regulation can be associated with microRNA.",
+        "images": []
+      },
+      {
+        "text": "D Some regulation can be associated with DNA methylation.",
+        "images": []
+      },
+      {
+        "text": "E Some regulation can be associated with histone modification",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  }
+]

@@ -1,0 +1,1455 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 酵素的非競爭型抑制劑（noncompetitive inhibitor）是如何作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 會直接結合到酵素的活化區，會改變酵素的構形",
+        "images": []
+      },
+      {
+        "text": "B 會直接結合到酵素的活化區，會促進酵素活性",
+        "images": []
+      },
+      {
+        "text": "C 不會直接結合到酵素的活化區，會改變酵素的構形",
+        "images": []
+      },
+      {
+        "text": "D 不會直接結合到酵素的活化區，會促進酵素活性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 關於構成細胞大分子物質之描述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在DNA序列5’–AAGACTCGAAA–3’中purines含量比pyrimidines多",
+        "images": []
+      },
+      {
+        "text": "B 葡萄糖、澱粉、及甲殼素（chitin）均為polymer",
+        "images": []
+      },
+      {
+        "text": "C 多胜肽（polypeptide）之合成係由多個胺基酸經水解反應作用而得",
+        "images": []
+      },
+      {
+        "text": "D 澱粉及纖維素由α-glucose單體鍵結形成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 葡萄糖分子之於澱粉，如同",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 固醇類之於脂質",
+        "images": []
+      },
+      {
+        "text": "B 核酸之於多胜肽",
+        "images": []
+      },
+      {
+        "text": "C 蛋白質之於胺基酸",
+        "images": []
+      },
+      {
+        "text": "D 核苷酸之於核酸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Based on the following 15 molecules, which of the following statements is NOT TRUE?",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/006.png"
+    ],
+    "options": [
+      {
+        "text": "A 11, 12, and 13 could be linked together to form a nucleotide.",
+        "images": []
+      },
+      {
+        "text": "B 5 is an important component of plasma membrane.",
+        "images": []
+      },
+      {
+        "text": "C 2, 7, and 8 are molecules act as building blocks (monomers) of polypeptides.",
+        "images": []
+      },
+      {
+        "text": "D 3 molecules of 9 and 1 molecule of 10 could be joined together to form a fat.",
+        "images": []
+      },
+      {
+        "text": "E 11 and 13 could be joined together by a phosphodiester type of covalent bond.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 有關酵素之調控作用的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 酵素活性區（active site）是酵素表面與受質反應之區域",
+        "images": []
+      },
+      {
+        "text": "B 酵素活性區迎合受質發生形狀改變，以增進和受質結合稱之為誘導配合（induced fit）",
+        "images": []
+      },
+      {
+        "text": "C 異位酵素（allosteric enzyme）的酵素異位調控區可以讓訊號分子結合，進而促進或抑制酵素活性區的作用",
+        "images": []
+      },
+      {
+        "text": "D 回饋抑制（feedback inhibition）作用是因為產物與反應物必需競爭同一酵素的活性區",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. The rate of an enzyme catalyzed reaction:1. can be determined by measuring the increase in product concentration with respect to time.2. is usually dependent on temperature and pH.3. at saturating substrate concentrations, becomes zero-order with respect to substrate.4. is independent of the enzyme concentration.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1",
+        "images": []
+      },
+      {
+        "text": "B 1 and 3.",
+        "images": []
+      },
+      {
+        "text": "C 2 and 4.",
+        "images": []
+      },
+      {
+        "text": "D 1, 2 and 3.",
+        "images": []
+      },
+      {
+        "text": "E All of them.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 關於酵素之敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人類胰蛋白酶（trypsin）最適合的作用pH值約為8.0",
+        "images": []
+      },
+      {
+        "text": "B 人類胃蛋白酶（pepsin）最適合的作用pH值約為2.0",
+        "images": []
+      },
+      {
+        "text": "C 雌激素（estrogen）是一種蛋白質酵素，由卵巢分泌生成",
+        "images": []
+      },
+      {
+        "text": "D 木瓜酵素（papain）為植物酵素，存在於木瓜中，可以分解蛋白質",
+        "images": []
+      },
+      {
+        "text": "E 不同酵素對溫度的耐受性不同，有的酵素可在80°C高溫中作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 蛋白質生合成後會自我摺疊出α螺旋（αhelix）和β摺板（βpleated sheet）結構，此類結構主要由下面哪一項形成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 離子鍵結",
+        "images": []
+      },
+      {
+        "text": "B 非極性共價鍵",
+        "images": []
+      },
+      {
+        "text": "C 氫鍵",
+        "images": []
+      },
+      {
+        "text": "D 凡得瓦力",
+        "images": []
+      },
+      {
+        "text": "E 極性共價鍵",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 幾丁質（chitin）是昆蟲外骨骼主要的結構多醣體，它是由下列何者聚合而成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 半乳糖胺（galactosamine）",
+        "images": []
+      },
+      {
+        "text": "B N-乙醯半乳糖胺（N-acetylgalactosamine）",
+        "images": []
+      },
+      {
+        "text": "C 葡萄糖胺（glucosamine）",
+        "images": []
+      },
+      {
+        "text": "D N-乙醯葡萄糖胺（N-acetylglucosamine）",
+        "images": []
+      },
+      {
+        "text": "E 半乳糖胺（galactosamine）及葡萄糖胺（glucosamine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 蛋白質的二級結構包含α螺旋（αhelix）和β摺板（βsheet）結構，此類結構主要由下列哪一項鍵結力形成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氫鍵",
+        "images": []
+      },
+      {
+        "text": "B 凡得瓦力",
+        "images": []
+      },
+      {
+        "text": "C 離子鍵結",
+        "images": []
+      },
+      {
+        "text": "D 極性共價鍵",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. Which of the following statements about feedback inhibition in metabolic pathways is most correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The product of the pathway inhibits its own production by competitively binding to reactants in the metabolic pathway.",
+        "images": []
+      },
+      {
+        "text": "B The product of the pathway inhibits its own production by noncompetitively binding to reactants in the metabolic pathway.",
+        "images": []
+      },
+      {
+        "text": "C The product of the pathway inhibits its own production by competitively inhibiting the binding of a substrate to the active site of an enzyme within the metabolic pathway.",
+        "images": []
+      },
+      {
+        "text": "D The product of the pathway inhibits its own production by noncompetitively inhibiting the binding of a substrate to the active site of an enzyme within the metabolic pathway.",
+        "images": []
+      },
+      {
+        "text": "E All of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 在血紅素分子的四個鐵原子皆帶氧的情況下，當其中一個氧分子被釋出，其他三個血紅素次單元也會加速把氧分子釋出。為什麼會有這個現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氧氣濃度提升對血紅素分子造成正迴饋控制（positive feedback）",
+        "images": []
+      },
+      {
+        "text": "B 氧氣釋出使環境 pH 值下降，因波爾移轉效應（Bohr shift）使血紅素和氧分子的親合力降低",
+        "images": []
+      },
+      {
+        "text": "C 血紅素的四個次單元間彼此有異位調控（allosteric regulation）的關係，當其中一個單元因釋出氧而使結構發生形變時，其他三個單元也會跟著改變",
+        "images": []
+      },
+      {
+        "text": "D 氧分子釋出使代謝速率加快，因此使體溫升高，促使分子亂度增大，血紅素不易和氧結合",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. DNA是去氧核醣核酸成份的聚合大分子，分析一DNA分子含有200個嘌呤和200個嘧啶的含氮鹼基，推測此DNA分子所含有的磷酸雙酯鍵（phosphodiester bond）數目，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 199",
+        "images": []
+      },
+      {
+        "text": "B 200",
+        "images": []
+      },
+      {
+        "text": "C 398",
+        "images": []
+      },
+      {
+        "text": "D 400",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 炎炎夏日中，最適合跳入游泳池中，當你從泳池中爬起來時，皮膚上仍留有水分子是因為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黏著力（adhesion）",
+        "images": []
+      },
+      {
+        "text": "B 凝聚力（cohesion）",
+        "images": []
+      },
+      {
+        "text": "C 水是很好的溶劑（solvent）",
+        "images": []
+      },
+      {
+        "text": "D 水分子蒸發（evaporate）",
+        "images": []
+      },
+      {
+        "text": "E 水分子被吸收",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 非競爭型抑制劑以何種方式來抑制受質（substrate）與酵素結合？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 與受質結合",
+        "images": []
+      },
+      {
+        "text": "B 降低反應活化能（activation energy）",
+        "images": []
+      },
+      {
+        "text": "C 增加反應的自由能差（△G）",
+        "images": []
+      },
+      {
+        "text": "D 改變活性區（active site）的形狀",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Which is a functional group that helps stabilize proteins by forming covalent crosslinks within or between protein molecules?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A amino group",
+        "images": []
+      },
+      {
+        "text": "B carboxyl group",
+        "images": []
+      },
+      {
+        "text": "C sulfhydryl group",
+        "images": []
+      },
+      {
+        "text": "D carbonyl group",
+        "images": []
+      },
+      {
+        "text": "E phosphate group",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 動物細胞膜之膜蛋白α-螺旋（α-helix）的二級結構最主要位於下列何種細胞區域？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞膜親水性區（hydrophilic region）",
+        "images": []
+      },
+      {
+        "text": "B 細胞膜疏水性區（hydrophobic region）",
+        "images": []
+      },
+      {
+        "text": "C 細胞外區（extracellular region）",
+        "images": []
+      },
+      {
+        "text": "D 細胞質區（cytoplasmic region）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 關於蛋白質結構，下列何者是錯的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛋白質中有兩種常見的二級構造，α螺旋（alpha helix）和β平板（beta sheet）",
+        "images": []
+      },
+      {
+        "text": "B 三級結構（tertiary structure）相較於二級結構更進一步的摺疊，給予單一的多胜肽鏈一個3-D的結構",
+        "images": []
+      },
+      {
+        "text": "C 蛋白質摺疊而成的二級結構僅由離子鍵所決定",
+        "images": []
+      },
+      {
+        "text": "D 20種主要的胺基酸被用來組成蛋白質",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. A covalent chemical bond is one in which",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A electrons are removed from one atom and transferred to another atom so that the two atoms become oppositely charged.",
+        "images": []
+      },
+      {
+        "text": "B protons and neutrons are shared by two atoms so as to satisfy the requirements of both atoms.",
+        "images": []
+      },
+      {
+        "text": "C the inner-shell electrons of one atom are transferred to the outer shell of another atom.",
+        "images": []
+      },
+      {
+        "text": "D outer-shell electrons of one atom are transferred to the inner electron shells of another atom.",
+        "images": []
+      },
+      {
+        "text": "E outer-shell electrons of two atoms are shared so as to satisfactorily fill the outer electron shells of both atoms.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 人體細胞中巨分子的組成元素以何者為最多？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A C和H",
+        "images": []
+      },
+      {
+        "text": "B O和N",
+        "images": []
+      },
+      {
+        "text": "C Ca和K",
+        "images": []
+      },
+      {
+        "text": "D P和S",
+        "images": []
+      },
+      {
+        "text": "E Mn和Na",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. Which of the following is one of the ways that the membranes of winter wheat are able to remain fluid when it is extremely cold?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A by increasing the percentage of cholesterol molecules in the membrane.",
+        "images": []
+      },
+      {
+        "text": "B by co-transport of glucose and hydrogen.",
+        "images": []
+      },
+      {
+        "text": "C by decreasing the number of hydrophobic proteins in the membrane.",
+        "images": []
+      },
+      {
+        "text": "D by increasing the percentage of saturated phospholipids in the membrane.",
+        "images": []
+      },
+      {
+        "text": "E by increasing the percentage of unsaturated phospholipids in the membrane.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 在訊息傳遞過程中蛋白質的磷酸化（phosphorylation）很重要，下列何種胺基酸可以被磷酸化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 酪胺酸（tyrosine）",
+        "images": []
+      },
+      {
+        "text": "B 甘胺酸（glycine）",
+        "images": []
+      },
+      {
+        "text": "C 丙胺酸（alanine）",
+        "images": []
+      },
+      {
+        "text": "D 脯胺酸（proline）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. If the amount of enzyme in a reaction with an initial △G of -5 kcal/mole was doubled, what would the △G be?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A -2.5 kcal/mole",
+        "images": []
+      },
+      {
+        "text": "B -5 kcal/mole",
+        "images": []
+      },
+      {
+        "text": "C -10 kcal/mole",
+        "images": []
+      },
+      {
+        "text": "D +5 kcal/mole",
+        "images": []
+      },
+      {
+        "text": "E +10 kcal/mole",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 非競爭性的抑制劑（non-competitive inhibitor）如何降低酵素反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 結合到酵素的反應活性部位（the active site of enzyme）",
+        "images": []
+      },
+      {
+        "text": "B 改變酵素的形狀（shape）",
+        "images": []
+      },
+      {
+        "text": "C 改變反應自由能（free energy）",
+        "images": []
+      },
+      {
+        "text": "D 扮演反應的輔酶",
+        "images": []
+      },
+      {
+        "text": "E 降低反應的活化能（activation energy）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. The enzyme amylase can break glycosidic linkages between glucose monomers only if the monomers are in theαform. Which of the following could amylase break down?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A glycogen, starch, and amylopectin",
+        "images": []
+      },
+      {
+        "text": "B glycogen and cellulose",
+        "images": []
+      },
+      {
+        "text": "C cellulose and chitin",
+        "images": []
+      },
+      {
+        "text": "D starch and chitin",
+        "images": []
+      },
+      {
+        "text": "E starch, amylopectin, and cellulose",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 葡萄糖對澱粉相當於下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 類固醇對脂質",
+        "images": []
+      },
+      {
+        "text": "B 蛋白質對氨基酸",
+        "images": []
+      },
+      {
+        "text": "C 核苷酸對核酸",
+        "images": []
+      },
+      {
+        "text": "D 胺基酸對核酸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. Which of the following descriptions about “regulating of enzyme activity in metabolism” is INCORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Allosteric regulation is the term used to describe any case in which a protein’s function at one site is affected by the binding of a regulatory molecule to a separate site.",
+        "images": []
+      },
+      {
+        "text": "B An activating or inhibiting regulatory molecule binds to a regulatory site that is the simplest kind of allosteric regulation.",
+        "images": []
+      },
+      {
+        "text": "C Feedback inhibition is a common mode of metabolic control.",
+        "images": []
+      },
+      {
+        "text": "D Cooperativity is a type of enzyme activation, not including inhibition.",
+        "images": []
+      },
+      {
+        "text": "E Cooperativity is the binding of one substrate molecule that can stimulate binding or activity at other active sites.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列有關釋能反應（Exergonic reaction）的描述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 產物（Products）的總能量比反應物（Reactants）低",
+        "images": []
+      },
+      {
+        "text": "B △G為正值",
+        "images": []
+      },
+      {
+        "text": "C 需要由外界環境得到能量以使反應能夠進行",
+        "images": []
+      },
+      {
+        "text": "D 產物的總能量比反應物高",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 酶的競爭性抑制劑（competitive inhibitor）與非競爭性抑制劑（noncompetitive inhibitor）對於抑制酶的催化（enzyme-catalyzed）反應有何不同？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 競爭性抑制劑干擾酶；非競爭性抑制劑干預受質",
+        "images": []
+      },
+      {
+        "text": "B 競爭性抑制劑與酶結合是可逆性；非競爭性抑制劑與酶結合是不可逆的",
+        "images": []
+      },
+      {
+        "text": "C 競爭性抑制劑改變酶的三級結構；非競爭性抑制劑導致多肽亞基（polypeptide subunit）分解",
+        "images": []
+      },
+      {
+        "text": "D 競爭性抑制劑結合到酶的活性部位；非競爭性抑制劑結合到酶的其他部位",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 食品包裝上如有標示“不溶性纖維”，最可能是下列那一種物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A protein",
+        "images": []
+      },
+      {
+        "text": "B cellulose",
+        "images": []
+      },
+      {
+        "text": "C starch",
+        "images": []
+      },
+      {
+        "text": "D DNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 若一生物體中的DNA樣本有22%的腺嘌呤（adenine），試問其核苷酸中鳥糞嘌呤（guanine）的百分比為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 12",
+        "images": []
+      },
+      {
+        "text": "B 24",
+        "images": []
+      },
+      {
+        "text": "C 26",
+        "images": []
+      },
+      {
+        "text": "D 28",
+        "images": []
+      },
+      {
+        "text": "E 資料不足，無法決定",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列有關生物化學的描述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在DNA上所發現的四種核苷酸鹼基與RNA上所發現的鹼基相同",
+        "images": []
+      },
+      {
+        "text": "B 一般而言蛋白質可區分成具有不同結構和功能的domain",
+        "images": []
+      },
+      {
+        "text": "C 在蛋白質中所有的氨基酸不是皆具有極性，就是皆不具有極性",
+        "images": []
+      },
+      {
+        "text": "D 飽和脂肪在其脂肪酸成分上具有多個雙鍵碳（double bonded carbons）",
+        "images": []
+      },
+      {
+        "text": "E 在動物中，脂質和蛋白質具有類似的功能，主要為儲存能源的功能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 關於蛋白質的四級結構（Quaternary structure）的描述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 單一多胜肽鏈（Polypeptide chain）的三度空間摺疊",
+        "images": []
+      },
+      {
+        "text": "B 胺基酸序列（Amino acid sequences）",
+        "images": []
+      },
+      {
+        "text": "C 很多個多胜肽鏈間的交互連結",
+        "images": []
+      },
+      {
+        "text": "Dα-螺旋（Helix）、β-板狀（Sheet）或隨機盤繞（Random coil）等結構",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. The major lipids found in membranes are",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A triacylglycerols and cholesterol.",
+        "images": []
+      },
+      {
+        "text": "B cholesterol and sphingomyelin.",
+        "images": []
+      },
+      {
+        "text": "C phospholipids, glycolipids, and cholesterol.",
+        "images": []
+      },
+      {
+        "text": "D phospholipids and free fatty acids.",
+        "images": []
+      },
+      {
+        "text": "E cholesterol, inositol, and glycolipids.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 澱粉酶（Amylase）可分解α型之葡萄糖單體的醣苷鍵（glycosidic linkage），下列哪一組皆可被澱粉酶分解？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 纖維素和幾丁質",
+        "images": []
+      },
+      {
+        "text": "B 肝醣、澱粉和支鏈澱粉",
+        "images": []
+      },
+      {
+        "text": "C 澱粉和幾丁質",
+        "images": []
+      },
+      {
+        "text": "D 肝醣和纖維素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列何者整體分子結構最小？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Nucleic acid",
+        "images": []
+      },
+      {
+        "text": "B Nucleotide",
+        "images": []
+      },
+      {
+        "text": "C Nucleosome",
+        "images": []
+      },
+      {
+        "text": "D Nucleoside",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 下列何者為組成節肢動物外骨骼（exoskeletons）的最主要的成分？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A calcium carbonate",
+        "images": []
+      },
+      {
+        "text": "B chitin",
+        "images": []
+      },
+      {
+        "text": "C collagen",
+        "images": []
+      },
+      {
+        "text": "D cartilage",
+        "images": []
+      },
+      {
+        "text": "E sclerotin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 下列關於酶（enzymes）的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 酶是化學反應中的一個產物",
+        "images": []
+      },
+      {
+        "text": "B 酶會結合在其受質（substrate）上的活性位置（active site）",
+        "images": []
+      },
+      {
+        "text": "C 酶作用時的共同因子（cofactor）通常是蛋白質",
+        "images": []
+      },
+      {
+        "text": "D 不同的酶可能有不同的最佳作用溫度（optimal temperature）",
+        "images": []
+      },
+      {
+        "text": "E 酶的活性位置是由一些特定序列的核酸所組成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 人體代謝中，代謝物反應速率的快慢與下列何者無直接關連？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 反應活化能之高低",
+        "images": []
+      },
+      {
+        "text": "B 反應物和生成物自由能的差異",
+        "images": []
+      },
+      {
+        "text": "C 反應溫度之高低",
+        "images": []
+      },
+      {
+        "text": "D 酵素（enzyme）之有無",
+        "images": []
+      },
+      {
+        "text": "E 輔酶（cofactor）之有無",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 生物體內所進行的化學反應需要酵素的催化，其主要作用為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 將不可逆反應變為可逆反應",
+        "images": []
+      },
+      {
+        "text": "B 將吸熱反應變為放熱反應",
+        "images": []
+      },
+      {
+        "text": "C 降低自由能差異（free-energy change）",
+        "images": []
+      },
+      {
+        "text": "D 降低活化能（activation energy）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 持續咀嚼一小塊麵包，會有甜味是因為哪種酵素的作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 澱粉酶（Amylase）",
+        "images": []
+      },
+      {
+        "text": "B 麥芽糖酶（Maltase）",
+        "images": []
+      },
+      {
+        "text": "C 蔗糖酶（Sucrase）",
+        "images": []
+      },
+      {
+        "text": "D 乳糖酶（Lactase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. Which kind of metabolic poison would most directly interfere with glycolysis?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A an agent that reacts with oxygen and depletes its concentration in the cell",
+        "images": []
+      },
+      {
+        "text": "B an agent that binds to pyruvate and inactivates it",
+        "images": []
+      },
+      {
+        "text": "C an agent that closely mimics the structure of glucose but is not metabolized",
+        "images": []
+      },
+      {
+        "text": "D an agent that blocks the passage of electrons along the electron transport chain",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. How does inhibition of an enzyme-catalyzed reaction by a competitive inhibitor differ from inhibition by a noncompetitive inhibitor?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Competitive inhibitors interfere with the enzyme; noncompetitive inhibitors interfere with the reactants.",
+        "images": []
+      },
+      {
+        "text": "B Competitive inhibitors bind to the enzyme reversibly; noncompetitive inhibitors bind to it irreversibly.",
+        "images": []
+      },
+      {
+        "text": "C Competitive inhibitors change the enzyme’s tertiary structure; noncompetitive inhibitors cause polypeptide subunits to dissociate.",
+        "images": []
+      },
+      {
+        "text": "D Competitive inhibitors bind to the active site of the enzyme; noncompetitive inhibitors bind to a different site.",
+        "images": []
+      },
+      {
+        "text": "E Noncompetitive inhibitors bind to the active site of the enzyme; competitive inhibitors bind to a different site.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 地球上最豐富的有機物質是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛋白質",
+        "images": []
+      },
+      {
+        "text": "B 脂肪",
+        "images": []
+      },
+      {
+        "text": "C 核酸",
+        "images": []
+      },
+      {
+        "text": "D 醣類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. A solution of starch at room temperature does not readily decompose to form a solution of simple sugars because ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A starch hydrolysis is nonspontaneous",
+        "images": []
+      },
+      {
+        "text": "B starch cannot be hydrolyzed in the presence of so much water",
+        "images": []
+      },
+      {
+        "text": "C the activation energy barrier for this reaction cannot be surmounted",
+        "images": []
+      },
+      {
+        "text": "D the hydrolysis of starch to sugar is endergonic",
+        "images": []
+      },
+      {
+        "text": "E the starch solution has less free energy than the sugar solution",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 為什麼體內需要吸收維他命的量遠少於碳水化合物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 維他命可以很有效率的當作能量來源",
+        "images": []
+      },
+      {
+        "text": "B 維他命可以很有效率的當作荷爾蒙",
+        "images": []
+      },
+      {
+        "text": "C 維他命當作酵素的輔酶，需要的量很少",
+        "images": []
+      },
+      {
+        "text": "D 維他命是特殊的蛋白質，需要的量很少",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 下列何種營養素，哺乳動物可自行合成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 白胺酸（leucine）",
+        "images": []
+      },
+      {
+        "text": "B 離胺酸（lysine）",
+        "images": []
+      },
+      {
+        "text": "C 半胱胺酸（cysteine）",
+        "images": []
+      },
+      {
+        "text": "D 亞麻油酸（linoleic acid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. The structure of a protein that contains two or more polypeptides is the",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A primary structure.",
+        "images": []
+      },
+      {
+        "text": "B secondary structure.",
+        "images": []
+      },
+      {
+        "text": "C tertiary structure.",
+        "images": []
+      },
+      {
+        "text": "D quaternary structure.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. Which of the following components and conditions increases membrane fluidity?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A phospholipids with long, saturated fatty acyl chains",
+        "images": []
+      },
+      {
+        "text": "B phospholipids with short, unsaturated fatty acyl chains",
+        "images": []
+      },
+      {
+        "text": "C lower temperatures",
+        "images": []
+      },
+      {
+        "text": "D cholesterol at the usual concentrations found in biomembranes",
+        "images": []
+      },
+      {
+        "text": "E lipid rafts",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. Which substance could be an enzyme cofactor?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A protein",
+        "images": []
+      },
+      {
+        "text": "B polypeptide",
+        "images": []
+      },
+      {
+        "text": "C zinc atom",
+        "images": []
+      },
+      {
+        "text": "D ribosome",
+        "images": []
+      },
+      {
+        "text": "E vitamin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C",
+      "E"
+    ]
+  }
+]

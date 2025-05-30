@@ -1,0 +1,1435 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 為什麼骨骼肌在沒有收到運動神經傳來的訊號前不會收縮？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 沒有收到神經訊號前，粒腺體不會製造ATP",
+        "images": []
+      },
+      {
+        "text": "B 沒有收到神經訊號前，肌凝蛋白的頭部無法脫離和細肌絲的相連",
+        "images": []
+      },
+      {
+        "text": "C 沒有收到神經訊號前，肌動蛋白上可和肌凝蛋白頭部相接的位置會被調控蛋白遮蓋住",
+        "images": []
+      },
+      {
+        "text": "D 沒有收到神經訊號前，肌凝蛋白的頭部無法彎曲",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 下列何者為組成節肢動物外骨骼（exoskeletons）的最主要的成分？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A calcium carbonate",
+        "images": []
+      },
+      {
+        "text": "B chitin",
+        "images": []
+      },
+      {
+        "text": "C collagen",
+        "images": []
+      },
+      {
+        "text": "D cartilage",
+        "images": []
+      },
+      {
+        "text": "E sclerotin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 棘皮動物（echinoderms）的水管系統",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 功能相當於循環系統，負責將養份送至體細胞",
+        "images": []
+      },
+      {
+        "text": "B 功能為運動、攝食與氣體交換",
+        "images": []
+      },
+      {
+        "text": "C 和環節動物之液壓型骨骼相似",
+        "images": []
+      },
+      {
+        "text": "D 為兩側對稱之組織結構，雖然成體為輻射對稱",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which part of a bone contains red bone marrow?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A compact bone",
+        "images": []
+      },
+      {
+        "text": "B fibrous connective tissue",
+        "images": []
+      },
+      {
+        "text": "C spongy bone",
+        "images": []
+      },
+      {
+        "text": "D yellow bone marrow",
+        "images": []
+      },
+      {
+        "text": "E fatty tissue",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 有關骨骼肌的構造，下列何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 骨骼肌纖維具有橫紋，深色紋路稱為 I 帶、較明亮的區域稱為A帶",
+        "images": []
+      },
+      {
+        "text": "B 整塊肌肉則由肌外膜包覆",
+        "images": []
+      },
+      {
+        "text": "C 肌束由肌束膜包覆",
+        "images": []
+      },
+      {
+        "text": "D 單一肌纖維由肌內膜包覆",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列關於紅肌與白肌的敘述正確的是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紅肌的收縮速率較快",
+        "images": []
+      },
+      {
+        "text": "B 紅肌的粒線體較少",
+        "images": []
+      },
+      {
+        "text": "C 白肌的肝醣含量較高",
+        "images": []
+      },
+      {
+        "text": "D 白肌的肌球素含量較高",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. Which of the following correctly indicates the hierarchy of skeletal muscle organization from “small” to “big”?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A muscle fiber, sarcomere, myofibril, motor unit",
+        "images": []
+      },
+      {
+        "text": "B myofibril, sarcomere, motor unit, muscle fiber",
+        "images": []
+      },
+      {
+        "text": "C sarcomere, myofibril, muscle fiber, motor unit",
+        "images": []
+      },
+      {
+        "text": "D myofibril, sarcomere, muscle fiber, motor unit",
+        "images": []
+      },
+      {
+        "text": "E sarcomere, muscle fiber, myofibril, motor unit",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 響尾蛇會搖動尾巴並發出聲音，請問下列哪一項為造成此行為最有可能的原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 發出的聲音，具有吸引獵物的功能",
+        "images": []
+      },
+      {
+        "text": "B 發出的聲波，具有偵測獵物位置的功能",
+        "images": []
+      },
+      {
+        "text": "C 發出的聲音，具有警示天敵的功能",
+        "images": []
+      },
+      {
+        "text": "D 發出的聲音，具有擾亂天敵的功能",
+        "images": []
+      },
+      {
+        "text": "E 雌性發出的聲音，具有吸引雄性的功能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列有關小腦損傷的常見症狀敘述中，哪一個答案是最好的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 休止性振顫（resting tremor）",
+        "images": []
+      },
+      {
+        "text": "B 軟癱（flaccid paralysis）",
+        "images": []
+      },
+      {
+        "text": "C 心搏過慢（bradykinesia）",
+        "images": []
+      },
+      {
+        "text": "D 意志性振顫（intention tremor）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列有關人體肌肉骨骼系統的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紅骨髓（red bone marrow）主要位於緻密骨（compact bone）內",
+        "images": []
+      },
+      {
+        "text": "B 肌肉收縮時，鈣離子主要是與肌旋蛋白（tropomyosin）結合",
+        "images": []
+      },
+      {
+        "text": "C 軟骨內骨化（endochondral ossification）的過程，是由長骨中央的軟骨先開始崩解",
+        "images": []
+      },
+      {
+        "text": "D 蝕骨細胞（osteoclasts）負責破壞軟骨",
+        "images": []
+      },
+      {
+        "text": "E 肌纖維具有網狀外套，稱為肌質網（sarcoplasmic reticulum）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 關於肌肉系統，下列何者是錯的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心肌含有大量的肌球素（myoglobin）",
+        "images": []
+      },
+      {
+        "text": "B 骨骼肌肌肉收縮時，鈣離子會附著於肌原纖維的旋轉肌球素（tropomyosin）",
+        "images": []
+      },
+      {
+        "text": "C 心肌細胞具有間隙接合（gap junction）",
+        "images": []
+      },
+      {
+        "text": "D 肌凝蛋白（myosin）是粗肌絲（thick filament）的基本組成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 有關肌節（sarcomere）的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 粗肌絲的肌動蛋白的兩端游離",
+        "images": []
+      },
+      {
+        "text": "B 粗肌絲的肌動蛋白進行ATP的水解",
+        "images": []
+      },
+      {
+        "text": "C 當肌節縮短時，粗肌絲與細肌絲的長度皆沒有改變",
+        "images": []
+      },
+      {
+        "text": "D 細肌絲的肌凝蛋白頭部（myosin head）具有ATP結合端",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 在脊椎動物的神經肌肉接頭（neuromuscular junctions）所釋放的神經傳遞物質（neurotransmitter）以下列何者為主？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙醯膽鹼（acetylcholine）",
+        "images": []
+      },
+      {
+        "text": "B 血清素（serotonin）",
+        "images": []
+      },
+      {
+        "text": "C 腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "Dγ-胺基丁酸（GABA）",
+        "images": []
+      },
+      {
+        "text": "E 內啡肽（endorphins）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 當神經細胞發出動作電位，刺激骨骼肌細胞的收縮，所經歷的反應先後順序為下列何者？①T小管去極化②肌漿網去極化③肌漿膜去極化④肌動蛋白與肌凝蛋白滑動",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①②③④",
+        "images": []
+      },
+      {
+        "text": "B ②①③④",
+        "images": []
+      },
+      {
+        "text": "C ③①②④",
+        "images": []
+      },
+      {
+        "text": "D ④①③②",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Which function associated with muscle would be most directly affected by low levels of calcium?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The muscle fiber resting membrane potential.",
+        "images": []
+      },
+      {
+        "text": "B Muscle contraction.",
+        "images": []
+      },
+      {
+        "text": "C The initiation of an action potential.",
+        "images": []
+      },
+      {
+        "text": "D ATP hydrolysis.",
+        "images": []
+      },
+      {
+        "text": "E Muscle fatigue.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 鈣離子在肌肉收縮中所扮演的角色為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可輔助動作電位延著細胞膜傳遞並深入橫小管（T tubule）",
+        "images": []
+      },
+      {
+        "text": "B 可與ADP 結合促使原肌凝蛋白（tropomyosin）的阻斷作用恢復",
+        "images": []
+      },
+      {
+        "text": "C 鈣離子是由溶小體（lysosome）釋出",
+        "images": []
+      },
+      {
+        "text": "D 與肌鈣蛋白（troponin）結合，改變其形狀，移除原肌凝蛋白的阻斷作用，暴露出肌動蛋白（actin）的作用位置",
+        "images": []
+      },
+      {
+        "text": "E 鈣離子當做第二訊息分子，可與calmodulin結合以控制肌肉收縮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下列何種物質為充滿於人類肌肉橫小管（transversetubule）內的主要物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞間液（extracellularfluid）",
+        "images": []
+      },
+      {
+        "text": "B 肌動蛋白（actin）",
+        "images": []
+      },
+      {
+        "text": "C 肌鈣蛋白（troponin）",
+        "images": []
+      },
+      {
+        "text": "D 肌凝蛋白（myosin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 骨骼肌收縮來自於肌動蛋白（actin）與肌凝蛋白（myosin）之間的交互作用，並牽涉到鈣離子（Ca2+）、旋轉肌凝素（tropomyosin）與旋轉素（troponin）的調節，有關骨骼肌收縮的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 骨骼肌細胞內Ca2+提高時，刺激肌動蛋白與肌凝蛋白之間形成橫橋（crossbridge）",
+        "images": []
+      },
+      {
+        "text": "B Ca2+與旋轉肌凝素結合，使其脫離與肌凝蛋白的結合",
+        "images": []
+      },
+      {
+        "text": "C 肌凝蛋白的頭部具有水解ATP的活性",
+        "images": []
+      },
+      {
+        "text": "D ATP 與肌凝蛋白的結合，使肌動蛋白-肌凝蛋白之間的橫橋脫離",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 引發平滑肌細胞收縮主要是下列何者被磷酸化（phosphorylation）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A myosin light chain",
+        "images": []
+      },
+      {
+        "text": "B troponin",
+        "images": []
+      },
+      {
+        "text": "C tropomyosin",
+        "images": []
+      },
+      {
+        "text": "D calmodulin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. In muscular-skeletal systems, which one is the correct description?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Arthropod exoskeletons are composed primarily of calcium carbonate.",
+        "images": []
+      },
+      {
+        "text": "B A skeleton that relies on muscular force exerted against water is termed an endoskeleton.",
+        "images": []
+      },
+      {
+        "text": "C Skeletal muscles are striated, voluntary, and have unbranched fibers.",
+        "images": []
+      },
+      {
+        "text": "D Each skeletal muscle cell constitutes a single motor unit.",
+        "images": []
+      },
+      {
+        "text": "E The thick filament is composed almost entirely of actin molecules.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. Which of these statements about muscle contraction is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ca2+is required for all muscle contraction.",
+        "images": []
+      },
+      {
+        "text": "B Troponin is present in skeletal muscles and smooth muscles.",
+        "images": []
+      },
+      {
+        "text": "C When a skeletal muscle shortens during contraction, the H band and sarcomere shorten.",
+        "images": []
+      },
+      {
+        "text": "D Skeletal muscles but not cardiac muscles require neural stimulation to contract.",
+        "images": []
+      },
+      {
+        "text": "E The sarcoplasmic reticulum and transverse tubules are well-developed in skeletal muscles and poorly developed in smooth muscles.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 當骨骼肌收縮時，下列何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 運動神經釋放神經傳導物質glutamate",
+        "images": []
+      },
+      {
+        "text": "B 鈣離子讓actin與myosin可以結合",
+        "images": []
+      },
+      {
+        "text": "C Myosin消耗ATP在actin上滑動",
+        "images": []
+      },
+      {
+        "text": "D 肌小節（sarcomere）距離縮短",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 骨骼肌肉收縮時，肌節產生何種變化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A帶維持原來的長度而I帶及H區縮短",
+        "images": []
+      },
+      {
+        "text": "B A帶及H區維持原來的長度而I帶縮短",
+        "images": []
+      },
+      {
+        "text": "C A帶縮短而I帶及H區維持原來長度",
+        "images": []
+      },
+      {
+        "text": "D A帶及H區縮短而I帶維持原來長度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 個體死亡後屍僵（rigor mortis）是因缺乏何者而造成橫橋無法自肌動蛋白上脫離？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈣離子",
+        "images": []
+      },
+      {
+        "text": "B ADP",
+        "images": []
+      },
+      {
+        "text": "C ATP",
+        "images": []
+      },
+      {
+        "text": "D 鈉離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 重複刺激骨骼肌造成持續收縮的強直（tetanus）現象，是下列何種細胞內的離子導致？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Na+",
+        "images": []
+      },
+      {
+        "text": "B K+",
+        "images": []
+      },
+      {
+        "text": "C Ca2+",
+        "images": []
+      },
+      {
+        "text": "D Mg2+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 當人類肌肉受刺激而收縮時，有關橫橋（cross bridge）的敘述，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由肌凝蛋白（myosin）構成",
+        "images": []
+      },
+      {
+        "text": "B 與肌動蛋白（actin）分開後會與ATP結合",
+        "images": []
+      },
+      {
+        "text": "C 含有ATP水解酶",
+        "images": []
+      },
+      {
+        "text": "D 在連結肌動蛋白之前會先水解ATP",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何者為肝細胞及肌肉細胞中碳水化合物主要之儲存形式？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Glucose",
+        "images": []
+      },
+      {
+        "text": "B Starch",
+        "images": []
+      },
+      {
+        "text": "C Glycogen",
+        "images": []
+      },
+      {
+        "text": "D Triglycerides",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. The motor end plate is",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the specialized region of an effector organ innervated by an autonomic postganglionic neuron.",
+        "images": []
+      },
+      {
+        "text": "B the specialized synaptic terminal of autonomic postganglionic neurons.",
+        "images": []
+      },
+      {
+        "text": "C the specialized synaptic terminal of the motor neuron.",
+        "images": []
+      },
+      {
+        "text": "D the specialized region of skeletal muscle innervated by a motor neuron.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列人體的系統中，何者直接參與熱的產生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內分泌系統",
+        "images": []
+      },
+      {
+        "text": "B 神經系統",
+        "images": []
+      },
+      {
+        "text": "C 肌肉系統",
+        "images": []
+      },
+      {
+        "text": "D 呼吸系統",
+        "images": []
+      },
+      {
+        "text": "E 骨骼系統",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 肌肉放鬆後，鈣離子會主動運輸送至下列何處？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肌漿網（sarcoplasmic reticulum）",
+        "images": []
+      },
+      {
+        "text": "B 高基氏體（Golgi complex）",
+        "images": []
+      },
+      {
+        "text": "C 粒腺體（mitochondria）",
+        "images": []
+      },
+      {
+        "text": "D 核糖體（ribosome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. Which of the following would tend to reduce the concentration of lactic acid that accumulates in a muscle cell as a result of contractile activity?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A increasing the diameter of the cell",
+        "images": []
+      },
+      {
+        "text": "B increasing the number of mitochondria in the cell",
+        "images": []
+      },
+      {
+        "text": "C decreasing the oxygen supply to the cell",
+        "images": []
+      },
+      {
+        "text": "D increasing the concentration of glycolytic enzymes.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 有關骨骼肌的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 骨骼肌的肌絲結構中，細肌絲（Thin filament）的肌凝蛋白頭部（Myosin head）具有ATP結合端",
+        "images": []
+      },
+      {
+        "text": "B 結合了ATP的肌凝蛋白頭部，是處於高能階的構造",
+        "images": []
+      },
+      {
+        "text": "C 結合了ATP的肌凝蛋白頭部與肌動蛋白（Actin）結合，形成一橫橋",
+        "images": []
+      },
+      {
+        "text": "D 肌凝蛋白頭部釋放出ADP和磷酸根，粗肌絲（Thick filament）朝向肌節（Sarcomere）中央滑動",
+        "images": []
+      },
+      {
+        "text": "E 當肌節縮短時，粗肌絲與細肌絲的長度皆沒有改變",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 體運動神經元在神經肌肉接合處釋放哪個神經傳導物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 多巴胺（dopamine）",
+        "images": []
+      },
+      {
+        "text": "B 乙醯膽鹼（acetylcholine）",
+        "images": []
+      },
+      {
+        "text": "C 正腎上腺素（norepinephrine）",
+        "images": []
+      },
+      {
+        "text": "D 血清胺（serotonin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 骨骼肌收縮過程中，鈣離子是與下列何種蛋白質結合？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肌凝蛋白（myosin）",
+        "images": []
+      },
+      {
+        "text": "B 肌動蛋白（actin）",
+        "images": []
+      },
+      {
+        "text": "C 旋轉素（troponin）",
+        "images": []
+      },
+      {
+        "text": "D 肌紅素（myoglobin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 當骨骼肌收縮時，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Z line 縮短",
+        "images": []
+      },
+      {
+        "text": "B 肌動蛋白絲（actin filament）縮短",
+        "images": []
+      },
+      {
+        "text": "C 肌凝蛋白絲（myosin filament）縮短",
+        "images": []
+      },
+      {
+        "text": "D 肌節（sarcomere）縮短",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. Skeletal muscle contraction begins when calcium ions bind to ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A energized cross-bridges",
+        "images": []
+      },
+      {
+        "text": "B myosin",
+        "images": []
+      },
+      {
+        "text": "C actin",
+        "images": []
+      },
+      {
+        "text": "D tropomyosin",
+        "images": []
+      },
+      {
+        "text": "E troponin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. Which of the following is the CORRECT sequence that occurs during the excitation and contraction of a muscle cell?1. Calcium is released and binds to the troponin complex.2. Tropomyosin shifts and unblocks the cross-bridge binding sites.3. Transverse tubules depolarize the sarcoplasmic reticulum.4. The thin filaments are ratcheted across the thick filaments by the heads of the myosin molecules using energy from ATP.5. An action potential in a motor neuron causes the axon to release acetylcholine, which depolarizes the muscle cell membrane.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 2, 1, 3, 5, 4",
+        "images": []
+      },
+      {
+        "text": "B 2, 1, 3, 4, 5",
+        "images": []
+      },
+      {
+        "text": "C 5, 3, 2, 4, 1",
+        "images": []
+      },
+      {
+        "text": "D 5, 3, 1, 2, 4",
+        "images": []
+      },
+      {
+        "text": "E 5, 3, 2, 1, 4",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 骨骼肌的肌凝蛋白（myosin）含有讓那些其他物質接合的位置？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈉與鈣",
+        "images": []
+      },
+      {
+        "text": "B 肌鈣蛋白（troponin）與ATP",
+        "images": []
+      },
+      {
+        "text": "C ATP與肌動蛋白（actin）",
+        "images": []
+      },
+      {
+        "text": "D 肌動蛋白（actin）與鈣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 關於骨骼肌收縮機制，依序應為：(1) epinephrine由synaptic terminal釋放(2) Ca2+由the scarcoplasmic reticulum釋放出來(3) acetylcholine由synaptic terminal釋放(4) Calcium ions結合至troponin(5) myosin及actin滑動",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1) → (2) → (5) → (4)",
+        "images": []
+      },
+      {
+        "text": "B (3) → (2) → (4) → (5)",
+        "images": []
+      },
+      {
+        "text": "C (1) → (2) → (4) → (5)",
+        "images": []
+      },
+      {
+        "text": "D (4) → (3) → (2) → (5)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 重症肌無力（myasthenia gravis）是自體免疫的疾病，會引致肌肉顫動、軟弱及容易疲勞。下列何者是最合理的治療方式?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加移入肌漿網（sarcoplasmic reticulum）內的鈣離子量",
+        "images": []
+      },
+      {
+        "text": "B 增加乙醯膽鹼受體（acetylcholine receptor）的數目",
+        "images": []
+      },
+      {
+        "text": "C 增加運動神經元的髓鞘（myelin）量",
+        "images": []
+      },
+      {
+        "text": "D 增加骨骼肌細胞質中ATP的合成與活性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. You find a new species of mouse that, compared to the house mouse you are familiar with, sprints extraordinarily rapidly but also fatigues quickly. Which type of muscle fiber (compared to an ordinary house mouse) would you expect to see an increase in ________?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A slow glycolytic fibers",
+        "images": []
+      },
+      {
+        "text": "B slow oxidative fibers",
+        "images": []
+      },
+      {
+        "text": "C fast glycolytic fibers",
+        "images": []
+      },
+      {
+        "text": "D fast oxidative fibers",
+        "images": []
+      },
+      {
+        "text": "E fast and slow oxidative fibers",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. Which of the following statements about the regulation of skeletal muscle contraction is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Acetylcholine releases and triggers an action potential in muscle fiber.",
+        "images": []
+      },
+      {
+        "text": "B Action potential is propagated along plasma membrane and down T tubules.",
+        "images": []
+      },
+      {
+        "text": "C Action potential triggers Ca2+release from sarcoplasmic reticulum (SR).",
+        "images": []
+      },
+      {
+        "text": "D Ca2+bind to tropomyosin and release myosin-binding sites to initiate muscle contraction.",
+        "images": []
+      },
+      {
+        "text": "E Amyotrophic lateral sclerosis (ALS) is a disease of muscle fibers atrophy caused by motor neuron degeneration.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 有關骨骼肌的收縮過程，下列順序何者正確？①運動神經受到刺激②去極化作用沿著T小管（T-tubule）向內散布③運動終板電位產生④乙醯膽鹼釋出⑤ATP分解⑥鈣離子由肌漿網（sarcoplasmic reticulum）釋放⑦肌動蛋白與肌凝蛋白結合",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①④③②⑥⑤⑦",
+        "images": []
+      },
+      {
+        "text": "B ②①④⑥③⑤⑦",
+        "images": []
+      },
+      {
+        "text": "C ③②①④⑥⑦⑤",
+        "images": []
+      },
+      {
+        "text": "D ②①③④⑥⑦⑤",
+        "images": []
+      },
+      {
+        "text": "E ②③①④⑥⑤⑦",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 運動時骨骼肌血流量增加的主要原因為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肌肉新陳代謝物促使血管擴張",
+        "images": []
+      },
+      {
+        "text": "B 交感神經興奮使血管收縮",
+        "images": []
+      },
+      {
+        "text": "C 氧分壓（PO2）降低使血管收縮",
+        "images": []
+      },
+      {
+        "text": "D 副交感神經興奮使血管擴張",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列有關肌肉收縮的過程，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 動作電位促使鈣離子自sarcoplasmic reticulum釋放",
+        "images": []
+      },
+      {
+        "text": "B 鈣離子結合到tropomyosin，促使actin filament上的myosin結合位暴露出",
+        "images": []
+      },
+      {
+        "text": "C 當myosin頭部位置與actin結合會促使磷酸根的脫離，而引發myosin蛋白質構形改變，使得actin filament移動",
+        "images": []
+      },
+      {
+        "text": "D 當myosin由結合ADP轉變為結合ATP時，會誘發再一次的蛋白質構形改變，並與actin脫離",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. ________接合上肌凝蛋白（myosin）會使肌動蛋白（actin）與肌凝蛋白的橫橋（crossbridge）________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ATP；接合",
+        "images": []
+      },
+      {
+        "text": "B ATP；分離",
+        "images": []
+      },
+      {
+        "text": "C 鈣；接合",
+        "images": []
+      },
+      {
+        "text": "D 鈣；分離",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. Which of the following descriptions about muscle and skeletal system is NOT true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The strength of a muscular contraction is determined by the number of neurons delivering action potentials.",
+        "images": []
+      },
+      {
+        "text": "B Skeletal, cardiac, and smooth muscle all have transverse tubules.",
+        "images": []
+      },
+      {
+        "text": "C A hydrostatic skeleton consists of fluid held under pressure in a closed body compartment.",
+        "images": []
+      },
+      {
+        "text": "D Gap junctions provide direct electrical coupling between the cardiac muscle cells.",
+        "images": []
+      },
+      {
+        "text": "E Calcium ions cause smooth muscle contraction by binding to calmodulin.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 有一些魚類被稱為巡洋者（cruiser）；巡洋者的生活習性是持續游動以尋找食物。以下哪一選項最可能是巡洋者魚類的肌肉（或肌纖維）之特徵？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肌肉呈紅色",
+        "images": []
+      },
+      {
+        "text": "B 肌纖維需氧量低",
+        "images": []
+      },
+      {
+        "text": "C 肌纖維容易疲乏（fatigue）",
+        "images": []
+      },
+      {
+        "text": "D 肌纖維收縮速率快",
+        "images": []
+      },
+      {
+        "text": "E 肌纖維內粒線體數量低",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "複選題",
+    "question": "49. 骨骼肌纖維的細肌絲是由下列何種蛋白組成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肌動蛋白（actin）",
+        "images": []
+      },
+      {
+        "text": "B 肌凝蛋白（myosin）",
+        "images": []
+      },
+      {
+        "text": "C 肌旋蛋白（troponin）",
+        "images": []
+      },
+      {
+        "text": "D 肌球蛋白（tropomyosin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. Which statement best describes the power stroke of muscle contraction?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The myosin head bends, pulling the thick filament toward the center of the sarcomere.",
+        "images": []
+      },
+      {
+        "text": "B The myosin head bends, pushing the thin filament toward the center of the sarcomere.",
+        "images": []
+      },
+      {
+        "text": "C The actin head bends, pulling the thin filament toward the center of the sarcomere.",
+        "images": []
+      },
+      {
+        "text": "D The actin head bends, pulling the thick filament toward the center of the sarcomere.",
+        "images": []
+      },
+      {
+        "text": "E The myosin head bends, pulling the thin filament toward the center of the sarcomere.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "E"
+    ]
+  }
+]

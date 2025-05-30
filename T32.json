@@ -1,0 +1,1481 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. Which of the following statements about the RNA processing is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Not all of the nucleotides in the mature mRNA can be translated into proteins.",
+        "images": []
+      },
+      {
+        "text": "B Spliceosomes are composed of proteins and snRNAs.",
+        "images": []
+      },
+      {
+        "text": "C Modified guanosine is required for the capping of pre-mRNA.",
+        "images": []
+      },
+      {
+        "text": "D Methylation is required for the capping of pre-mRNA.",
+        "images": []
+      },
+      {
+        "text": "E Poly(A) polymerase adds 50-200 more adenines at the stop codon.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 在下列對於真核生物基因結構及表達調節的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 不是所有真核生物基因皆有內含子（intron）序列",
+        "images": []
+      },
+      {
+        "text": "B 在轉錄進行之前，RNA聚合酶（RNA polymerase）會先直接結合至啟動子（promoter）序列，之後並幫助其它轉錄因子結合上來而形成轉錄啟始複合體（transcription initiation complex）",
+        "images": []
+      },
+      {
+        "text": "C 內含子（intron）序列的存在是利用核酸雜合（nucleic acid hybridization）的技術所發現",
+        "images": []
+      },
+      {
+        "text": "D 同一基因在不同組織細胞內表達的強度（expression level）未必相同",
+        "images": []
+      },
+      {
+        "text": "E 不是所有真核生物基因的啟動子區域（promoter）都含有TATA box",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 一個tRNA帶有補密碼子（anticodon）3’-UAC-5’，請問它會攜帶何種胺基酸以供應蛋白質之合成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Met",
+        "images": []
+      },
+      {
+        "text": "B His",
+        "images": []
+      },
+      {
+        "text": "C Tyr",
+        "images": []
+      },
+      {
+        "text": "D Val",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 下列關於核糖體RNA（ribosomal RNA）基因的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人體細胞的核糖體RNA基因來自母親",
+        "images": []
+      },
+      {
+        "text": "B 原核生物基因體亦含有核糖體RNA基因",
+        "images": []
+      },
+      {
+        "text": "C 真核生物核糖體RNA基因存在於粒線體內",
+        "images": []
+      },
+      {
+        "text": "D 真核生物核糖體RNA基因在細胞核內進行轉錄，所製造出來的核糖體RNA會被送到細胞核外進行轉譯",
+        "images": []
+      },
+      {
+        "text": "E 人體細胞內的5S, 5.8S, 18S,及28S核糖體RNA係分別由四個不同的核糖體RNA基因表達出來的產物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. What will be the amino acid carried by a tRNA whose anticodon sequence is 5’-CAU-3’ ? (AUG: Met; CAU: His; UAC: Tyr; GUA: Val; CGU: Arg)",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Met",
+        "images": []
+      },
+      {
+        "text": "B His",
+        "images": []
+      },
+      {
+        "text": "C Tyr",
+        "images": []
+      },
+      {
+        "text": "D Val",
+        "images": []
+      },
+      {
+        "text": "E Arg",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 在核醣體（ribosome）進行轉譯的過程中，核醣體的轉位（translocation）是由下列何者所驅動？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A GTP → GDP＋Pi",
+        "images": []
+      },
+      {
+        "text": "B ATP → AMP＋PPi",
+        "images": []
+      },
+      {
+        "text": "C ATP → ADP＋Pi",
+        "images": []
+      },
+      {
+        "text": "D GTP → GMP＋PPi",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. In eukaryotic cell, a mature mRNA does NOT contain ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A promoter",
+        "images": []
+      },
+      {
+        "text": "B 5’ CAP",
+        "images": []
+      },
+      {
+        "text": "C 5’ UTR",
+        "images": []
+      },
+      {
+        "text": "D 3’ UTR",
+        "images": []
+      },
+      {
+        "text": "E poly-A tail",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 有關DNA突變的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 吖啶橙（acridine orange）是一種烷基化劑（alkylating agent）",
+        "images": []
+      },
+      {
+        "text": "B 誤義突變（missense mutation）導致過早的胜肽鏈終止",
+        "images": []
+      },
+      {
+        "text": "C 嘧啶二聚體（pyrimidine dimer）多由2-氨基嘌呤（2-amino purine）誘變劑造成",
+        "images": []
+      },
+      {
+        "text": "D 波長愈長的輻射波愈易造成DNA的損壞",
+        "images": []
+      },
+      {
+        "text": "E 製後修復（postreplication repair）是指DNA複製後，對損傷的DNA進行修復",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. Which of the following statement regarding the transcription initiation and RNA Pol I is NOT true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The regulatory sequences include a core element and an upstream element.",
+        "images": []
+      },
+      {
+        "text": "B RNA Pol I is responsible for synthesizing tRNAs and 5S-rRNA.",
+        "images": []
+      },
+      {
+        "text": "C An active Pol I initiation complex contains multi-protein complexes assembled in order.",
+        "images": []
+      },
+      {
+        "text": "D RNA Pol I is responsible for synthesizing rRNA.",
+        "images": []
+      },
+      {
+        "text": "E RNA Pol I itself is a multi-subunit complex.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 分離純化某特定基因轉錄產物mRNA進行分析，其序列組成中具有50%的C、30%的U和20%的A，推測在此序列中出現起始密碼（start codon）的機率為多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0%",
+        "images": []
+      },
+      {
+        "text": "B 0.6%",
+        "images": []
+      },
+      {
+        "text": "C 1.2%",
+        "images": []
+      },
+      {
+        "text": "D 2.4%",
+        "images": []
+      },
+      {
+        "text": "E 4.8%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 在RNA聚合酶使用DNA其中的一股作模板做出互補的RNA股，如果該模板某段DNA的鹼基序列為A-G-C-C-A-T，則合成的RNA鹼基序列為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A-G-C-C-A-T",
+        "images": []
+      },
+      {
+        "text": "B T-C-G-G-T-A",
+        "images": []
+      },
+      {
+        "text": "C U-C-G-G-U-A",
+        "images": []
+      },
+      {
+        "text": "D A-G-C-C-A-U",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列何者是RNA可以做為酵素（稱之為ribozyme）所催化的反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 以RNA為模板合成DNA時",
+        "images": []
+      },
+      {
+        "text": "B 以RNA為模板複製RNA時",
+        "images": []
+      },
+      {
+        "text": "C tRNA與胺基酸形成共價結合時",
+        "images": []
+      },
+      {
+        "text": "D 將外顯子（exon）中的核苷酸進行甲基化時",
+        "images": []
+      },
+      {
+        "text": "E 轉譯過程中胺基酸形成胜肽鍵（peptide bond）時",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. If the genes of a cell's spliceosomes were mutated so the spliceosomes no longer action normally. Which of the following would occur?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A functional protein would be produced.",
+        "images": []
+      },
+      {
+        "text": "B Transcription would stop.",
+        "images": []
+      },
+      {
+        "text": "C A primary transcript would not be produced.",
+        "images": []
+      },
+      {
+        "text": "D Translation would stop.",
+        "images": []
+      },
+      {
+        "text": "E Intron(s) would stay in the mature mRNA.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. The translation terminates in which of the following condition?①ribosome reaches the end of mRNA②ribosome reaches the stop codon③deficient in certain amino acid④no aminoacyl-tRNA enters ribosome⑤polypeptide folds into protein",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①③",
+        "images": []
+      },
+      {
+        "text": "B ②④",
+        "images": []
+      },
+      {
+        "text": "C ①②③",
+        "images": []
+      },
+      {
+        "text": "D ③④",
+        "images": []
+      },
+      {
+        "text": "E ②③④",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 有關基因表達的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在真核生物中，基因只能生合成一種訊息RNA",
+        "images": []
+      },
+      {
+        "text": "B 在轉錄所發生的錯誤，由RNA聚合酶進行校正",
+        "images": []
+      },
+      {
+        "text": "C 基因型（genotype）的改變都會導致外表型（phenotype）的改變",
+        "images": []
+      },
+      {
+        "text": "D 訊息RNA與核糖體結合的位置位於訊息RNA的3’端末端位置",
+        "images": []
+      },
+      {
+        "text": "E 第二輪轉錄可以在第一輪轉錄完成前即開始進行",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 關於RNA之功能配對，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A small nuclear RNA (snRNA)—組成核糖體（ribosome）的成分",
+        "images": []
+      },
+      {
+        "text": "B signal recognition particle (SRP) RNA—將多胜肽（polypeptide）送至內質網",
+        "images": []
+      },
+      {
+        "text": "C micro RNA (miRNA)—位於小核醣體次單位（small ribosome subunit）具有ribozyme之功能",
+        "images": []
+      },
+      {
+        "text": "D mRNA—攜帶胺基酸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. Which of the following RNAs works in RNA splicing?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A rRNA",
+        "images": []
+      },
+      {
+        "text": "B tRNA",
+        "images": []
+      },
+      {
+        "text": "C snRNA",
+        "images": []
+      },
+      {
+        "text": "D miRNA",
+        "images": []
+      },
+      {
+        "text": "E mRNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列有關真核細胞（eukaryotic cell）中的mRNA敘述何者最為正確？I. 所有mRNA皆很穩定II. 多腺苷酸尾（poly-A tail）可以減緩mRNA被降解的速率III. 5'端帽（5' cap）可以減緩mRNA被降解的速率IV. 多腺苷酸尾或5'端帽與轉譯效率無關",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A I, II, III",
+        "images": []
+      },
+      {
+        "text": "B II, III, IV",
+        "images": []
+      },
+      {
+        "text": "C I, II",
+        "images": []
+      },
+      {
+        "text": "D II, III",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. Based on the gene and protein sequences that follow, what type of mutation polypeptide effect has occurred?Normal gene: ATGGCCGGCCCGAAAGAGACCMutated gene: ATGGCCGGCACCGAAAGAGACCNormal protein: Met-Ala-Gly-Pro-Lys-Glu-ThrMutated protein: Met-Ala-Gly-Thr-Glu-Arg-Asp",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Base addition-silent.",
+        "images": []
+      },
+      {
+        "text": "B Base addition-none.",
+        "images": []
+      },
+      {
+        "text": "C Base addition-missense.",
+        "images": []
+      },
+      {
+        "text": "D Base addition-nonsense.",
+        "images": []
+      },
+      {
+        "text": "E Base addition-synonymous.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. During splicing, which molecular component of the spliceosome catalyzes the excision reaction?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A protein",
+        "images": []
+      },
+      {
+        "text": "B DNA",
+        "images": []
+      },
+      {
+        "text": "C RNA",
+        "images": []
+      },
+      {
+        "text": "D lipid",
+        "images": []
+      },
+      {
+        "text": "E sugar",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列胺基酸合成密碼（codon）表一段DNA的核苷酸序列為3' ATTACGCTTTGC，根據下表推測所表現出來的多胜肽之胺基酸序列，下列哪一項正確？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/014.png"
+    ],
+    "options": [
+      {
+        "text": "A 白胺酸－天門冬酸－離胺酸－丙胺酸",
+        "images": []
+      },
+      {
+        "text": "B 天門冬酸－半胱胺酸－纈胺酸－絲胺酸",
+        "images": []
+      },
+      {
+        "text": "C 天門冬酸－白胺酸－離胺酸－丙胺酸",
+        "images": []
+      },
+      {
+        "text": "D 在第一個密碼便中止了",
+        "images": []
+      },
+      {
+        "text": "E 無法依提供的資料決定",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 兩個真核生物的蛋白質有相同的一個區域（domain），但其他的區域皆不相同。請問以下何種選項最可能解釋這種相似性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因複製（duplication）",
+        "images": []
+      },
+      {
+        "text": "B RNA剪接（RNA splicing）",
+        "images": []
+      },
+      {
+        "text": "C 外顯子（exon）跳動",
+        "images": []
+      },
+      {
+        "text": "D 組蛋白（histone）的修飾",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 人類唾腺分泌唾液中含有澱粉酶（amylase），此澱粉酶在唾腺細胞中分泌步驟，下列哪一項錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因表現、轉錄與RNA操作在細胞核中完成",
+        "images": []
+      },
+      {
+        "text": "B 經由核孔（nuclear pore）離開細胞核進入細胞質中",
+        "images": []
+      },
+      {
+        "text": "C 由游離型核醣體（free ribosome）進行轉譯作用，合成多胜肽體",
+        "images": []
+      },
+      {
+        "text": "D 經由內質網（endoplasmic reticulum）、運輸囊胞（transport vesicle）、高爾基氏體（Golgi apparatus）、運輸囊胞（transport vesicle）送至細胞膜",
+        "images": []
+      },
+      {
+        "text": "E 在內質網膜的移位複合體（translocation complex）具有訊息辨別顆粒接受蛋白（signal-recognition particle receptor protein），可和訊息辨別顆粒（signalrecognition particle）辨認結合",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Which of the following coding region of a mRNA can encode a peptide and end at stop codon?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 5’ACGAUAAACUGAUCUAUUAG 3’",
+        "images": []
+      },
+      {
+        "text": "B 5’CACAUAUGAAAGACACCCUAA 3’",
+        "images": []
+      },
+      {
+        "text": "C 5’AAUAGCCAGUAGGCCGCUAG 3’",
+        "images": []
+      },
+      {
+        "text": "D 5’ACUUAGCGAACUCCACAAUG 3’",
+        "images": []
+      },
+      {
+        "text": "E 5’GGGACAUGCCCAGAUGACAC 3’",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. Which one is the correct sequence of protein synthesis?1. An aminoacyl-tRNA binds to the A site2. A peptide bond forms between the new amino acid and a polypeptide chain3. tRNA leves the P site, and the P site remains vacant4. A small ribosomal subunit binds with mRNA5. tRNA translocates to the P site",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 5,4,3,2,1",
+        "images": []
+      },
+      {
+        "text": "B 2,4,5,1,3",
+        "images": []
+      },
+      {
+        "text": "C 4,1,2,5,3",
+        "images": []
+      },
+      {
+        "text": "D 4,1,3,2,5",
+        "images": []
+      },
+      {
+        "text": "E 1,3,2,4,5",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 下列有關mRNA的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A mRNA在離開細胞核前，其外顯子（exon）會被移除",
+        "images": []
+      },
+      {
+        "text": "B mRNA在細胞核內被RNA聚合酶合成",
+        "images": []
+      },
+      {
+        "text": "C 外顯子靠核酸酵素（ribozyme）而被剪接在一起",
+        "images": []
+      },
+      {
+        "text": "D mRNA是互補於DNA的一連串核苷酸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. Which of the following processes does NOT occur in the eukaryotic nucleus?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A RNA splicing.",
+        "images": []
+      },
+      {
+        "text": "B RNA polyadenylation.",
+        "images": []
+      },
+      {
+        "text": "C DNA synthesis.",
+        "images": []
+      },
+      {
+        "text": "D RNA capping.",
+        "images": []
+      },
+      {
+        "text": "E Production of charged tRNAs.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 各種生物的遺傳密碼皆相同，爰此下列敘述何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 所有生物皆會經歷相同的趨同演化",
+        "images": []
+      },
+      {
+        "text": "B 在不同生物體內，相同的遺傳密碼會轉譯出不同的胺基酸",
+        "images": []
+      },
+      {
+        "text": "C 不同生物皆有相同數量及不同種類的胺基酸",
+        "images": []
+      },
+      {
+        "text": "D 甲種生物的基因理論上可在乙種生物體內表達",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列關於DNA轉錄的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 當DNA轉錄RNA時，在5’端需要以一段小的RNA片段作為引子",
+        "images": []
+      },
+      {
+        "text": "B 在真核生物體內DNA轉錄為mRNA時，首先RNA聚合酶辨認啟動子（promoter）上的TATA box，並由此box處開始轉錄",
+        "images": []
+      },
+      {
+        "text": "C 在真核生物體內，當pre-mRNA形成後，snRNPs與其他蛋白質形成一個聚合體（spliceosome）可將pre-mRNA上的exon剪下，使mRNA上只剩下intron",
+        "images": []
+      },
+      {
+        "text": "D DNA複製的方向是5’→3’，DNA轉錄RNA的方向則是3’→5’",
+        "images": []
+      },
+      {
+        "text": "E 在細胞核的mRNA primary transcript經RNA processing後才被送到細胞質",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. In eukaryotes there are several different types of RNA polymerase. Which type is involved in transcription of mRNA for a globin protein?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ligase",
+        "images": []
+      },
+      {
+        "text": "B RNA polymerase I",
+        "images": []
+      },
+      {
+        "text": "C RNA polymerase II",
+        "images": []
+      },
+      {
+        "text": "D RNA polymerase III",
+        "images": []
+      },
+      {
+        "text": "E primate",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 1982年分子生物學家Tomas Czech和其同事，在原生動物纖毛蟲發現有些________片段具有生物酶催化的特性，被稱為________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA: helicase",
+        "images": []
+      },
+      {
+        "text": "B DNA: DNase",
+        "images": []
+      },
+      {
+        "text": "C RNA: ribozyme",
+        "images": []
+      },
+      {
+        "text": "D RNA: RNase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 關於蛋白質的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一個基因可能編碼（encode）多個不同的蛋白質",
+        "images": []
+      },
+      {
+        "text": "B 一個蛋白質只能執行一個特定功能",
+        "images": []
+      },
+      {
+        "text": "C 一個蛋白質可能因所處身體內位置不同，其功能也有所不同",
+        "images": []
+      },
+      {
+        "text": "D 轉譯後修飾（post-translational modification）可能改變蛋白質活性",
+        "images": []
+      },
+      {
+        "text": "E 蛋白質之胺基酸序列影響蛋白質之結構",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 有關生物多樣性形成的三個原因，下列何者最有可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因會斷裂、接合、再生",
+        "images": []
+      },
+      {
+        "text": "B 基因會複製、重組、突變",
+        "images": []
+      },
+      {
+        "text": "C 基因會轉錄、轉譯、複製",
+        "images": []
+      },
+      {
+        "text": "D 染色體可以染色、分裂、複製",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. Which of the following is correct for both prokaryotic and eukaryotic gene expression?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A After transcription, a 3' poly-A tail and a 5' cap are added to mRNA.",
+        "images": []
+      },
+      {
+        "text": "B Translation of mRNA can begin before transcription is complete.",
+        "images": []
+      },
+      {
+        "text": "C RNA polymerase binds to the promoter region to begin transcription.",
+        "images": []
+      },
+      {
+        "text": "D The mRNA transcript is the exact complement of the gene from which it was copied.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 關於遺傳密碼子（genetic codon），下列敘述何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由三個核苷酸組合成一個密碼子",
+        "images": []
+      },
+      {
+        "text": "B 一個胺基酸通常只由一個密碼子所決定",
+        "images": []
+      },
+      {
+        "text": "C 遺傳密碼子適用於由細菌到人類的基因組",
+        "images": []
+      },
+      {
+        "text": "D 真核細胞基因的第一個密碼子通常為AUG",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 請問在真核細胞中，必須等到完成什麼過程後，才會開始進行轉錄（transcription）作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA雙股完全解開並且暴露出啟動子（promoter）",
+        "images": []
+      },
+      {
+        "text": "B 數個轉錄因子（transcription factor）結合啟動子（promoter）",
+        "images": []
+      },
+      {
+        "text": "C 移除mRNA的5端帽（5' caps）",
+        "images": []
+      },
+      {
+        "text": "D 由模板移除DNA的內含子（intron）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. DNA聚合酶和RNA聚合酶的比較，下列何者是錯誤的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 都是由5’往3’合成",
+        "images": []
+      },
+      {
+        "text": "B DNA聚合酶利用dNTP當作材料，RNA聚合酶利用NTP當作材料來合成",
+        "images": []
+      },
+      {
+        "text": "C DNA聚合酶不需要引子（primer）就可以合成，RNA聚合酶需要引子來合成",
+        "images": []
+      },
+      {
+        "text": "D DNA聚合酶合成DNA，RNA聚合酶合成RNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. The particular sequence in the template strand of DNA is 5’ AGTAAT 3’. The corresponding sequence for the mRNA transcribed is ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 3’ AUUACU 5’",
+        "images": []
+      },
+      {
+        "text": "B 3’ UGAUUA 5’",
+        "images": []
+      },
+      {
+        "text": "C 3’ AGUAAU 5’",
+        "images": []
+      },
+      {
+        "text": "D 3’ UAAUGA 5",
+        "images": []
+      },
+      {
+        "text": "E 3’ UCAUUA 5’",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. An mRNA sequence is 5’-AUG-GGC-ACU-CAU-ACU-UAA-3’, where AUG is the start codon and UAA is the stop codon. How many distinct aminoacyl-tRNA synthetases are required to translate the mRNA sequence?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 2",
+        "images": []
+      },
+      {
+        "text": "B 3",
+        "images": []
+      },
+      {
+        "text": "C 4",
+        "images": []
+      },
+      {
+        "text": "D 5",
+        "images": []
+      },
+      {
+        "text": "E 6",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列敘述，何者正確？(1)鐮刀型細胞性貧血（sickle cell anemia）是因血紅素（hemoglobin）球蛋白基因產生鹼基刪除（deletion）(2)鐮刀型細胞性貧血是因血紅素球蛋白基因發生點突變（point mutation）(3)鐮刀型細胞性貧血是因血紅素β-球蛋白基因發生突變(4)鐮刀型細胞性貧血是因血紅素α-球蛋白基因發生突變",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1,3",
+        "images": []
+      },
+      {
+        "text": "B 1,4",
+        "images": []
+      },
+      {
+        "text": "C 2,3",
+        "images": []
+      },
+      {
+        "text": "D 2,4",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. In eukaryotic cells, 5S rRNA gene is transcribed by ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A RNA polymerase I",
+        "images": []
+      },
+      {
+        "text": "B RNA polymerase II",
+        "images": []
+      },
+      {
+        "text": "C RNA polymerase III",
+        "images": []
+      },
+      {
+        "text": "D RNA polymerase IV",
+        "images": []
+      },
+      {
+        "text": "E RNA polymerase V",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列敘述何者最能證明，在不同物種間，從mRNA轉譯成蛋白質的遺傳密碼子（genetic codon）是非常類似的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 水母的綠色螢光蛋白基因，可在不同物種表達出同樣能發螢光的蛋白質",
+        "images": []
+      },
+      {
+        "text": "B 蛋白質均使用相同的20種胺基酸構成",
+        "images": []
+      },
+      {
+        "text": "C 人類與猩猩的基因組（genome）有99%的相似度",
+        "images": []
+      },
+      {
+        "text": "D tRNA 的序列可形成多組內部氫鍵",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 下列有關tRNA的敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由胺醯-tRNA合成酶將胺基酸接到其3’端",
+        "images": []
+      },
+      {
+        "text": "B 其合成後需經修飾後才有功能",
+        "images": []
+      },
+      {
+        "text": "C 負責攜帶所有胺基酸到核糖體之A位",
+        "images": []
+      },
+      {
+        "text": "D 有些tRNA不只對應一個密碼子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. About split gene and RNA splicing, which of the following statements is NOT TRUE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The coding regions are called exons because they are expressed and usually translated into proteins.",
+        "images": []
+      },
+      {
+        "text": "B The other regions called introns. They are noncoding regions, which contain intervening sequences that are nonfunctional.",
+        "images": []
+      },
+      {
+        "text": "C RNA splicing removes introns and joins exons, creating an mRNA molecule with a continuous coding sequence.",
+        "images": []
+      },
+      {
+        "text": "D Alternative RNA splicing is a type of eukaryotic gene regulation in which different RNA molecules are produced from the same primary transcript, depending on which RNA segments are treated as exons and which as introns.",
+        "images": []
+      },
+      {
+        "text": "E Alternative RNA splicing produces a number of different proteins called isoforms from a single gene, therefore significantly expand the repertoire of an eukaryotic genome.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. A nonsense suppressor tRNA may have the anticodon",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 5'-CAU-3'",
+        "images": []
+      },
+      {
+        "text": "B 5'-UAA-3'",
+        "images": []
+      },
+      {
+        "text": "C 5'-UUA-3'",
+        "images": []
+      },
+      {
+        "text": "D 5'-CCC-3'",
+        "images": []
+      },
+      {
+        "text": "E 5'-UAG-3'",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列何者最可能在DNA產生變異時，造成蛋白質中連續多個胺基酸一起改變？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鹼基置換（base transversion）",
+        "images": []
+      },
+      {
+        "text": "B 鹼基轉位（base transition）",
+        "images": []
+      },
+      {
+        "text": "C 框移突變（frameshift mutation）",
+        "images": []
+      },
+      {
+        "text": "D 重組染色體（recombinant chromosome）",
+        "images": []
+      },
+      {
+        "text": "E 點突變（point mutation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 如果一個序列為5’–AUGCUCCAGUCCGU–3’，經突變變成5’–AUGCUCUCAGUCCGU–3’，此種突變稱為________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 移碼突變（frameshift mutation）",
+        "images": []
+      },
+      {
+        "text": "B 無義突變（nonsense mutation）",
+        "images": []
+      },
+      {
+        "text": "C 易位突變（translocation mutation）",
+        "images": []
+      },
+      {
+        "text": "D 點突變（point mutation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 將mRNA所攜帶之資訊合成多肽的過程稱為轉譯（Translation），在此多肽之胺基酸上接上糖類、脂質、磷酸基等物質以改變多肽活性之過程稱為________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 轉錄（Transcription）",
+        "images": []
+      },
+      {
+        "text": "B RNA剪接（RNA splicing）",
+        "images": []
+      },
+      {
+        "text": "C 蛋白質摺疊（Protein folding）",
+        "images": []
+      },
+      {
+        "text": "D 點突變（Point mutation）",
+        "images": []
+      },
+      {
+        "text": "E 轉譯後修飾（Post-translational modification）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "複選題",
+    "question": "49. 下列何者在蛋白質合成過程中，藉由轉譯過程以形成胜肽鍵？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA",
+        "images": []
+      },
+      {
+        "text": "B mRNA",
+        "images": []
+      },
+      {
+        "text": "C rRNA",
+        "images": []
+      },
+      {
+        "text": "D tRNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 下列哪一種突變最有可能對生物體造成傷害？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在基因序列中刪除連續六個鹼基",
+        "images": []
+      },
+      {
+        "text": "B 將某一鹼基對置換為其他鹼基對（base-pair substitution）",
+        "images": []
+      },
+      {
+        "text": "C 在靠近序列起始處作點突變（point mutation）",
+        "images": []
+      },
+      {
+        "text": "D 在序列3’端替換一個密碼子（codon）",
+        "images": []
+      },
+      {
+        "text": "E 在序列中段剔除二對鹼基對",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C",
+      "E"
+    ]
+  }
+]

@@ -1,0 +1,1480 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 請依發生順序排列下列植物細胞分裂的過程：(甲)細胞板（cell plate）形成(乙)子染色體（sister chromatids）分離(丙)染色體複製(丁)紡錘絲（spindle fiber）與著絲點連接",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 丙乙丁甲",
+        "images": []
+      },
+      {
+        "text": "B 丙丁甲乙",
+        "images": []
+      },
+      {
+        "text": "C 丁甲乙丙",
+        "images": []
+      },
+      {
+        "text": "D 丙丁乙甲",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. Which of the following short-distance transport routes in plants goes through plasmodesmata?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A symplastic route",
+        "images": []
+      },
+      {
+        "text": "B transmembrane route",
+        "images": []
+      },
+      {
+        "text": "C apoplastic route",
+        "images": []
+      },
+      {
+        "text": "D apoptosis route",
+        "images": []
+      },
+      {
+        "text": "E aquaporin route",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 以下有關植物葉子泌液作用的描述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 土壤水分充足時，根壓是葉片出現泌液作用主要的原動力",
+        "images": []
+      },
+      {
+        "text": "B 泌液作用是植物根部吸收的水經由導管或假導管向上運送到葉片後，水由氣孔以液態滲出葉表",
+        "images": []
+      },
+      {
+        "text": "C 白天蒸散作用強，有利水柱在木質部中向上運送，所以泌液特別明顯",
+        "images": []
+      },
+      {
+        "text": "D 因為導管或假導管是由死細胞構成的，所以分析任何植物所溢出的水液成分都是相同的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 有關植物的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 玉米種子只有一枚子葉（cotyledon）",
+        "images": []
+      },
+      {
+        "text": "B 植物根的成熟區（area of maturation）緊鄰根尖分生組織（root apical meristem）",
+        "images": []
+      },
+      {
+        "text": "C 植物細胞擴展的方向，取決於細胞壁中纖維素微纖維（cellulose microfibrils）的排列方式",
+        "images": []
+      },
+      {
+        "text": "D 植物的基本組織（ground tissue）位於表皮組織（dermal tissue）和維管束組織（vascular tissue）之間",
+        "images": []
+      },
+      {
+        "text": "E 根毛分布於根的成熟區",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 有關木本植物莖之描述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 樹皮（bark）結構只包含木栓形成層（cork cambium）及木栓層",
+        "images": []
+      },
+      {
+        "text": "B 形成層細胞（cambium cell）具有分生能力，可產生新的木質部（xylem）及韌皮部（phloem）",
+        "images": []
+      },
+      {
+        "text": "C 次級韌皮部會分化成木栓形成層",
+        "images": []
+      },
+      {
+        "text": "D 木栓為死的組織可以保護樹木免於傷害",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 假設根部有足夠的水分供應，下列何種情況最有可能使水分在木質部（xylem）中運輸速度最快？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉肉（leaf mesophyll）為負壓（negative pressure potential）",
+        "images": []
+      },
+      {
+        "text": "B 木質部（xylem）為正壓（positive pressure potential）",
+        "images": []
+      },
+      {
+        "text": "C 葉肉（leaf mesophyll）為正壓（positive pressure potential）",
+        "images": []
+      },
+      {
+        "text": "D 保衛細胞（guard cell）為負壓（negative pressure potential）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 植物為了加快水分蒸散，可藉由分泌________，促使保衛細胞內的________離子流出而濃度降低，導致氣孔關閉。空格內應填入以下哪個選項最恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 離層酸、鉀",
+        "images": []
+      },
+      {
+        "text": "B 離層酸、鈉",
+        "images": []
+      },
+      {
+        "text": "C 離層酸、氯",
+        "images": []
+      },
+      {
+        "text": "D 乙烯、鈉",
+        "images": []
+      },
+      {
+        "text": "E 乙烯、鉀",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 植物細胞進行細胞有絲分裂，完成細胞核分裂之後，需要下列哪一構造參與來完成胞質分裂（cytokinesis）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內質網（endoplasmic reticulum）",
+        "images": []
+      },
+      {
+        "text": "B 高爾基氏體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "C 紡錘體（spindle）",
+        "images": []
+      },
+      {
+        "text": "D 溶體（lysosome）",
+        "images": []
+      },
+      {
+        "text": "E 分裂溝（cleavage furrow）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. The veins of leaves are ________.(I) Composed of xylem and phloem(II) Continuous with vascular bundles in the stem and roots(III) finely branched to be in close contact with photosynthesizing cell",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A only I",
+        "images": []
+      },
+      {
+        "text": "B only II",
+        "images": []
+      },
+      {
+        "text": "C only III",
+        "images": []
+      },
+      {
+        "text": "D I and II",
+        "images": []
+      },
+      {
+        "text": "E I, II, and III",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. ________ is to xylem as ________ is to phloem.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Sclerenchyma cell; parenchyma cell",
+        "images": []
+      },
+      {
+        "text": "B Apical meristem; vascular cambium",
+        "images": []
+      },
+      {
+        "text": "C Vessel element; sieve-tube member",
+        "images": []
+      },
+      {
+        "text": "D Cortex; pith",
+        "images": []
+      },
+      {
+        "text": "E Vascular cambium; cork cambium",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列有關植物保衛細胞（guard cells）的相關敘述，何者為錯？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由植物表皮細胞特化而來的細胞",
+        "images": []
+      },
+      {
+        "text": "B 該細胞具有葉綠體，可以行光合作用",
+        "images": []
+      },
+      {
+        "text": "C 當細胞膨脹時，保衛細胞所形成的氣孔會關閉",
+        "images": []
+      },
+      {
+        "text": "D 該細胞會釋放氧氣，吸收二氧化碳",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列有關植物氣孔及其開閉的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物氣孔都在有日照狀況下打開，無日照則氣孔關閉",
+        "images": []
+      },
+      {
+        "text": "B 保衛細胞經擴散作用吸收鉀離子以增加水勢，促使氣孔張開",
+        "images": []
+      },
+      {
+        "text": "C 當保衛細胞排出鈉離子並導致滲透性水分喪失時，氣孔關閉",
+        "images": []
+      },
+      {
+        "text": "D 保衛細胞中，水分與鉀離子都儲存在液胞內，液胞質也扮演重要角色",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 依據A、B、C三類基因調控被子植物萼片（sepal）、花瓣（petal）、雄蕊（stamen）及心皮（carpel）發育之假說（簡單示意如右圖），花萼發育自只有A基因表現的區域，花瓣發育自A、B基因都表現的區域，雄蕊發育自B、C基因都表現的區域，心皮發育自只有C基因表現的區域。請問在B基因突變的植株中其花朵構造最可能為下列何者？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/023.png"
+    ],
+    "options": [
+      {
+        "text": "A",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/024.png"
+        ]
+      },
+      {
+        "text": "B",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/025.png"
+        ]
+      },
+      {
+        "text": "C",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/026.png"
+        ]
+      },
+      {
+        "text": "D",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/027.png"
+        ]
+      },
+      {
+        "text": "E",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/028.png"
+        ]
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 具細胞壁的生物從細胞外運送物質到細胞內，下列方式何者最不可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 滲透作用（osmosis）",
+        "images": []
+      },
+      {
+        "text": "B 主動運輸（active transport）",
+        "images": []
+      },
+      {
+        "text": "C 吞噬作用（phagocytosis）",
+        "images": []
+      },
+      {
+        "text": "D 促進性擴散（facilitated diffusion）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 有關維管束植物根毛（root hair）的敘述，下列何者最佳？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由根部表皮（epidermis）延伸的多細胞構造",
+        "images": []
+      },
+      {
+        "text": "B 由周鞘（pericycle）之細胞分裂增殖後形成",
+        "images": []
+      },
+      {
+        "text": "C 由根部表皮細胞（epidermal cell）特化突出的單細胞構造",
+        "images": []
+      },
+      {
+        "text": "D 由莖的基部長出的細根",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 一位身高100公分的孩童，在一棵5公尺高的紅檜樹幹上刻了一個身高標記，經過多年後，紅檜已經長到20公尺高，此時上述身高標記應位於紅檜樹幹何處？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 離地0.5公尺處",
+        "images": []
+      },
+      {
+        "text": "B 離地1公尺處",
+        "images": []
+      },
+      {
+        "text": "C 離地4公尺處",
+        "images": []
+      },
+      {
+        "text": "D 離地10公尺處",
+        "images": []
+      },
+      {
+        "text": "E 離地19公尺處",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 關於植物根、莖、葉三大基本器官的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 根的構造由根尖而上依序是細胞分裂區（zone of cell division）、分化區（zone of differentiation）、延長區（zone of elongation）",
+        "images": []
+      },
+      {
+        "text": "B 側根的形成是由維管柱（vascular cylinder）最外層的周鞘（pericycle）長出，並非從根的表面長出",
+        "images": []
+      },
+      {
+        "text": "C 典型真雙子葉植物之莖部橫切面中，維管束排列成環狀",
+        "images": []
+      },
+      {
+        "text": "D 木本植物之次級生長增加莖與根的直徑，但次級生長不常發生在葉部",
+        "images": []
+      },
+      {
+        "text": "E 大多數單子葉植物之葉脈以平行方式排列",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列何者在植物是引起泌溢（guttation）的主要原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 根壓（root pressure）",
+        "images": []
+      },
+      {
+        "text": "B 蒸散作用（transpiration）",
+        "images": []
+      },
+      {
+        "text": "C 韌皮部的壓力流動（pressure flow in phloem）",
+        "images": []
+      },
+      {
+        "text": "D 大氣水凝結（condensation of atmospheric water）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 下列糖類何者在植物韌皮部的運輸最為普遍？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葡萄糖",
+        "images": []
+      },
+      {
+        "text": "B 果糖",
+        "images": []
+      },
+      {
+        "text": "C 蔗糖",
+        "images": []
+      },
+      {
+        "text": "D 甘露醇糖（mannitol）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 有關韌皮部內物質流動的敘述，下列五個步驟的順序排列何者最佳？1.水擴散到篩管中2.葉肉細胞通過光合作用產生糖3.溶質被主動運送到篩管中4.糖在葉片中從細胞轉運到細胞5.糖沿著莖桿往下移",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1 → 2 → 5 → 4 → 3",
+        "images": []
+      },
+      {
+        "text": "B 2 → 4 → 3 → 1 → 5",
+        "images": []
+      },
+      {
+        "text": "C 1 → 2 → 4 → 3 → 5",
+        "images": []
+      },
+      {
+        "text": "D 2 → 5 → 4 → 1 → 3",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 保衛細胞在什麼情況下植物的氣孔開放？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 通過主動運輸聚集水",
+        "images": []
+      },
+      {
+        "text": "B 感受到葉的氣隙中CO2的含量增加",
+        "images": []
+      },
+      {
+        "text": "C 因為K+流入，隨後水滲透進入，細胞更加膨脹",
+        "images": []
+      },
+      {
+        "text": "D 感受到植物整體的含水量很低",
+        "images": []
+      },
+      {
+        "text": "E 通過植物荷爾蒙量的調整",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Pores on the leaf surface that function in gas exchange are called ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A xylem cells",
+        "images": []
+      },
+      {
+        "text": "B stomata",
+        "images": []
+      },
+      {
+        "text": "C phloem cells",
+        "images": []
+      },
+      {
+        "text": "D cuticle",
+        "images": []
+      },
+      {
+        "text": "E upper epidermis",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 組織培養為一種相當重要且廣泛運用的植物相關科技，下列何者較不常用來加以培養？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 花粉",
+        "images": []
+      },
+      {
+        "text": "B 生長點細胞",
+        "images": []
+      },
+      {
+        "text": "C 篩管細胞",
+        "images": []
+      },
+      {
+        "text": "D 葉肉細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 在植物葉片細胞中的光合產物，主要是經由下列何種細胞所收集？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 管胞（tracheid）",
+        "images": []
+      },
+      {
+        "text": "B 伴細胞（companion cell）",
+        "images": []
+      },
+      {
+        "text": "C 內皮細胞（endodermal cell）",
+        "images": []
+      },
+      {
+        "text": "D 維管束鞘細胞（bundle sheath cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列何種細胞最不可能具有次生細胞壁（Secondary cell wall）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 石細胞（Sclereid cell）",
+        "images": []
+      },
+      {
+        "text": "B 假導管細胞（Tracheid）",
+        "images": []
+      },
+      {
+        "text": "C 纖維細胞（Fiber cell）",
+        "images": []
+      },
+      {
+        "text": "D 薄壁細胞（Parenchyma cell）",
+        "images": []
+      },
+      {
+        "text": "E 厚角細胞（Collenchyma cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 因水庫建設使得河川下游的土壤鹽份含量增加，造成農業危害。對於稻米此非鹽生植物來說，不能在含高鹽的土壤中生長的原因是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鹽類晶體會在氣孔處累積，阻礙氣體交換",
+        "images": []
+      },
+      {
+        "text": "B 大量的Na+和Cl–離子進入植物細胞造成毒害",
+        "images": []
+      },
+      {
+        "text": "C 鹽在根細胞中累積，因水份滲透作用使細胞破裂",
+        "images": []
+      },
+      {
+        "text": "D 土壤中含氧量太低",
+        "images": []
+      },
+      {
+        "text": "E 土壤中水勢太低，植物吸水困難",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 某植物根部的水勢為–0.18 MPa，將之置於0.1 M的蔗糖溶液中（水勢為–0.23 MPa），有關水分子的移動方向，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 從植物根部流出到蔗糖溶液中",
+        "images": []
+      },
+      {
+        "text": "B 從蔗糖溶液流往植物根部",
+        "images": []
+      },
+      {
+        "text": "C 雙向移動且移動速度維持一致",
+        "images": []
+      },
+      {
+        "text": "D 無法從所提供的資料判斷",
+        "images": []
+      },
+      {
+        "text": "E 只有在植物根部組織內有ATP水解時才會有水分子的移動",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 有關植物體水和無機鹽的吸收與運送，下列哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 泌液現象是根壓所導致",
+        "images": []
+      },
+      {
+        "text": "B 氯離子與鈉離子的吸收屬於耗能反應",
+        "images": []
+      },
+      {
+        "text": "C 水分主要是透過根部延長區的根毛吸收",
+        "images": []
+      },
+      {
+        "text": "D 無機鹽離子可經由細胞間隙和原生質絲在皮層細胞內運送",
+        "images": []
+      },
+      {
+        "text": "E 水分子在植物體內長距離的運送，主要是藉由與導管壁的強吸附力達成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 植物的基本組織包括薄壁組織、厚角組織與厚壁組織，下列敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 此三種組織細胞成熟時，均具有次生的細胞壁",
+        "images": []
+      },
+      {
+        "text": "B 此三種組織細胞成熟時，均具有初生的細胞壁",
+        "images": []
+      },
+      {
+        "text": "C 就細胞分裂能力而言，薄壁組織＞厚角組織＞厚壁組織",
+        "images": []
+      },
+      {
+        "text": "D 維管束形成層分裂形成的子細胞，僅可分化為薄壁或厚壁組織細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 植物氣孔調節蒸散作用，下列何種情形最可能促使植物氣孔關閉？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 保衛細胞膨大",
+        "images": []
+      },
+      {
+        "text": "B 保衛細胞中鉀離子濃度增加",
+        "images": []
+      },
+      {
+        "text": "C 植物水分供應充足但CO2濃度不足以供應光合作用所需",
+        "images": []
+      },
+      {
+        "text": "D 葉片中離層酸（abscisic acid, ABA）濃度增加",
+        "images": []
+      },
+      {
+        "text": "E 光照刺激",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. The driving force that pushes the root tip through the soil is primarily ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the elongation of root hairs",
+        "images": []
+      },
+      {
+        "text": "B continuous cell division of root cap cells",
+        "images": []
+      },
+      {
+        "text": "C elongation of cells behind the root apical meristem",
+        "images": []
+      },
+      {
+        "text": "D continuous cell division in the root cap at the tip of the root",
+        "images": []
+      },
+      {
+        "text": "E continuous cell division just behind the root cap in the center of the apical meristem",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. The tissue makes up most of the wood of a tree is ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A primary xylem",
+        "images": []
+      },
+      {
+        "text": "B secondary xylem",
+        "images": []
+      },
+      {
+        "text": "C primary phloem",
+        "images": []
+      },
+      {
+        "text": "D secondary phloem",
+        "images": []
+      },
+      {
+        "text": "E cork",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. Leaf thickness represents a trade-off between ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A water retention and carbon dioxide absorption",
+        "images": []
+      },
+      {
+        "text": "B light collection and carbon dioxide absorption",
+        "images": []
+      },
+      {
+        "text": "C water retention and oxygen absorption",
+        "images": []
+      },
+      {
+        "text": "D light collection and oxygen absorption",
+        "images": []
+      },
+      {
+        "text": "E light collection and water retention",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. A difference between a stem and a root in secondary growth is that the root often lacks ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A xylem",
+        "images": []
+      },
+      {
+        "text": "B vascular cambium",
+        "images": []
+      },
+      {
+        "text": "C pith",
+        "images": []
+      },
+      {
+        "text": "D parenchyma rays",
+        "images": []
+      },
+      {
+        "text": "E cork",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列何種物種最常用於轉殖植物（transgenic plant）的DNA導入法？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 根瘤菌",
+        "images": []
+      },
+      {
+        "text": "B 木黴菌",
+        "images": []
+      },
+      {
+        "text": "C 硝化菌",
+        "images": []
+      },
+      {
+        "text": "D 農桿菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 導管細胞（vesselelement）會在根部的哪個區域喪失原生質體（protoplast）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 根冠區",
+        "images": []
+      },
+      {
+        "text": "B 細胞分裂區",
+        "images": []
+      },
+      {
+        "text": "C 延長區",
+        "images": []
+      },
+      {
+        "text": "D 成熟區",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 椰果殼以及桃核的堅硬部分，主要由下列何者所構成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 薄壁組織",
+        "images": []
+      },
+      {
+        "text": "B 厚壁組織",
+        "images": []
+      },
+      {
+        "text": "C 厚角組織",
+        "images": []
+      },
+      {
+        "text": "D 皮層組織",
+        "images": []
+      },
+      {
+        "text": "E 維管束組織",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 假設你發現一株未知的植物，經由觀察發現在其莖的橫切面有繞成環狀的維管束（vascular bundle）。從這個觀察你可以得到下面那一個結論？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可能是真雙子葉植物",
+        "images": []
+      },
+      {
+        "text": "B 可能沒有皮層（cortex）和髓（pith）",
+        "images": []
+      },
+      {
+        "text": "C 有可能是草本植物",
+        "images": []
+      },
+      {
+        "text": "D 可能是單子葉植物（monocot）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 在植物的物質運輸中，礦物質可選擇性的進入中柱（stele），下列何者為造成此選擇性的關鍵構造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 皮層（cortex）",
+        "images": []
+      },
+      {
+        "text": "B 內皮層（endodermis）",
+        "images": []
+      },
+      {
+        "text": "C 周鞘（pericycle）",
+        "images": []
+      },
+      {
+        "text": "D 原生質絲",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 有關裸子植物韌皮部構造的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由篩胞（sieve cell）與伴細胞（companion cell）進行養分的運輸",
+        "images": []
+      },
+      {
+        "text": "B 由篩管（sieve-tube element）進行養分的運輸",
+        "images": []
+      },
+      {
+        "text": "C 由篩胞進行養分的運輸",
+        "images": []
+      },
+      {
+        "text": "D 由伴細胞進行養分的運輸",
+        "images": []
+      },
+      {
+        "text": "E 由篩管與伴細胞進行養分的運輸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 幫助植物忍受乾旱的賀爾蒙是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脫落酸（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "B 赤酶素（gibberellins）",
+        "images": []
+      },
+      {
+        "text": "C 細胞分裂素（cytokinin）",
+        "images": []
+      },
+      {
+        "text": "D 乙烯（ethylene）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列組織中的細胞，何者的細胞核在細胞中所佔的比例最高？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 分生組織（meristems）",
+        "images": []
+      },
+      {
+        "text": "B 基本組織（fundamental tissues）",
+        "images": []
+      },
+      {
+        "text": "C 厚角組織（collenchyma）",
+        "images": []
+      },
+      {
+        "text": "D 厚壁組織（sclerenchyma）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 哪個構造是由莖頂表皮（shoot epidermis）向外生長而來，同時也能幫助抵禦昆蟲？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 觸毛（trichome）",
+        "images": []
+      },
+      {
+        "text": "B 厚角組織（collenchyma）",
+        "images": []
+      },
+      {
+        "text": "C 管胞（tracheid）",
+        "images": []
+      },
+      {
+        "text": "D 纖維（fiber）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列有關植物氣孔打開或關閉的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 保衛細胞內的鉀離子減少，則氣孔打開",
+        "images": []
+      },
+      {
+        "text": "B 仙人掌的氣孔主要在白天打開",
+        "images": []
+      },
+      {
+        "text": "C 可見光中，只有藍光會影響氣孔的開啟",
+        "images": []
+      },
+      {
+        "text": "D 溫度過高會造成氣孔關閉",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 決定芥科植物擬南芥（Arabidopsis）花的結構發育基因分為A、B、C三類。A類基因控制花萼的發育，A類與B類基因共同控制花瓣的發育，B類與C類基因共同控制雄蕊的發育，C類基因控制雌蕊的發育。當B類基因發生缺失突變時，花朵最可能的構造為？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/017.png"
+    ],
+    "options": [
+      {
+        "text": "A",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/018.png"
+        ]
+      },
+      {
+        "text": "B",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/019.png"
+        ]
+      },
+      {
+        "text": "C",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/020.png"
+        ]
+      },
+      {
+        "text": "D",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/021.png"
+        ]
+      },
+      {
+        "text": "E",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/022.png"
+        ]
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 有關保衛細胞（guard cells）的敘述，下列何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 受到鈣離子的調控",
+        "images": []
+      },
+      {
+        "text": "B 具有葉綠體",
+        "images": []
+      },
+      {
+        "text": "C 大都呈半月形",
+        "images": []
+      },
+      {
+        "text": "D 吸水時膨脹，使氣孔打開",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 植物激素調控頂芽優勢（Apical dominance）之作用，使腋芽生長受到抑制。下列何者為促進頂芽優勢之主要植物激素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長素（Auxin）",
+        "images": []
+      },
+      {
+        "text": "B 吉貝素（Gibberellin）",
+        "images": []
+      },
+      {
+        "text": "C 乙烯（Ethylene）",
+        "images": []
+      },
+      {
+        "text": "D 離層素（Abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "E 芥菜固醇（Brassinosteroid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 植物之水分能夠從埋在土壤深處的根部運送到100公尺高的樹梢，下列何者貢獻最小？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 水分子間之凝聚力（cohesion）",
+        "images": []
+      },
+      {
+        "text": "B 水分子與管胞間之聚合力（adhesion）",
+        "images": []
+      },
+      {
+        "text": "C 細胞間水分子之擴散作用（diffusion）",
+        "images": []
+      },
+      {
+        "text": "D 植物之蒸散作用（transpiration）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 某植物之溶質勢（Solute potential）為–0.85 MPa，將之置於溶質勢為–0.2 MPa之溶液中，此細胞仍維持固定之細胞體積，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 此細胞之壓力勢（Pressure potential）為+0.65 MPa",
+        "images": []
+      },
+      {
+        "text": "B 此細胞之壓力勢（Pressure potential）為–0.65 MPa",
+        "images": []
+      },
+      {
+        "text": "C 此細胞之水勢（Water potential）為0 MPa",
+        "images": []
+      },
+      {
+        "text": "D 此細胞之水勢（Water potential）為–0.85 MPa",
+        "images": []
+      },
+      {
+        "text": "E 此細胞之水勢（Water potential）為–1.05 MPa",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 紅樹林植物–海茄苳的根在地下生長，但每隔一段距離根會露出地面，請問此主要功能為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 支持",
+        "images": []
+      },
+      {
+        "text": "B 呼吸",
+        "images": []
+      },
+      {
+        "text": "C 無性繁殖",
+        "images": []
+      },
+      {
+        "text": "D 排除鹽份",
+        "images": []
+      },
+      {
+        "text": "E 吸收水分",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

@@ -1,0 +1,1516 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. Which is NOT CORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Introduced species are sometimes a problem because they usually are better competitors.",
+        "images": []
+      },
+      {
+        "text": "B For carbon cycle, the CO2would be returned to the atmosphere when the trees died and decayed.",
+        "images": []
+      },
+      {
+        "text": "C Global warming is caused by increased CO2and CH4levels.",
+        "images": []
+      },
+      {
+        "text": "D UV-B radiation is increasing due to increased CH4concentration in the polar region.",
+        "images": []
+      },
+      {
+        "text": "E CO2level increased due to enhanced human activities.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 下列何者為保護生物多樣性的三階層？①生態系多樣性②群聚系多樣性③族群系多樣性④物種多樣性⑤基因多樣性",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①②④",
+        "images": []
+      },
+      {
+        "text": "B ②④⑤",
+        "images": []
+      },
+      {
+        "text": "C ②③④",
+        "images": []
+      },
+      {
+        "text": "D ①④⑤",
+        "images": []
+      },
+      {
+        "text": "E ①③④",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. Which of the following mating systems does the Pheasant-tailed Jacana (Hydrophasianus chirurgus) exhibit in paddy fields in Tainan?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A monogamy",
+        "images": []
+      },
+      {
+        "text": "B polyandry",
+        "images": []
+      },
+      {
+        "text": "C polygyny",
+        "images": []
+      },
+      {
+        "text": "D promiscuity",
+        "images": []
+      },
+      {
+        "text": "E none of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 小明每天早上會將房間的燈打開然後去餵水族箱中的魚。經過數星期規律的動作後，他發現只要將房間的燈打開時，不論有無食物，魚都會游到水面。這種現象與下列何者最相似？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 正趨光性",
+        "images": []
+      },
+      {
+        "text": "B 習慣性",
+        "images": []
+      },
+      {
+        "text": "C 頓悟學習",
+        "images": []
+      },
+      {
+        "text": "D 觀察性學習",
+        "images": []
+      },
+      {
+        "text": "E 關聯學習",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Optimal foraging as a form of efficient behavior would be favored by ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A mutualism",
+        "images": []
+      },
+      {
+        "text": "B transduction",
+        "images": []
+      },
+      {
+        "text": "C energy expended",
+        "images": []
+      },
+      {
+        "text": "D natural selection",
+        "images": []
+      },
+      {
+        "text": "E none of these choices are correct",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 科學家發現若雌性斑馬雀（zebra finches）幼鳥在張開眼睛前2天開始讓幼鳥的父本配戴人工頭飾，此幼鳥長大後選擇配偶時，會選擇有人工頭飾的雄鳥。此現象最有可能屬於下列何種行為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 擇偶複製現象（mate-choice copying）",
+        "images": []
+      },
+      {
+        "text": "B 印痕（imprinting）",
+        "images": []
+      },
+      {
+        "text": "C 費洛蒙作用（pheromone effect）",
+        "images": []
+      },
+      {
+        "text": "D 先天行為（innate behavior）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 因水庫建設使得河川下游的土壤鹽份含量增加，造成農業危害。對於稻米此非鹽生植物來說，不能在含高鹽的土壤中生長的原因是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鹽類晶體會在氣孔處累積，阻礙氣體交換",
+        "images": []
+      },
+      {
+        "text": "B 大量的Na+和Cl–離子進入植物細胞造成毒害",
+        "images": []
+      },
+      {
+        "text": "C 鹽在根細胞中累積，因水份滲透作用使細胞破裂",
+        "images": []
+      },
+      {
+        "text": "D 土壤中含氧量太低",
+        "images": []
+      },
+      {
+        "text": "E 土壤中水勢太低，植物吸水困難",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. According to Hamilton’s rule,",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A natural selection does not favor altruistic behavior that causes the death of the altruist.",
+        "images": []
+      },
+      {
+        "text": "B natural selection favors altruistic acts when the resulting benefit to the beneficiary, corrected for relatedness, exceeds the cost to the altruist.",
+        "images": []
+      },
+      {
+        "text": "C natural selection is more likely to favor altruistic behavior that benefits an offspring than altruistic behavior that benefits a sibling.",
+        "images": []
+      },
+      {
+        "text": "D the effects of kin selection are larger than the effects of direct natural selection on individuals.",
+        "images": []
+      },
+      {
+        "text": "E altruism is always reciprocal.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 對於低互動型母親的幼鼠，長大後在新環境下容易恐懼焦慮，下列何者為造成此動物行為的最可能因素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 認知（cognition）",
+        "images": []
+      },
+      {
+        "text": "B 印記作用（imprinting）",
+        "images": []
+      },
+      {
+        "text": "C 習慣化（habituation）",
+        "images": []
+      },
+      {
+        "text": "D 固定行為模式（fixed action pattern）",
+        "images": []
+      },
+      {
+        "text": "E 基因與環境互動（genotype and environmental interaction）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 在食物鏈中，取食對象包含二個以上的營養層次之生物物種被稱為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雜食者（omnivores）",
+        "images": []
+      },
+      {
+        "text": "B 初級生產者（primary producers）",
+        "images": []
+      },
+      {
+        "text": "C 次級消費者（secondary consumers）",
+        "images": []
+      },
+      {
+        "text": "D 食草者（herbivores）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. What type of process can produce coloration differences between a rooster and hens within one species?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A balancing selection.",
+        "images": []
+      },
+      {
+        "text": "B directional selection.",
+        "images": []
+      },
+      {
+        "text": "C disruptive selection.",
+        "images": []
+      },
+      {
+        "text": "D sexual selection.",
+        "images": []
+      },
+      {
+        "text": "E stabilizing selection.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列何者不是經由學習而得的行為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 印痕",
+        "images": []
+      },
+      {
+        "text": "B 空間認知",
+        "images": []
+      },
+      {
+        "text": "C 社會認知",
+        "images": []
+      },
+      {
+        "text": "D 生物時鐘",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. Which of the following animals is classified correctly?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The Taiwanese frog Hoplobatrachus rugulosus and the Taiwanese salamander Hynobius formosanus belong to the same order in Class Amphibia.",
+        "images": []
+      },
+      {
+        "text": "B The formosan sika deer Cervus nippon taiouanus and the Taiwanese wild boar Sus scrofa belong to the same order in Class Mammalia.",
+        "images": []
+      },
+      {
+        "text": "C The mosquito Aedes aegypti and asian giant hornet belong to the same order in Class Insecta.",
+        "images": []
+      },
+      {
+        "text": "D The giant panda and Taiwan leopard cat belong to the same family in Order Carnivora.",
+        "images": []
+      },
+      {
+        "text": "E The formosan landlocked salmon Oncorhynchus masou formosanus and rainbow trout belong to the different family in Order Salmoniformes.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列何種植物為台灣特有種，樹體含有豐富油脂，屬冰河時期的孓遺植物，族群各自分佈於台灣南、北部，因數量稀少，需人工繁殖，是目前公告的保育樹種。其樹幹具不規則縱紋與鱗片狀剝落，葉線形螺旋狀著生，雌雄同株，花粉成熟時呈金黃色。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 牛樟（Cinnamomum kanehirai）",
+        "images": []
+      },
+      {
+        "text": "B 台灣油杉（Keteleeria davidiana）",
+        "images": []
+      },
+      {
+        "text": "C 銀杏（Ginkgo biloba）",
+        "images": []
+      },
+      {
+        "text": "D 玉山圓柏（Juniperus morrisonicola）",
+        "images": []
+      },
+      {
+        "text": "E 紅檜（Chamaecyparis formosensis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. The idea that humans have a love of life or living systems, coined by E.O. Wilson, is known as ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A biodiversity",
+        "images": []
+      },
+      {
+        "text": "B the call of the wild",
+        "images": []
+      },
+      {
+        "text": "C the last of the wild",
+        "images": []
+      },
+      {
+        "text": "D biophilia",
+        "images": []
+      },
+      {
+        "text": "E biotheology",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. If all prokaryotes on Earth suddenly vanished, which of the following would be the most likely and most direct result?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The number of organisms on Earth would decrease by 10 - 20%.",
+        "images": []
+      },
+      {
+        "text": "B Human populations would thrive in the absence of disease.",
+        "images": []
+      },
+      {
+        "text": "C Bacteriophage numbers would dramatically increase.",
+        "images": []
+      },
+      {
+        "text": "D The recycling of nutrients would be greatly reduced, at least initially.",
+        "images": []
+      },
+      {
+        "text": "E There would be no more pathogens on Earth.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 在地球生態系中，主要包含物質和能量二部分，關於物質和能量使用的描述，下列哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 物質會在生態系中進行循環，能量則無法進行循環",
+        "images": []
+      },
+      {
+        "text": "B 能量會在生態系中進行循環，物質則無法進行循環",
+        "images": []
+      },
+      {
+        "text": "C 能量可以轉換為物質，物質則無法轉換為能量",
+        "images": []
+      },
+      {
+        "text": "D 物質可以轉換為能量，能量則無法轉換為物質",
+        "images": []
+      },
+      {
+        "text": "E 物質與能量皆可在生態系中進行循環，物質與能量皆可互相轉換",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 假設野外草生地具有1000 kilocalories能量，蚱蜢吃草，鷦鶯吃蚱蜢，請問生存在此草地的鷦鶯大約有多少能量值？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1000",
+        "images": []
+      },
+      {
+        "text": "B 900",
+        "images": []
+      },
+      {
+        "text": "C 100",
+        "images": []
+      },
+      {
+        "text": "D 90",
+        "images": []
+      },
+      {
+        "text": "E 10",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 由於湖泊酸化（Lake acidity），導致下列何類毒性金屬增加而干擾魚類鰓的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鋁和汞",
+        "images": []
+      },
+      {
+        "text": "B 鉛和銅",
+        "images": []
+      },
+      {
+        "text": "C 鉛和鋁",
+        "images": []
+      },
+      {
+        "text": "D 銅和汞",
+        "images": []
+      },
+      {
+        "text": "E 鉛和汞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 下列有關碳、氮、磷、硫之全球生地化循環的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生地化循環主要有氣態和沉積態兩種基本形式",
+        "images": []
+      },
+      {
+        "text": "B 全球硫循環是氣態和沉積態循環的結合，因硫的貯存庫在大氣和地殼中",
+        "images": []
+      },
+      {
+        "text": "C 大氣是最大的氮貯存庫，海洋主要氮來源是經由海氣交換由大氣獲得",
+        "images": []
+      },
+      {
+        "text": "D 生態系的碳循環速率由初級生產率與分解作用的速率決定",
+        "images": []
+      },
+      {
+        "text": "E 在自然狀況下，幾乎所有陸域生態系的磷皆由磷酸鈣礦物風化而來",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. A major perturbation of the carbon cycle by human activity is associated with",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A release of carbon from carbonate rocks.",
+        "images": []
+      },
+      {
+        "text": "B release of carbon from fossil fuel deposits.",
+        "images": []
+      },
+      {
+        "text": "C removal of carbon from the atmosphere in the industrial production of fertilizers.",
+        "images": []
+      },
+      {
+        "text": "D accelerated removal of carbon from the atmosphere by forests.",
+        "images": []
+      },
+      {
+        "text": "E respiratory production of CO2by the large human population.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Which of the following provides the best evidence of a biodiversity crisis?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the incursion of a non-native species",
+        "images": []
+      },
+      {
+        "text": "B climate change",
+        "images": []
+      },
+      {
+        "text": "C increasing pollution levels",
+        "images": []
+      },
+      {
+        "text": "D decrease in regional productivity",
+        "images": []
+      },
+      {
+        "text": "E high rate of extinction",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 目前已有記錄之台灣原生種杜鵑約有16種，其中，特有種約12種，其生態習性亦非常多樣，下列關於其敍述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 烏來杜鵑：生長於低海拔溪邊",
+        "images": []
+      },
+      {
+        "text": "B 紅毛杜鵑：常出現在草地",
+        "images": []
+      },
+      {
+        "text": "C 玉山杜鵑：喜愛嚴酷的高山",
+        "images": []
+      },
+      {
+        "text": "D 著生杜鵑：分布於中央山脈中部兩側的台灣二葉松的林地內",
+        "images": []
+      },
+      {
+        "text": "E 南湖杜鵑：適合於石灰岩地生長",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. The chain lengths in food webs are limited by",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the amount of energy such as sunlight available in an ecosystem.",
+        "images": []
+      },
+      {
+        "text": "B the efficiency of energy transfers that occur between trophic levels.",
+        "images": []
+      },
+      {
+        "text": "C catastrophes.",
+        "images": []
+      },
+      {
+        "text": "D all of the above.",
+        "images": []
+      },
+      {
+        "text": "E A and B only.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. Why might unrelated individuals engage in altruistic acts?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A They are trying to mate with each other.",
+        "images": []
+      },
+      {
+        "text": "B It is possible they may mate with each other.",
+        "images": []
+      },
+      {
+        "text": "C The altruism is likely to be reciprocated.",
+        "images": []
+      },
+      {
+        "text": "D Individuals are part of the same large flock.",
+        "images": []
+      },
+      {
+        "text": "E None of these choices are correct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. Which of the following mechanisms is essential for animal navigation?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a time keeping mechanism",
+        "images": []
+      },
+      {
+        "text": "B a color recognition mechanism",
+        "images": []
+      },
+      {
+        "text": "C a scent recognition mechanism",
+        "images": []
+      },
+      {
+        "text": "D a sound discrimination mechanism",
+        "images": []
+      },
+      {
+        "text": "E a touch discrimination mechanism",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何者是地球上已知生態系統的能量來源？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 化學能、風能",
+        "images": []
+      },
+      {
+        "text": "B 核能、太陽能",
+        "images": []
+      },
+      {
+        "text": "C 太陽能、風能",
+        "images": []
+      },
+      {
+        "text": "D 化學能、太陽能",
+        "images": []
+      },
+      {
+        "text": "E 風能、核能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. Inbreeding and small population size of a threatened species can combine to form a downward spiral for the species known as a(n) ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A extinction vortex",
+        "images": []
+      },
+      {
+        "text": "B random change of allele frequencies attributable to chance",
+        "images": []
+      },
+      {
+        "text": "C random mutation",
+        "images": []
+      },
+      {
+        "text": "D accelerated evolution of new traits",
+        "images": []
+      },
+      {
+        "text": "E none of the possibilities are correct",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 請問台灣西海岸最大的潮差可能出現在下列哪一港口附近海域？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基隆港",
+        "images": []
+      },
+      {
+        "text": "B 台北港",
+        "images": []
+      },
+      {
+        "text": "C 台中港",
+        "images": []
+      },
+      {
+        "text": "D 安平港",
+        "images": []
+      },
+      {
+        "text": "E 高雄港",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 不是台灣特有品種的動物是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 台灣長鬃山羊",
+        "images": []
+      },
+      {
+        "text": "B 蘭嶼角鴞",
+        "images": []
+      },
+      {
+        "text": "C 櫻花鉤吻鮭",
+        "images": []
+      },
+      {
+        "text": "D 台灣鯛",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 綠牡蠣主要是由於哪種重金屬污染所導致？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 銅",
+        "images": []
+      },
+      {
+        "text": "B 鋅",
+        "images": []
+      },
+      {
+        "text": "C 鎘",
+        "images": []
+      },
+      {
+        "text": "D 鉛",
+        "images": []
+      },
+      {
+        "text": "E 汞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 比目魚常潛伏於沙地，等待獵物經過進行捕食，此種狩獵策略屬於下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 埋伏（ambush）",
+        "images": []
+      },
+      {
+        "text": "B 追捕（pursuit）",
+        "images": []
+      },
+      {
+        "text": "C 潛步追蹤（stalking）",
+        "images": []
+      },
+      {
+        "text": "D 擬態（mimicry）覓食",
+        "images": []
+      },
+      {
+        "text": "E 搜尋（searching）覓食",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 請問在高美溼地，下列哪一區的生物相最單純？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 草澤區",
+        "images": []
+      },
+      {
+        "text": "B 潮溪區",
+        "images": []
+      },
+      {
+        "text": "C 碎石區",
+        "images": []
+      },
+      {
+        "text": "D 沙地區",
+        "images": []
+      },
+      {
+        "text": "E 雲林莞草區",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 洄游性魚類如鮭魚會回到出生的溪流產卵，下面哪一項為造成此動物行為最可能因素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 認知（cognition）",
+        "images": []
+      },
+      {
+        "text": "B 印記作用（imprinting）",
+        "images": []
+      },
+      {
+        "text": "C 訊號刺激（sign stimulus）",
+        "images": []
+      },
+      {
+        "text": "D 固定行為模式（fixed action pattern）",
+        "images": []
+      },
+      {
+        "text": "E 行為的周期性（behavioral rhythms）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. A salmon returns to its home stream to spawn. What term best applies to this behavior?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sign stimulus",
+        "images": []
+      },
+      {
+        "text": "B cognition",
+        "images": []
+      },
+      {
+        "text": "C imprinting",
+        "images": []
+      },
+      {
+        "text": "D classical conditioning",
+        "images": []
+      },
+      {
+        "text": "E operant conditioning",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列何者屬於生態系之物質循環的沉積循環（sedimentary cycle）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 富營養化週期",
+        "images": []
+      },
+      {
+        "text": "B 氮循環",
+        "images": []
+      },
+      {
+        "text": "C 碳循環",
+        "images": []
+      },
+      {
+        "text": "D 大氣循環",
+        "images": []
+      },
+      {
+        "text": "E 磷循環",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 蜜蜂的搖擺舞（waggle dance）的功能是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 幫助蜜蜂溝通食物的位置",
+        "images": []
+      },
+      {
+        "text": "B 幫助生殖",
+        "images": []
+      },
+      {
+        "text": "C 遇到侵襲時發出警報以保護蜂巢",
+        "images": []
+      },
+      {
+        "text": "D 餵食子代",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 生態系統中的食物鏈能量轉換效率（ transfer efficiency）通常很低，約10%。其原因何在？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 多數生物己身無法消化所有被吃下的食餌",
+        "images": []
+      },
+      {
+        "text": "B 大量同化的能量（assimilated energy）被用在新陳代謝上",
+        "images": []
+      },
+      {
+        "text": "C 多數生物己身擁有的食物資源遠多於牠們所需求的",
+        "images": []
+      },
+      {
+        "text": "D A和B正確",
+        "images": []
+      },
+      {
+        "text": "E B和C正確",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. Hamilton’s Rule is a calculation of the strength in a population of ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sexual selection",
+        "images": []
+      },
+      {
+        "text": "B group selection",
+        "images": []
+      },
+      {
+        "text": "C natural selection",
+        "images": []
+      },
+      {
+        "text": "D genetic relatedness",
+        "images": []
+      },
+      {
+        "text": "E kin selection",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. A larvae of certain fly lives on body surface of a dog feeding on host’s skin. What will be the ecological position of this creature?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A primary consumer",
+        "images": []
+      },
+      {
+        "text": "B secondary consumer",
+        "images": []
+      },
+      {
+        "text": "C tertiary consumer",
+        "images": []
+      },
+      {
+        "text": "D producer",
+        "images": []
+      },
+      {
+        "text": "E decomposer",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 遷移（migration）係指動物週期性地在長距離間移動，下列何者不是遷徙性動物用來定位和導航的訊號？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 地球磁場",
+        "images": []
+      },
+      {
+        "text": "B 太陽",
+        "images": []
+      },
+      {
+        "text": "C 星辰",
+        "images": []
+      },
+      {
+        "text": "D 風向",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 生物學者漢米頓（Hamilton）提出動物能透過利他性（altruism）來協助近親以增加在下一世代的遺傳適合度（genetic fitness）。依據漢米頓法則（Hamiton’s rule），下列敘述何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 利他性皆是互惠的",
+        "images": []
+      },
+      {
+        "text": "B 當接受者的利益乘上親緣係數（coefficient of relatedness）的值超過利他者的損耗時，會被天擇所喜好",
+        "images": []
+      },
+      {
+        "text": "C 親緣選擇會隨遺傳距離增加而強化",
+        "images": []
+      },
+      {
+        "text": "D 親緣選擇的效應大於天擇直接作用於個體的效應",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 目前已知由於CO2排放增加所造成的海洋酸化（ocean acidification）現象，對於海洋生物影響的陳述，下列敘述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 二枚貝（bivalves）的外殼剝蝕",
+        "images": []
+      },
+      {
+        "text": "B 頭足類動物（cephalopods）背板（cuttlebone）的重量增加",
+        "images": []
+      },
+      {
+        "text": "C 硬骨魚（teleosts）仔魚的耳石（otolith）變小",
+        "images": []
+      },
+      {
+        "text": "D 硬骨魚仔魚的泳動行為模式有顯著偏傾現象（lateralization）",
+        "images": []
+      },
+      {
+        "text": "E 海膽胚胎發育缺陷",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 根據最近的研究指出，台灣高山地區的特有種鼠類－高山田鼠（Microtus kikuchii）為一夫一妻型（monogamy）的配偶關係。請問下列何者不是能用來解釋婚配制為一夫一妻制的假說？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雄鼠忠實度的假說（male honesty hypothesis）",
+        "images": []
+      },
+      {
+        "text": "B 雄鼠協助性的假說（male assistance hypothesis）",
+        "images": []
+      },
+      {
+        "text": "C 雌鼠堅持的假說（female-enforced hypothesis）",
+        "images": []
+      },
+      {
+        "text": "D 交配權捍衛的假說（mate-guarding hypothesis）",
+        "images": []
+      },
+      {
+        "text": "E 雄鼠基因基礎的假說（male genetic basis hypothesis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列何者為地球生物圈的光合作用總量？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 淨初級生產力（net primary production）",
+        "images": []
+      },
+      {
+        "text": "B 固碳生產力（carbon fixation production）",
+        "images": []
+      },
+      {
+        "text": "C 總初級生產力（gross primary production）",
+        "images": []
+      },
+      {
+        "text": "D 淨光合生產力（net photosynthetic production）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列何者為碳在地球上的最大的碳儲存庫？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大氣層（atmosphere）",
+        "images": []
+      },
+      {
+        "text": "B 沉積物（sediments）和岩石",
+        "images": []
+      },
+      {
+        "text": "C 河流（rivers）",
+        "images": []
+      },
+      {
+        "text": "D 海洋（oceans）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 鳥為何在春天鳴唱？針對此問題的解答若以生理的機制（physiological mechanisms）著手探討，此研究的途徑（approach）被稱之為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 終因的（ultimate）",
+        "images": []
+      },
+      {
+        "text": "B 近因的（proximate）",
+        "images": []
+      },
+      {
+        "text": "C 內在的（internal）",
+        "images": []
+      },
+      {
+        "text": "D 生理化學的（physiochemical）",
+        "images": []
+      },
+      {
+        "text": "E A和B正確",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. Which of the following is a greenhouse gas?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A water vapor",
+        "images": []
+      },
+      {
+        "text": "B molecular oxygen",
+        "images": []
+      },
+      {
+        "text": "C molecular nitrogen",
+        "images": []
+      },
+      {
+        "text": "D argon",
+        "images": []
+      },
+      {
+        "text": "E carbon monoxide",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 吸引異性是費洛蒙（Pheromone）的唯一功能",
+        "images": []
+      },
+      {
+        "text": "B 擾動（Disturbance，如火燒森林）對物種多樣性是不利的因素",
+        "images": []
+      },
+      {
+        "text": "C 在動物行為上的天擇，最終目的是追求個體最大的生存機會",
+        "images": []
+      },
+      {
+        "text": "D 動物的利他行為（Altruism）的產生，不能用天擇解釋",
+        "images": []
+      },
+      {
+        "text": "E 動物的互利行為（Reciprocal Altruism）發生在沒有親緣關係的個體上",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. Which of the following ecosystems has the highest net primary production (g/m2/yr):",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Estuary.",
+        "images": []
+      },
+      {
+        "text": "B Swamp and marsh.",
+        "images": []
+      },
+      {
+        "text": "C Algal beds and reefs.",
+        "images": []
+      },
+      {
+        "text": "D Tropical rain forest.",
+        "images": []
+      },
+      {
+        "text": "E Temperate deciduous forest.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

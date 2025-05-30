@@ -1,0 +1,1464 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. What is an example of exaptation?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Some insects do not develop wings when resources are plentiful.",
+        "images": []
+      },
+      {
+        "text": "B Human middle ear bones are derived from ancestral gill arch tissue.",
+        "images": []
+      },
+      {
+        "text": "C Wings of bats and wings of birds are homologous.",
+        "images": []
+      },
+      {
+        "text": "D Mutation rates can increase at higher temperatures.",
+        "images": []
+      },
+      {
+        "text": "E Mutation rates can change at various times.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 在豌豆中，花色由單一基因二等位基因控制，紫色等位基因（R）為顯性，白色等位基因（r）為隱性，在一個豌豆的族群中，有64個紫色個體和36個白色個體。假設此族群呈現哈溫平衡（Hardy-Weinberg equilibrium），這個族群r的頻率為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.36",
+        "images": []
+      },
+      {
+        "text": "B 0.60",
+        "images": []
+      },
+      {
+        "text": "C 0.64",
+        "images": []
+      },
+      {
+        "text": "D 0.80",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 如果族群在哈溫平衡（Hardy-Weinbergequilibrium）狀態下，36%的個體表現出隱性表徵，則該族群顯性等位基因的頻率為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.16",
+        "images": []
+      },
+      {
+        "text": "B 0.4",
+        "images": []
+      },
+      {
+        "text": "C 0.6",
+        "images": []
+      },
+      {
+        "text": "D 0.64",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 下列何者不是哈溫（Hardy-Weinberg）法則的基礎假設？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 族群非常大，交配是隨機的",
+        "images": []
+      },
+      {
+        "text": "B 族群之間沒有發生任何遷移",
+        "images": []
+      },
+      {
+        "text": "C 天擇對等位基因（alleles）不產生影響",
+        "images": []
+      },
+      {
+        "text": "D 任何突變可以被忽略",
+        "images": []
+      },
+      {
+        "text": "E 生物演化作用明顯",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 哈溫平衡（Hardy-Weinberg Equilibrium）是指族群中的等位基因（alleles）與基因型的頻率，會代代相傳不改變。在自然族群中，下列哪種狀況的產生，將無法維持此固定的等位基因頻率？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 個體必須可自由的遷入與移出",
+        "images": []
+      },
+      {
+        "text": "B 個體間必須可隨機交配",
+        "images": []
+      },
+      {
+        "text": "C 必須無突變產生",
+        "images": []
+      },
+      {
+        "text": "D 族群量必須夠大",
+        "images": []
+      },
+      {
+        "text": "E 所有基因型具有相同存活和繁殖的機率",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 如果族群在哈溫平衡（Hardy-Weinberg equilibrium）的狀態下，有對偶基因A和a，其中a發生的頻率為0.4。請問在這族群中，此對偶基因為異基因型組合（heterozygous）的機率是多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.48",
+        "images": []
+      },
+      {
+        "text": "B 0.36",
+        "images": []
+      },
+      {
+        "text": "C 0.24",
+        "images": []
+      },
+      {
+        "text": "D 0.16",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列何者為違反哈弟-溫伯格平衡（Hardy-Weinberg equilibrium）時，一族群僅受到族群大小影響所產生的現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 遺傳漂變（genetic drift）",
+        "images": []
+      },
+      {
+        "text": "B 天擇（natural selection）",
+        "images": []
+      },
+      {
+        "text": "C 基因交流（gene flow）",
+        "images": []
+      },
+      {
+        "text": "D 沒有突變（no mutation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 族群基因庫（gene pool）有兩個對偶基因B和b，對偶基因b 的頻度是0.4，對偶基因B相對於b是顯性。若族群在哈蒂溫伯平衡氏下，顯性表現型（phenotype）的頻度是多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.16",
+        "images": []
+      },
+      {
+        "text": "B 0.84",
+        "images": []
+      },
+      {
+        "text": "C 0.36",
+        "images": []
+      },
+      {
+        "text": "D 0.48",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 鐮刀血球症（sickle-cell disease）為隱性同基因型合子疾病，在非裔美國人中，每2500位新生兒中有一鐮刀血球症發生，則非裔美國人中帶因者（carrier）的比例，下列哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.04%",
+        "images": []
+      },
+      {
+        "text": "B 0.98%",
+        "images": []
+      },
+      {
+        "text": "C 1.96%",
+        "images": []
+      },
+      {
+        "text": "D 3.92%",
+        "images": []
+      },
+      {
+        "text": "E 7.84%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 過去數十年發現抗Methicillin的金黃葡萄球菌（Methicillin-resistant Staphylococcus aureus, MRSA）的變異種USA300菌株，除了抗Methicillin外，又能抵抗多種抗生素，感染皮膚、肺和血液，引起“食肉病”，其感染率和致死率相當高。此變異種細菌對抗生素的適應，依據天擇的論點，下列描述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 天擇創造抗藥性新菌種",
+        "images": []
+      },
+      {
+        "text": "B 天擇篩選出已存在於族群中的抗藥性細菌",
+        "images": []
+      },
+      {
+        "text": "C 天擇作用於已具有各種變異的族群",
+        "images": []
+      },
+      {
+        "text": "D 天擇增加抗藥性菌種的頻度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 經過六個月有效利用甲氧西林（methicillin）控制在社區金黃色葡萄球菌（S.aureus）感染後，發現後續感染皆為對methicillin有耐受性之超級細菌。下列何者能最佳解釋此結果？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病人從其他社區感染到超級細菌",
+        "images": []
+      },
+      {
+        "text": "B 一些耐藥細菌在治療前已出現，加上自然選擇增加了它們的頻率",
+        "images": []
+      },
+      {
+        "text": "C 在治療期間，S. aureus開始製作新蛋白質對藥物產生抗藥性並變種為超級細菌",
+        "images": []
+      },
+      {
+        "text": "D 藥物導致S. aureus的DNA改變",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 關於物種起源（origin of species），達爾文（Darwin）認為下列何者是子代修飾（descent with modification）的機制？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 經由人工選擇（artificial selection）",
+        "images": []
+      },
+      {
+        "text": "B 經由自然選擇（natural selection）",
+        "images": []
+      },
+      {
+        "text": "C 後天獲得性遺傳（inheritance of acquired characteristics）",
+        "images": []
+      },
+      {
+        "text": "D 均變論（uniformitarianism）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 假設在古早先祖移民時代，你的祖先與十九位伙伴偶然機會到某個荒島上開始建立移民族群，而這個島嶼是與世完全隔離，恰有兩個朋友帶異基因組合隱性等位基因，該基因的同基因組合將導致某類遺傳疾病發生，請問此遺傳疾病在島上的發病率如何？（假設族群成長過程中，該等位基因頻率不變）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.05%",
+        "images": []
+      },
+      {
+        "text": "B 0.25%",
+        "images": []
+      },
+      {
+        "text": "C 0.025%",
+        "images": []
+      },
+      {
+        "text": "D 0.5%",
+        "images": []
+      },
+      {
+        "text": "E 0.10%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 在一假設人類族群的MN血型中，2000個體的外表型中，M型血有426人、MN型血1024人和N型血550人，則M等位基因的頻度為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.213",
+        "images": []
+      },
+      {
+        "text": "B 0.275",
+        "images": []
+      },
+      {
+        "text": "C 0.469",
+        "images": []
+      },
+      {
+        "text": "D 0.512",
+        "images": []
+      },
+      {
+        "text": "E 0.531",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列何者最符合「世代修飾的觀念（descent with modification）」？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 馬來西亞的花螳螂（flower mantid）長得像花，千里達樹螳螂（tree mantid）擬態枯葉",
+        "images": []
+      },
+      {
+        "text": "B 鳥類能在其不停息最大飛行距離之外的島嶼中被發現",
+        "images": []
+      },
+      {
+        "text": "C 臺灣的亞熱帶植物比較像臺灣的熱帶植物，而不像南美的亞熱帶植物",
+        "images": []
+      },
+      {
+        "text": "D 距離赤道越遠，物種的多樣性越低",
+        "images": []
+      },
+      {
+        "text": "E 生活在島嶼上的物種比鄰近大陸上的物種少",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 當族群基因頻率進行哈溫（Hardy-Weinberg）平衡計算時，利用卡方檢定（Chi-square test）發現觀察值與期望值之間具有顯著差異。這表示？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 族群基因頻率符合哈溫平衡",
+        "images": []
+      },
+      {
+        "text": "B 族群基因頻率違背哈溫平衡",
+        "images": []
+      },
+      {
+        "text": "C 族群基因頻率分布沒有基因流動（gene flow）",
+        "images": []
+      },
+      {
+        "text": "D 族群基因頻率分布基因突變率低",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. The process by which unrelated organisms with similar environment demands evolve superficially similar structures is",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A natural selection.",
+        "images": []
+      },
+      {
+        "text": "B homologous.",
+        "images": []
+      },
+      {
+        "text": "C convergent evolution.",
+        "images": []
+      },
+      {
+        "text": "D comparative anatomy.",
+        "images": []
+      },
+      {
+        "text": "E adaptation.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. Huntington disease (HD) is inherited dominantly. If homozygote patient of HD is about 4% in a population, what will be the percentage of normal individuals in this population?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 96%",
+        "images": []
+      },
+      {
+        "text": "B 81%",
+        "images": []
+      },
+      {
+        "text": "C 64%",
+        "images": []
+      },
+      {
+        "text": "D 49%",
+        "images": []
+      },
+      {
+        "text": "E 20%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 下列何者不是屬於同源結構（homologous structure）的例子？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 哺乳動物的耳骨",
+        "images": []
+      },
+      {
+        "text": "B 脊椎動物的前肢骨骼",
+        "images": []
+      },
+      {
+        "text": "C 脊椎動物的胚胎發育",
+        "images": []
+      },
+      {
+        "text": "D 地球上生物皆以DNA為遺傳訊息",
+        "images": []
+      },
+      {
+        "text": "E 鯊魚和海豚皆為水棲動物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 人類眼睛的來源常是創造論（creationism）指控達爾文的演化理論所不能說明的，然而最近在Pax6基因與其同源基因（homologues）的研究顯示：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 眼睛是經由多次獨立事件演化而來",
+        "images": []
+      },
+      {
+        "text": "B 不同物種的眼睛在演化上所主控的Pax6基因並非同源性",
+        "images": []
+      },
+      {
+        "text": "C 早期祖先所共通的眼睛型式是由一個光受器細胞（photoreceptor cell）和一個色素細胞（pigment cell）所構成",
+        "images": []
+      },
+      {
+        "text": "D Pax6基因僅知發生在老鼠與果蠅身上，不存在於人類身上",
+        "images": []
+      },
+      {
+        "text": "E 以上的研究皆正確",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 老鼠的族群調查，其中36隻為黑色，基因型為BB，48隻為灰色，基因型為Bb，16隻為白色，基因型為bb，請問b的基因頻率為多少，而出現灰老鼠的頻率為多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.6；36%",
+        "images": []
+      },
+      {
+        "text": "B 0.6；24%",
+        "images": []
+      },
+      {
+        "text": "C 0.4；48%",
+        "images": []
+      },
+      {
+        "text": "D 0.48；16%",
+        "images": []
+      },
+      {
+        "text": "E 0.4；16%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 地中海型貧血是一個自體隱性遺傳疾病，假設一對正常父母均為異型合子基因型，試問生下一個患有地中海型貧血的小孩及兩個正常小孩的機率有多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1/64",
+        "images": []
+      },
+      {
+        "text": "B 9/64",
+        "images": []
+      },
+      {
+        "text": "C 27/64",
+        "images": []
+      },
+      {
+        "text": "D 45/64",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 族群內某特定基因座有二對偶基因A及a，如果族群在哈溫（Hardy-Weinberg）平衡下，9%個體表現出隱性性狀，其異型合子（heterozyogote）的頻率為多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.36",
+        "images": []
+      },
+      {
+        "text": "B 0.42",
+        "images": []
+      },
+      {
+        "text": "C 0.48",
+        "images": []
+      },
+      {
+        "text": "D 0.81",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 假設500個體的族群，一基因座帶有二對偶基因（A和a），135個AA同型合子、280個Aa異型合子和85個aa同型合子，則對偶基因A的頻度為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.28",
+        "images": []
+      },
+      {
+        "text": "B 0.415",
+        "images": []
+      },
+      {
+        "text": "C 0.45",
+        "images": []
+      },
+      {
+        "text": "D 0.55",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 在一穩定族群中分析單一微衛星體基因座SSR，得到了6個不同的等位基因與頻度如下：SSR1頻度為0.05、SSR2頻度為0.05、SSR3頻度為0.10、SSR4頻度為0.10、SSR5頻度為0.30、SSR6頻度為0.40。在此微衛星體基因座異型合子頻度的總和最接近下列哪一數值？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.118",
+        "images": []
+      },
+      {
+        "text": "B 0.275",
+        "images": []
+      },
+      {
+        "text": "C 0.485",
+        "images": []
+      },
+      {
+        "text": "D 0.725",
+        "images": []
+      },
+      {
+        "text": "E 0.882",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. Darwin’s main conclusions about the origin of species were ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A all organisms are descended with modification from common ancestors",
+        "images": []
+      },
+      {
+        "text": "B the mechanism for evolution was natural selection",
+        "images": []
+      },
+      {
+        "text": "C inheritance is generally particulate",
+        "images": []
+      },
+      {
+        "text": "D A and B",
+        "images": []
+      },
+      {
+        "text": "E B and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列有關動物分類的敘述何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 傳統分類可依據形態上的特徵（body plan）來分類",
+        "images": []
+      },
+      {
+        "text": "B 分子分類所依據的是生物基因體內的基因總數",
+        "images": []
+      },
+      {
+        "text": "C 傳統與分子分類方式所得到的結果可能不同",
+        "images": []
+      },
+      {
+        "text": "D 分子分類的證據可支持所有動物均源自同一先祖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 有關細菌抗藥性形成的機制，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 藥物作用細菌族群產生瓶頸效應（bottleneck）而導致抗藥性",
+        "images": []
+      },
+      {
+        "text": "B 藥物作用細菌族群主動進行突變產生抗藥性",
+        "images": []
+      },
+      {
+        "text": "C 藥物作用篩選得到少數具抗藥性細菌進行生長繁殖",
+        "images": []
+      },
+      {
+        "text": "D 未按醫囑用藥造成細菌族群未被全數殺死進而產生抗藥性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列敘述何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人的手、蝙蝠的翅膀、馬的前肢是同源的器官",
+        "images": []
+      },
+      {
+        "text": "B 同源的器官是幅射適應的結果",
+        "images": []
+      },
+      {
+        "text": "C 昆蟲的翅膀、鳥類的翅膀是非同源的器官",
+        "images": []
+      },
+      {
+        "text": "D 非同源器官而有相同功能是幅射適應的結果",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. In a Hardy-Weinberg population with two alleles, A and a, that are in equilibrium. The frequency of aa individuals in the population is about 0.09. What is the frequency of individuals with Aa genotype?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.18",
+        "images": []
+      },
+      {
+        "text": "B 0.21",
+        "images": []
+      },
+      {
+        "text": "C 0.36",
+        "images": []
+      },
+      {
+        "text": "D 0.42",
+        "images": []
+      },
+      {
+        "text": "E 0.91",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 在某野生族群中，已知某基因座是由兩個符合孟德爾顯性／隱性的對偶基因所組成。假設此野生族群大量隨機交配、沒有遷移、沒有突變、也沒有天擇壓力，隱性對偶基因的頻率最初為0.5。當人類在第一年繁殖季前進入此生態系，選擇性捕捉並移除顯性特徵的部份個體。當次年繁殖季過後，有關此族群的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因型為顯性同型合子的頻率會上升，異型合子的頻率會下降，隱性同型合子的頻率會上升",
+        "images": []
+      },
+      {
+        "text": "B 基因型為顯性同型合子的頻率會下降，異型合子的頻率會下降，隱性同型合子的頻率會上升",
+        "images": []
+      },
+      {
+        "text": "C 基因型為顯性同型合子的頻率會下降，異型合子的頻率會不變，隱性同型合子的頻率會上升",
+        "images": []
+      },
+      {
+        "text": "D 基因型為顯性同型合子的頻率會下降，異型合子的頻率會不變，隱性同型合子的頻率會下降",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列何者不屬於哈地-溫柏格平衡（Hardy-Weinberg equilibrium）對生物族群中遺傳平衡（Genetic equilibrium）之條件限制？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 逢機交配",
+        "images": []
+      },
+      {
+        "text": "B 所有基因型之繁殖成功率相同",
+        "images": []
+      },
+      {
+        "text": "C 無個體之遷入或遷出",
+        "images": []
+      },
+      {
+        "text": "D 族群數量不可過大",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. Members of two different species possess a similar-looking structure that they use in a similar fashion to perform the same function. Which information would best help distinguish between an explanation based on homology versus one based on convergent evolution?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The two species live at great distance from each other.",
+        "images": []
+      },
+      {
+        "text": "B The two species share many proteins in common, and the nucleotide sequences that code for these proteins are almost identical.",
+        "images": []
+      },
+      {
+        "text": "C The sizes of the structures in adult members of both species are similar in size.",
+        "images": []
+      },
+      {
+        "text": "D Both species are well adapted to their particular environments",
+        "images": []
+      },
+      {
+        "text": "E Both species reproduce sexually.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 根據達爾文理論，下列何者是說明生物經由天擇，而於數代之後被塑造成適合他們生存環境的特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 變異",
+        "images": []
+      },
+      {
+        "text": "B 適應",
+        "images": []
+      },
+      {
+        "text": "C 突變",
+        "images": []
+      },
+      {
+        "text": "D 遺傳",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. Most The Hardy-Weinberg equation states that p2＋2pq＋q2＝1; the genotype frequency of heterozygotes is represented by ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A p2",
+        "images": []
+      },
+      {
+        "text": "B 2pq",
+        "images": []
+      },
+      {
+        "text": "C q2",
+        "images": []
+      },
+      {
+        "text": "D p2＋q2",
+        "images": []
+      },
+      {
+        "text": "E p2＋2pq",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 某種植物的花柄長度由單一基因二等位基因（alleles）控制，其外表型可分為長、中、短三種，在特定族群100個個體中，花柄長有30株（PLPL），花柄中等有30株（PLPS），花柄短有40株（PSPS），此PL等位基因在族群中的頻率，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 30%",
+        "images": []
+      },
+      {
+        "text": "B 45%",
+        "images": []
+      },
+      {
+        "text": "C 50%",
+        "images": []
+      },
+      {
+        "text": "D 55%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 一個具有基因變異的族群，在天擇（natural selection）的影響下，下列事件的發生順序應為：1. 生殖差異（differential reproduction）的產生2. 一個新的選擇性壓力（selective pressure）的發生3. 對偶基因頻率（allele frequencies）在族群中改變4. 適應不良個體生存率下降",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 2 → 4 → 3 → 1",
+        "images": []
+      },
+      {
+        "text": "B 4 → 2 → 3 → 1",
+        "images": []
+      },
+      {
+        "text": "C 2 → 4 → 1 → 3",
+        "images": []
+      },
+      {
+        "text": "D 4 → 2 → 1 → 3",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 苯丙酮尿症（phenylketonuria; PKU）是一種隱性配偶基因（recessive allele），每10,000個人會有一個患此病，依照哈代-温伯格定律（Hardy-Weinberg principle），則其顯性配偶基因（dominant allele）的機率為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.99",
+        "images": []
+      },
+      {
+        "text": "B 0.9",
+        "images": []
+      },
+      {
+        "text": "C 0.1",
+        "images": []
+      },
+      {
+        "text": "D 0.01",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列哪一名詞或結構術語僅在動物上通用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 自營性（autotrophy）",
+        "images": []
+      },
+      {
+        "text": "B 有性生殖（sexual reproduction）",
+        "images": []
+      },
+      {
+        "text": "C 幾丁質（chitin）",
+        "images": []
+      },
+      {
+        "text": "D 同源性基因（homeotic genes）",
+        "images": []
+      },
+      {
+        "text": "E 細胞壁（cell wall）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 人類ABO血型的基因，分別有IA、IB和i三個等位基因（Allele），假設在一穩定的人類族群分析此ABO血型的等位基因頻度如下：IA頻度為0.08、IB頻度為0.13、i頻度為0.79。在此人類族群ABO血型的同型合子頻度總和，最接近下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.0064",
+        "images": []
+      },
+      {
+        "text": "B 0.0169",
+        "images": []
+      },
+      {
+        "text": "C 0.3526",
+        "images": []
+      },
+      {
+        "text": "D 0.6241",
+        "images": []
+      },
+      {
+        "text": "E 0.6474",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 請回答以下三題：在一假設的金魚草族群中，花色呈現紅色、粉紅色和白色三種外表型，數量分別為45、210和245株，研究顯示此花色由單一基因控制，外表型對應的基因型分別為CRCR、CRCW和CWCW，則CR和CW對偶基因的頻度分別為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.1和0.9",
+        "images": []
+      },
+      {
+        "text": "B 0.3和0.7",
+        "images": []
+      },
+      {
+        "text": "C 0.4和0.6",
+        "images": []
+      },
+      {
+        "text": "D 0.7和0.3",
+        "images": []
+      },
+      {
+        "text": "E 0.9和0.1",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 請回答以下三題：承上題，若將白色花外表型的個體完全移除，則CR和CW對偶基因的頻度分別為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.1765和0.8235",
+        "images": []
+      },
+      {
+        "text": "B 0.3和0.7",
+        "images": []
+      },
+      {
+        "text": "C 0.4118和0.5882",
+        "images": []
+      },
+      {
+        "text": "D 0.5882和0.4118",
+        "images": []
+      },
+      {
+        "text": "E 0.8235和0.1765",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 請回答以下三題：承前題，若再加入300株紅色金魚草，則CR和CW對偶基因的頻度分別為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.1765和0.8235",
+        "images": []
+      },
+      {
+        "text": "B 0.3532和0.6468",
+        "images": []
+      },
+      {
+        "text": "C 0.4313和0.5687",
+        "images": []
+      },
+      {
+        "text": "D 0.5625和0.4375",
+        "images": []
+      },
+      {
+        "text": "E 0.7332和0.2668",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. Animals that possess homologous structures probably ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A have increased genetic diversity",
+        "images": []
+      },
+      {
+        "text": "B are not related",
+        "images": []
+      },
+      {
+        "text": "C are headed for extinction",
+        "images": []
+      },
+      {
+        "text": "D had similar mutations in the past by chance",
+        "images": []
+      },
+      {
+        "text": "E evolved from the same ancestor",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. In a Hardy-Weinberg population with two alleles, A and a, that are in equilibrium, the frequency of the allele a is 0.3. What is the percentage of the population that is homozygous for this allele?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.09",
+        "images": []
+      },
+      {
+        "text": "B 0.49",
+        "images": []
+      },
+      {
+        "text": "C 0.9",
+        "images": []
+      },
+      {
+        "text": "D 9.0",
+        "images": []
+      },
+      {
+        "text": "E 49.0",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 一穩定二倍體生物物種的族群，經由特定DNA區域的單一核苷酸多型性（SNP）分析，發現有四種可能的變異型態存在，其各變異型態在族群中之頻率如下：第一型SNP：GGTCTAGGA在族群所佔的頻率＝0.91第二型SNP：GGTGTAGGA在族群所佔的頻率＝0.03第三型SNP：GGTATAGGA在族群所佔的頻率＝0.03第四型SNP：GGTTTAGGA在族群所佔的頻率＝0.03此族群在此特定DNA區域的異型合子（heterozygotes）頻度總合最接近下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.0018",
+        "images": []
+      },
+      {
+        "text": "B 0.009",
+        "images": []
+      },
+      {
+        "text": "C 0.055",
+        "images": []
+      },
+      {
+        "text": "D 0.170",
+        "images": []
+      },
+      {
+        "text": "E 0.828",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. Blue flower color (B allele) is dominant to white (b allele). In a population plants with white flowers (bb) are at a frequency of 0.04. What frequency of the alleles are for white flower color (b)?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.04 or 4%",
+        "images": []
+      },
+      {
+        "text": "B 0.16 or 16%",
+        "images": []
+      },
+      {
+        "text": "C 0.2 or 20%",
+        "images": []
+      },
+      {
+        "text": "D 0.8 or 80%",
+        "images": []
+      },
+      {
+        "text": "E 0.96 or 96%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 下列何者是自然選擇（natural selection）最好的解釋？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生物有能力衍生出新的特性讓其本身更適存",
+        "images": []
+      },
+      {
+        "text": "B 增加生物物種演化的完美性",
+        "images": []
+      },
+      {
+        "text": "C 用來解釋生物族群內個體死亡的原因",
+        "images": []
+      },
+      {
+        "text": "D 作用於既存特性的變異使生物適應於己身所處的環境",
+        "images": []
+      },
+      {
+        "text": "E 驅使物種走向演化的終點讓其在特殊環境下擁有極佳的適應能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 根據Hardy-Weinberg方程式，一對等位基因A、a，基因型AA、Aa及aa的基因頻率分別是0.49、0.42和0.09，則A的基因頻率是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.3",
+        "images": []
+      },
+      {
+        "text": "B 0.4",
+        "images": []
+      },
+      {
+        "text": "C 0.6",
+        "images": []
+      },
+      {
+        "text": "D 0.7",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. Phenylketonuria (PKU) is due to a recessive allele. Given 1 PKU occurrence per 25 births, what is the frequency of individuals with the heterozygous phenotype if the population is in Hardy-Weinberg equilibrium?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.2",
+        "images": []
+      },
+      {
+        "text": "B 0.32",
+        "images": []
+      },
+      {
+        "text": "C 0.64",
+        "images": []
+      },
+      {
+        "text": "D 0.8",
+        "images": []
+      },
+      {
+        "text": "E 0.96",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

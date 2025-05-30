@@ -1,0 +1,1484 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. “在食物網中，最高位的捕食者會被像是DDT等殺蟲劑嚴重影響”，這句話如果正確，最有可能的原因是下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 因人類對化學物質特別敏感",
+        "images": []
+      },
+      {
+        "text": "B 具有很長的生命週期",
+        "images": []
+      },
+      {
+        "text": "C 有快速的生殖速率",
+        "images": []
+      },
+      {
+        "text": "D 捕食體內已累積許多殺蟲劑的獵物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 下列何者為違反哈弟-溫伯格平衡（Hardy-Weinberg equilibrium）時，一族群僅受到族群大小影響所產生的現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 遺傳漂變（genetic drift）",
+        "images": []
+      },
+      {
+        "text": "B 天擇（natural selection）",
+        "images": []
+      },
+      {
+        "text": "C 基因交流（gene flow）",
+        "images": []
+      },
+      {
+        "text": "D 沒有突變（no mutation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 在滅絕旋渦（extinction vortex）中，下列哪個策略能最有效率提高族群的遺傳多樣性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 捕獲族群中所有剩餘的個體進行人工繁殖後再放生",
+        "images": []
+      },
+      {
+        "text": "B 建立保護區以保護族群的棲息地",
+        "images": []
+      },
+      {
+        "text": "C 調節瀕危族群的天敵和競爭者的數量",
+        "images": []
+      },
+      {
+        "text": "D 從其他族群引入同一物種的新個體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 有關生物多樣性的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生物多樣性愈高的生態系，其穩定性愈高",
+        "images": []
+      },
+      {
+        "text": "B 生物多樣性較大的地區，其遭受病蟲害機會愈大",
+        "images": []
+      },
+      {
+        "text": "C 物種多樣性不受區域面積、地形、及氣候的影響",
+        "images": []
+      },
+      {
+        "text": "D 一個區域中某一物種的族群密度變大時，其物種多樣性亦隨之變大",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. In biodiversity, which one is the correct description of ecosystem diversity?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The amount of genetic variation that occurs within and between populations.",
+        "images": []
+      },
+      {
+        "text": "B Only the amount of genetic variation that occurs between species.",
+        "images": []
+      },
+      {
+        "text": "C Includes trophic diversity and process diversity.",
+        "images": []
+      },
+      {
+        "text": "D Defines the species diversity and morphology of an ecosystem.",
+        "images": []
+      },
+      {
+        "text": "E Refers to the structure and function within an ecosystem.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列何者是生物放大效應（biological magnification）的結果？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溫室效應在南北極最明顯",
+        "images": []
+      },
+      {
+        "text": "B 許多養分已自農業用地中被移走且進入水域生態系中",
+        "images": []
+      },
+      {
+        "text": "C 某一種殺蟲劑已散佈到每一個生態系中且可在每一個生物體中發現",
+        "images": []
+      },
+      {
+        "text": "D 頂層捕食者是最易受到有毒環境化學物的傷害",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. In present populations of Taiwan Hwa-Mei (Leucodioptron taewanum) in Taiwan, genetic diversity has been",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A lost through mutation and restored by natural selection.",
+        "images": []
+      },
+      {
+        "text": "B lost through stabilizing selection and restored by balancing selection",
+        "images": []
+      },
+      {
+        "text": "C lost through directional selection and restored by balancing selection",
+        "images": []
+      },
+      {
+        "text": "D lost through hybridization and restored by natural selection.",
+        "images": []
+      },
+      {
+        "text": "E lost through artificial selection and restored by natural selection.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 二氧化碳排放量的多寡，影響著全球氣候變遷，依據最新資料顯示，美國、中國、印度在全球國家中焚燒化石燃料（fossil fuel）所產生的CO2排放量最多，若依CO2年總排放量與CO2每人平均排放量比較，其在全球排名第一的國家，分別為下列哪國？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 美國、美國",
+        "images": []
+      },
+      {
+        "text": "B 印度、美國",
+        "images": []
+      },
+      {
+        "text": "C 美國、中國",
+        "images": []
+      },
+      {
+        "text": "D 中國、美國",
+        "images": []
+      },
+      {
+        "text": "E 中國、中國",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 分析自然降雨中的成分，下列哪一項含量比例最高？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 硫酸（sulfuric acid）",
+        "images": []
+      },
+      {
+        "text": "B 硝酸（nitric acid）",
+        "images": []
+      },
+      {
+        "text": "C 鹽酸（hydrochloric acid）",
+        "images": []
+      },
+      {
+        "text": "D 蟻酸（formic acid）",
+        "images": []
+      },
+      {
+        "text": "E 碳酸（carbonic acid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 不整地栽培法（no-till farming）可幫助農地的永續經營，下列何者不是其特點？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 保護土壤",
+        "images": []
+      },
+      {
+        "text": "B 留下作物殘株在土壤表面有助水的浸潤減少逕流，進而降低肥料及殺蟲劑對鄰近水源的污染",
+        "images": []
+      },
+      {
+        "text": "C 促進土壤中動、植物之多樣性",
+        "images": []
+      },
+      {
+        "text": "D 減少燃料和勞力成本",
+        "images": []
+      },
+      {
+        "text": "E 導致粒狀土壤結構中散佈土塊",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 對某陸域生物群落（community）研究其能量的傳遞與代謝，發現群落的總呼吸作用所釋放的能量遠超過此群落生產者經由光合作用所捕獲的能量，下列何種情況最有可能發生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 群落的生物量（biomass）在減少",
+        "images": []
+      },
+      {
+        "text": "B 群落的生物量在增加",
+        "images": []
+      },
+      {
+        "text": "C 群落的生物量守恆",
+        "images": []
+      },
+      {
+        "text": "D 群落的生物量沒有一定的趨勢",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列何者是近代造成荒漠化（Desertification）的最主要因素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 畜產的過度放牧",
+        "images": []
+      },
+      {
+        "text": "B 過度作物栽植",
+        "images": []
+      },
+      {
+        "text": "C 過度使用農機具",
+        "images": []
+      },
+      {
+        "text": "D 缺乏降雨",
+        "images": []
+      },
+      {
+        "text": "E 濕地的恢復",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 有關溫室效應（greenhouse effect）的敘述之中，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 此為氧氣所產生的熱陷（heat-trapping）作用",
+        "images": []
+      },
+      {
+        "text": "B 沒有此現象，則地球表面的溫度會下降到約–18°C",
+        "images": []
+      },
+      {
+        "text": "C 如果大氣層的二氧化碳增加，則該現象會減少",
+        "images": []
+      },
+      {
+        "text": "D 該現象的減少會引起全球暖化的產生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 日前震驚台灣社會的毒澱粉事件之順丁烯二酸酐（maleic anhydride），主要是傷害人體何種細胞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎小管上皮細胞",
+        "images": []
+      },
+      {
+        "text": "B 肺泡上皮細胞",
+        "images": []
+      },
+      {
+        "text": "C 動脈內皮細胞",
+        "images": []
+      },
+      {
+        "text": "D 微血管內皮細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列敍述何者屬於生物修復（bioremediation）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 利用大腸桿菌生產胰島素",
+        "images": []
+      },
+      {
+        "text": "B 利用植物將土壤中有毒金屬吸收至植物體內",
+        "images": []
+      },
+      {
+        "text": "C 利用真菌製造新的抗生素",
+        "images": []
+      },
+      {
+        "text": "D 利用基因治療修復受損的DNA",
+        "images": []
+      },
+      {
+        "text": "E 利用植物細胞生產二次代謝物（secondary metabolites）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. What is a major consequence for plants and animals if current predictions of global warming are accurate?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Rates of natural selection will increase at the same pace.",
+        "images": []
+      },
+      {
+        "text": "B New continental land masses will appear.",
+        "images": []
+      },
+      {
+        "text": "C Water will be more widely available for plants and animals.",
+        "images": []
+      },
+      {
+        "text": "D Anticipated changes in climate will occur faster than many organisms can move or adapt.",
+        "images": []
+      },
+      {
+        "text": "E Many plants and animals will become smaller.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 有關真核細胞（eukaryotic cell）的起源來自內共生（endosymbiotic）的假說，其證據何在？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在白蟻腸道發現真核細胞的存在",
+        "images": []
+      },
+      {
+        "text": "B 細菌可生存於極端環境裡",
+        "images": []
+      },
+      {
+        "text": "C 吞噬作用（phagocytosis）的過程",
+        "images": []
+      },
+      {
+        "text": "D 在角蟬（grass hopper）的細胞內發現細菌生存於內",
+        "images": []
+      },
+      {
+        "text": "E 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. Which of the following descriptions about “toxin in the environment” is INCORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The biological magnification is the toxin become more concentrated in trophic level of food web.",
+        "images": []
+      },
+      {
+        "text": "B Chlorinated hydrocarbons has demonstrated biological magnification.",
+        "images": []
+      },
+      {
+        "text": "C Some low toxic chemicals transform high toxic by exploring sunlight or microbial metabolism.",
+        "images": []
+      },
+      {
+        "text": "D Chemicals released into the environment may be relatively harmless but converted to more toxic product by reaction with other substances, by exposure to light, or by the metabolism of microorganism.",
+        "images": []
+      },
+      {
+        "text": "E WHO allows that DDT strictly reuse in disease vector control in 2007, so DDT is not environmental toxin anymore.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 大雄到台東知本森林遊樂區進行生態之旅時，意外發現了既不像烏頭翁也不像白頭翁的花頭翁。大雄決心一探究竟，在野外搭起了偽裝帳篷進行長期的觀察。大雄腦海有一個假說：在樹林間如果可以觀察到烏頭翁與白頭翁的交配、築巢與育雛行為，成長後的下一代花頭翁可以繼續繁衍後代。請問大雄正在從事下列哪一個選項的田野調查工作？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 型態種觀念（morphological species concept）",
+        "images": []
+      },
+      {
+        "text": "B 生物種觀念（biological species concept）",
+        "images": []
+      },
+      {
+        "text": "C 生態種觀念（ecological species concept）",
+        "images": []
+      },
+      {
+        "text": "D 親緣關係種觀念（phylogenetic species concept）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. Which is NOT a recognized hypothesis to account for the strong competitive ability of invasives?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Enemy release",
+        "images": []
+      },
+      {
+        "text": "B Superior competition",
+        "images": []
+      },
+      {
+        "text": "C Lack of environmental constraints",
+        "images": []
+      },
+      {
+        "text": "D Propagule pressure",
+        "images": []
+      },
+      {
+        "text": "E Climate pre-adaptation",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 目前政府大力推動“台灣生物誌（Fauna and Flora of Taiwan）”的完成，為何書中並未針對那一類群生物的絕滅速率加以推測之？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 因台灣地區物種絕滅情形很少發生",
+        "images": []
+      },
+      {
+        "text": "B 因新物種的演化相當快可彌補絕滅物種數",
+        "images": []
+      },
+      {
+        "text": "C 因多數絕滅生物屬於微生物類，不易觀察到",
+        "images": []
+      },
+      {
+        "text": "D 因一些類群的生物物種尚未被發現及描述",
+        "images": []
+      },
+      {
+        "text": "E 因台灣地區絕滅並不代表其他地區沒有此類物種存在",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Which of the following poses the greatest potential threat to biodiversity?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A replanting after a clear cut, a monoculture of Douglas fir trees on land that consisted of old growth Douglas fir, western cedar, and western hemlock.",
+        "images": []
+      },
+      {
+        "text": "B trapping and relocating large predators, such as mountain lions, that pose a threat as they move into areas of relatively dense human populations.",
+        "images": []
+      },
+      {
+        "text": "C importing an Asian insect into the United States to control a weed that competes with staple crops.",
+        "images": []
+      },
+      {
+        "text": "D allowing previously used farmland go fallow and begin to fill in with weeds and then shrubs and saplings.",
+        "images": []
+      },
+      {
+        "text": "E releasing sterilized rainbow trout to boost the sport fishing of a river system that contains native brook trout.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 再生能源（Renewable energy）是近年來許多國家極力發展的項目，下列何者不屬於再生能源的來源？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 風",
+        "images": []
+      },
+      {
+        "text": "B 太陽能",
+        "images": []
+      },
+      {
+        "text": "C 生質能",
+        "images": []
+      },
+      {
+        "text": "D 核能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. If a community exhibits lognormal rank abundance, we may conclude there are ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a large number of rare species, a large number of common species, and a few species of intermediate rank",
+        "images": []
+      },
+      {
+        "text": "B a few rare species, a few common species, and a large number of species of intermediate rank",
+        "images": []
+      },
+      {
+        "text": "C a few rare species and a large number of very common species",
+        "images": []
+      },
+      {
+        "text": "D a few common species and a large number of rare species",
+        "images": []
+      },
+      {
+        "text": "E rare species are very common",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 京都議定書共制定三種跨國溫室氣體共同減量機制，包括已開發國家共同執行溫室氣體減量計畫；已開發國家投資開發中國家以減少溫室氣體排放，可作為抵換量；溫室氣體排放交易之機制。而現今大氣中二氧化碳的增加，最主要是因為下列哪一種因素所造成的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生物圈內的生物量急速增加",
+        "images": []
+      },
+      {
+        "text": "B 初級生產者增加",
+        "images": []
+      },
+      {
+        "text": "C 吸收逸出地球的紅外線",
+        "images": []
+      },
+      {
+        "text": "D 爆炸性增加的人口細胞呼吸量大增",
+        "images": []
+      },
+      {
+        "text": "E 石化燃料與木材的燃燒",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 因吸血蝙蝠（vampire bat）種種傳說的關係，很多人並不太喜歡蝙蝠，但世界上許多地區並沒有吸血蝙蝠的分佈，包括台灣在內，請問其主要限制吸血蝙蝠分佈的因子為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 昆蟲數量",
+        "images": []
+      },
+      {
+        "text": "B 溫度",
+        "images": []
+      },
+      {
+        "text": "C 雨量",
+        "images": []
+      },
+      {
+        "text": "D 畜養牛隻的密度",
+        "images": []
+      },
+      {
+        "text": "E B和C正確",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. ________ is the ability of a community or ecosystem to maintain structure in the face of potential disturbance.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Resilience",
+        "images": []
+      },
+      {
+        "text": "B Elasticity",
+        "images": []
+      },
+      {
+        "text": "C Resistance",
+        "images": []
+      },
+      {
+        "text": "D Plasticity",
+        "images": []
+      },
+      {
+        "text": "E Flexibility",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列哪種環境物質是最有可能影響脊椎動物的生殖功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 二氧化硫",
+        "images": []
+      },
+      {
+        "text": "B 雙酚A（bisphenol A）",
+        "images": []
+      },
+      {
+        "text": "C 氟利昂（freon）",
+        "images": []
+      },
+      {
+        "text": "D 二氧化氮",
+        "images": []
+      },
+      {
+        "text": "E 汞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. Imagine a population of 1,000 small rodents. Of these, 250 are breeding females, 250 are breeding males, and 500 are nonbreeding juveniles. What is the effective population size?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1,500",
+        "images": []
+      },
+      {
+        "text": "B 1,000",
+        "images": []
+      },
+      {
+        "text": "C 500",
+        "images": []
+      },
+      {
+        "text": "D 300",
+        "images": []
+      },
+      {
+        "text": "E 250",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 關於生物多樣性（biodiversity）的敘述何者為非？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 物種的遺傳多樣性（genetic diversity）變異越大，它對環境變動的適應能力就越強",
+        "images": []
+      },
+      {
+        "text": "B 遺傳多樣性（genetic diversity）是指存在物種或物種間的基因多樣性",
+        "images": []
+      },
+      {
+        "text": "C 棲息地喪失或切割是造成生物多樣性消失的原因之一",
+        "images": []
+      },
+      {
+        "text": "D 引進外來種可以改善生物多樣性消失的問題",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. Overexploitation encourages extinction and is most likely to affect ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A most organisms that live in the oceans",
+        "images": []
+      },
+      {
+        "text": "B terrestrial organisms more than aquatic organisms",
+        "images": []
+      },
+      {
+        "text": "C edge-adapted species",
+        "images": []
+      },
+      {
+        "text": "D animals that occupy a broad ecological niche",
+        "images": []
+      },
+      {
+        "text": "E large animals with low intrinsic reproductive rates",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列何種化合物是造成臭氧耗竭（ozone depletion）的主要原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 二氧化碳（CO2）",
+        "images": []
+      },
+      {
+        "text": "B 氟氯碳化合物（chlorofluorocarbons）",
+        "images": []
+      },
+      {
+        "text": "C 二氧化硫（SO2）",
+        "images": []
+      },
+      {
+        "text": "D 甲烷（CH4）",
+        "images": []
+      },
+      {
+        "text": "E 氧（O2）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列何者為生物復育（bioremediation）的例子？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由培養的原核生物生產抗生素",
+        "images": []
+      },
+      {
+        "text": "B 利用細菌來產生轉基因植物",
+        "images": []
+      },
+      {
+        "text": "C 利用寄生性細菌殺死其它細菌",
+        "images": []
+      },
+      {
+        "text": "D 利用微生物的代謝來降低污染地區污染物的濃度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. DDT was once considered a \"silver bullet\" that would permanently eradicate insect pests. Today, instead, DDT is largely useless against many insects. Which of these would have been required for this pest eradication effort to be successful in the long run?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The frequency of DDT application should have been higher.",
+        "images": []
+      },
+      {
+        "text": "B None of the individual insects should have possessed genomes that made them resistant to DDT.",
+        "images": []
+      },
+      {
+        "text": "C DDT application should have been continual.",
+        "images": []
+      },
+      {
+        "text": "D All habitats should have received applications of DDT at about the same time.",
+        "images": []
+      },
+      {
+        "text": "E Larger doses of DDT should have been applied.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 以科學的方法研究對生物多樣性的影響、維持、喪失和復原的科學，下列何者最接近？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生物資訊學（bioinformatics）",
+        "images": []
+      },
+      {
+        "text": "B 生態學（ecology）",
+        "images": []
+      },
+      {
+        "text": "C 生物地理學（biogeography）",
+        "images": []
+      },
+      {
+        "text": "D 保育生物學（conservation biology）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 以下哪一選項最符合生物放大作用（biological magnification）的意涵？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 愈在食物鏈上層的生物，其生物量愈小",
+        "images": []
+      },
+      {
+        "text": "B 愈在食物鏈下層的生物，其生物量愈大",
+        "images": []
+      },
+      {
+        "text": "C 愈在食物鏈上層的生物，所消耗的食物量愈大",
+        "images": []
+      },
+      {
+        "text": "D 愈在食物鏈上層的生物，留存其體內的污染物濃度愈低",
+        "images": []
+      },
+      {
+        "text": "E 愈在食物鏈上層的生物，留存其體內的污染物濃度愈高",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. Which of the following statements about umbrella species is correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Umbrella species are species whose habitat requirements are critical to a certain small area.",
+        "images": []
+      },
+      {
+        "text": "B The Northern spotted owl (Strix occidentialis) is considered to be an important umbrella species.",
+        "images": []
+      },
+      {
+        "text": "C The gopher tortoises (Gopherus polyphemus) is considered to be an important umbrella species.",
+        "images": []
+      },
+      {
+        "text": "D Umbrella species must be attractive and more readily engendered support from the public for their conservation.",
+        "images": []
+      },
+      {
+        "text": "E Formosan macaques are considered to be an important umbrella species in Taiwan.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 下列何者為可再生性能源（renewable energy）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 石油",
+        "images": []
+      },
+      {
+        "text": "B 太陽能",
+        "images": []
+      },
+      {
+        "text": "C 天然氣",
+        "images": []
+      },
+      {
+        "text": "D 煤",
+        "images": []
+      },
+      {
+        "text": "E 核能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. El Niño events",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A occur when the Southern Oscillation index is high.",
+        "images": []
+      },
+      {
+        "text": "B occur when barometric pressure is lower in the western Pacific than in the eastern Pacific.",
+        "images": []
+      },
+      {
+        "text": "C include the appearance of warm currents on the Pacific coast of South America.",
+        "images": []
+      },
+      {
+        "text": "D are always accompanied by La Niña events at the same time.",
+        "images": []
+      },
+      {
+        "text": "E are accompanied by westward movement of the location of storm generation in the Pacific.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. Which statement about variation is true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A All new alleles are the result of nucleotide variability.",
+        "images": []
+      },
+      {
+        "text": "B All phenotypic variation is the result of genotypic variation.",
+        "images": []
+      },
+      {
+        "text": "C All genetic variation produces phenotypic variation.",
+        "images": []
+      },
+      {
+        "text": "D All nucleotide variability results in neutral variation.",
+        "images": []
+      },
+      {
+        "text": "E All geographic variation results from the existence of clines.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 在Rachel Carson所著的「寂靜的春天」（Silent Spring）一書中所敘述有關大量使用DTT造成的環境問題中，影響鳥類如pelicans、ospreys和eagles的主要現象，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 幼鳥的成長",
+        "images": []
+      },
+      {
+        "text": "B 繁殖成功率下降",
+        "images": []
+      },
+      {
+        "text": "C 慢性肝毒性",
+        "images": []
+      },
+      {
+        "text": "D 神經系統退化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 科學家研究北極環境變遷，發現此區域發生淡水流量增加與植物的生長季延長等現象，這樣的趨勢推測與下列何種效應最為相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 臭氧層被破壞",
+        "images": []
+      },
+      {
+        "text": "B 人口移入北極",
+        "images": []
+      },
+      {
+        "text": "C 人為單種栽培化",
+        "images": []
+      },
+      {
+        "text": "D 全球暖化的訊號",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 近年隨著生質燃料的需求日益升高，加上第一代以甘蔗及玉米等作物為原料的生質酒精一直存在「與人爭糧」的疑慮，因此各國爭相投入以非糧食作物為生產原料的第二代生質酒精—纖維酒精的技術研發，纖維的來源包括玉米梗、廢木片等農林廢棄物或狼尾草、楊樹等作物，台灣因土地資源有限，在不與糧食作物爭地及不影響生態的原則下，下列何者較不適合做為生產纖維酒精的原料來源？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 稻桿",
+        "images": []
+      },
+      {
+        "text": "B 甘蔗渣",
+        "images": []
+      },
+      {
+        "text": "C 芒草",
+        "images": []
+      },
+      {
+        "text": "D 狼尾草",
+        "images": []
+      },
+      {
+        "text": "E 桉樹",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 環境荷爾蒙係指外因性干擾生物體內分泌的化學物質，這些物質可模擬體內的天然荷爾蒙，與荷爾蒙的受體結合，干擾本來身體內荷爾蒙的作用。下列哪一項不是環境荷爾蒙？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 聚氯乙烯",
+        "images": []
+      },
+      {
+        "text": "B 多氯聯苯",
+        "images": []
+      },
+      {
+        "text": "C 戴奧辛",
+        "images": []
+      },
+      {
+        "text": "D 壬基苯酚",
+        "images": []
+      },
+      {
+        "text": "E 氧化三丁基錫",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 關於荒漠化（Desertification）和森林砍伐（deforestation）所造成的現象，下列何者在此二者中最為相似？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在一個地區人口過剩",
+        "images": []
+      },
+      {
+        "text": "B 在一個地區不受歡迎的雜草過度生長",
+        "images": []
+      },
+      {
+        "text": "C 在一個地區降雨量缺乏",
+        "images": []
+      },
+      {
+        "text": "D 在一個地區植物和動物物種匱乏",
+        "images": []
+      },
+      {
+        "text": "E 濕地棲地的喪失",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列有關溫室效應的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大氣中溫室氣體的增加是造成暖化的主因之一",
+        "images": []
+      },
+      {
+        "text": "B CO2是主要的溫室氣體",
+        "images": []
+      },
+      {
+        "text": "C 當大氣中CO2濃度增加時，植物的生產力也會增加",
+        "images": []
+      },
+      {
+        "text": "D 當大氣中CO2濃度增加時，C4植物的分佈範圍會較現今擴大",
+        "images": []
+      },
+      {
+        "text": "E 大量的森林砍伐是造成大氣中CO2濃度增加的主因之一",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 下列何者不是生物多樣性所包括的內容？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 遺傳多樣性",
+        "images": []
+      },
+      {
+        "text": "B 物種多樣性",
+        "images": []
+      },
+      {
+        "text": "C 生物個體數量多",
+        "images": []
+      },
+      {
+        "text": "D 生態系多樣性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 若發生有機氯農藥的污染，下列哪一種生物的體內之殘留量較多？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 水鳥",
+        "images": []
+      },
+      {
+        "text": "B 螃蟹",
+        "images": []
+      },
+      {
+        "text": "C 魚類",
+        "images": []
+      },
+      {
+        "text": "D 貝類",
+        "images": []
+      },
+      {
+        "text": "E 浮游生物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 病原體（pathogen）傳播至新棲息地時，通常較具致死性的原因，下列敘述何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 中間宿主物種加速移動將病原體運送到新的地區",
+        "images": []
+      },
+      {
+        "text": "B 病原體在新環境中演變出更有效的繁殖形式",
+        "images": []
+      },
+      {
+        "text": "C 新環境中的宿主沒有經過天擇（natural selection）",
+        "images": []
+      },
+      {
+        "text": "D 新環境的面積通常較小，容易在宿主之間完成病原體的傳播",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 下列何者不是生物多樣性降低的主要原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 土地過度開發利用",
+        "images": []
+      },
+      {
+        "text": "B 外來物種的引進",
+        "images": []
+      },
+      {
+        "text": "C 天敵",
+        "images": []
+      },
+      {
+        "text": "D 棲地喪失",
+        "images": []
+      },
+      {
+        "text": "E 污染",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

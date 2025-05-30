@@ -1,0 +1,1432 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 有關爬蟲類和哺乳類動物胚胎的構造，具有下列哪四層胚胎外膜的結構？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 卵黄膜、尿囊、絨毛膜和蜘蛛膜",
+        "images": []
+      },
+      {
+        "text": "B 卵黄膜、尿囊、絨毛膜和羊膜",
+        "images": []
+      },
+      {
+        "text": "C 卵黄膜、尿囊、蜘蛛膜和羊膜",
+        "images": []
+      },
+      {
+        "text": "D 蜘蛛膜、尿囊、絨毛膜和羊膜",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 人類指頭間缺乏蹼是因何種機制所導致？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 型態形成（pattern formation）",
+        "images": []
+      },
+      {
+        "text": "B 凋亡（apoptosis）",
+        "images": []
+      },
+      {
+        "text": "C 細胞分裂（cell division）",
+        "images": []
+      },
+      {
+        "text": "D 誘導（induction）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 人的手在胚胎發育的過程中原本有蹼，但出生時卻消失了，請問是何作用讓蹼消失？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞壞死",
+        "images": []
+      },
+      {
+        "text": "B 細胞凋亡",
+        "images": []
+      },
+      {
+        "text": "C 細胞自噬",
+        "images": []
+      },
+      {
+        "text": "D 細胞增生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 關於人類胚胎發育過程中提供胚胎養分的為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A yolk sac（卵黃囊）",
+        "images": []
+      },
+      {
+        "text": "B allantois（尿囊）",
+        "images": []
+      },
+      {
+        "text": "C chorion（羊膜）",
+        "images": []
+      },
+      {
+        "text": "D placenta（胎盤）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Which As cleavage continues during frog development, the size of the blastomeres ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A increases as the number of the blastomeres increases",
+        "images": []
+      },
+      {
+        "text": "B decreases as the number of the blastomeres increases",
+        "images": []
+      },
+      {
+        "text": "C decreases as the number of the blastomeres decreases",
+        "images": []
+      },
+      {
+        "text": "D increases as the number of the blastomeres stays the same",
+        "images": []
+      },
+      {
+        "text": "E increases as the number of the blastomeres decreases",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. From earliest to latest, the overall sequence of early development proceeds as follows:",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A first cell division → synthesis of embryo's DNA begins → acrosomal reaction → cortical reaction.",
+        "images": []
+      },
+      {
+        "text": "B first cell division → cortical reaction → acrosomal reaction → synthesis of embryo's DNA begins.",
+        "images": []
+      },
+      {
+        "text": "C acrosomal reaction → cortical reaction → synthesis of embryo's DNA begins → first cell division.",
+        "images": []
+      },
+      {
+        "text": "D cortical reaction → synthesis of embryo's DNA begins → acrosomal reaction → first cell division.",
+        "images": []
+      },
+      {
+        "text": "E cortical reaction → acrosomal reaction → first cell division → synthesis of embryo's DNA begins.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. ________ 會防止受精卵變成多套染色體的情況。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Acrosome",
+        "images": []
+      },
+      {
+        "text": "B 精子頭端的蛋白質與相對應卵子的接受器結合",
+        "images": []
+      },
+      {
+        "text": "C The fertilization envelop",
+        "images": []
+      },
+      {
+        "text": "D 卵子的jelly coat被破壞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 下列各羅馬數字內的名詞是胚胎發育（embryonic development）的過程，請依發育先後的順序排列之：Ⅰ.分裂（cleavage）Ⅱ.受精（fertilization）Ⅲ.原腸形成（gastrulation）Ⅳ.神經形成（neurulation）Ⅴ.器官形成（organogenesis）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ⅰ，Ⅱ，Ⅲ，Ⅳ，Ⅴ",
+        "images": []
+      },
+      {
+        "text": "B Ⅱ，Ⅰ，Ⅲ，Ⅴ，Ⅳ",
+        "images": []
+      },
+      {
+        "text": "C Ⅱ，Ⅰ，Ⅲ，Ⅳ，Ⅴ",
+        "images": []
+      },
+      {
+        "text": "D Ⅱ，Ⅲ，Ⅰ，Ⅳ，Ⅴ",
+        "images": []
+      },
+      {
+        "text": "E Ⅰ，Ⅱ，Ⅲ，Ⅴ，Ⅳ",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 請問在動物分類系統中，二胚層（Diploblastic）動物跟三胚層（Triploblastic）動物的差別之一是在於下列何者的有無？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Mesoderm",
+        "images": []
+      },
+      {
+        "text": "B Endoderm",
+        "images": []
+      },
+      {
+        "text": "C Amphoderm",
+        "images": []
+      },
+      {
+        "text": "D Epiderm",
+        "images": []
+      },
+      {
+        "text": "E Ectoderm",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. Which one of pairs is matched correctly for the germ layers from which animals evolve?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ectoderm-muscle.",
+        "images": []
+      },
+      {
+        "text": "B Mesoderm-outer covering.",
+        "images": []
+      },
+      {
+        "text": "C Endoderm-internal linings of digestive tract.",
+        "images": []
+      },
+      {
+        "text": "D Mesoderm-nervous system.",
+        "images": []
+      },
+      {
+        "text": "E Ectoderm-internal linings of liver and lungs.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. The blastopore denotes the presence of an endoderm-lined cavity in the developing embryo, a cavity that is known as the",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A archenteron.",
+        "images": []
+      },
+      {
+        "text": "B blastula.",
+        "images": []
+      },
+      {
+        "text": "C coelom.",
+        "images": []
+      },
+      {
+        "text": "D blastocoel.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 一個學生在青蛙原腸時期的受精卵外側組織塗上一橘色螢光染料，如果此胚胎正常發育，當蝌蚪照射UV光時，那個區域會出現橘色？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the heart",
+        "images": []
+      },
+      {
+        "text": "B the liver",
+        "images": []
+      },
+      {
+        "text": "C the brain",
+        "images": []
+      },
+      {
+        "text": "D the pancreas",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 胚胎發育的順序，下列何者為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 分裂（cleavage）、囊胚（blastula）、原腸胚（gastrula）、桑椹胚（morula）",
+        "images": []
+      },
+      {
+        "text": "B 分裂（cleavage）、原腸胚（gastrula）、桑椹胚（morula）、囊胚（blastula）",
+        "images": []
+      },
+      {
+        "text": "C 分裂（cleavage）、桑椹胚（morula）、囊胚（blastula）、原腸胚（gastrula）",
+        "images": []
+      },
+      {
+        "text": "D 原腸胚（gastrula）、桑椹胚（morula）、囊胚（blastula）、分裂（cleavage）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列胚胎時期的部分何者會發育成為人類的脊髓（spinal cord）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 神經管（neural tube）",
+        "images": []
+      },
+      {
+        "text": "B 內胚層（endoderm）",
+        "images": []
+      },
+      {
+        "text": "C 雙邊體節的一部分（bilateral somites）",
+        "images": []
+      },
+      {
+        "text": "D 原腸（archenteron）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 生物胚胎發育時，主要參與外胚層被誘導形成神經管（neural tube）是下列何者構造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脊索（notochord）",
+        "images": []
+      },
+      {
+        "text": "B 原腸腔（archenteron）",
+        "images": []
+      },
+      {
+        "text": "C 神經脊（neural crest）",
+        "images": []
+      },
+      {
+        "text": "D 下胚層（hypoblast）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Contact of a sperm with signal molecules in the coat of an egg causes the sperm to undergo ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A mitosis",
+        "images": []
+      },
+      {
+        "text": "B depolarization",
+        "images": []
+      },
+      {
+        "text": "C apoptosis",
+        "images": []
+      },
+      {
+        "text": "D vitellogenesis",
+        "images": []
+      },
+      {
+        "text": "E the acrosomal reaction",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下表有關脊椎動物胚胎中，胚層與其所形成的器官或組織之配對，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 外胚層：皮膚外表　　中胚層：神經組織　　　內胚層：骨骼",
+        "images": []
+      },
+      {
+        "text": "B 外胚層：皮膚外表　　中胚層：消化道內襯　　內胚層：泌尿系統組織",
+        "images": []
+      },
+      {
+        "text": "C 外胚層：神經組織　　中胚層：肌肉　　　　　內胚層：消化道內襯",
+        "images": []
+      },
+      {
+        "text": "D 外胚層：生殖系統　　中胚層：骨骼　　　　　內胚層：泌尿系統組織",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列何種組織或器官與其發育來源的胚層之配對不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肌肉–中胚層",
+        "images": []
+      },
+      {
+        "text": "B 皮膚–外胚層",
+        "images": []
+      },
+      {
+        "text": "C 神經–中胚層",
+        "images": []
+      },
+      {
+        "text": "D 胃–內胚層",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 有關胚胎發育的基本順序，下列何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A blastula → gastrula → cleavage",
+        "images": []
+      },
+      {
+        "text": "B cleavage → gastrula → blastula",
+        "images": []
+      },
+      {
+        "text": "C cleavage → blastula → gastrula",
+        "images": []
+      },
+      {
+        "text": "D gastrula → blastula → cleavage",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 動物胚胎發育時會先形成三個胚層（內胚層、中胚層、外胚層），再進一步發育為各種組織、器官與系統。下列何種組織、器官或系統非自中胚層發育而來？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 骨骼肌肉系統",
+        "images": []
+      },
+      {
+        "text": "B 皮膚的真皮層（Dermis）",
+        "images": []
+      },
+      {
+        "text": "C 皮膚的表皮層（Epidermis）",
+        "images": []
+      },
+      {
+        "text": "D 生殖系統",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 胚胎發育過程中之原腸（archenteron）會發育成為下列哪一構造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 囊胚腔",
+        "images": []
+      },
+      {
+        "text": "B 胎盤",
+        "images": []
+      },
+      {
+        "text": "C 消化道的管腔",
+        "images": []
+      },
+      {
+        "text": "D 內胚層",
+        "images": []
+      },
+      {
+        "text": "E 原口動物（Protostomia）之口器",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 關於胚胎發育時，腦部的端腦（telencephalon）將來會發育為什麼構造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 中腦（midbrain）",
+        "images": []
+      },
+      {
+        "text": "B 大腦（cerebrum）",
+        "images": []
+      },
+      {
+        "text": "C 小腦（cerebellum）",
+        "images": []
+      },
+      {
+        "text": "D 延腦（medulla）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列有關人體組織或器官起源及胚層的配對，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胸腺：外胚層",
+        "images": []
+      },
+      {
+        "text": "B 肝臟：中胚層",
+        "images": []
+      },
+      {
+        "text": "C 骨骼：中胚層",
+        "images": []
+      },
+      {
+        "text": "D 腎上腺髓質：內胚層",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Which of the following structures does NOT develop from ectoderm of vertebrates?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A epidermis of skin",
+        "images": []
+      },
+      {
+        "text": "B nervous system",
+        "images": []
+      },
+      {
+        "text": "C adrenal cortex",
+        "images": []
+      },
+      {
+        "text": "D teeth",
+        "images": []
+      },
+      {
+        "text": "E germ cells",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 二胚層動物一定有體腔（Body cavity）",
+        "images": []
+      },
+      {
+        "text": "B 肛門是由胚孔（Blastopore）發育而來的",
+        "images": []
+      },
+      {
+        "text": "C 後口動物（Deuterostome）在受精卵分裂成八細胞階段（Eight-cell stage）時，是成放線狀（Radial）排列",
+        "images": []
+      },
+      {
+        "text": "D 囊胚（Blastula）的出現是在原腸胚形成（Gastrulation）之後",
+        "images": []
+      },
+      {
+        "text": "E 海綿動物（Sponge）有最簡單的組織（Tissue）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 下列何者不是脊椎動物內胚層的衍生物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肝臟",
+        "images": []
+      },
+      {
+        "text": "B 胰臟",
+        "images": []
+      },
+      {
+        "text": "C 腎上腺髓質",
+        "images": []
+      },
+      {
+        "text": "D 呼吸道的內襯上皮",
+        "images": []
+      },
+      {
+        "text": "E 生殖系統",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 不同種個體的配子細胞之所以不能成功受孕，最有可能的原因為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 精子的acrosomal enzyme不能消化卵子的jelly coat",
+        "images": []
+      },
+      {
+        "text": "B 精子頭前端的蛋白質不能與卵子的接受器結合",
+        "images": []
+      },
+      {
+        "text": "C fertilization envelop無法形成",
+        "images": []
+      },
+      {
+        "text": "D 精子的活動力不活躍",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. ________ is formed in ________ during embryonic development. Which of the following statements is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Dorsal lip, frog",
+        "images": []
+      },
+      {
+        "text": "B Primitive streak, sea urchin",
+        "images": []
+      },
+      {
+        "text": "C Primitive streak, chick",
+        "images": []
+      },
+      {
+        "text": "D Epiblast, chick",
+        "images": []
+      },
+      {
+        "text": "E Epiblast, human",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 海膽精卵結合後，啟動的慢速阻斷多精入卵（slow block to polyspermy）機制中，活化的G蛋白促使卵細胞質內的X釋出Y離子，Y離子作為二級訊息分子的角色，作用在皮質顆粒（cortical granules），使其膨大並與細胞膜結合，將內容物釋入卵黃腔，則X、Y各為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 高基氏體、鉀",
+        "images": []
+      },
+      {
+        "text": "B 高基氏體、鈣",
+        "images": []
+      },
+      {
+        "text": "C 內質網、鉀",
+        "images": []
+      },
+      {
+        "text": "D 內質網、鈣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 關於胚胎發育過程（1.桑椹期morula；2.囊胚期gastrula；3.原腸期blastula；4.分裂期cleavage），發生順序下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1 → 2 → 3 → 4",
+        "images": []
+      },
+      {
+        "text": "B 4 → 1 → 2 → 3",
+        "images": []
+      },
+      {
+        "text": "C 3 → 4 → 1 → 2",
+        "images": []
+      },
+      {
+        "text": "D 2 → 3 → 4 → 1",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. From earliest to latest, the overall sequence of early development proceeds in which of the following sequences?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A gastrulation → organogenesis → cleavage",
+        "images": []
+      },
+      {
+        "text": "B ovulation → gastrulation → fertilization",
+        "images": []
+      },
+      {
+        "text": "C cleavage → gastrulation → organogenesis",
+        "images": []
+      },
+      {
+        "text": "D gastrulation → blastulation → neurulation",
+        "images": []
+      },
+      {
+        "text": "E preformation → morphogenesis → neurulation",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 根據Rick Steinhardt等人的研究顯示，卵形成fertilization envelope和下列哪一種離子的分佈有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A K+",
+        "images": []
+      },
+      {
+        "text": "B Ca2+",
+        "images": []
+      },
+      {
+        "text": "C Na+",
+        "images": []
+      },
+      {
+        "text": "D Cl-",
+        "images": []
+      },
+      {
+        "text": "E H+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列哪一項特徵使得脊椎動物存活於陸地的能力大為提升？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 具有羊膜的蛋",
+        "images": []
+      },
+      {
+        "text": "B 左右對稱",
+        "images": []
+      },
+      {
+        "text": "C 維持體溫的能力",
+        "images": []
+      },
+      {
+        "text": "D 兩心房兩心室",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 精卵受精的瞬間引發了卵細胞內的訊息傳遞，卵細胞內立即有大量的Ca++從內質網釋放至細胞質液中。下列哪一個選項和上述可能發生在卵細胞的訊息傳遞無直接關係？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A phospholipase C",
+        "images": []
+      },
+      {
+        "text": "B DAG (diacylglycerol)",
+        "images": []
+      },
+      {
+        "text": "C PKA (protein kinase A)",
+        "images": []
+      },
+      {
+        "text": "D IP3(inositol-1,4,5-triphosphate)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. Cephalization is primarily associated with",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A adaptation to dark environments.",
+        "images": []
+      },
+      {
+        "text": "B method of reproduction.",
+        "images": []
+      },
+      {
+        "text": "C fate of the blastopore.",
+        "images": []
+      },
+      {
+        "text": "D type of digestive system.",
+        "images": []
+      },
+      {
+        "text": "E bilateral symmetry.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列何者是中胚層（Mesoderm）所發育而來？(1)皮膚的表皮(2)骨骼系統(3)肌肉系統(4)循環系統",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)",
+        "images": []
+      },
+      {
+        "text": "B (2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(2)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 關於不同胚層發育之配對，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 循環系統–外胚層（ectoderm）",
+        "images": []
+      },
+      {
+        "text": "B 骨骼系統–中胚層（mesoderm）",
+        "images": []
+      },
+      {
+        "text": "C 肝臟–內胚層（endoderm）",
+        "images": []
+      },
+      {
+        "text": "D 神經系統–外胚層",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 假設在動物胚胎原腸胚形成前，經實驗操作將組織者（organizer）移除，對於發育中的胚胎最可能會產生下列何種影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 對發育沒有影響",
+        "images": []
+      },
+      {
+        "text": "B 原腸化未發生，正常發育停止",
+        "images": []
+      },
+      {
+        "text": "C 個體體軸會正常發育，但胚胎附肢不會發育",
+        "images": []
+      },
+      {
+        "text": "D 胚胎不會發育腸道，但所有其他器官和組織會正常發育",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列有關發生（development）的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 哺乳類的卵細胞膜上有精子的受器（receptors）",
+        "images": []
+      },
+      {
+        "text": "B 不全卵裂（meroblastic cleavage）發生在鳥類與青蛙，但不發生於人類",
+        "images": []
+      },
+      {
+        "text": "C 早期動物發生過程大致上是受精 → 卵裂（cleavage）→ 原腸胚形成（gastrulation）→ 器官形成（organogenesis）",
+        "images": []
+      },
+      {
+        "text": "D 線蟲的性腺（gonadal）組織前驅生殖細胞（germ cells）有特有的P顆粒（granules）的mRNA與蛋白質",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. Which of the following statements concerning human embryonic development is correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Inner cell mass is a group of cells that cluster at one end of the gastrula.",
+        "images": []
+      },
+      {
+        "text": "B The trophoblast, the outer epithelium of the gastrula, supports embryo growth.",
+        "images": []
+      },
+      {
+        "text": "C The trophoblast continues to expand into the endometrium, and four new extraembryonic membranes appear.",
+        "images": []
+      },
+      {
+        "text": "D By the end of blastocyst, three embryonic germ layers have formed.",
+        "images": []
+      },
+      {
+        "text": "E By the end of gastrulation, the extraembryonic ectoderm and extraembryonic membranes surround the embryo.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 人類卵細胞受精後，細胞會立即產生下列何種變化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ATP含量大幅下降",
+        "images": []
+      },
+      {
+        "text": "B 胞內pH值下降",
+        "images": []
+      },
+      {
+        "text": "C 動情素下降",
+        "images": []
+      },
+      {
+        "text": "D 細胞內部之貯存胞器（reservoirs）釋放出大量Ca2+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 老鼠受精卵在子宮著床後，胚胎發育可分成幾個不同階段：I. 卵裂期（cleavage）II. 神經胚形成（neurulation）III. 器官形成（organogenesis）IV. 受精（fertilization）V. 原腸胚形成（gastrulation）依據胚胎發育時間的前後排列順序，下列何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A IV → III → II → I → V",
+        "images": []
+      },
+      {
+        "text": "B IV → I → V → II → III",
+        "images": []
+      },
+      {
+        "text": "C IV → I → III → II → V",
+        "images": []
+      },
+      {
+        "text": "D IV → V → I → II → III",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 人的手在胚胎發育的過程中原本有蹼，但出生後卻消失了，請問是何作用讓蹼消失？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞壞死",
+        "images": []
+      },
+      {
+        "text": "B 細胞凋亡",
+        "images": []
+      },
+      {
+        "text": "C 細胞轉移",
+        "images": []
+      },
+      {
+        "text": "D 細胞增生",
+        "images": []
+      },
+      {
+        "text": "E 細胞分化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. Which of these is NOT considered an amniote?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A amphibians",
+        "images": []
+      },
+      {
+        "text": "B nonbird reptiles",
+        "images": []
+      },
+      {
+        "text": "C birds",
+        "images": []
+      },
+      {
+        "text": "D egg-laying mammals",
+        "images": []
+      },
+      {
+        "text": "E placental mammals",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列何者是內胚層（endoderm）的成體衍生物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 消化道的上皮內襯",
+        "images": []
+      },
+      {
+        "text": "B 骨骼系統",
+        "images": []
+      },
+      {
+        "text": "C 神經系統",
+        "images": []
+      },
+      {
+        "text": "D 腎上腺髓質",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列何者乃是衍生自外胚層（ectoderm）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 呼吸系統外層",
+        "images": []
+      },
+      {
+        "text": "B 神經系統",
+        "images": []
+      },
+      {
+        "text": "C 皮膚真皮層",
+        "images": []
+      },
+      {
+        "text": "D 心血管系統",
+        "images": []
+      },
+      {
+        "text": "E 消化系統相關腺體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 胚胎時期雌性子宮的發育是因為缺乏下列那一種激素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A GnRH",
+        "images": []
+      },
+      {
+        "text": "B Testosterone",
+        "images": []
+      },
+      {
+        "text": "C Mullerian Induction factor",
+        "images": []
+      },
+      {
+        "text": "D Inhibin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. Which of these is NOT considered an amniote?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A amphibians",
+        "images": []
+      },
+      {
+        "text": "B reptiles",
+        "images": []
+      },
+      {
+        "text": "C avians",
+        "images": []
+      },
+      {
+        "text": "D mammals",
+        "images": []
+      },
+      {
+        "text": "E all of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. While sampling marine plankton in a lab, a student encounters large numbers of fertilized eggs. The student rears some of the eggs in the laboratory for further study and finds that the blastopore becomes the mouth. The embryo develops into a trochophore larva and eventually has a true coelom. These eggs probably belonged to a(n) ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A arthropod",
+        "images": []
+      },
+      {
+        "text": "B nematode",
+        "images": []
+      },
+      {
+        "text": "C echinoderm",
+        "images": []
+      },
+      {
+        "text": "D mollusk",
+        "images": []
+      },
+      {
+        "text": "E chordate",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 哺乳動物在胚胎發育的過程中，進入原腸胚形成期（gastrulation）後，會繼續形成三個胚層（germ layers）。下列敘述何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 皮膚的表皮及其上的汗腺、毛囊等結構，是由外胚層（ectoderm）所發育而來的",
+        "images": []
+      },
+      {
+        "text": "B 胰臟與肝臟是由內胚層（endoderm）所發育而來的",
+        "images": []
+      },
+      {
+        "text": "C 骨骼與肌肉系統是由中胚層（mesoderm）所發育而來的",
+        "images": []
+      },
+      {
+        "text": "D 中樞神經系統是由中胚層所發育而來的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  }
+]

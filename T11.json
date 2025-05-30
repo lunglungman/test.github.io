@@ -1,0 +1,1447 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 典型血友病患者缺乏下列那一種凝血因子？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 第Ⅲ因子",
+        "images": []
+      },
+      {
+        "text": "B 第Ⅴ因子",
+        "images": []
+      },
+      {
+        "text": "C 第Ⅷ因子",
+        "images": []
+      },
+      {
+        "text": "D 第Ⅸ因子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. In an electrocardiogram (ECG), there are three major signals. The first one is called P wave, the second one is QRS complex, and the third one is T wave. Which part of the ECG represents the delay of the activation of the atrioventricular node?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A P wave",
+        "images": []
+      },
+      {
+        "text": "B Interval between P wave and QRS complex",
+        "images": []
+      },
+      {
+        "text": "C QRS complex",
+        "images": []
+      },
+      {
+        "text": "D Interval between QRS complex to T wave",
+        "images": []
+      },
+      {
+        "text": "E T wave",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 在人類血液中二氧化碳主要是以何種方式被運送？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 與血紅素結合之二氧化碳",
+        "images": []
+      },
+      {
+        "text": "B 溶於血漿中之二氧化碳",
+        "images": []
+      },
+      {
+        "text": "C 溶於紅血球胞內液之二氧化碳",
+        "images": []
+      },
+      {
+        "text": "D 與血紅素結合之碳酸氫鹽（bicarbonate, HCO3－）",
+        "images": []
+      },
+      {
+        "text": "E 溶於血漿中之碳酸氫鹽",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. The correct sequence of the cardiac cycle in a healthy adult human is ________.（1. atrial systole and ventricular diastole　2. ventricular systole and atrial diastole　3. atrial and ventricular systole　4.atrial and ventricular diastole）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1 → 3 → 2",
+        "images": []
+      },
+      {
+        "text": "B 4 → 1 → 2",
+        "images": []
+      },
+      {
+        "text": "C 4 → 2 → 1",
+        "images": []
+      },
+      {
+        "text": "D 2 → 4 → 3",
+        "images": []
+      },
+      {
+        "text": "E 1 → 4 → 3",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Birds and mammals both have negative pressure breathing, but birds are more efficient because of which of the following reasons?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The bird’s mouth movements are able to force air into the lungs.",
+        "images": []
+      },
+      {
+        "text": "B The tidal volume in birds is much larger than in a comparably sized mammal.",
+        "images": []
+      },
+      {
+        "text": "C The flow of air in a bird’s lungs is from posterior to anterior.",
+        "images": []
+      },
+      {
+        "text": "D The brain of the bird maximizes oxygen uptake more efficiently.",
+        "images": []
+      },
+      {
+        "text": "E The maximum PO2is significantly higher in bird lungs.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. The first heart sound is produced at ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A closing the semilunar valve",
+        "images": []
+      },
+      {
+        "text": "B the beginning of systole",
+        "images": []
+      },
+      {
+        "text": "C the end of systole",
+        "images": []
+      },
+      {
+        "text": "D the beginning of diastole",
+        "images": []
+      },
+      {
+        "text": "E the end of diastole",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 當身體各部分組織所產生的二氧化碳，進入血液被輸送時，下列敘述何者最為恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 二氧化碳氣體直接溶入血漿中被運輸",
+        "images": []
+      },
+      {
+        "text": "B 二氧化碳分子與血紅蛋白結合後被運輸",
+        "images": []
+      },
+      {
+        "text": "C 紅血球中的酵素可將其轉換為碳酸氫根離子（bicarbonate）型態",
+        "images": []
+      },
+      {
+        "text": "D 在紅血球細胞內保持碳酸鹽（carbonic acid）型態被運輸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 下列何者無平滑肌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大動脈",
+        "images": []
+      },
+      {
+        "text": "B 微動脈",
+        "images": []
+      },
+      {
+        "text": "C 大靜脈",
+        "images": []
+      },
+      {
+        "text": "D 微血管",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 如果心室末期舒張容積（end-diastolic volume）為140 mL，心室末期收縮容積（endsystolic volume）為80 mL，而心跳為每分鐘70跳，則其心臟輸出量（cardiac output）約為________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 2liters/min",
+        "images": []
+      },
+      {
+        "text": "B 3 liters/min",
+        "images": []
+      },
+      {
+        "text": "C 4 liters/min",
+        "images": []
+      },
+      {
+        "text": "D 5 liters/min",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 血紅素（hemoglobin）可將氧由肺運輸至組織細胞，波爾效應（Bohr shift）是紅血球的一項重要特性，有關波爾效應下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 當血液的pH值下降時，紅血球可釋出更多的氧",
+        "images": []
+      },
+      {
+        "text": "B 當血液的pH值下降時，紅血球可在肺部結合更多的氧",
+        "images": []
+      },
+      {
+        "text": "C 波爾效應為血液中碳酸濃度增加所引發的效應",
+        "images": []
+      },
+      {
+        "text": "D 波爾效應可幫助組織在運動時獲得更多氧",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 關於血液凝固的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈣離子可促使凝血酶原（prothrombin）活化為凝血酶（thrombin）",
+        "images": []
+      },
+      {
+        "text": "B 血小板可釋放組織胺，促進血液凝固",
+        "images": []
+      },
+      {
+        "text": "C 血纖維蛋白原（fibrinogen）可與大部分血球結合成血塊",
+        "images": []
+      },
+      {
+        "text": "D 鉀離子可促進凝血因子（clotting factor）活化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. The bundle branches and Purkinje fibers conduct impulses from the ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A AV node to the ventricles",
+        "images": []
+      },
+      {
+        "text": "B AV node to the SA node",
+        "images": []
+      },
+      {
+        "text": "C SA node to the atria",
+        "images": []
+      },
+      {
+        "text": "D SA node to the AV node",
+        "images": []
+      },
+      {
+        "text": "E atria to the SA node",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列有關人體血球的比較，何者正確？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/003.png"
+    ],
+    "options": [
+      {
+        "text": "A A",
+        "images": []
+      },
+      {
+        "text": "B B",
+        "images": []
+      },
+      {
+        "text": "C C",
+        "images": []
+      },
+      {
+        "text": "D D",
+        "images": []
+      },
+      {
+        "text": "E E",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列何者為心臟組織電位傳導的順序？(1)浦⾦森纖維（Purkinje fibers）(2)房室結（AV node）(3)竇房結（SA node）(4)房室束（AV bundle）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (4)→(3)→(2)→(1)",
+        "images": []
+      },
+      {
+        "text": "B (3)→(2)→(4)→(1)",
+        "images": []
+      },
+      {
+        "text": "C (2)→(3)→(1)→(4)",
+        "images": []
+      },
+      {
+        "text": "D (3)→(2)→(1)→(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. About respiratory pigment, which of the following statements is INCORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Respiratory pigments are proteins that transport oxygen and greatly increase the amount of oxygen that blood can carry.",
+        "images": []
+      },
+      {
+        "text": "B Arthropods and many molluscs have hemocyanin with copper as the oxygen-binding component.",
+        "images": []
+      },
+      {
+        "text": "C Hemoglobin is involved in the transport of O2but not CO2.",
+        "images": []
+      },
+      {
+        "text": "D A small change in the partial pressure of oxygen can result in a large change in delivery of O2.",
+        "images": []
+      },
+      {
+        "text": "E CO2produced during cellular respiration lowers blood pH and decreases the affinity of hemoglobin for O2; this is called the Bohr shift.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. What is the order of the control of heart rhythm?1. Signals are delayed at AV node.2. Bundle branches pass signals to heart apex.3. Signals from SA node spread.4. Signals spread throughout ventricles.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 3 → 4 → 2 → 1",
+        "images": []
+      },
+      {
+        "text": "B 4 → 1 → 3 → 2",
+        "images": []
+      },
+      {
+        "text": "C 3 → 1 → 2 → 4",
+        "images": []
+      },
+      {
+        "text": "D 2 → 1 → 4 → 3",
+        "images": []
+      },
+      {
+        "text": "E 2 → 3 → 4 → 1",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 有關凝血過程之順序為何？(1)凝血酶（thrombin）被活化(2)血小板分泌物質使周圍血小板變黏稠形成塞子（plug）(3)血小板黏附於破損血管的膠原蛋白纖維(4)纖維（fibrin）黏附到血小板塞子(5)纖維蛋白原（fibrinogen）被切割",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (2)→(3)→(1)→(5)→(4)",
+        "images": []
+      },
+      {
+        "text": "B (3)→(1)→(5)→(4)→(2)",
+        "images": []
+      },
+      {
+        "text": "C (3)→(2)→(1)→(5)→(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)→(5)→(3)→(4)→(2)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 關於血紅素（hemoglobin），下列何者是錯的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血紅素含有四個血基質（hemes）",
+        "images": []
+      },
+      {
+        "text": "B 血紅素可攜帶四個氧分子",
+        "images": []
+      },
+      {
+        "text": "C 氧分子由血紅素內的鐵離子（Fe+3）攜帶",
+        "images": []
+      },
+      {
+        "text": "D 血紅素含兩個相同的α鏈和兩個相同的β鏈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. ________會造生心搏率（heart rate）下降。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "Aγ-胺基丁酸（gamma-aminobutyric acid; GABA）",
+        "images": []
+      },
+      {
+        "text": "B 腦內啡（endorphin）",
+        "images": []
+      },
+      {
+        "text": "C 一氧化氮（nitric oxide）",
+        "images": []
+      },
+      {
+        "text": "D 乙醯膽鹼（acetylcholine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 肺靜脈異位病灶之放電可導致陣發性的心房（300-500/min）及心室（80-160/min）不規則跳動。請問此心律不整（arrhythmia）最可能為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心室顫動（ventricular fibrillation）",
+        "images": []
+      },
+      {
+        "text": "B 心房顫動（atrial fibrillation）",
+        "images": []
+      },
+      {
+        "text": "C 左束支傳導阻滯（left bundle branch block）",
+        "images": []
+      },
+      {
+        "text": "D 右束支傳導阻滯（right bundle branch block）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. An open circulatory system differs from a closed one in that:",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The open circulatory system has a combination of blood vessels and large thin-walled sinuses whereas a closed circulatory system has only vessels.",
+        "images": []
+      },
+      {
+        "text": "B An open circulatory system opens into the heart whereas the closed circulatory system does not.",
+        "images": []
+      },
+      {
+        "text": "C An open circulatory system opens into arteries and is drained by veins whereas in a closed one it is just the reverse.",
+        "images": []
+      },
+      {
+        "text": "D An open circulatory system drains into the mantle cavity whereas a closed circulatory system drains into the hemolymph.",
+        "images": []
+      },
+      {
+        "text": "E A closed circulatory system is completely encased in the body cavity whereas the open one is not.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. In animal circulatory systems, which one is the correct description?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Hemophilia results from a deficiency in platelets.",
+        "images": []
+      },
+      {
+        "text": "B The meshwork that forms the fabric of a blood clot mostly consists of fibrinogen.",
+        "images": []
+      },
+      {
+        "text": "C Reduced levels of hemoglobin in the blood result in the condition of anemia.",
+        "images": []
+      },
+      {
+        "text": "D During cellular maturation, mammalian erythrocytes lose their plasma membrane.",
+        "images": []
+      },
+      {
+        "text": "E The primary function served by erythrocytes is defense against pathogens.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. Which of the following statements about blood tissue is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The mature red blood cells contain nucleus in frog but not in human.",
+        "images": []
+      },
+      {
+        "text": "B Eosinophils with bilobed-nucleus can kill parasites.",
+        "images": []
+      },
+      {
+        "text": "C Lymphocytes with multilobed-nucleus are the most abundant leukocytes",
+        "images": []
+      },
+      {
+        "text": "D Monocytes are phagocytes and develop into macrophages.",
+        "images": []
+      },
+      {
+        "text": "E Basophiles secret anticlotting factor called heparin at the site of injury.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列有關人體循環系統的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心臟在心房進入心室及心室進入動脈之間共有6個防止血液倒流之瓣膜",
+        "images": []
+      },
+      {
+        "text": "B 房室瓣（atrioventricular valve）位於心房與心室間，當心房收縮時，房室瓣關閉",
+        "images": []
+      },
+      {
+        "text": "C 心室收縮時，半月瓣主動打開，使血流通過",
+        "images": []
+      },
+      {
+        "text": "D 房室瓣與半月瓣是由緻密的肌肉組織所形成",
+        "images": []
+      },
+      {
+        "text": "E 心室舒張時，半月瓣關閉，造成第二心音",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列何種因素影響血流最大？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血液粘度",
+        "images": []
+      },
+      {
+        "text": "B 血管長度",
+        "images": []
+      },
+      {
+        "text": "C 血管半徑",
+        "images": []
+      },
+      {
+        "text": "D 血管兩端壓力差",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 血液中大部分的二氧化碳以何種方式運輸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 直接與血紅素結合",
+        "images": []
+      },
+      {
+        "text": "B 直接與膽紅素結合",
+        "images": []
+      },
+      {
+        "text": "C 直接溶於血漿中",
+        "images": []
+      },
+      {
+        "text": "D 形成HCO3－",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何者是人體主要含鐵的場所？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 骨髓",
+        "images": []
+      },
+      {
+        "text": "B 肝臟",
+        "images": []
+      },
+      {
+        "text": "C 紅血球",
+        "images": []
+      },
+      {
+        "text": "D 細胞色素（cytochromes）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列何者可增加靜脈回血量（venous return）？(1)呼吸作用(2)骨骼肌收縮(3)交感神經作用(4)副交感神經作用",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)",
+        "images": []
+      },
+      {
+        "text": "B (2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "D (2)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 五位同學討論紅血球內血紅素調控氧氣與二氧化碳的運輸，下列那些同學的敘述是正確的？甲、氧的濃度會影響氧與血紅素的結合乙、大部分的二氧化碳是在紅血球中與血紅素結合而被運輸丙、血液中有酵素催化二氧化碳與水的結合丁、氧與二氧化碳主要的運輸形式分別是HbO2和HbCO2戊、在運動過程中氧和血紅素的結合度會增加",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甲、乙",
+        "images": []
+      },
+      {
+        "text": "B 甲、丙",
+        "images": []
+      },
+      {
+        "text": "C 乙、丁",
+        "images": []
+      },
+      {
+        "text": "D 丙、戊",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 肝素（heparin）是有效的抗凝血劑。肝素主要抑制下列何者的作用而抗凝血？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 第2, 7, 9, 10凝血因子",
+        "images": []
+      },
+      {
+        "text": "B 蛋白C",
+        "images": []
+      },
+      {
+        "text": "C 第9, 10,11,12凝血因子",
+        "images": []
+      },
+      {
+        "text": "D 蛋白S",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 透過共軛酸鹼對的作用，使人體血液維持pH值穩定，主要是依賴血液中哪一緩衝對（buffer pair）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A H2CO3/HCO3-",
+        "images": []
+      },
+      {
+        "text": "B HCO3-/CO32-",
+        "images": []
+      },
+      {
+        "text": "C H3PO4/H2PO4-",
+        "images": []
+      },
+      {
+        "text": "D H2PO4-/HPO2-",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. Carbon dioxide is transported in the blood ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A dissolved in the plasma",
+        "images": []
+      },
+      {
+        "text": "B attachment to hemoglobin",
+        "images": []
+      },
+      {
+        "text": "C as bicarbonate ion",
+        "images": []
+      },
+      {
+        "text": "D both A and C",
+        "images": []
+      },
+      {
+        "text": "E all of A, B, and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 某位先生他的潮氣容積（tidal volume）為500 mL，肺泡通氣量為每分鐘4800mL，呼吸頻率為每分鐘16次。請問此位先生的生理死腔為________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 300mL",
+        "images": []
+      },
+      {
+        "text": "B 200 mL",
+        "images": []
+      },
+      {
+        "text": "C 150mL",
+        "images": []
+      },
+      {
+        "text": "D 100mL",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 下列何者可使人體的血紅素氧飽和度與氧分壓之解離曲線（oxygen dissociation curve）向左移？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血液的 pH 值增加",
+        "images": []
+      },
+      {
+        "text": "B 血液中紅血球生成素濃度增加",
+        "images": []
+      },
+      {
+        "text": "C 血液中二氧化碳濃度增加",
+        "images": []
+      },
+      {
+        "text": "D 2,3 二磷甘油酸鹽（2,3-diphosphoglycerate）量增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列何種血液中氣體是重要的控制人類呼吸速率之物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氮氣",
+        "images": []
+      },
+      {
+        "text": "B 一氧化氮",
+        "images": []
+      },
+      {
+        "text": "C 二氧化碳",
+        "images": []
+      },
+      {
+        "text": "D 氧氣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 陸生動物在運動時，與魚類等水生動物相比，因為要克服重力作用，必須要消耗更多的能量。有關陸生動物的循環系統演化，下列何者不是用來克服這個不利的因素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心臟的動力加大，打出總血量增加",
+        "images": []
+      },
+      {
+        "text": "B 心臟分化出兩心房兩心室，使得動脈血和靜脈血分開，提高運送氧的效率",
+        "images": []
+      },
+      {
+        "text": "C 血液循環分成肺循環和體循環，增加血流速度",
+        "images": []
+      },
+      {
+        "text": "D 靜脈血的血壓接近零",
+        "images": []
+      },
+      {
+        "text": "E 微血管中血液流速穩定的流動",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 人類循環系統的管道和腔室內流著缺氧血的是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺靜脈、左心房、左心室、主動脈",
+        "images": []
+      },
+      {
+        "text": "B 上下腔靜脈、右心房、右心室、肺動脈",
+        "images": []
+      },
+      {
+        "text": "C 上下腔靜脈、左心房、左心室、肺靜脈",
+        "images": []
+      },
+      {
+        "text": "D 上下腔靜脈、右心房、右心室、主動脈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. Otto Loewi performed an experiment in which he electrically stimulated the vagus nerve connected to one frog heart. Loewi also let the fluid bathing this first heart pass to a second chamber containing a second frog heart not connected to a nerve. What did Loewi observe?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A There was no effect on the beating of either heart.",
+        "images": []
+      },
+      {
+        "text": "B The first heart showed a decrease in beat rate and so did the second heart.",
+        "images": []
+      },
+      {
+        "text": "C The first heart showed an increase in beat rate and so did the second heart.",
+        "images": []
+      },
+      {
+        "text": "D The first heart showed a decrease in beat rate, but there was no change in the second heart.",
+        "images": []
+      },
+      {
+        "text": "E The first heart showed an increase in beat rate, but there was no change in the second heart.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 關於各類血管特性比較之敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 動脈管血壓最高",
+        "images": []
+      },
+      {
+        "text": "B 微血管血壓最低",
+        "images": []
+      },
+      {
+        "text": "C 動脈管血液流速最快",
+        "images": []
+      },
+      {
+        "text": "D 微血管血液流速最慢",
+        "images": []
+      },
+      {
+        "text": "E 微血管總截面積（total cross-sectional area）最大",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列有關人類循環系統的敘述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 動脈與靜脈管壁有平滑肌包覆，微血管則無",
+        "images": []
+      },
+      {
+        "text": "B 由於微血管的管徑最小，所以血液通過微血管的速度最快",
+        "images": []
+      },
+      {
+        "text": "C 骨骼肌的收縮可幫助靜脈血回流到心臟",
+        "images": []
+      },
+      {
+        "text": "D 淋巴管內有瓣膜可防止淋巴液逆流",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 位於延腦呼吸中樞內的化學受器，可根據下列何離子濃度調節呼吸速率？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Na+",
+        "images": []
+      },
+      {
+        "text": "B K+",
+        "images": []
+      },
+      {
+        "text": "C H+",
+        "images": []
+      },
+      {
+        "text": "D Mg2+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 血管內的一氧化氮（NO）濃度增加，可能會造成下列何種影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血管擴張",
+        "images": []
+      },
+      {
+        "text": "B 在該區域的血液流動減少",
+        "images": []
+      },
+      {
+        "text": "C 平滑肌細胞（smooth muscle cells）的收縮",
+        "images": []
+      },
+      {
+        "text": "D 血管收縮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 下列有關調節呼吸的化學感受器（chemoreceptor）的敘述，何者是正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 依其所在位置可分為周邊化學感受器（peripheral chemoreceptor）與中樞化學感受器（central chemoreceptor）",
+        "images": []
+      },
+      {
+        "text": "B 頸動脈體（carotid bodies）是周邊化學感受器，主動脈體（aortic bodies）是中樞化學感受器",
+        "images": []
+      },
+      {
+        "text": "C 中樞化學感受器位於下視丘（hypothalamus）",
+        "images": []
+      },
+      {
+        "text": "D 動脈管氧分壓（PO2）是刺激周邊化學感受器活性的唯一因子",
+        "images": []
+      },
+      {
+        "text": "E 肌肉代謝所產生的氫離子（H+）會刺激中樞化學感受器",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 體內CO2於血液中主要以下列何種型式攜帶？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 以碳醯胺基血紅素（carbaminohemoglobin）形式",
+        "images": []
+      },
+      {
+        "text": "B 以重碳酸鹽（HC3-）形式",
+        "images": []
+      },
+      {
+        "text": "C 由血小板攜帶",
+        "images": []
+      },
+      {
+        "text": "D 在血漿中以溶解的CO2形式",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 有關動物的循環系統，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 動物循環系統包括開放式和閉鎖式循環系統",
+        "images": []
+      },
+      {
+        "text": "B 環節動物（Annelid）、頭足類（Cephalopod）和脊椎動物（Vertebrate）皆屬於閉鎖式循環系統",
+        "images": []
+      },
+      {
+        "text": "C 兩生類（Amphibian）的循環系統包含體循環（Systemic circuit）和肺循環（Pulmonary circuit）",
+        "images": []
+      },
+      {
+        "text": "D 硬骨魚類、鱝和鮫屬於閉鎖式循環系統中的單循環（Single Circulation），心臟為一心室（Ventricle）一心房（Atrium）結構",
+        "images": []
+      },
+      {
+        "text": "E 在人類的肺循環，肺靜脈內為充氧血，肺動脈內為缺氧血",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列何者能分化為巨噬細胞的先驅細胞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 單核細胞（monocyte）",
+        "images": []
+      },
+      {
+        "text": "B B細胞（B cell）",
+        "images": []
+      },
+      {
+        "text": "C T細胞（T cell）",
+        "images": []
+      },
+      {
+        "text": "D 紅血球（erythrocyte）",
+        "images": []
+      },
+      {
+        "text": "E 嗜酸性白血球（eosinophile）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. Acclimatization to a high altitude involves:I. normal arterial PO2II. hyperventilationIII. decreased affinity of hemoglobinIV. increased hemoglobin and red blood cell production",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A I, II, III, and IV",
+        "images": []
+      },
+      {
+        "text": "B II, III, and IV",
+        "images": []
+      },
+      {
+        "text": "C II and III",
+        "images": []
+      },
+      {
+        "text": "D II and IV",
+        "images": []
+      },
+      {
+        "text": "E III and IV",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. Tidal volume in respiration is analogous to what measurement in cardiac physiology?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A cardiac output",
+        "images": []
+      },
+      {
+        "text": "B heart rate",
+        "images": []
+      },
+      {
+        "text": "C stroke volume",
+        "images": []
+      },
+      {
+        "text": "D systolic pressure",
+        "images": []
+      },
+      {
+        "text": "E diastolic pressure",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 酸鹼值及溫度影響氧與血紅蛋白的解離曲線，下列何種狀況下最需要更多的氧氣（PO2）才能使血紅蛋白結合同一定量的氧氣？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溫度上升或pH下降",
+        "images": []
+      },
+      {
+        "text": "B 溫度下降或pH下降",
+        "images": []
+      },
+      {
+        "text": "C 溫度下降或pH上升",
+        "images": []
+      },
+      {
+        "text": "D 溫度上升或pH上升",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 波爾氏移轉（Bohr shift）效應所描述的是下列哪一因子對於氧-血紅素解離曲線（oxygen-hemoglobin dissociation curve）之影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氧分壓",
+        "images": []
+      },
+      {
+        "text": "B 二氧化碳分壓",
+        "images": []
+      },
+      {
+        "text": "C 溫度",
+        "images": []
+      },
+      {
+        "text": "D pH 值",
+        "images": []
+      },
+      {
+        "text": "E 血紅素濃度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ]
+  }
+]

@@ -1,0 +1,1397 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 正常人之腎臟的鮑氏囊的過濾液不會含有下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胺基酸",
+        "images": []
+      },
+      {
+        "text": "B 含氨廢物",
+        "images": []
+      },
+      {
+        "text": "C 球蛋白",
+        "images": []
+      },
+      {
+        "text": "D 葡萄糖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 有關休克患者血壓急劇下降，常伴隨排尿量減少現象，下列何者是最可能的原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鮑氏囊（Bowman’s capsule）儲存濾液的量增加",
+        "images": []
+      },
+      {
+        "text": "B 促進腎小管（renal tubule）對水分的再吸收",
+        "images": []
+      },
+      {
+        "text": "C 增加腎小管（renal tubule）的分泌作用，改變濾液的濃度",
+        "images": []
+      },
+      {
+        "text": "D 腎絲球（glomerulus）的過濾功能降低",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 因嚴重腹瀉大Na+及水分流失後，最可能經由下列何種機制引起腎素（renin）分泌增加？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎臟交感神經活性降低",
+        "images": []
+      },
+      {
+        "text": "B 腎絲球過濾率（GFR）下降",
+        "images": []
+      },
+      {
+        "text": "C 緻密斑（macula densa）之Na+上升",
+        "images": []
+      },
+      {
+        "text": "D 入球小動脈（afferent arteriole）壓力上升",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 攝入高鹹味的食物，造成血液滲透濃度上升，則腎臟會藉由下列那一物質來調控血液的滲透壓？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎泌素（renin）",
+        "images": []
+      },
+      {
+        "text": "B 醛固酮（aldosterone）",
+        "images": []
+      },
+      {
+        "text": "C 血管緊縮素II（angiotensin II）",
+        "images": []
+      },
+      {
+        "text": "D 抗利尿激素（antidiuretic hormone）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 醛固酮（aldosterone）可增進腎臟對何者再吸收？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氫離子",
+        "images": []
+      },
+      {
+        "text": "B 鉀離子",
+        "images": []
+      },
+      {
+        "text": "C 鈉離子",
+        "images": []
+      },
+      {
+        "text": "D 鈣離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列各種生物與其含氮廢物的配對，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 海鷗—尿酸",
+        "images": []
+      },
+      {
+        "text": "B 渦蟲—氨",
+        "images": []
+      },
+      {
+        "text": "C 大象—尿酸",
+        "images": []
+      },
+      {
+        "text": "D 人類—尿素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 水由腎小管再吸收的機制是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 擴散",
+        "images": []
+      },
+      {
+        "text": "B 促進性擴散",
+        "images": []
+      },
+      {
+        "text": "C 初級主動運輸",
+        "images": []
+      },
+      {
+        "text": "D 次級主動運輸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 關於含氮廢物之敘述，下列何者錯誤：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 尿素–毒性較氨弱",
+        "images": []
+      },
+      {
+        "text": "B 尿酸–可以沉澱物的方式累積在動物體內",
+        "images": []
+      },
+      {
+        "text": "C 氨–易溶於水",
+        "images": []
+      },
+      {
+        "text": "D 尿酸–其排泄會造成水分的大量流失",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 腎臟的過濾作用（filtration）主要集中在：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A renal cortex",
+        "images": []
+      },
+      {
+        "text": "B renal medulla",
+        "images": []
+      },
+      {
+        "text": "C renal pelvis",
+        "images": []
+      },
+      {
+        "text": "D renal vein",
+        "images": []
+      },
+      {
+        "text": "E collecting duct",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 哪一個腎上腺皮質分泌的固醇類賀爾蒙會刺激腎臟再吸收鹽份？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ADH",
+        "images": []
+      },
+      {
+        "text": "B 醛固酮（Aldosterone）",
+        "images": []
+      },
+      {
+        "text": "C 腎素（Renin）",
+        "images": []
+      },
+      {
+        "text": "D 血清張力素（Angiotensin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 腎臟近曲小管（proximal-tubule）的細胞可以分泌下列何種物質以防止尿液過酸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 碳酸氫根離子（bicarbonate）",
+        "images": []
+      },
+      {
+        "text": "B 鹽",
+        "images": []
+      },
+      {
+        "text": "C 葡萄糖（glucose）",
+        "images": []
+      },
+      {
+        "text": "D 氨（ammonia）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 腎臟之腎小球濾出液中，對身體有用物質之再吸收機制，主要發生於下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鮑氏囊（Bowman’s capsule）",
+        "images": []
+      },
+      {
+        "text": "B 近曲小管（Proximal convoluted tubule）",
+        "images": []
+      },
+      {
+        "text": "C 遠曲小管（Distal convoluted tubule）",
+        "images": []
+      },
+      {
+        "text": "D 亨氏套（Loop of Henle）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 有關哺乳類動物腎臟功能的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 近端腎小管管壁上皮細胞行主動運輸，排出Na+，在腎臟皮質部形成高滲透壓，緊接著Cl-和水分因被動運輸，被從近端腎小管擴散出來",
+        "images": []
+      },
+      {
+        "text": "B 上行亨氏管管壁上皮細胞行主動運輸，排出Na+和Cl-，在腎臟髓質部形成高滲透壓，緊接著水分因被動運輸，被從下行亨氏管和集尿管擴散出來",
+        "images": []
+      },
+      {
+        "text": "C 近端腎小管管壁上皮細胞行K+的再吸收作用，而K+的分泌作用則發生在遠端腎小管",
+        "images": []
+      },
+      {
+        "text": "D 血液中的H+經由腎絲球過濾至腎小管，遠端腎小管管壁上皮細胞則行H+的再吸收作用，回收被過濾流失的H+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. Which option correctly lists the structures in the kidney in the order in which fluid flows through them?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A proximal tubule, Bowman’s capsule, loop of Henle, distal tubule, glomerulus",
+        "images": []
+      },
+      {
+        "text": "B Bowman’s capsule, proximal tubule, loop of Henle, distal tubule, glomerulus",
+        "images": []
+      },
+      {
+        "text": "C glomerulus, Bowman’s capsule, loop of Henle, proximal tubule, distal tubule",
+        "images": []
+      },
+      {
+        "text": "D glomerulus, proximal tubule, distal tubule, Bowman’s capsule, loop of Henle",
+        "images": []
+      },
+      {
+        "text": "E glomerulus, Bowman’s capsule, proximal tubule, loop of Henle, distal tubule",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列何者為血管張力素II（angiotensin II）能升高血壓的機制：①促進抗利尿激素（anti-diuretic hormone）的分泌②直接促使小動脈血管收縮③直接作用於皮質集尿管，增加水和鈉離子的重吸收④刺激留塩激素（aldosterone）的分泌",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①④",
+        "images": []
+      },
+      {
+        "text": "B ②④",
+        "images": []
+      },
+      {
+        "text": "C ①③",
+        "images": []
+      },
+      {
+        "text": "D ②③",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 魚類含氮廢物如urea、creatine及creatinine於下列何處形成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 小腸",
+        "images": []
+      },
+      {
+        "text": "B 肝臟",
+        "images": []
+      },
+      {
+        "text": "C 脾臟",
+        "images": []
+      },
+      {
+        "text": "D 腎臟",
+        "images": []
+      },
+      {
+        "text": "E 胰臟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 當大量失血時，JGA會透過放出________增加________的產生，此成份會透過增加入球小動脈收縮及刺激腎上腺皮質釋放鹽皮質激素的方式讓血壓增高。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A aldosterone; renin",
+        "images": []
+      },
+      {
+        "text": "B renin; angiotensin II",
+        "images": []
+      },
+      {
+        "text": "C angiotensin II; renin",
+        "images": []
+      },
+      {
+        "text": "D glucocorticoid; angiotensin II",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列有關排放含氮廢物的方式，何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 哺乳類以尿酸（Uric acid）的方式排放",
+        "images": []
+      },
+      {
+        "text": "B 鳥類以尿素（Urea）的方式排放",
+        "images": []
+      },
+      {
+        "text": "C 魚類以氨（Ammonia）的形式排放",
+        "images": []
+      },
+      {
+        "text": "D 蝗蟲經由後腎管（Metanephridia）收集含氮廢物",
+        "images": []
+      },
+      {
+        "text": "E 渦蟲（Planarian）用馬氏小管（Malpighian Tubules）收集含氮廢物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 下列有關腎臟賀爾蒙敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎臟產生Angiotensin刺激Renin釋放",
+        "images": []
+      },
+      {
+        "text": "B Renin之釋放受交感神經及Baroreceptor調節",
+        "images": []
+      },
+      {
+        "text": "C 藉由Erythropoietin調節紅血球新生",
+        "images": []
+      },
+      {
+        "text": "D 腎小管內Na+濃度影響Aldosterone之釋放",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 居住在現代都會區的長期外食族飲食中常常攝取了過量的鹽類，容易引發各種生理恆定失調的現象。請問下列哪一項生理反應有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 長期鹽類過量的飲食，容易造成身體體液呈現高滲透壓現象",
+        "images": []
+      },
+      {
+        "text": "B 高滲透壓的血液流經下視丘興奮了血壓感受器引發口渴，同時抑制下視丘分泌大量抗利尿激素（ADH）",
+        "images": []
+      },
+      {
+        "text": "C 抗利尿激素作用在腎臟集尿管回收大量水分加上口渴攝取過量的水分，導致血容積長期偏多，容易引起高血壓",
+        "images": []
+      },
+      {
+        "text": "D 當身體血容積增加時會刺激心臟分泌心房排鈉素（ANP），促使腎臟排除過量的鹽類與水分",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 血中之鉀離子增加時會直接刺激下列何者分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A renin",
+        "images": []
+      },
+      {
+        "text": "B aldosterone",
+        "images": []
+      },
+      {
+        "text": "C ADH",
+        "images": []
+      },
+      {
+        "text": "D atrial natriuretic factor",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何者是腎小管的對流倍增系統（countercurrent multiplier system）之主要作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加腎臟皮質的滲透壓",
+        "images": []
+      },
+      {
+        "text": "B 增加腎臟髓質的滲透壓",
+        "images": []
+      },
+      {
+        "text": "C 減少腎臟皮質的滲透壓",
+        "images": []
+      },
+      {
+        "text": "D 減少腎臟髓質的滲透壓",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列哪一項礦物與功能的選擇是對的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈣＝用於氨基酸代謝",
+        "images": []
+      },
+      {
+        "text": "B 鈉＝維持細胞的滲透平衡",
+        "images": []
+      },
+      {
+        "text": "C 鐵＝組成部分核酸骨幹",
+        "images": []
+      },
+      {
+        "text": "D 磷＝保持水平衡",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 對於維持腎臟髓質高滲透壓的原因，下列敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 亨氏環上升支上部的區域主動運輸鹽分",
+        "images": []
+      },
+      {
+        "text": "B 髓質內腎小管的空間排列",
+        "images": []
+      },
+      {
+        "text": "C 尿素從集尿管的擴散",
+        "images": []
+      },
+      {
+        "text": "D 鹽分從亨氏環的下降支擴散",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列有關沙漠生長之哺乳類動物的排泄系統，描述有誤者為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 有較多比例的腎元深入髓質",
+        "images": []
+      },
+      {
+        "text": "B 有較多的腎元",
+        "images": []
+      },
+      {
+        "text": "C 對水份再吸收能力較強",
+        "images": []
+      },
+      {
+        "text": "D 產生高滲透壓之尿液",
+        "images": []
+      },
+      {
+        "text": "E 有較長之亨利氏管腎管",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 關於ADH抗利尿激素（antidiuretic hormone）的分子作用機轉，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 會促使葡萄糖的再吸收",
+        "images": []
+      },
+      {
+        "text": "B 會促使集尿管製造更多的水通道蛋白（aquaporin）分子",
+        "images": []
+      },
+      {
+        "text": "C 會促使細胞合成更多的酵素，以促使細胞膜對水份更通透",
+        "images": []
+      },
+      {
+        "text": "D 會減緩濾液通過腎元以利對水的再吸收",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抗利尿激素（Antidiuretic Hormone, ADH）跟腎素－血管昇壓素－醛固酮系統（Renin-angiotensin-aldosterone system, RAAS）都是由血滲透壓降低誘發反應",
+        "images": []
+      },
+      {
+        "text": "B 心房排鈉肽（Atrial natriuretic peptide, ANP）的作用跟RAAS相反",
+        "images": []
+      },
+      {
+        "text": "C ANP跟ADH都會促進氯化鈉（NaCl）的回收",
+        "images": []
+      },
+      {
+        "text": "D ANP跟RAAS都會促進腎素（Renin）的分泌",
+        "images": []
+      },
+      {
+        "text": "E ANP由血壓降低誘發反應",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. What is the function of antidiuretic hormone?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A to increase urination",
+        "images": []
+      },
+      {
+        "text": "B to increase water reabsorption",
+        "images": []
+      },
+      {
+        "text": "C to stimulate sodium reabsorption",
+        "images": []
+      },
+      {
+        "text": "D to counter the effects of alcohol consumption",
+        "images": []
+      },
+      {
+        "text": "E to reduce water reabsorption",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 啤酒中含有的乙醇會抑制抗利尿素（antidiuretic hormone）的製造，所以喝啤酒後，腎臟將會產生下列何者效應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 產生大量濃的尿液",
+        "images": []
+      },
+      {
+        "text": "B 產生小量濃的尿液",
+        "images": []
+      },
+      {
+        "text": "C 產生小量稀的尿液",
+        "images": []
+      },
+      {
+        "text": "D 產生大量稀的尿液",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 有關腎元（Nephron）跟集尿管（Collecting tubule）的功能，何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 重碳酸根離子（HCO3-）在遠曲小管（Distal tubule）以被動運輸（Passive transport）的方式過濾回收",
+        "images": []
+      },
+      {
+        "text": "B 氯化鈉（NaCl）在髓質內區（Inner medulla）以主動運輸（Active transport）的方式過濾回收",
+        "images": []
+      },
+      {
+        "text": "C 水在髓質內區（Inner medulla）以被動運輸的方式過濾回收",
+        "images": []
+      },
+      {
+        "text": "D 氯化鈉在髓質外區（Outer medulla）以被動運輸的方式過濾回收",
+        "images": []
+      },
+      {
+        "text": "E 重碳酸根離子在近端小管（Proximal tubule）以主動運輸的方式過濾回收",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 水熊（water bear或tardigrades）可以失去身體大部分的水後進入休眠狀態，主要是下列何種物質取代了水分子來保護水熊的細胞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sucrose",
+        "images": []
+      },
+      {
+        "text": "B maltose",
+        "images": []
+      },
+      {
+        "text": "C fructose",
+        "images": []
+      },
+      {
+        "text": "D trehalose",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 腎臟尿液濃縮的過程中，由亨利氏環管腔所滲透出來的水分主要是進入那一段血管？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 入球小動脈（afferent arteriole）",
+        "images": []
+      },
+      {
+        "text": "B 出球小動脈（efferent arteriole）",
+        "images": []
+      },
+      {
+        "text": "C 直血管（vasa recta）",
+        "images": []
+      },
+      {
+        "text": "D 弓狀動脈（arcuate arteries）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 人體在嚴重腹瀉時會使血壓下降，將啟動腎素-血管收縮素-醛固酮系統（RAAS）來調控腎臟的功能，使腎小管再吸收鈉離子和水分，使血壓回升；請問近腎絲球器（JGA）會分泌下列何種物質，以啟動RAAS系統的作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A aldosterone",
+        "images": []
+      },
+      {
+        "text": "B angiotensin I",
+        "images": []
+      },
+      {
+        "text": "C angiotensin II",
+        "images": []
+      },
+      {
+        "text": "D renin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 酒精會抑制________的釋放而導致過多水份流失。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A renin",
+        "images": []
+      },
+      {
+        "text": "B ADH",
+        "images": []
+      },
+      {
+        "text": "C angiotensin",
+        "images": []
+      },
+      {
+        "text": "D erythropoietin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 血清張力素轉換酶（Angiotensin-converting enzyme）大部分存在於那個位置的微血管？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肝",
+        "images": []
+      },
+      {
+        "text": "B 腎",
+        "images": []
+      },
+      {
+        "text": "C 肺",
+        "images": []
+      },
+      {
+        "text": "D 腎上腺髓質",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列有關抗利尿激素（ADH）促進集尿管再吸收水分之作用機轉的敍述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加管腔內膜Na+- K+ATPase數量",
+        "images": []
+      },
+      {
+        "text": "B 增加管腔內膜水通道（aquaporin）數量",
+        "images": []
+      },
+      {
+        "text": "C 增加管腔內膜Na+- K+co-transporter數量",
+        "images": []
+      },
+      {
+        "text": "D 入球小動脈（afferent arteriole）壓力上升",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 醛固酮由腎上腺皮質釋放，是經由________血中鈉離子刺激或________血中鉀離子刺激而成。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加；降低",
+        "images": []
+      },
+      {
+        "text": "B 增加；增加",
+        "images": []
+      },
+      {
+        "text": "C 降低；增加",
+        "images": []
+      },
+      {
+        "text": "D 降低；降低",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. urine flows from the collecting duct to",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ureter",
+        "images": []
+      },
+      {
+        "text": "B urethra",
+        "images": []
+      },
+      {
+        "text": "C capsule",
+        "images": []
+      },
+      {
+        "text": "D glomerulus",
+        "images": []
+      },
+      {
+        "text": "E renal pelvis",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列何者不屬於腎元的基本功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Filtration",
+        "images": []
+      },
+      {
+        "text": "B Secretion",
+        "images": []
+      },
+      {
+        "text": "C Absorption",
+        "images": []
+      },
+      {
+        "text": "D Catabolism",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. Where along the nephron is glucose reabsorbed from the filtrate back into the blood?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A distal tubule",
+        "images": []
+      },
+      {
+        "text": "B loop of Henle",
+        "images": []
+      },
+      {
+        "text": "C proximal tubule",
+        "images": []
+      },
+      {
+        "text": "D Bowman’s capsule",
+        "images": []
+      },
+      {
+        "text": "E renal pelvis",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 正常人的抗利尿激素（ADH）在腦下腺後葉釋出後，經血液輸送至腎臟，其主要的標靶部位是________；ADH使該部位的上皮細胞產生更多________，以利水分的再吸收。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 近曲小管（proximal tubule），腎素（renin）",
+        "images": []
+      },
+      {
+        "text": "B 遠曲小管（distal tubule），腎素",
+        "images": []
+      },
+      {
+        "text": "C 近曲小管，水通道蛋白（aquaporin）",
+        "images": []
+      },
+      {
+        "text": "D 遠曲小管，水通道蛋白",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 利尿劑（diuretics）是醫師常用於治療高血壓的處方用藥，藉由增加排尿量達到降低血壓的效果。有關利尿劑可能的作用機轉，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抑制亨耳氏環（loop of Henle）或近端腎小管（proximal convoluted tubule）對NaCl的再吸收",
+        "images": []
+      },
+      {
+        "text": "B 降低集尿管（collecting duct）對水分的通透性",
+        "images": []
+      },
+      {
+        "text": "C 增加遠端腎小管（distal convoluted tubule）對NaCl的再吸收",
+        "images": []
+      },
+      {
+        "text": "D 減少抗利尿激素（antidiuretic hormone, ADH）的分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 下列何種生物代謝含氮廢物的型式是尿素（urea）？(1)大部分的魚類(2)哺乳類（mammals）(3)兩棲類（amphibians）(4)鳥類",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(3)",
+        "images": []
+      },
+      {
+        "text": "B (2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列有關馬氏小管的敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 為一盲管，即有一端是封閉的",
+        "images": []
+      },
+      {
+        "text": "B 主要運送尿素結晶至腸道排泄",
+        "images": []
+      },
+      {
+        "text": "C 在後腸處可再吸收有價值的有機分子",
+        "images": []
+      },
+      {
+        "text": "D 蜈蚣與蜘蛛均具有馬氏小管",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 請問在腎臟裡面液體流動的方向是？(1) 近曲小管（proximal tubule）(2) 亨利氏環（loop of Henle）(3) 鮑氏囊（Bowman’s capsule）(4) 遠曲小管（distal tubule）(5) 腎絲球（glomerulus）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (5)(3)(1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(3)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "C (1)(4)(2)(5)(3)",
+        "images": []
+      },
+      {
+        "text": "D (5)(3)(1)(4)(2)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 排泄尿液時，請問下列何項器官排列的順序正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎元（nephron）→ 腎盂（renal pelvis）→ 輸尿管（ureter）→ 膀胱（bladder）→ 尿道（urethra）",
+        "images": []
+      },
+      {
+        "text": "B 腎盂（renal pelvis）→ 輸尿管（ureter）→ 腎元（nephron）→ 膀胱（bladder）→ 尿道（urethra）",
+        "images": []
+      },
+      {
+        "text": "C 腎元（nephron）→ 輸尿管（ureter）→ 腎盂（renal pelvis）→ 膀胱（bladder）→ 尿道（urethra）",
+        "images": []
+      },
+      {
+        "text": "D 腎元（nephron）→ 腎盂（renal pelvis）→ 膀胱（bladder）→ 輸尿管（ureter）→ 尿道（urethra）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 亨耳氏套的下降分支及上升分支分別可回收________；________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A NaCl; water",
+        "images": []
+      },
+      {
+        "text": "B water; NaCl",
+        "images": []
+      },
+      {
+        "text": "C urea; water",
+        "images": []
+      },
+      {
+        "text": "D Bicarbonate; NaCl",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. What is the advantage of excreting nitrogenous waste in the form of ammonia?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ammonia is less toxic than uric acid.",
+        "images": []
+      },
+      {
+        "text": "B Ammonia is less soluble than uric acid.",
+        "images": []
+      },
+      {
+        "text": "C Ammonia excretion conserves energy.",
+        "images": []
+      },
+      {
+        "text": "D Ammonia does not diffuse across cell membranes.",
+        "images": []
+      },
+      {
+        "text": "E Ammonia excretion expends energy.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 正常人體腎臟的腎元之那一結構的濾液滲透壓一般維持在300 mOsm/L？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 近曲小管",
+        "images": []
+      },
+      {
+        "text": "B 亨利環下降支",
+        "images": []
+      },
+      {
+        "text": "C 遠曲小管",
+        "images": []
+      },
+      {
+        "text": "D 集尿管",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 動物為適應其生存環境，以逆流機制（countercurrent mechanism）來調控體內的滲透壓濃度，有關動物的逆流機制反應所發生的部位，下列何者需要耗能進行調控？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 魚類的鰓",
+        "images": []
+      },
+      {
+        "text": "B 哺乳類腎臟的亨耳氏環管（loop of Henle）",
+        "images": []
+      },
+      {
+        "text": "C 海洋哺乳類的鰭狀肢（flipper）",
+        "images": []
+      },
+      {
+        "text": "D 海鳥的鼻鹽腺（nasal gland）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ]
+  }
+]

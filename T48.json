@@ -1,0 +1,1482 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. Which of the following statements is true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A In Crassulacean acid metabolism (CAM) plants, carbon fixation and the Calvin cycle occur in the same cells at different times. The Calvin cycle of CAM plants occurs during the night, so that the Calvin cycle is also named the dark reaction.",
+        "images": []
+      },
+      {
+        "text": "B Pineapples are CAM plants.",
+        "images": []
+      },
+      {
+        "text": "C For C4plants, the Calvin cycle is mainly carried out in the mesophyll cells.",
+        "images": []
+      },
+      {
+        "text": "D C3plants are more resistant to drought than C4plants.",
+        "images": []
+      },
+      {
+        "text": "E Photorespiration occurs when stomata of C3plants are fully open during the day.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. Regarding photosynthesis, which statement is INCORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Light-harvesting complex may consist of chlorophyll a, chlorophyll b and carotinoids.",
+        "images": []
+      },
+      {
+        "text": "B RuBp carboxylase-oxygenase is thought to be the most abundant protein on Earth.",
+        "images": []
+      },
+      {
+        "text": "C In C4pathway, PEP carboxylase promotes CO2to be added to malate.",
+        "images": []
+      },
+      {
+        "text": "D Sugarcane is a kind of C4plant.",
+        "images": []
+      },
+      {
+        "text": "E C4plants contain C4and C3pathways.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. Which is correct for the relationship between photosynthesis and respiration in plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Plants respire only when they don’t photosynthesize.",
+        "images": []
+      },
+      {
+        "text": "B Photosynthesis is the plant’s form of cellular respiration.",
+        "images": []
+      },
+      {
+        "text": "C Because photosynthesis supplements the plant the energy under light condition, the respiration will reduce when the plant is transferred from dark condition to light condition.",
+        "images": []
+      },
+      {
+        "text": "D Cellular respiration takes place only in plant roots, not throughout the plant.",
+        "images": []
+      },
+      {
+        "text": "E Respiration is not only needed for energy generation in the plants, but also provides compounds for the synthesis of other metabolites that is necessary for the plant life.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 請問下列何者為植物進行卡爾文循環（Calvin cycle）的場所？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 類囊體內部（interior of the thylakoid）",
+        "images": []
+      },
+      {
+        "text": "B 類囊體膜（thylakoid membrane）",
+        "images": []
+      },
+      {
+        "text": "C 葉綠體基質（stroma of the chloroplast）",
+        "images": []
+      },
+      {
+        "text": "D 葉綠體外膜（outer membrane）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Which type of plants keeps their stomata open at night, but closed in the day?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A C3",
+        "images": []
+      },
+      {
+        "text": "B C4",
+        "images": []
+      },
+      {
+        "text": "C CAM",
+        "images": []
+      },
+      {
+        "text": "D C3and C4",
+        "images": []
+      },
+      {
+        "text": "E C4and CAM",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 有關植物進行卡爾文循環（Calvin cycle）的位置，下列何者最佳？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉綠體基質（stroma of the chloroplast）",
+        "images": []
+      },
+      {
+        "text": "B 類囊體膜（thylakoid membrane）",
+        "images": []
+      },
+      {
+        "text": "C 類囊體內部（interior of the thylakoid）",
+        "images": []
+      },
+      {
+        "text": "D 葉綠體外膜（outer membrane）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 植物依據不同光合作用模式分為C3、C4、CAM植物，這些植物對環境的適應性有所不同，下列有關植物光合作用的敘述何者最不適當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A C3、C4、CAM植物的光合作用過程均需核酮糖-1,5-雙磷酸羧化酶（rubisco）參與",
+        "images": []
+      },
+      {
+        "text": "B 因應C4植物的光合作用模式，C4植物葉片具有維管束鞘細胞（bundle sheath cell）",
+        "images": []
+      },
+      {
+        "text": "C CAM植物氣孔在夜晚打開，並進行CO2固定，以供應白天光合作用使用",
+        "images": []
+      },
+      {
+        "text": "D C3、C4、CAM植物之光合作用產物不盡相同，C3、C4植物只產生澱粉，CAM植物只產生蔗糖",
+        "images": []
+      },
+      {
+        "text": "E 大氣溫度上升時對 C4植物的光合作用影響較C3植物為小",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. The role of photosynthetic organisms in an ecosystem is ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A reducing light and UV radiation",
+        "images": []
+      },
+      {
+        "text": "B fixing organic compounds for decomposers",
+        "images": []
+      },
+      {
+        "text": "C synthesize organic compounds from inorganic compounds",
+        "images": []
+      },
+      {
+        "text": "D reducing temperature by transpiration",
+        "images": []
+      },
+      {
+        "text": "E keep energy constant in an ecological system",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列何者為C4植物能進行光合作用而無明顯光呼吸作用（photorespiration）的最可能原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A C4植物沒有進行卡爾文循環（Calvin cycle）",
+        "images": []
+      },
+      {
+        "text": "B C4植物能更有效地保持水分",
+        "images": []
+      },
+      {
+        "text": "C C4植物一開始利用PEP carboxylase去固定二氧化碳",
+        "images": []
+      },
+      {
+        "text": "D C4植物把氧氣排出體外",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. Which one of the following plant could be more likely to adapt hot and arid environments?1　Arabidopsis2　Rice3　Sugarcane4　Pineapple5　Cactus",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1,2",
+        "images": []
+      },
+      {
+        "text": "B 1,2,3",
+        "images": []
+      },
+      {
+        "text": "C 1,2,5",
+        "images": []
+      },
+      {
+        "text": "D 3,4,5",
+        "images": []
+      },
+      {
+        "text": "E 1,2,3,4,5",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. During photosynthesis, carbon dioxide is incorporated into glucose in ________; water is broken down and oxygen gas produced in ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A photosystem I; photosystem II",
+        "images": []
+      },
+      {
+        "text": "B Calvin cycle; photosystem II",
+        "images": []
+      },
+      {
+        "text": "C photosystem II; Calvin cycle",
+        "images": []
+      },
+      {
+        "text": "D Calvin cycle; photosystem I",
+        "images": []
+      },
+      {
+        "text": "E photosystem I; Calvin cycle",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 有關植物光呼吸作用（photorespiration）的代謝結果，下列何者最佳？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它消耗氧及二氧化碳產生ATP",
+        "images": []
+      },
+      {
+        "text": "B 它產生氧消耗ATP及二氧化碳",
+        "images": []
+      },
+      {
+        "text": "C 它產生二氧化碳消耗ATP及氧",
+        "images": []
+      },
+      {
+        "text": "D 它產生氧及ATP消耗二氧化碳",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下圖為植物進行光合作用的示意圖，其中甲、乙代表二個不同的化學反應，而I、II、III和IV則分別代表光合作用中相關的反應物及生成物，下列敘述何者正確？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/030.png"
+    ],
+    "options": [
+      {
+        "text": "A 植物利用氣孔吸收I、排出II",
+        "images": []
+      },
+      {
+        "text": "B III反應成IV的過程為放能反應",
+        "images": []
+      },
+      {
+        "text": "C 甲反應需要利用葉綠體基質中的光合色素吸收光能",
+        "images": []
+      },
+      {
+        "text": "D 乙為碳反應，可將醣類轉變成CO2",
+        "images": []
+      },
+      {
+        "text": "E NADP+→ NADPH 的反應過程為氧化還原作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 在炎熱乾燥的環境下，以下何種植物的光呼吸作用（photorespiration）最旺盛？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 玉米",
+        "images": []
+      },
+      {
+        "text": "B 菠菜",
+        "images": []
+      },
+      {
+        "text": "C 鳳梨",
+        "images": []
+      },
+      {
+        "text": "D 仙人掌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 有關光合作用中的光系統Ⅱ，下列敘述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 含P680（高度特化的葉綠素a）",
+        "images": []
+      },
+      {
+        "text": "B 發生環式光合磷酸化（cyclic photophosphorylation）",
+        "images": []
+      },
+      {
+        "text": "C 含D1和D2蛋白",
+        "images": []
+      },
+      {
+        "text": "D 接受水裂解產生的電子",
+        "images": []
+      },
+      {
+        "text": "E 葉綠素b、胡蘿蔔素等，都可作為天線色素（antenna complex）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 在一些進行光合作用的物種中，當其葉綠體（chloroplast）缺乏第二光系統（photosystem II）時仍能生存。請問下列何種方法最適合用來偵測第二光合作用系統缺乏的光合作用物種？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 偵測葉綠體中是否含有類囊體（thylakoid）",
+        "images": []
+      },
+      {
+        "text": "B 在黑暗中偵測二氧化碳是否被固定",
+        "images": []
+      },
+      {
+        "text": "C 在黑暗中偵測是否釋放氧氣",
+        "images": []
+      },
+      {
+        "text": "D 在光照下偵測是否釋放氧氣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. C4植物與CAM植物進行光合作用，有何相似之處？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 兩者都僅用到光系統I（photosystem I）",
+        "images": []
+      },
+      {
+        "text": "B 這兩類植物都不是用Rubisco當作固碳的第一個酵素",
+        "images": []
+      },
+      {
+        "text": "C 這兩類植物製造醣類，都不需要卡爾文循環（Calvin cycle）",
+        "images": []
+      },
+      {
+        "text": "D 這兩類植物都是在晚上製造大部份的醣類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列有關C3植物、C4植物、與CAM植物葉片之光合作用的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A C3植物固定CO2的酵素僅存在於葉綠體中",
+        "images": []
+      },
+      {
+        "text": "B 所有的植物之卡爾循環（Calvin cycle）僅在葉綠體中進行",
+        "images": []
+      },
+      {
+        "text": "C C3植物與C4植物的維管束鞘細胞的葉綠體中均可進行卡爾循環",
+        "images": []
+      },
+      {
+        "text": "D C4植物與CAM植物光合固碳反應的產物有3C分子，也有4C分子",
+        "images": []
+      },
+      {
+        "text": "E C3植物與C4植物在白天進行卡爾循環，CAM植物在晚上進行卡爾循環",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 下列有關光合作用描述，何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 光合作用的卡爾文循環（Calvin cycle）會產生高能物質NADH",
+        "images": []
+      },
+      {
+        "text": "B 在乾燥炎熱的天氣，C3植物會進行光呼吸作用",
+        "images": []
+      },
+      {
+        "text": "C 在C4植物中固碳反應和卡爾文循環（Calvin cycle）發生在不同細胞中",
+        "images": []
+      },
+      {
+        "text": "D 在CAM植物中固碳反應和卡爾文循環（Calvin cycle）發生在不同時間",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 下圖為植物細胞內葉綠體構造的示意圖，根據該圖的標示，下列有關光合反應的敘述何者最不恰當？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/029.png"
+    ],
+    "options": [
+      {
+        "text": "A 澱粉的生成發生於「stroma」內",
+        "images": []
+      },
+      {
+        "text": "B 葉綠素分布在「outer membrane」上",
+        "images": []
+      },
+      {
+        "text": "C 氧氣的釋放發生在thylakoid的「lumen」內",
+        "images": []
+      },
+      {
+        "text": "D 光系統（photosystem）位於「thylakoid membrane」上",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. Photosynthetic pigments in the thylakoid are light receptors. Which is NOT CORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Chlorophyll a, which participates directly in the light reactions and absorbs best in the red and violet-blue wavelengths and absorbs least in the green, participates directly in the light reactions, but accessory photosynthetic pigments absorb light and transfer energy to chlorophyll a.",
+        "images": []
+      },
+      {
+        "text": "B Accessory pigments include chlorophyll b, carotenoids, and anthocyanin.",
+        "images": []
+      },
+      {
+        "text": "C An overall action spectrum for photosynthesis profiles the relative effectiveness of different wavelengths of radiation in driving the process. The action spectrum of photosynthesis was first demonstrated in 1883 in a clever experiment performed by Thomas Engelmann.",
+        "images": []
+      },
+      {
+        "text": "D The action spectrum of photosynthesis does not match exactly the absorption spectrum of any one photosynthetic pigment, including chlorophyll a.",
+        "images": []
+      },
+      {
+        "text": "E Each light-harvesting complex consists of pigment molecules (which may include chlorophyll a, chlorophyll b, and carotenoids) bound to proteins, in which the light-harvesting complexes act as an antenna for the reactioncenter complex.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 植物光合作用之光磷酸化反應（photophosphorylation）的機制與下列何者最為相似？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 糖解作用的受質磷酸化反應",
+        "images": []
+      },
+      {
+        "text": "B 細胞呼吸作用的氧化磷酸化反應",
+        "images": []
+      },
+      {
+        "text": "C 卡爾文循環",
+        "images": []
+      },
+      {
+        "text": "D 固碳作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 參與光合作用的酵素很多，下列何者在卡爾文循環（Calvin cycle）中催化二氧化碳併入核酮糖雙磷酸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A NADP+reductase",
+        "images": []
+      },
+      {
+        "text": "B Rubisco",
+        "images": []
+      },
+      {
+        "text": "C ATP synthase",
+        "images": []
+      },
+      {
+        "text": "D PEP carboxylase",
+        "images": []
+      },
+      {
+        "text": "E Dehydrogenase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Which of the following statements for cellular respiration and photorespiration is false?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Both of these two reactions consume O2.",
+        "images": []
+      },
+      {
+        "text": "B CO2is among the final products of these two reactions.",
+        "images": []
+      },
+      {
+        "text": "C Adenosine triphosphates (ATPs) are consumed in the processes of these two reactions.",
+        "images": []
+      },
+      {
+        "text": "D ATP is among the final products of these two reactions.",
+        "images": []
+      },
+      {
+        "text": "E All vascular plants are able to conduct cellular respiration, while photorespiration mainly happen to C3plants.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 植物進行光合作用光反應的部位主要在光系統（photosystems）的反應中心（reaction center），有關光系統反應在適應上功能的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在電子轉移到電子傳遞鏈（electron transport chain）的電子接受者（electron acceptors）之前，需要經過多種不同的色素激活電子",
+        "images": []
+      },
+      {
+        "text": "B 多種不同的色素讓植物可以吸收多個波長範圍的光能",
+        "images": []
+      },
+      {
+        "text": "C 多種不同的色素讓植物可以從光能中吸收多個相同波長的光子（photons）",
+        "images": []
+      },
+      {
+        "text": "D 多種不同的色素讓反應中心可以激活電子到更高的電子能階（energy level）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "複選題",
+    "question": "26. 關於C4植物，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉肉細胞中進行固碳作用",
+        "images": []
+      },
+      {
+        "text": "B 固碳作用最先形成磷酸烯醇（phosphoenolpyruvate, PEP）",
+        "images": []
+      },
+      {
+        "text": "C 蘋果酸進入維管素主要是提供卡爾文循環（Calvin cycle）所需的CO2",
+        "images": []
+      },
+      {
+        "text": "D 在白天進行C4與卡爾文循環",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 多數植物的卡氏循環（Calvin Cycle）在白天進行。卡氏循環，其實不直接需要光，但是它需要光反應產生的哪兩種物質來作反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ATP和NAD+",
+        "images": []
+      },
+      {
+        "text": "B ATP和ADP",
+        "images": []
+      },
+      {
+        "text": "C NAD+和NADP+",
+        "images": []
+      },
+      {
+        "text": "D NADP+和NADPH",
+        "images": []
+      },
+      {
+        "text": "E NADPH和ATP",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 比較C3、C4、CAM植物之光合作用，下列哪個選項最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 光系統 → C3：PS II, PS I／C4：只有PS II／CAM：只有PS II",
+        "images": []
+      },
+      {
+        "text": "B 因應低濃度之二氧化碳 → C3：光呼吸作用／C4：將二氧化碳固定成蘋果酸／CAM：光呼吸作用",
+        "images": []
+      },
+      {
+        "text": "C 卡爾文循環 → C3：發生於葉肉細胞／C4：發生於葉肉細胞／CAM：發生於夜間",
+        "images": []
+      },
+      {
+        "text": "D 光合產物輸出型 → C3：蔗糖／C4：澱粉／CAM：蔗糖",
+        "images": []
+      },
+      {
+        "text": "E 葉部構造 → C3：不具維管束鞘細胞／C4：具有維管束鞘細胞／CAM：不具維管束鞘細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 有關植物進行固碳作用（carbon fixation）的步驟，三分子的二氧化碳接到三分子的ribulose bisphosphate (RuBP)而產生三個含六個碳的分子，此分子立即分解產生六分子的3-phosphoglycerate。再經磷酸化（phosphorylation）及還原反應產生六分子的glyceraldehyde 3-phosphate (G3P)，其中一分子的G3P離開此循環，五分子的G3P需要進行下列何種反應，才完成卡爾文循環（Calvin cycle）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 從NADPH加入一對電子",
+        "images": []
+      },
+      {
+        "text": "B 從ADP再生ATP",
+        "images": []
+      },
+      {
+        "text": "C 再生RuBP",
+        "images": []
+      },
+      {
+        "text": "D 再生NADP+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列何者是光反應的電子接受者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A FADH2",
+        "images": []
+      },
+      {
+        "text": "B NADP+",
+        "images": []
+      },
+      {
+        "text": "C NAD+",
+        "images": []
+      },
+      {
+        "text": "D NADPH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 第一個催化固定二氧化碳的植物酵素是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甘醇酸酯加氧酶（glycolate oxygenase）",
+        "images": []
+      },
+      {
+        "text": "B 甘醇酸酯磷酸酶（glycolate phosphatase）",
+        "images": []
+      },
+      {
+        "text": "C 二磷酸核酮糖鹽轉移酶（ribulose bisphosphate transferase）",
+        "images": []
+      },
+      {
+        "text": "D 核酮糖-1,5-雙磷酸羧化酶/加氧酶（RuBP carboxylase-oxygenase; Rubisco）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "複選題",
+    "question": "32. 有關卡爾文循環（Calvin cycle），下列敘述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 卡爾文循環是一種類似克氏循環（Krebs cycle）的新陳代謝過程",
+        "images": []
+      },
+      {
+        "text": "B 是光合作用裡碳反應的一部分",
+        "images": []
+      },
+      {
+        "text": "C 反應場所為葉綠體內的受質",
+        "images": []
+      },
+      {
+        "text": "D 分為三個階段：碳固定（carbon fixation）、還原與糖生成（reduction and carbohydrate production）和二磷酸核酮糖再生（regeneration of ribulose bisphosphate）",
+        "images": []
+      },
+      {
+        "text": "E 整個循環是利用葡萄糖作為能量來源",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 光合作用中的卡爾文循環（Calvin cycle）反應，將二氧化碳加入核酮糖-1,5-二磷酸（Ribulose 1,5-bisphosphate, RuBP）分子中的產物為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 檸檬酸（citric acid）",
+        "images": []
+      },
+      {
+        "text": "B 甘油醛-3-磷酸酯（glyceraldehyde-3-phosphate）",
+        "images": []
+      },
+      {
+        "text": "C 3-磷酸甘油酸（3-phosphoglycerate）",
+        "images": []
+      },
+      {
+        "text": "D 丙酮酸（pyruvate）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. In the thylakoid membranes, what is the main role of the antenna pigment molecules?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A concentrate photons within the stroma",
+        "images": []
+      },
+      {
+        "text": "B split water and release oxygen to the reaction-center chlorophyll",
+        "images": []
+      },
+      {
+        "text": "C harvest photons and transfer light energy to the reaction-center chlorophyll",
+        "images": []
+      },
+      {
+        "text": "D synthesize ATP from ADP and Pi",
+        "images": []
+      },
+      {
+        "text": "E transfer electrons to ferredoxin and then NADPH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. Which of the following statements about the Calvin cycle is true?I. Sugarcane opens stomata on days, while pineapple opens stomata at nights.II. On hot and dry days, sugarcane is more efficient to fix CO2than rice.III. Rubisco is an enzyme involved in the first major step of carbon fixation in rice; its substrate molecules are ribulose-1,5-bisphosphate and CO2and its product is a three-carbon compound.IV. Sugarcane and pineapple can use phosphoenolpyruvate carboxylase to capture more CO2into a four-carbon compound in mesophyll cells.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A I and II",
+        "images": []
+      },
+      {
+        "text": "B II and III",
+        "images": []
+      },
+      {
+        "text": "C III and IV",
+        "images": []
+      },
+      {
+        "text": "D I, II, and III",
+        "images": []
+      },
+      {
+        "text": "E I, II, III, and IV",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 將仙人掌的葉片加水磨碎，取其濾液，測量其pH值，下列哪一個時間取下的葉片，pH值最低？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 上午6時",
+        "images": []
+      },
+      {
+        "text": "B 中午12時",
+        "images": []
+      },
+      {
+        "text": "C 下午6時",
+        "images": []
+      },
+      {
+        "text": "D 子夜12時",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. What are the wavelengths of light that chlorophyll absorbs most strongly?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Blue and red",
+        "images": []
+      },
+      {
+        "text": "B Blue and green",
+        "images": []
+      },
+      {
+        "text": "C Green and yellow",
+        "images": []
+      },
+      {
+        "text": "D UV and infrared",
+        "images": []
+      },
+      {
+        "text": "E UV and blue",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 下圖中植物類囊體膜（thylakoid membrane）上，________具有酵素功能會將一分子的H2O解成 1/2 O2、2 H+和2 e–；________可磷酸化ADP進而產生ATP。",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/060.png"
+    ],
+    "options": [
+      {
+        "text": "A A；E",
+        "images": []
+      },
+      {
+        "text": "B C；E",
+        "images": []
+      },
+      {
+        "text": "C A；D",
+        "images": []
+      },
+      {
+        "text": "D B；D",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列何者不會發生在卡爾文循環（Calvin cycle）中？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 碳固定（carbon fixation）",
+        "images": []
+      },
+      {
+        "text": "B NADPH氧化（oxidation of NADPH）",
+        "images": []
+      },
+      {
+        "text": "C 釋出氧（release of oxygen）",
+        "images": []
+      },
+      {
+        "text": "D 消耗ATP（consumption of ATP）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 有關卡爾文循環（Calvin cycle）的敘述，下列何者最有可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 發生在粒腺體中能量的產生",
+        "images": []
+      },
+      {
+        "text": "B 利用二氧化碳製造脂肪酸",
+        "images": []
+      },
+      {
+        "text": "C 利用ATP作為能量來源，並以降低能階的方式來消耗NADPH",
+        "images": []
+      },
+      {
+        "text": "D 其產物為葡萄糖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. In temperate regions, which pigment is responsible for the red-yellow coloration seen in leaves during the color change in autumn?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Chlorophyll a",
+        "images": []
+      },
+      {
+        "text": "B Chlorophyll b",
+        "images": []
+      },
+      {
+        "text": "C Carotenoids",
+        "images": []
+      },
+      {
+        "text": "D Porphyrin",
+        "images": []
+      },
+      {
+        "text": "E Anthocyanin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 不同波長的光譜影響光合作用效益，以不同色光照射葉綠體再統計各波長光照下光合作用速率可繪成「作用光譜（Action spectrum）」，下列何者最能表示維管束植物的作用光譜？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/031.png"
+        ]
+      },
+      {
+        "text": "B",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/032.png"
+        ]
+      },
+      {
+        "text": "C",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/033.png"
+        ]
+      },
+      {
+        "text": "D",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/034.png"
+        ]
+      },
+      {
+        "text": "E",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/035.png"
+        ]
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 植物光合作用之光反應（light reactions）過程中ATP在何處生成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞膜（plasma membrane）",
+        "images": []
+      },
+      {
+        "text": "B 類囊體間隙（thylakoid space）",
+        "images": []
+      },
+      {
+        "text": "C 葉綠體基質（stroma）",
+        "images": []
+      },
+      {
+        "text": "D 葉綠體內膜（inner membrane）",
+        "images": []
+      },
+      {
+        "text": "E 葉綠體外膜（outer membrane）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 使用下列不同波長的LED燈源，何者最適合植物工廠使用，以達到節能的目標？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 100～200nm",
+        "images": []
+      },
+      {
+        "text": "B 200～300nm",
+        "images": []
+      },
+      {
+        "text": "C 300～400nm",
+        "images": []
+      },
+      {
+        "text": "D 400～500nm",
+        "images": []
+      },
+      {
+        "text": "E 500～600nm",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. In the process of photosynthesis, which of the following is not involved in the creation of H+gradient thylakoid lumen and stroma that generates ATP?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A reduction of NADP+",
+        "images": []
+      },
+      {
+        "text": "B splitting of water in the thylakoid lumen",
+        "images": []
+      },
+      {
+        "text": "C PQ cycle of the electron transport chain and its reaction to cytochrome b6f complex",
+        "images": []
+      },
+      {
+        "text": "D regeneration of RuBP",
+        "images": []
+      },
+      {
+        "text": "E electron transport",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列有關葉綠素的敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉綠素分子為脂溶性",
+        "images": []
+      },
+      {
+        "text": "B 葉綠素分子具環狀結構的頭部及碳氫長鏈的尾部",
+        "images": []
+      },
+      {
+        "text": "C 四吡咯（tetrapyrrole）內中心含有錳，以利於光能量的吸收",
+        "images": []
+      },
+      {
+        "text": "D 葉綠素分子照光時，會由基態轉為激發態",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 下列有關光合作用的比較，何者最明顯錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 比較項目：進行場所光反應：囊狀膜（葉綠餅）暗反應：葉綠體的基質",
+        "images": []
+      },
+      {
+        "text": "B 比較項目：參與要素光反應：日光、葉綠體、水、NADP+、ADP暗反應：ATP、葉綠體、NADPH、H+、CO2",
+        "images": []
+      },
+      {
+        "text": "C 比較項目：能量來源光反應：光能暗反應：化學能（ATP、NADPH）",
+        "images": []
+      },
+      {
+        "text": "D 比較項目：能量變化光反應：光能 → 化學能暗反應：化學能 → 光能",
+        "images": []
+      },
+      {
+        "text": "E 比較項目：主要產物光反應：ATP、NADPH、O2暗反應：C6H12O6、H2O",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 關於C4及Crassulacean acid metabolism (CAM)植物用來合成糖類之方式，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 前者利用磷酸烯醇丙酮酸羧化酮（PEP carboxylase）有效的固定CO2",
+        "images": []
+      },
+      {
+        "text": "B 後者是利用晚上固定CO2，白天再轉換成糖類",
+        "images": []
+      },
+      {
+        "text": "C 鳳梨屬於後者",
+        "images": []
+      },
+      {
+        "text": "D 後者通常在特化的維管束鞘細胞（bundle-sheath cell）中轉換糖類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 有關類胡蘿蔔素（carotenoids）是光合作用的輔助色素，下列關於類胡蘿蔔素的敘述何者較正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 類胡蘿蔔素的吸收光譜與葉綠素a一致",
+        "images": []
+      },
+      {
+        "text": "B 類胡蘿蔔素在蔬果中存在的位置為細胞核",
+        "images": []
+      },
+      {
+        "text": "C 葉黃素屬於類胡蘿蔔素的一種，可作為人體保健食品，主要用來維持人類聽力系統之正常運作",
+        "images": []
+      },
+      {
+        "text": "D 胡蘿蔔富含類胡蘿蔔素，呈橘黃色，是因為類胡蘿蔔素吸收紅、橙、黃色光所造成",
+        "images": []
+      },
+      {
+        "text": "E 類胡蘿蔔素具光保護作用（photoprotection），可吸收過多光能，降低強光對葉綠素造成傷害",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 如果將植物細胞的類囊體（thylakoid）穿孔，使其內部與葉綠體基質（stroma）相互流通，下列何種過程最直接受影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 水分子裂解（split）",
+        "images": []
+      },
+      {
+        "text": "B ATP的合成",
+        "images": []
+      },
+      {
+        "text": "C NADP+還原",
+        "images": []
+      },
+      {
+        "text": "D 光能吸收",
+        "images": []
+      },
+      {
+        "text": "E 電子從光系統II（photosystem II）到光系統I的傳遞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

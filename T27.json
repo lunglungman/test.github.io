@@ -1,0 +1,734 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. For what purpose(s) might a karyotype be prepared?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A for prenatal screening, to determine if a fetus has the correct number of chromosomes",
+        "images": []
+      },
+      {
+        "text": "B to determine whether a fetus is male or female",
+        "images": []
+      },
+      {
+        "text": "C to detect the possible presence of chromosomal abnormalities such as deletions, inversions, or translocations",
+        "images": []
+      },
+      {
+        "text": "D The first and second answers are correct.",
+        "images": []
+      },
+      {
+        "text": "E The first three answers are correct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. Which of the following statements correctly describes how sister chromatids and homologous chromosomes differ from each other?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Homologous chromosomes are identical copies of each other. One sister chromatid comes from the father, and one comes from the mother.",
+        "images": []
+      },
+      {
+        "text": "B They are not different.; homologous chromosomes and sister chromatids are both identical copies of each other.",
+        "images": []
+      },
+      {
+        "text": "C Homologous chromosomes contain the same gene loci but may have different alleles of a particular gene. Sister chromatids are identical copies of each other produced during DNA replication",
+        "images": []
+      },
+      {
+        "text": "D Homologous chromosomes are closely associated with each other in both mitosis and meiosis. Sister chromatids are only associated with each other during mitosis.",
+        "images": []
+      },
+      {
+        "text": "E Sister chromatids are only formed during mitosis. Homologous chromosomes are formed during meiosis.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 有關動物細胞減數分裂時，染色體聯會（synapsis）發生的時期，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A prophase I",
+        "images": []
+      },
+      {
+        "text": "B prophase II",
+        "images": []
+      },
+      {
+        "text": "C metaphase I",
+        "images": []
+      },
+      {
+        "text": "D metaphase II",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 下列關於“人體配子發生（gametogenesis）”的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 初級卵母細胞（primary oocytes）是在胚胎時期由卵原（oogonia）細胞經第一次減數分裂而產生",
+        "images": []
+      },
+      {
+        "text": "B 男性在胚胎時期已產生初級精母細胞（primary spermatocytes）",
+        "images": []
+      },
+      {
+        "text": "C 次級精母細胞（secondary spermatocytes）是尚未完成減數分裂的細胞",
+        "images": []
+      },
+      {
+        "text": "D 初級卵母細胞經第二次減數分裂產生四個一樣大小的卵子，稱為次級卵母細胞（secondary oocytes）",
+        "images": []
+      },
+      {
+        "text": "E 不分精卵，配子發生開始於青春期，是受到性荷爾蒙刺激而啟動的一個過程",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Meiosis is a special type of cell division. Which of the following mechanism(s) occur during meiosis guarantees that each haploid germ cell will have a unique combination of gene alleles that is distinct from each parent as well as every other haploid germ cell generated?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Recombination.",
+        "images": []
+      },
+      {
+        "text": "B Reassortment.",
+        "images": []
+      },
+      {
+        "text": "C Duplication.",
+        "images": []
+      },
+      {
+        "text": "D A and B.",
+        "images": []
+      },
+      {
+        "text": "E A, B and C.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 有性生殖的生物無法經由下列哪一種途徑產生遺傳變異？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因突變（gene mutation）",
+        "images": []
+      },
+      {
+        "text": "B 減數分裂之第一前期（prophase I），同源染色體之間的互換（crossing over）",
+        "images": []
+      },
+      {
+        "text": "C 配子（gametes）和配子間進行染色體交換",
+        "images": []
+      },
+      {
+        "text": "D 精卵結合的隨機受精作用",
+        "images": []
+      },
+      {
+        "text": "E 同源染色體在減數分裂之第一次細胞分裂時所進行之獨立分配（independent assortment）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列有關減數分裂的描述，何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 減數分裂時，染色體複製一次，分裂兩次",
+        "images": []
+      },
+      {
+        "text": "B 減數分裂時染色體進行聯會，形成四分體",
+        "images": []
+      },
+      {
+        "text": "C 同源染色體在聯會時進行互換以增加配子的種類",
+        "images": []
+      },
+      {
+        "text": "D 在染色體兩次分裂產生配子時，先分離姐妹染色體，再分離同源染色體",
+        "images": []
+      },
+      {
+        "text": "E 減數分裂聯會時的互換增加子代的多樣化（variety）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. Asexual reproduction ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A is limited to plants",
+        "images": []
+      },
+      {
+        "text": "B requires both meiosis and mitosis",
+        "images": []
+      },
+      {
+        "text": "C leads to a loss of genetic material",
+        "images": []
+      },
+      {
+        "text": "D is limited to single-cell organisms",
+        "images": []
+      },
+      {
+        "text": "E produces offspring genetically identical to the parent",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 假設穿山甲每一胎皆可產下四胞胎，且皆為同卵四胞胎，則此四胞胎的產生乃一個受精卵經幾次分裂所形成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一次有絲分裂",
+        "images": []
+      },
+      {
+        "text": "B 一次減數分裂",
+        "images": []
+      },
+      {
+        "text": "C 二次有絲分裂",
+        "images": []
+      },
+      {
+        "text": "D 二次減數分裂",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 依據孟德爾遺傳學理論，在配子形成過程中，等位基因的分離（segregation of alleles）發生在減數分裂的哪一時期？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 減數分裂後期 I（anaphase I of meiosis）",
+        "images": []
+      },
+      {
+        "text": "B 減數分裂中期 I（metaphase I of meiosis）",
+        "images": []
+      },
+      {
+        "text": "C 減數分裂前期 I（prophase I of meiosis）",
+        "images": []
+      },
+      {
+        "text": "D 減數分裂後期 II（anaphase II of meiosis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 關於分子生物敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 轉基因植物或動物是不可以專利的",
+        "images": []
+      },
+      {
+        "text": "B 現今證據認為地球上最早的遺傳物質是DNA",
+        "images": []
+      },
+      {
+        "text": "C 遺傳學是遺傳性（heredity）和變異（variation）的研究",
+        "images": []
+      },
+      {
+        "text": "D 遺傳的互補性（complementarity）是指DNA上核苷酸的聚合（polymerization）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 人類二倍體（diploid）的染色體數是46。請問次級精母細胞（secondary spermatocyte）中有多少染色分體（chromatids）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 23",
+        "images": []
+      },
+      {
+        "text": "B 46",
+        "images": []
+      },
+      {
+        "text": "C 69",
+        "images": []
+      },
+      {
+        "text": "D 92",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 進行染色體核型分析（karyotype）時，通常是觀察有絲分裂（mitosis）那一個時期的染色體？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 前期（prophase）",
+        "images": []
+      },
+      {
+        "text": "B 中期（metaphase）",
+        "images": []
+      },
+      {
+        "text": "C 後期（anaphase）",
+        "images": []
+      },
+      {
+        "text": "D 間期（interphase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 假設二倍體細胞在第二次減數分裂（meiosis Ⅱ）中期（metaphase Ⅱ）的細胞DNA含量為“x”，則細胞週期G2時期的DNA含量，下列哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.25x",
+        "images": []
+      },
+      {
+        "text": "B 0.5x",
+        "images": []
+      },
+      {
+        "text": "C x",
+        "images": []
+      },
+      {
+        "text": "D 2x",
+        "images": []
+      },
+      {
+        "text": "E 4x",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列有關減數分裂（Meiosis）產生配子的敘述，何者最正確？由一個細胞開始，最後",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 產生四個二倍體的細胞",
+        "images": []
+      },
+      {
+        "text": "B 產生兩個單倍體的細胞",
+        "images": []
+      },
+      {
+        "text": "C 產生單倍體的細胞",
+        "images": []
+      },
+      {
+        "text": "D 產生四個一樣的細胞",
+        "images": []
+      },
+      {
+        "text": "E 產生兩個二倍體的細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 下列關於細胞分裂和細胞週期的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 有絲分裂（Mitosis）和減數分裂（Meiosis）在單套（haploid）細胞和雙套（diploid）細胞中都會發生",
+        "images": []
+      },
+      {
+        "text": "B 在Mitosis中會發生染色體聯會（synapsis）的現象",
+        "images": []
+      },
+      {
+        "text": "C 腫瘤細胞是因Mitosis調控出錯而造成細胞不斷分裂",
+        "images": []
+      },
+      {
+        "text": "D 中心粒（centriole）位於中心體（centrosome）中與細胞分裂有關，動物、植物細胞都有中心粒",
+        "images": []
+      },
+      {
+        "text": "E 週期素（Cyclin）和週期素依賴激酶（Cdks）是控制細胞週期的主要蛋白，將細胞週期分成三個時期（phase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. In alternation of generations, what is the diploid stage of a plant that follows fertilization called?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A chiasmata",
+        "images": []
+      },
+      {
+        "text": "B sporophyte",
+        "images": []
+      },
+      {
+        "text": "C karyotype",
+        "images": []
+      },
+      {
+        "text": "D gametophyte",
+        "images": []
+      },
+      {
+        "text": "E spore",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 觀察小鼠的分裂細胞發現它裡面含有19組染色體，每一組均包含兩條染色分體，此細胞處在何種階段？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 減數分裂II末期",
+        "images": []
+      },
+      {
+        "text": "B 減數分裂II前期",
+        "images": []
+      },
+      {
+        "text": "C 有絲分裂前期",
+        "images": []
+      },
+      {
+        "text": "D 有絲分裂後期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. In vertebrate animals, spermatogenesis and oogenesis differ, in that",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A oogenesis begins at the onset of sexual maturity, whereas spermatogenesis happens in embryonic development.",
+        "images": []
+      },
+      {
+        "text": "B oogenesis produces four haploid cells, whereas spermatogenesis produces only one functional spermatozoon.",
+        "images": []
+      },
+      {
+        "text": "C cytokinesis is unequal in oogenesis, whereas it is equal in spermatogenesis.",
+        "images": []
+      },
+      {
+        "text": "D spermatogenesis is not completed until after fertilization occurs, but oogenesis is completed by the time a girl is born.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 下列關於核型（karyotype）分析的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 常被用來偵測DNA是否有移碼（frameshift）突變",
+        "images": []
+      },
+      {
+        "text": "B 是以聚合酶連鎖反應（polymerase chain reaction, PCR）來進行分析",
+        "images": []
+      },
+      {
+        "text": "C 可用以判斷染色體是否出現異常",
+        "images": []
+      },
+      {
+        "text": "D 係利用處於細胞週期（cell cycle）G1時期（G1phase）的細胞才能分析",
+        "images": []
+      },
+      {
+        "text": "E 主要用於檢查生殖細胞是否異常",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 有關細胞分裂的方式，下列何者與其他不同？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 精母細胞分裂產生精子",
+        "images": []
+      },
+      {
+        "text": "B T細胞受抗原刺激後進行分裂產生新細胞",
+        "images": []
+      },
+      {
+        "text": "C 洋蔥泡水後長出根尖",
+        "images": []
+      },
+      {
+        "text": "D 受精卵進行分裂發育成胚胎",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 製作染色體核形圖（karyotype）時，細胞是在有絲分裂的那一個階段？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A prophase",
+        "images": []
+      },
+      {
+        "text": "B metaphase",
+        "images": []
+      },
+      {
+        "text": "C anaphase",
+        "images": []
+      },
+      {
+        "text": "D telophase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. About mitosis and meiosis, which statement is NOT TRUE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Mitosis conserves the number of chromosome sets, producing cells that are genetically identical to the parent cell.",
+        "images": []
+      },
+      {
+        "text": "B Meiosis reduces the number of chromosomes sets from two (diploid) to one (haploid), producing cells that differ genetically from each other and from the parent cell.",
+        "images": []
+      },
+      {
+        "text": "C Meiosis occurs in reproductive cells, forming female and male haploid gametes.",
+        "images": []
+      },
+      {
+        "text": "D DNA replication occurs twice in meiosis but once in mitosis.",
+        "images": []
+      },
+      {
+        "text": "E Cell divides twice in meiosis but once in mitosis.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列細胞分裂的過程，何者只會出現在精子的形成，而不會發生於皮膚細胞的增生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA複製",
+        "images": []
+      },
+      {
+        "text": "B 染色體濃縮變短",
+        "images": []
+      },
+      {
+        "text": "C 同源染色體配對",
+        "images": []
+      },
+      {
+        "text": "D 姐妹染色分體的形成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "複選題",
+    "question": "25. 不是有絲分裂和減數分裂共有的特徵是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紡錘絲出現",
+        "images": []
+      },
+      {
+        "text": "B 染色質複製",
+        "images": []
+      },
+      {
+        "text": "C 染色體數減半",
+        "images": []
+      },
+      {
+        "text": "D 二分體（chromosome dyad）分離",
+        "images": []
+      },
+      {
+        "text": "E 同源染色體配對",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C",
+      "E"
+    ]
+  }
+]

@@ -1,0 +1,1424 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 脂溶性訊息分子，例如睪固酮（testosterone），會穿越細胞之細胞膜，但卻僅影響其標的細胞（target cell）。這是因為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 僅標的細胞保有合適的DNA片段",
+        "images": []
+      },
+      {
+        "text": "B 細胞內睪固酮受體（intracellular testosterone receptor）僅存在於標的細胞中",
+        "images": []
+      },
+      {
+        "text": "C 大多數細胞缺乏所需之Y染色體",
+        "images": []
+      },
+      {
+        "text": "D 僅標的細胞擁有傳導睪固酮所需之胞質酵素（cytosolic enzymes）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. Hypoglycemia, or low levels of glucose in the blood of a healthy human, is “corrected” by a(n) ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A increase in the secretion of insulin",
+        "images": []
+      },
+      {
+        "text": "B increase in the secretion of glucagon",
+        "images": []
+      },
+      {
+        "text": "C increase in the secretion of both insulin and glucagon",
+        "images": []
+      },
+      {
+        "text": "D decrease in the secretion of both insulin and glucagon",
+        "images": []
+      },
+      {
+        "text": "E increase in the secretion of thyroid hormones",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 碘含量正常卻有甲狀腺機能減退症（hypothyroidism）的病人，以下何種選項最適合解釋?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A T3的產量大於T4",
+        "images": []
+      },
+      {
+        "text": "B TSH分泌低下（hyposecretion）",
+        "images": []
+      },
+      {
+        "text": "C TSH過度分泌（hypersecretion）",
+        "images": []
+      },
+      {
+        "text": "D MSH過度分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 有關腎上腺素（epinephrine）對葡萄糖代謝的影響，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抑制肌肉的糖解作用（glycolysis）",
+        "images": []
+      },
+      {
+        "text": "B 增加肝臟及肌肉肝醣（glycogen）之合成",
+        "images": []
+      },
+      {
+        "text": "C 增加肝臟之肝醣（glycogen）轉化為葡萄糖",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 參與利用威而鋼（Viagra）治療的主要二次傳訊者（second messenger）為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一氧化氮（NO）",
+        "images": []
+      },
+      {
+        "text": "B 鈣離子（Ca2+）",
+        "images": []
+      },
+      {
+        "text": "C 環磷腺苷（cAMP）",
+        "images": []
+      },
+      {
+        "text": "D 二醯基甘油（diacylglycerol）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. What is the function of antidiuretic hormone?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A to increase urination",
+        "images": []
+      },
+      {
+        "text": "B to increase water reabsorption",
+        "images": []
+      },
+      {
+        "text": "C to stimulate sodium reabsorption",
+        "images": []
+      },
+      {
+        "text": "D to counter the effects of alcohol consumption",
+        "images": []
+      },
+      {
+        "text": "E to reduce water reabsorption",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. Hormone X produces its effect in its target cells via the cAMP second messenger system. Which of the following will produce the greatest effect in the cell?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A molecule of cAMP applied to the extracellular fluid surrounding the cell",
+        "images": []
+      },
+      {
+        "text": "B A molecule of cAMP injected into the cytoplasm of the cell",
+        "images": []
+      },
+      {
+        "text": "C A molecule of hormone X applied to the extracellular fluid surrounding the cell",
+        "images": []
+      },
+      {
+        "text": "D A molecule of hormone X injected into the cytoplasm of the cell",
+        "images": []
+      },
+      {
+        "text": "E A molecule of activated, cAMP-dependent protein kinase injected into the cytoplasm of the cell",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 下列何者可抑制胰臟β-細胞分泌胰島素（insulin）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 高血糖",
+        "images": []
+      },
+      {
+        "text": "B 血中胺基酸濃度升高",
+        "images": []
+      },
+      {
+        "text": "C 副交感神經興奮",
+        "images": []
+      },
+      {
+        "text": "D 血中腎上腺素（epinephrine）增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 關於ADH抗利尿激素（antidiuretic hormone）的分子作用機轉，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 會促使葡萄糖的再吸收",
+        "images": []
+      },
+      {
+        "text": "B 會促使集尿管製造更多的水通道蛋白（aquaporin）分子",
+        "images": []
+      },
+      {
+        "text": "C 會促使細胞合成更多的酵素，以促使細胞膜對水份更通透",
+        "images": []
+      },
+      {
+        "text": "D 會減緩濾液通過腎元以利對水的再吸收",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. Which of the following statements about the adrenal gland is CORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A During stress, ACTH stimulates the adrenal cortex, and neurons of the sympathetic nervous system stimulate the adrenal medulla.",
+        "images": []
+      },
+      {
+        "text": "B At all times, the anterior portion secretes ACTH, while the posterior portion secretes oxytocin.",
+        "images": []
+      },
+      {
+        "text": "C At all times, the adrenal gland monitors calcium levels in the blood and regulates calcium by secreting the two antagonistic hormones, epinephrine and norepinephrine.",
+        "images": []
+      },
+      {
+        "text": "D During stress, the alpha cells of islets secrete insulin and simultaneously the beta cells of the islets secrete glucagon.",
+        "images": []
+      },
+      {
+        "text": "E During stress, TSH stimulates the adrenal cortex and medulla to secrete acetylcholine.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. Oxytocin and antidiuretic hormone are synthesized in the ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A hypothalamus",
+        "images": []
+      },
+      {
+        "text": "B adenohypophysis",
+        "images": []
+      },
+      {
+        "text": "C anterior pituitary",
+        "images": []
+      },
+      {
+        "text": "D adrenal cortex",
+        "images": []
+      },
+      {
+        "text": "E posterior pituitary",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 啤酒中含有的乙醇會抑制抗利尿素（antidiuretic hormone）的製造，所以喝啤酒後， 腎臟將會產生下列何者效應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 產生大量濃的尿液",
+        "images": []
+      },
+      {
+        "text": "B 產生小量濃的尿液",
+        "images": []
+      },
+      {
+        "text": "C 產生小量稀的尿液",
+        "images": []
+      },
+      {
+        "text": "D 產生大量稀的尿液",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 避孕藥丸RU-486會阻斷下列何種激素受體（receptor）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 卵泡刺激素（Follicle-stimulating hormone）",
+        "images": []
+      },
+      {
+        "text": "B 黃體生成素（Luteinizing hormone）",
+        "images": []
+      },
+      {
+        "text": "C 助孕素（Progesterone）",
+        "images": []
+      },
+      {
+        "text": "D 雌激素（Estrogen）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列人類荷爾蒙與分泌器官的配對，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紅血球生成素（erythropoietin）-骨髓（bone marrow）",
+        "images": []
+      },
+      {
+        "text": "B 類胰島素生長因子-1（IGF-1）-腎上腺（adrenal gland）",
+        "images": []
+      },
+      {
+        "text": "C 雌激素（estrogen）-下視丘（hypothalamus）",
+        "images": []
+      },
+      {
+        "text": "D 抑鈣素（calcitonin）-甲狀腺（thyroid gland）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Which statement about glands and hormones is true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The anterior pituitary produces multiple hormones that affect activity of other endocrine glands and cells of the body",
+        "images": []
+      },
+      {
+        "text": "B The posterior pituitary produces melatonin, which helps regulate biological rhythms",
+        "images": []
+      },
+      {
+        "text": "C The pineal gland is the master control center of the endocrine system",
+        "images": []
+      },
+      {
+        "text": "D The hypothalamus is an endocrine gland responsible for producing the hormone calcitonin",
+        "images": []
+      },
+      {
+        "text": "E All statements are true.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Which of the following hormones have antagonistic (opposing) effects",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A growth hormone and epinephrine",
+        "images": []
+      },
+      {
+        "text": "B glucagon and thyroxine",
+        "images": []
+      },
+      {
+        "text": "C ACTH and cortisone",
+        "images": []
+      },
+      {
+        "text": "D parathyroid hormone and calcitonin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 甲狀腺素釋素（TRH）由下視丘製造，管控腦下腺製造甲狀腺刺激素（TSH），促使甲狀腺分泌甲狀腺素（thyroid hormone），下列何者是下視丘製造的TRH送至腦下腺的血管通道？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A portal vein",
+        "images": []
+      },
+      {
+        "text": "B portal artery",
+        "images": []
+      },
+      {
+        "text": "C carotid artery",
+        "images": []
+      },
+      {
+        "text": "D carotid vein",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. The hormone primarily responsible for setting the basal metabolic rate and for promoting the maturation of the brain is",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A TSH",
+        "images": []
+      },
+      {
+        "text": "B thyroxine",
+        "images": []
+      },
+      {
+        "text": "C ACTH",
+        "images": []
+      },
+      {
+        "text": "D cortisol",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 在下列何種條件下，哺乳類動物會傾向於增加體內甲狀腺素（thyroxine）的量？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生產後",
+        "images": []
+      },
+      {
+        "text": "B 生病或發燒時",
+        "images": []
+      },
+      {
+        "text": "C 在寒冷的環境下",
+        "images": []
+      },
+      {
+        "text": "D 休息或睡覺時",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 有關細胞訊息傳遞路徑長短，依據參與的分子和執行的功能有所不同，請問傳訊分 子傳遞距離由遠到近的排序下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內分泌（endocrine）＞旁分泌（paracrine）＞突觸（synaptic）＞接觸式（contact dependent）",
+        "images": []
+      },
+      {
+        "text": "B 旁分泌＞內分泌＞突觸＞接觸式",
+        "images": []
+      },
+      {
+        "text": "C 內分泌＞旁分泌＞接觸式＞突觸",
+        "images": []
+      },
+      {
+        "text": "D 旁分泌＞內分泌＞接觸式＞突觸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 在昆蟲蛻變及發育過程中，影響蛻變最重要的激素為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Brain hormone",
+        "images": []
+      },
+      {
+        "text": "B Juvenile hormone",
+        "images": []
+      },
+      {
+        "text": "C Molting hormone",
+        "images": []
+      },
+      {
+        "text": "D Ecdysone",
+        "images": []
+      },
+      {
+        "text": "E Melanocyte-stimulating hormone（MSH）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何者為健康人控制體內某種生理狀況的動態平衡時，所列之拮抗激素最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎上腺素（epinephrine）和正腎上腺素（norepinephrine）在fight-or-flight反應中的作用",
+        "images": []
+      },
+      {
+        "text": "B 甲狀腺素（thyroxine）和副甲狀腺素（parathyroid）對於鈣的平衡",
+        "images": []
+      },
+      {
+        "text": "C 胰島素（insulin）和升糖素（glucagon）參與葡萄糖代謝",
+        "images": []
+      },
+      {
+        "text": "D 濾泡刺激激素（FSH）與黃體成長素（LH）對於精子形成作用的調節",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 如果人長期處於壓力狀態時，主要會造成哪一種荷爾蒙分泌量增加？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A epinephrine",
+        "images": []
+      },
+      {
+        "text": "B glucocorticoid",
+        "images": []
+      },
+      {
+        "text": "C calcitonin",
+        "images": []
+      },
+      {
+        "text": "D leptin",
+        "images": []
+      },
+      {
+        "text": "E insulin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列哪一組的激素在功能上不是互相拮抗（antagonist）的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 醛固酮（aldosterone）─心房鈉利尿激素（atrial natriuretic hormone, ANH）",
+        "images": []
+      },
+      {
+        "text": "B 胰島素（insulin）─升糖素（glucagon）",
+        "images": []
+      },
+      {
+        "text": "C 降鈣素（calcitonin）─副甲狀腺素（parathyroid hormone）",
+        "images": []
+      },
+      {
+        "text": "D 甲狀腺素（thyroxine）─生長激素（growth hormone）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. Which of the following is peptide hormone?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A thyroxin",
+        "images": []
+      },
+      {
+        "text": "B epinephrine",
+        "images": []
+      },
+      {
+        "text": "C antidiuretic hormone",
+        "images": []
+      },
+      {
+        "text": "D progesterone",
+        "images": []
+      },
+      {
+        "text": "E cortisone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 下列何者不是腦下垂體（Anterior pituitary）所釋出之荷爾蒙?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎皮釋素（Corticotropin-releasing hormone, CRH）",
+        "images": []
+      },
+      {
+        "text": "B 濾泡刺激素（Follicle-stimulating hormone, FSH）",
+        "images": []
+      },
+      {
+        "text": "C 泌乳素（Prolactin）",
+        "images": []
+      },
+      {
+        "text": "D 甲狀腺刺激素（Thyroid-stimulating hormone, TSH）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列關於哺乳類動物內分泌功能及調節機轉的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 下丘腦（hypothalamus）會分泌促腎上腺皮質素釋放因子（corticotrophin-releasing factor），進而刺激腦下垂體前葉（anterior pituitary）釋放腎上腺皮質素（corticotrophin）",
+        "images": []
+      },
+      {
+        "text": "B 腎上腺皮質素（corticotrophin）是腦下垂體前葉所分泌的四種向性激素（tropic hormones）之一，這四種向性激素分別由四種不同類型（types）的腦下垂體細胞 所製造",
+        "images": []
+      },
+      {
+        "text": "C 皮質醇（cortisol）是腎上腺皮質（adrenal cortex）所產生的一種激素，它會刺 激下丘腦（hypothalamus）分泌促腎上腺皮質素釋放因子（corticotrophin-releasing factor）",
+        "images": []
+      },
+      {
+        "text": "D 長期面臨壓力會導致下丘腦（hypothalamus）內的皮質醇敏感細胞（cortisol-sensitive cells）數目逐漸減少",
+        "images": []
+      },
+      {
+        "text": "E 催產素（oxytocin）是由腦下垂體後葉（posterior pituitary）所釋放",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列何種激素（hormone）以分泌顆粒的型式儲存於內分泌細胞中？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雄激素（dehydroepiandrosterone）",
+        "images": []
+      },
+      {
+        "text": "B 皮質醇（cortisol）",
+        "images": []
+      },
+      {
+        "text": "C 留塩激素（aldosterone）",
+        "images": []
+      },
+      {
+        "text": "D 胰島素（insulin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. Which of the following hormone secreted from hypothalamus?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A thyrotropin releasing hormone",
+        "images": []
+      },
+      {
+        "text": "B oxytocin",
+        "images": []
+      },
+      {
+        "text": "C luteinizing hormone",
+        "images": []
+      },
+      {
+        "text": "D glucagon",
+        "images": []
+      },
+      {
+        "text": "E glucocorticoids",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列哪一個局部調節物（local regulator）可以活化使平滑肌舒張的酵素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一氧化氮（nitric oxide）",
+        "images": []
+      },
+      {
+        "text": "B 前列腺素F（prostaglandin F）",
+        "images": []
+      },
+      {
+        "text": "C 腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "D 類固醇（steroid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 下列何種荷爾蒙（hormone）無法通過細胞膜（plasma membrane）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "B 雄性激素（androgen）",
+        "images": []
+      },
+      {
+        "text": "C 糖性類皮質酮（glucocorticoid）",
+        "images": []
+      },
+      {
+        "text": "D 甲狀腺素（thyrosine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. What is the target organ for thyrotropin-releasing hormone?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A hypothalamus",
+        "images": []
+      },
+      {
+        "text": "B anterior pituitary",
+        "images": []
+      },
+      {
+        "text": "C posterior pituitary",
+        "images": []
+      },
+      {
+        "text": "D thyroid",
+        "images": []
+      },
+      {
+        "text": "E liver",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 泌乳素（prolactin）的分泌，主要受到下列何種機制控制？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雌激素（estrogen）會抑制泌乳素分泌",
+        "images": []
+      },
+      {
+        "text": "B 黃體素（progesterone）會促進泌乳素分泌",
+        "images": []
+      },
+      {
+        "text": "C 下視丘（hypothalamus）所釋放的多巴胺（dopamine）會抑制泌乳素分泌",
+        "images": []
+      },
+      {
+        "text": "D 與嬰兒遊玩，會促進泌乳素分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 一位30歲女性因腫瘤而切除腦下腺前葉，若無接受其他治療，手術後會有下列何種症狀？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 遭遇壓力時無法分泌腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "B 血糖高時無法分泌胰島素（insulin）",
+        "images": []
+      },
+      {
+        "text": "C 低血鈣時無法分泌副甲狀腺素（PTH）",
+        "images": []
+      },
+      {
+        "text": "D 月經週期（menstrual cycle）停止",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列哪些人體激素屬於固醇類激素？ 1.雌激素（estrogen）；2.胰島素（insulin）；3.黃體酮（progesterone）；4.睪固酮（testosterone）；5.抗利尿激素（antidiuretic chormone）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1,2,5",
+        "images": []
+      },
+      {
+        "text": "B 1,3,4",
+        "images": []
+      },
+      {
+        "text": "C 1,3,4,5",
+        "images": []
+      },
+      {
+        "text": "D 1,4",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. Testosterone functions inside a cell by ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A acting as a signal receptor that activates ion-channel proteins",
+        "images": []
+      },
+      {
+        "text": "B binding with a receptor protein that enters the nucleus and activates specific genes",
+        "images": []
+      },
+      {
+        "text": "C acting as a steroid signal receptor that activates ion-channel proteins",
+        "images": []
+      },
+      {
+        "text": "D becoming a second messenger that inhibits adenylyl cyclase",
+        "images": []
+      },
+      {
+        "text": "E coordinating a phosphorylation cascade that increases glycogen metabolism",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 藉由關於激素之功能，下列何者是錯的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 催產素（oxytocin）是由腦下腺前葉分泌，在女性分娩時會刺激子宮的收縮",
+        "images": []
+      },
+      {
+        "text": "B 甲狀腺刺激素是由腦下腺前葉分泌，刺激甲狀腺分泌甲狀腺素和三碘甲狀腺素",
+        "images": []
+      },
+      {
+        "text": "C 甲狀腺濾泡旁細胞（parafollicular cell），或稱C細胞（C-cell），分泌降鈣素（calcitonin）",
+        "images": []
+      },
+      {
+        "text": "D 抗利尿激素（antidiuretic hormone, ADH）分泌不足會造成尿崩症",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 下列何種生物體的化學訊息之作用，不會改變產生此訊息之生物體的生理狀態？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 神經傳導物質（neurotransmitters）",
+        "images": []
+      },
+      {
+        "text": "B 費洛蒙（pheromones）",
+        "images": []
+      },
+      {
+        "text": "C 生長因子（growth factors）",
+        "images": []
+      },
+      {
+        "text": "D 內分泌激素（hormone）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 若性釋素（GnRH）濃度固定，非以脈衝式釋放（pulsatile secretion），會產生以下何種現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雌激素（estrogen）分泌上升",
+        "images": []
+      },
+      {
+        "text": "B 睪固酮（testosterone）分泌上升",
+        "images": []
+      },
+      {
+        "text": "C 性促素（gonadotropins）分泌下降",
+        "images": []
+      },
+      {
+        "text": "D 黃體生成素（LH）以脈衝式釋放",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. One neurotransmitter associated with sleep, mood, attention, and learning is",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A acetylcholine",
+        "images": []
+      },
+      {
+        "text": "B nitric oxide",
+        "images": []
+      },
+      {
+        "text": "C epinephrine",
+        "images": []
+      },
+      {
+        "text": "D serotonin",
+        "images": []
+      },
+      {
+        "text": "E melatonin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. In both males and females, gonadotropin secretion by the anterior pituitary is stimulated by",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A GnRH",
+        "images": []
+      },
+      {
+        "text": "B FSH",
+        "images": []
+      },
+      {
+        "text": "C GHRH",
+        "images": []
+      },
+      {
+        "text": "D androgens",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 請問胰島素（insulin）降低血糖是藉由？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 促進細胞攝取葡萄糖（glucose）",
+        "images": []
+      },
+      {
+        "text": "B 降低肝臟中肝醣（glycogen）的分解",
+        "images": []
+      },
+      {
+        "text": "C 促進脂肪儲存",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. Diethylstilbestrol (DES)為人工合成的雌激素，是一種________，導致使用的女性________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內分泌前驅物（endocrine precursor），本身不孕",
+        "images": []
+      },
+      {
+        "text": "B 內分泌誘導物（endocrine inducer），體內雄性激素分泌增加",
+        "images": []
+      },
+      {
+        "text": "C 內分泌干擾物（endocrine disruptor），所生下的女兒不孕的風險性增加",
+        "images": []
+      },
+      {
+        "text": "D 內分泌前驅物（endocrine precursor），體內雌激素量減少",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列何者是醛固酮（aldosterone）的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 促進 Ca2+再吸收",
+        "images": []
+      },
+      {
+        "text": "B 促進Ca2+排除",
+        "images": []
+      },
+      {
+        "text": "C 促進Na+再吸收",
+        "images": []
+      },
+      {
+        "text": "D 促進Na+排除",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. Only certain cells in the body are target cells for the steroid hormone aldosterone. Which of the following is the best explanation for why these are the only cells that respond to this hormone?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Only target cells are exposed to aldosterone",
+        "images": []
+      },
+      {
+        "text": "B Only target cells contain receptors for aldosterone",
+        "images": []
+      },
+      {
+        "text": "C Aldosterone is unable to enter nontarget cells",
+        "images": []
+      },
+      {
+        "text": "D Nontarget cells destroy aldosterone before it can produce its effect",
+        "images": []
+      },
+      {
+        "text": "E Nontarget cells convert aldosterone to a hormone to which they do respond",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列之拮抗作用，哪一項發生於細胞表面上之同一受體？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 離層酸和吉貝素",
+        "images": []
+      },
+      {
+        "text": "B 雌性素與抗雌性素",
+        "images": []
+      },
+      {
+        "text": "C 腎上腺素與乙醯膽鹼",
+        "images": []
+      },
+      {
+        "text": "D 胰島素和昇糖素",
+        "images": []
+      },
+      {
+        "text": "E 甲狀腺素與副甲狀腺素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. Which of the following belongs to paracrine?①prostaglandin　②NO　③cytokine　④glucagon　⑤melatonin",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ③④",
+        "images": []
+      },
+      {
+        "text": "B ③⑤",
+        "images": []
+      },
+      {
+        "text": "C ①②③",
+        "images": []
+      },
+      {
+        "text": "D ③④⑤",
+        "images": []
+      },
+      {
+        "text": "E ①③⑤",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. What is hormone most active in a person who is subjective to short-term starvation?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A insulin",
+        "images": []
+      },
+      {
+        "text": "B glucagon",
+        "images": []
+      },
+      {
+        "text": "C epinephrine",
+        "images": []
+      },
+      {
+        "text": "D oxytocin",
+        "images": []
+      },
+      {
+        "text": "E glucocorticoids",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. Which of the following cells of the pancreas secrete insulin?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A exocrine cells",
+        "images": []
+      },
+      {
+        "text": "B alpha cells",
+        "images": []
+      },
+      {
+        "text": "C beta cells",
+        "images": []
+      },
+      {
+        "text": "D delta cells",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 豬隻成長過程中因荷爾蒙分泌，會產生令人不悅的腥騷味，影響食肉品質，進而 影響豬肉市場價格。傳統解決方法為進行人工閹割，既不人道且不經濟。目 前的趨勢為使用免疫去勢法來解決上述的問題，原理為利用抗體中和性荷爾 蒙（sexual hormone），抑制生殖器官的成熟與性徵表現。請問下列何種荷爾蒙 為最合適的中和目標？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A testosterone",
+        "images": []
+      },
+      {
+        "text": "B inhibin",
+        "images": []
+      },
+      {
+        "text": "C follicle-stimulating hormone, FSH",
+        "images": []
+      },
+      {
+        "text": "D gonadotropin-releasing hormone, GnRH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  }
+]

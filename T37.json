@@ -1,0 +1,1476 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 科學家常利用生物進行實驗以探討生命現象，這些生物稱之為模式生物（model organism），下列何者不是一般模式生物所需具備之條件？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可大量飼養或種植",
+        "images": []
+      },
+      {
+        "text": "B 生命週期不要太長",
+        "images": []
+      },
+      {
+        "text": "C 個體越小越好",
+        "images": []
+      },
+      {
+        "text": "D 世代（generation）短，易於繁殖",
+        "images": []
+      },
+      {
+        "text": "E 具生物多樣性（diversity）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 兩個真核生物的蛋白質有相同的一個區域（domain），但其他的區域皆不相同。請問以下何種選項最可能解釋這種相似性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因複製（duplication）",
+        "images": []
+      },
+      {
+        "text": "B RNA 剪接（RNA splicing）",
+        "images": []
+      },
+      {
+        "text": "C 外顯子（exon）跳動",
+        "images": []
+      },
+      {
+        "text": "D 組蛋白（histone）的修飾",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 核酸定序技術發展日新月異，短片段定序技術（shotgun technique）快速發展，但此項技術應用於生物全基因組定序時，常發生低估基因組大小的現象，下面哪一項影響為最重要的缺失？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 無法順利偵測到一些重複基因或序列（duplicated genes or sequences）",
+        "images": []
+      },
+      {
+        "text": "B 跳過一些選殖的步驟直接進行定序",
+        "images": []
+      },
+      {
+        "text": "C 部分選殖片段無法重疊在一起",
+        "images": []
+      },
+      {
+        "text": "D 部分選殖片段被重複計算多次",
+        "images": []
+      },
+      {
+        "text": "E 利用合成即時定序（sequencing by synthesis）方式可快速獲得序列",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Microsatellites DNA is various number of short nucleotide repeat presence in our genomic DNA. If John’s father has microsatellites of 9 repeats and 6 repeats, his mother has 6 repeats and 5 repeats. What could be the combination of microsattelites in John’s genomic DNA?①9 repeats and 6 repeats②15 repeats and 12 repeats③6 repeats and 6 repeats④9 repeats and 5 repeats⑤12 repeats and 14 repeats",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①②",
+        "images": []
+      },
+      {
+        "text": "B ①③④",
+        "images": []
+      },
+      {
+        "text": "C ②④",
+        "images": []
+      },
+      {
+        "text": "D ③④⑤",
+        "images": []
+      },
+      {
+        "text": "E ④⑤",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 以下哪一結構（Motif），不是位於DNA調節蛋白質上?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 白氨酸拉鏈結構（leucine zipper）",
+        "images": []
+      },
+      {
+        "text": "B TATA管理盒（TATA box）",
+        "images": []
+      },
+      {
+        "text": "C 螺旋-轉角-螺旋（helix-turn-helix）",
+        "images": []
+      },
+      {
+        "text": "D 同源結構（homeodomain）",
+        "images": []
+      },
+      {
+        "text": "E 鋅指（zinc finger）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. The nuclear genomes of eukaryotes are composed of different categories of sequences. Repetitive sequences are one type of the categories. Which of the following is an example of highly repetitive sequences?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Histone gene cluster .",
+        "images": []
+      },
+      {
+        "text": "B Ribosomal RNA genes.",
+        "images": []
+      },
+      {
+        "text": "C Homologous genes.",
+        "images": []
+      },
+      {
+        "text": "D Alu elements.",
+        "images": []
+      },
+      {
+        "text": "E Multigene families.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 傳統DNA定序的原理由Sanger發明稱之為桑格法，其原理是在反應劑裡加了雙去氧核糖核苷酸（ddNTP）的原料以終止反應，此雙去氧的位置是在核糖上哪兩個位置？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 5’和3’",
+        "images": []
+      },
+      {
+        "text": "B 5’和2’",
+        "images": []
+      },
+      {
+        "text": "C 2’和3’",
+        "images": []
+      },
+      {
+        "text": "D 1’和3’",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 物種的基因體進行定序後會帶來下列何種好處？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 個人化醫療之發展",
+        "images": []
+      },
+      {
+        "text": "B 追蹤演化樹",
+        "images": []
+      },
+      {
+        "text": "C 釐清遺傳表現模式",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. If humans have 2,900 Mb, a specific member of the lily family has 120,000 Mb, and a yeast has ~13 Mb, why can't this data allow us to order their evolutionary significance?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Size matters less than gene density.",
+        "images": []
+      },
+      {
+        "text": "B Size does not compare to gene density.",
+        "images": []
+      },
+      {
+        "text": "C Size does not vary with gene complexity.",
+        "images": []
+      },
+      {
+        "text": "D Size is comparable only within phyla.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 近年來，微生物菌相（microbiome）被認為與人體健康及疾病息息相關，關於微生物菌相的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 指體內兩種微生物菌間的交互作用",
+        "images": []
+      },
+      {
+        "text": "B 可透過顯微鏡觀察來定義",
+        "images": []
+      },
+      {
+        "text": "C 一個人身上的微生物菌相終其一生都很穩定，但個體差異大",
+        "images": []
+      },
+      {
+        "text": "D 通常可透過16S rRNA基因定序，來分析微生物菌相中的細菌組成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列何者不是系統生物學（system biology）的研究範疇及研究工具？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 系統親緣關係學（systematic phylogeny）",
+        "images": []
+      },
+      {
+        "text": "B 蛋白質體學（proteomics）",
+        "images": []
+      },
+      {
+        "text": "C 基因體學（genomics）",
+        "images": []
+      },
+      {
+        "text": "D 生物資訊工具（bioinformatic tools）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. Proteomics is a new kind of challenge because",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the number of proteins in humans probably far exceeds the number of genes.",
+        "images": []
+      },
+      {
+        "text": "B a cell’s proteins differ with cell type.",
+        "images": []
+      },
+      {
+        "text": "C proteins are extremely varied in structure and chemical properties.",
+        "images": []
+      },
+      {
+        "text": "D some proteins can not be easily analyzed due to their amounts or solubility.",
+        "images": []
+      },
+      {
+        "text": "E All of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 蛋白質體（proteome）指的是下列哪一項？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞中合成蛋白質的物體",
+        "images": []
+      },
+      {
+        "text": "B 蛋白質變性凝結後的形狀",
+        "images": []
+      },
+      {
+        "text": "C 許多蛋白質聚合成的球體",
+        "images": []
+      },
+      {
+        "text": "D 某一組織所表現的全部蛋白質總合",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列敍述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 不同類型的細胞染色體排列方式會有所不同",
+        "images": []
+      },
+      {
+        "text": "B 染色體的排列方式在發育期間會改變",
+        "images": []
+      },
+      {
+        "text": "C 基因的位置會影響其功能",
+        "images": []
+      },
+      {
+        "text": "D 位於細胞核邊緣的基因通常是沒有活性的基因",
+        "images": []
+      },
+      {
+        "text": "E 人類白血球細胞中，18號染色體一般喜歡待在細胞核中央",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 請問下列的科學家與事件說明及敘述的組合，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Frederick Griffith發現細菌可進行遺傳物質的轉型（transformation）現象",
+        "images": []
+      },
+      {
+        "text": "B Alfred Hershey和Martha Chase利用不同放射性物質標定的實驗，證明噬菌體（bacteriophage）的遺傳物質是DNA",
+        "images": []
+      },
+      {
+        "text": "C Barbara McClintock利用病毒感染玉米，經過計算後發現遺傳物質上的基因可以跳躍",
+        "images": []
+      },
+      {
+        "text": "D Andrew Fire和Craig Mello利用秀麗線蟲（C. elegans），發現RNA干擾（RNAinterference）現象",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 次世代定序（next generation sequencing）技術的發展，使得利用少量的樣本，即可進行快速完整的核酸序列分析，下列何者可能不是其直接應用的領域？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 根據個人基因客製化的醫療",
+        "images": []
+      },
+      {
+        "text": "B 蛋白質修飾對蛋白質活性影響的研究",
+        "images": []
+      },
+      {
+        "text": "C 對不易培養的微生物是否存在進行鑑定",
+        "images": []
+      },
+      {
+        "text": "D 搜尋新的RNA剪接（splicing）產物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 人類基因組中只有1.5%是編碼區（coding regions），而有75%的基因組會合成出RNA但不轉譯出蛋白質，稱為非編碼RNA（noncoding RNA, ncRNA），有些ncRNA可調控基因的表現。有關ncRNA的描述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微小RNA（microRNA, miRNA）為長度約22個核苷酸的單股RNA，可藉由其序列中7至8個核苷酸與目標RNA結合，抑制目標RNA的轉譯",
+        "images": []
+      },
+      {
+        "text": "B 小干擾RNA（small interfering RNA）原在植物細胞中發現，與miRNA為長度約相同之單股RNA，藉由與目標RNA結合，促使目標RNA被分解",
+        "images": []
+      },
+      {
+        "text": "C piwi-interacting RNAs（piRNAs）存在於動物細胞，可誘導異染色質（heterochromatin）的形成，也可抑制某些寄生蟲跳躍子（transposons）的表現",
+        "images": []
+      },
+      {
+        "text": "D ncRNA的演化上，目前認為是siRNA先出現，接著是miRNA，而piRNA最晚出現",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. What is proteomics?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the linkage of each gene to a particular protein",
+        "images": []
+      },
+      {
+        "text": "B the study of the full protein set encoded by a genome",
+        "images": []
+      },
+      {
+        "text": "C the totality of the functional possibilities of a single protein",
+        "images": []
+      },
+      {
+        "text": "D the study of how amino acids are ordered in a protein",
+        "images": []
+      },
+      {
+        "text": "E the study of how a single gene activates many proteins",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 下列有關人類基因體的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 估計人類基因體（Human genome）共含有約6 million的鹼基對",
+        "images": []
+      },
+      {
+        "text": "B 估計人類基因體包含約2.5～3.5萬個基因左右",
+        "images": []
+      },
+      {
+        "text": "C 人類基因體和老鼠基因體間的相似度低於10%",
+        "images": []
+      },
+      {
+        "text": "D 估計人類基因體所製造出來的蛋白質數量低於一萬種",
+        "images": []
+      },
+      {
+        "text": "E 人類是高等進化的生物，所以人類基因體所包含的鹼基對數量一定遠超過其他物種",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. Which of the following techniques uses the amino acid sequences of polypeptides to predict a protein’s three-dimensional structure?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A X-ray crystallography",
+        "images": []
+      },
+      {
+        "text": "B two-dimensional electrophoresis",
+        "images": []
+      },
+      {
+        "text": "C bioinformatics",
+        "images": []
+      },
+      {
+        "text": "D gas chromatography mass spectrometry",
+        "images": []
+      },
+      {
+        "text": "E NMR spectroscopy",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 轉位因子（transposon）是由哪一位科學家最早發現的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Jonas Salk",
+        "images": []
+      },
+      {
+        "text": "B Konrad Z. Lorenz",
+        "images": []
+      },
+      {
+        "text": "C Linus Pauling",
+        "images": []
+      },
+      {
+        "text": "D Rosalind Franklin",
+        "images": []
+      },
+      {
+        "text": "E Barbara McClintock",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 在生物資訊學中，下列哪一項為基因注解（gene annotation）的最主要功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 描述具有蛋白質密碼基因（protein-coding genes）的功能",
+        "images": []
+      },
+      {
+        "text": "B 比較同一分類群生物的蛋白質序列",
+        "images": []
+      },
+      {
+        "text": "C 確認細胞表現蛋白質的所有種類與功能",
+        "images": []
+      },
+      {
+        "text": "D 找尋轉錄作用起始位置、終止位置、RNA剪接位置和表現序列片段（expression sequence tags, ESTs）",
+        "images": []
+      },
+      {
+        "text": "E 分析蛋白質的區段（domain）分佈與組成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 在真核生物的基因組中，具有許多不同型態的重複序列，下列何者與其他的重複序列之主要特性不同？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A single sequence repeat",
+        "images": []
+      },
+      {
+        "text": "B satellite DNA",
+        "images": []
+      },
+      {
+        "text": "C interspersed repeats",
+        "images": []
+      },
+      {
+        "text": "D minisatellite DNA",
+        "images": []
+      },
+      {
+        "text": "E short tandem repeat",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Which one is correct for the description of transposons?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A It occurs only in bacteria.",
+        "images": []
+      },
+      {
+        "text": "B Some transposons do jump from one genome location to another, in what is called replicative transposition.",
+        "images": []
+      },
+      {
+        "text": "C It plays little or no role in evolution.",
+        "images": []
+      },
+      {
+        "text": "D Few can move to many alternative locations in the DNA.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. Which of the following is a possible application of tandem mass spectrometry?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Cell-specific gene expression.",
+        "images": []
+      },
+      {
+        "text": "B Gene regulation.",
+        "images": []
+      },
+      {
+        "text": "C Elucidation of metabolic pathways.",
+        "images": []
+      },
+      {
+        "text": "D Tumor profiling.",
+        "images": []
+      },
+      {
+        "text": "E Determination of the amino acid sequence of a peptide.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 有關人類基因組（human genome）的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 低於1.5%人類基因組是跳躍子（transposon）",
+        "images": []
+      },
+      {
+        "text": "B 人類基因組中有偽基因的存在",
+        "images": []
+      },
+      {
+        "text": "C 人類基因組中有44%的重複DNA",
+        "images": []
+      },
+      {
+        "text": "D 平均每1000個鹼基會出現1個單核苷酸多態性（single nucleotide polymorphism）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 物種可獲得新基因是來自：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 表現子訊息序列混入（exon shuffling）",
+        "images": []
+      },
+      {
+        "text": "B 平行基因轉移（horizontal gene transfer）",
+        "images": []
+      },
+      {
+        "text": "C 既存基因的隨意突變（random mutation in existing genes）",
+        "images": []
+      },
+      {
+        "text": "D A, B, C皆正確",
+        "images": []
+      },
+      {
+        "text": "E 僅B和C正確",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 關於基因體的描述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 原核生物基因組中大部分DNA皆為基因",
+        "images": []
+      },
+      {
+        "text": "B 人類基因組中可以發現有許多細菌起源（bacterial origin）的基因",
+        "images": []
+      },
+      {
+        "text": "C 大部分人類基因體組成主要為編碼DNA",
+        "images": []
+      },
+      {
+        "text": "D 一般而言，真核生物的基因密度遠低於原核生物",
+        "images": []
+      },
+      {
+        "text": "E 原核生物基因組中，同一代謝路徑相關酵素和蛋白質基因常形成operon現象",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列何種不是目前作為發育生物學研究常使用的模式生物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 擬南芥（Arabidopsis thaliana）",
+        "images": []
+      },
+      {
+        "text": "B 豌豆（Pisum sativum）",
+        "images": []
+      },
+      {
+        "text": "C 果蠅（Drosophila melanogaster）",
+        "images": []
+      },
+      {
+        "text": "D 斑馬魚（Danio rerio）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 科學家研究發育生物學，最常用的模式動物與植物分別為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 果蠅（Drosophila melanogaster）；蕃茄",
+        "images": []
+      },
+      {
+        "text": "B 果蠅；菸草",
+        "images": []
+      },
+      {
+        "text": "C 果蠅；阿拉伯芥（Arabidopsis thaliana）",
+        "images": []
+      },
+      {
+        "text": "D 線蟲（Caenorhabditis. elegans）；菸草",
+        "images": []
+      },
+      {
+        "text": "E 線蟲；蕃茄",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 目前研究蛋白質體學（proteomics）最常用的兩種技術為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 聚合酶鏈反應（PCR）和質譜儀（mass spectrometry）",
+        "images": []
+      },
+      {
+        "text": "B 聚合酶鏈反應（PCR）和DNA晶片（DNA chip）",
+        "images": []
+      },
+      {
+        "text": "C 聚合酶鏈反應（PCR）和二維電泳（2-Dimension electrophoresis）",
+        "images": []
+      },
+      {
+        "text": "D DNA晶片和二維電泳",
+        "images": []
+      },
+      {
+        "text": "E 二維電泳和質譜儀",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 基因體後設資料庫（Metagenomic）可以了解：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微生物的多樣性，尤其是不易被培養出的菌種",
+        "images": []
+      },
+      {
+        "text": "B 如何去增殖（clone）動物",
+        "images": []
+      },
+      {
+        "text": "C 如何去增殖植物",
+        "images": []
+      },
+      {
+        "text": "D A和C正確",
+        "images": []
+      },
+      {
+        "text": "E B和C正確",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 科學家常利用生物進行實驗以探討生命現象，這些生物稱之為模式生物（model organisms），下列何者不是一般模式生物所需具備之條件？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可大量飼養或種植",
+        "images": []
+      },
+      {
+        "text": "B 生命週期不要太長",
+        "images": []
+      },
+      {
+        "text": "C 易於繁殖",
+        "images": []
+      },
+      {
+        "text": "D 具生物多樣性（diversity）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 關於生物個體之基因體，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 各種生物個體之基因體DNA中四種鹼基比例相同",
+        "images": []
+      },
+      {
+        "text": "B 真核生物之基因體DNA含有許多重複性序列",
+        "images": []
+      },
+      {
+        "text": "C 真核生物基因體中的基因密度通常比原核生物大",
+        "images": []
+      },
+      {
+        "text": "D 生物個體所含有的基因數目與其基因體大小成正比",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. Which of the following statements about genome is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Usually, the gene density of archaea genome is higher than eukaryotes.",
+        "images": []
+      },
+      {
+        "text": "B Usually, the number of genes of archaea genome is more than eukaryotes genome.",
+        "images": []
+      },
+      {
+        "text": "C The genome size of archaea is less than eukaryotes.",
+        "images": []
+      },
+      {
+        "text": "D The number of genes of fruit fly genome is less than Arabidopsis thaliana genome.",
+        "images": []
+      },
+      {
+        "text": "E The number of genes of fruit fly genome is less than C. elegans genome.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 有關病原體的基因組（pathogen's genome）研究非常有用，因為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它可以讓科學家去促成DNA上的突變，而來殺死病原體",
+        "images": []
+      },
+      {
+        "text": "B 它可以讓科學家去防止有絲分裂與基因複製，進而影響病原體的存活",
+        "images": []
+      },
+      {
+        "text": "C 它可以用於藥物的開發，製造抗生素對抗病原體",
+        "images": []
+      },
+      {
+        "text": "D 它可以用於藥物的開發，阻斷病原體獨特的新陳代謝途徑，而不影響寄主",
+        "images": []
+      },
+      {
+        "text": "E 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 關於DNA修復機制（DNA repairing mechanism）的錯誤率，下列何者最高？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A excision repair",
+        "images": []
+      },
+      {
+        "text": "B photoreactivation",
+        "images": []
+      },
+      {
+        "text": "C SOS repair",
+        "images": []
+      },
+      {
+        "text": "D mismatch repair",
+        "images": []
+      },
+      {
+        "text": "E postreplication repair",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 線蟲為生物學的模式生物之一，其於胚胎發育過程中原有1090個細胞，但在成體線蟲僅具有959個細胞。請問線蟲少掉的131（1090-959）個細胞經歷何種過程？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞壞死（necrosis）",
+        "images": []
+      },
+      {
+        "text": "B 細胞衰老（aging）",
+        "images": []
+      },
+      {
+        "text": "C 細胞分化（differentiation）",
+        "images": []
+      },
+      {
+        "text": "D 細胞凋亡（apoptosis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 關於插入序列元素（insertion sequence element）的結構，包含下列哪些部分？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 除轉位酵素（transposase）基因外的其他基因",
+        "images": []
+      },
+      {
+        "text": "B 轉位酵素（transposase）基因和其他基因",
+        "images": []
+      },
+      {
+        "text": "C 轉位酵素（transposase）基因",
+        "images": []
+      },
+      {
+        "text": "D 一轉位酵素（transposase）基因和在兩端的反向重複序列（inverted repeats）",
+        "images": []
+      },
+      {
+        "text": "E 轉位酵素（transposase）基因、其他基因和在一端的反向重複序列",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列有關“偽基因”（Pseudogene）之描述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 偽基因為受損基因之分子遺骸，在結構中有缺損，因此失去了基因的功能",
+        "images": []
+      },
+      {
+        "text": "B 大部份的偽基因是功能基因之受損複本，有如基因化石，可提供基因演化及基因組（genome）變遷之線索",
+        "images": []
+      },
+      {
+        "text": "C 最新證據顯示，某些偽基因仍具活性，甚而還有復活的機會",
+        "images": []
+      },
+      {
+        "text": "D 偽基因產生方式之一為細胞分裂前會將整套基因複製，而複製過程中，部份多餘基因複本插入染色體不同的位置",
+        "images": []
+      },
+      {
+        "text": "E 源自複製過程的偽基因不容易辨認，因為序列中含有插入子（intron）和表現子（exon）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 生物個體的基因組中具有可移位之DNA序列，稱為可轉位元件（transposable elements），下列何者不是其特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可轉位元件為真核生物所特有",
+        "images": []
+      },
+      {
+        "text": "B 首度由Barbara McClintock在玉米中發現",
+        "images": []
+      },
+      {
+        "text": "C 可促進基因體的演化",
+        "images": []
+      },
+      {
+        "text": "D 跳躍子（transposon）屬於可轉位元件之一種，其移位需要轉位酶（transposase）參與",
+        "images": []
+      },
+      {
+        "text": "E 逆跳躍子（retrotransposon）為通過RNA達成移位作用的可轉位元件",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. What is the difference between a linkage map and a physical map?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A For a linkage map, markers are spaced by recombination frequency, whereas for a physical map they are spaced by numbers of base pairs (bp).",
+        "images": []
+      },
+      {
+        "text": "B For a physical map, the ATCG order and sequence must be achieved, but not for the linkage map.",
+        "images": []
+      },
+      {
+        "text": "C For a linkage map, it is shown how each gene is linked to every other gene.",
+        "images": []
+      },
+      {
+        "text": "D For a physical map, the distances must be calculable in units such as nanometers.",
+        "images": []
+      },
+      {
+        "text": "E There is no difference between the two except in the type of pictorial representation.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 在基因序列（sequence）分析方法中，下列何種方法最適合用來大量分析基因的序列？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 原位雜交法（in situ hybridization）",
+        "images": []
+      },
+      {
+        "text": "B 凝膠電泳法（gel electrophoresis）",
+        "images": []
+      },
+      {
+        "text": "C 聚合酶鏈鎖反應法（polymerase chain reaction）",
+        "images": []
+      },
+      {
+        "text": "D 次世代定序法（next-generation sequencing）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. Bioinformatics is the application of computational methods to the storage and analysis of enormous volumes of biological data. What is the BLAST program in NCBI which has been described by many biologists as the single most important tool in bioinformatics?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A It is the tool to find out ESTs (expressed sequence tags).",
+        "images": []
+      },
+      {
+        "text": "B It is the tool to figure out the protein-protein interaction.",
+        "images": []
+      },
+      {
+        "text": "C It is the tool to translate the coding sequence.",
+        "images": []
+      },
+      {
+        "text": "D It is the tool to align the sequences.",
+        "images": []
+      },
+      {
+        "text": "E It is the tool to look the protein 3D structure.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 對於關聯基因體學（metagenomics）的敘述，下列何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 定義與基因體學（genomics）完全相同",
+        "images": []
+      },
+      {
+        "text": "B 來自幾個物種的一個或兩個代表性基因的定序",
+        "images": []
+      },
+      {
+        "text": "C 只有譜系（lineage）中最高度保守基因的定序",
+        "images": []
+      },
+      {
+        "text": "D 從同一生態系統（ecosystem）一整群物種的DNA定序",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. Which is NOT involved in RNA editing?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A site-specific deamination of adenines",
+        "images": []
+      },
+      {
+        "text": "B site-specific deamination of cytosines",
+        "images": []
+      },
+      {
+        "text": "C guide RNA-directed uridine insertion",
+        "images": []
+      },
+      {
+        "text": "D guide RNA-directed uridine deletion",
+        "images": []
+      },
+      {
+        "text": "E snoRNA-directed 2’-OH methylation",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 在人類的genome中有多少比例的DNA可以表達出蛋白質或有功能的RNA？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 83%",
+        "images": []
+      },
+      {
+        "text": "B 45%",
+        "images": []
+      },
+      {
+        "text": "C 13%",
+        "images": []
+      },
+      {
+        "text": "D 2%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. Barbara McClintock在1950年代研究玉米遺傳時發現跳躍子（transposon）現象，在人類基因組解密後，在基因體中亦存在有大量的跳躍子，下列何者是跳躍子DNA序列的特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 編碼序列",
+        "images": []
+      },
+      {
+        "text": "B 獨特的非編碼DNA",
+        "images": []
+      },
+      {
+        "text": "C 重複DNA（repetitive DNA）",
+        "images": []
+      },
+      {
+        "text": "D 調控序列（regulatory sequence）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列何種序列在人類基因體中佔的比率最高？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 插入子（Intron）",
+        "images": []
+      },
+      {
+        "text": "B 調控序列（Regulatory sequence）",
+        "images": []
+      },
+      {
+        "text": "C 外顯子（Exon）",
+        "images": []
+      },
+      {
+        "text": "D 重複序列（Repetitive sequence）",
+        "images": []
+      },
+      {
+        "text": "E 編碼序列（Coding sequence）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 每種生物擁有的鹼基對數量皆不相同，下列各物種的鹼基對數量何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 小麥－約60億鹼基對",
+        "images": []
+      },
+      {
+        "text": "B 人類－約23億鹼基對",
+        "images": []
+      },
+      {
+        "text": "C 細菌－平均約1億鹼基對",
+        "images": []
+      },
+      {
+        "text": "D 水稻－約4億3仟萬鹼基對",
+        "images": []
+      },
+      {
+        "text": "E 老鼠－約30億鹼基對",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  }
+]

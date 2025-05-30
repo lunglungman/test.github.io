@@ -1,0 +1,1478 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 氨在下列何種臟器被代謝成尿素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎臟",
+        "images": []
+      },
+      {
+        "text": "B 肝臟",
+        "images": []
+      },
+      {
+        "text": "C 脾臟",
+        "images": []
+      },
+      {
+        "text": "D 大腸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 下列何者作用會抑制血壓？(1)血管緊張素轉化酶（angiotensin converting enzyme）的抑制劑(2)腎素（renin）(3)醛固酮（aldosterone）(4)心房利鈉肽（atrial natriuretic peptide）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(4)",
+        "images": []
+      },
+      {
+        "text": "B (2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列何者是醛固酮（aldosterone）的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 促進Ca2+再吸收",
+        "images": []
+      },
+      {
+        "text": "B 促進Ca2+排除",
+        "images": []
+      },
+      {
+        "text": "C 促進Na+再吸收",
+        "images": []
+      },
+      {
+        "text": "D 促進Na+排除",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 人類腎臟中的近曲小管及遠曲小管均可進行再吸收作用，下列敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈉離子、碳酸氫根離子可在近曲小管處被再吸收",
+        "images": []
+      },
+      {
+        "text": "B 鈉離子、碳酸氫根離子可在遠曲小管處被再吸收",
+        "images": []
+      },
+      {
+        "text": "C 鈉離子、碳酸氫根離子、鉀離子可在近曲小管及遠曲小管處被再吸收",
+        "images": []
+      },
+      {
+        "text": "D 鉀離子、葡萄糖可在近曲小管處被再吸收",
+        "images": []
+      },
+      {
+        "text": "E 碳酸氫根離子、胺基酸可在近曲小管處被再吸收",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Which of the following characteristics best describes the urea cycle?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A All of the enzymes are localized in the cytosol of hepatocytes.",
+        "images": []
+      },
+      {
+        "text": "B The enzymes are present in high concentration in the perivenous hepatocytes.",
+        "images": []
+      },
+      {
+        "text": "C Arginine is the end product of the urea cycle.",
+        "images": []
+      },
+      {
+        "text": "D The cleavage of argininosuccinate releases fumarate.",
+        "images": []
+      },
+      {
+        "text": "E Asparagine is a substrate in the urea cycle.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 以下關於亨氏套（loop of Henle）的敘述，哪一選項較正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 具濾過血液的功能",
+        "images": []
+      },
+      {
+        "text": "B 具濃縮尿液的功能",
+        "images": []
+      },
+      {
+        "text": "C 其下降支（descending limb）管壁水通透性（water permeability）低",
+        "images": []
+      },
+      {
+        "text": "D 其上升支（ascending limb）管壁水通透性高",
+        "images": []
+      },
+      {
+        "text": "E 生活於沙漠的哺乳類物，其亨氏套長度通常較短",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. A healthy young man ingests a large volume of distilled water and 50 min later a study is undertaken. In which of the following parts in his kidneys would the liquid with the greatest osmolarity be found?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Proximal tubule",
+        "images": []
+      },
+      {
+        "text": "B The bottom of the loop of Henle of the cortical nephron",
+        "images": []
+      },
+      {
+        "text": "C The bottom of the loop of Henle of the juxtamedullary nephron",
+        "images": []
+      },
+      {
+        "text": "D Distal tubule of the juxtamedullary nephron",
+        "images": []
+      },
+      {
+        "text": "E The innermost medullary collecting duct",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 哺乳類動物的腎元（nephron）和蚯蚓的後腎管（metanephridia）最主要的不同在於哺乳類動物的腎元：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是緊密地跟微血管形成的網相連",
+        "images": []
+      },
+      {
+        "text": "B 藉由改變小管（tubule）中液體的成分而形成尿液",
+        "images": []
+      },
+      {
+        "text": "C 有滲透調節（osmoregulation）及排出含氮廢棄物的雙重功能",
+        "images": []
+      },
+      {
+        "text": "D 處理血液而非體腔液（coelomic fluid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. Humans cannot survive at sea by drinking salt water. However, marine vertebrates such as sea turtles and various sea birds can survive by drinking salt water. What do they have that humans do not?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Salt glands.",
+        "images": []
+      },
+      {
+        "text": "B They use ammonia as their primary nitrogenous waste.",
+        "images": []
+      },
+      {
+        "text": "C Kidneys are extremely good at producing concentrated urine.",
+        "images": []
+      },
+      {
+        "text": "D Body fluid concentrations are similar to or greater than those of seawater.",
+        "images": []
+      },
+      {
+        "text": "E The ability to secrete salts and wastes into their intestinal contents like an insect.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 與大多數的硬骨魚（bony fish）不同，鯊魚具有與海水相同滲透壓（osmotic pressure）的體液，因此被認為是適滲透壓生物（osmoconformer）。有關鯊魚調控滲透壓的方法，下列何者最佳？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 用鰓和腎臟去除海鹽",
+        "images": []
+      },
+      {
+        "text": "B 用特殊的水通道蛋白（aquaporin）來監測細胞脫水的程度",
+        "images": []
+      },
+      {
+        "text": "C 耐受高濃度的尿素（urea），以平衡內部鹽濃度與海水滲透壓",
+        "images": []
+      },
+      {
+        "text": "D 具有特殊的適應性，使其細胞能夠以非常高的鹽濃度運行",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. Animals release their nitrogenous waste in different forms. Which of the following statements are true?①Urea is excreted by many marine fishes.②Ammonia is so toxic that it is rarely excreted as nitrogenous waste by any animals.③The animals in dry environment could excrete uric acid.④The form of nitrogenous waste is often an adaptation to animal habitats.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①②③④",
+        "images": []
+      },
+      {
+        "text": "B ①②",
+        "images": []
+      },
+      {
+        "text": "C ①②④",
+        "images": []
+      },
+      {
+        "text": "D ②④",
+        "images": []
+      },
+      {
+        "text": "E ①③④",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. Which of the following is peptide hormone?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A thyroxin",
+        "images": []
+      },
+      {
+        "text": "B epinephrine",
+        "images": []
+      },
+      {
+        "text": "C antidiuretic hormone",
+        "images": []
+      },
+      {
+        "text": "D progesterone",
+        "images": []
+      },
+      {
+        "text": "E cortisone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. The high osmolarity of the renal medulla is maintained by all of the following except ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A diffusion of salt from the ascending limb of the loop of Henle",
+        "images": []
+      },
+      {
+        "text": "B active transport of salt from the upper region of the ascending limb",
+        "images": []
+      },
+      {
+        "text": "C the spatial arrangement of juxtamedullary nephrons",
+        "images": []
+      },
+      {
+        "text": "D diffusion of urea from the collecting duct",
+        "images": []
+      },
+      {
+        "text": "E diffusion of salt from the descending limb of the loop of Henle",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. Which one of the following, if present in a urine sample, would likely be caused by trauma?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A amino acids",
+        "images": []
+      },
+      {
+        "text": "B glucose",
+        "images": []
+      },
+      {
+        "text": "C salts",
+        "images": []
+      },
+      {
+        "text": "D erythrocytes",
+        "images": []
+      },
+      {
+        "text": "E vitamins",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 有關肺臟生理及功能的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺動脈血液中二氧化碳的分壓約為46 mmHg",
+        "images": []
+      },
+      {
+        "text": "B 主動脈血液中二氧化碳的分壓約為40 mmHg",
+        "images": []
+      },
+      {
+        "text": "C 肺臟分泌angiotensin converting enzyme（ACE）可將angiotensinogen轉變成angiotensin I",
+        "images": []
+      },
+      {
+        "text": "D 肺泡表面張力劑（surfactant）用以降低肺泡的表面張力，主要成分為磷脂質（phospholipid）",
+        "images": []
+      },
+      {
+        "text": "E 因應身體呈現代謝性偏酸時，肺臟會增加換氣速率",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 某位生物學家在一處很深並缺乏水的地底洞穴裡發現新種生物，這個生物無眼但全身覆蓋毛髮，且有一具屬於閉鎖式循環的四房室腔心臟。你會推測該生物會有什麼樣的泌尿系統可讓其適應如此極端的環境？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 牠具有很長的馬氏小管（malpighian tubules）",
+        "images": []
+      },
+      {
+        "text": "B 牠具有很短的馬氏小管",
+        "images": []
+      },
+      {
+        "text": "C 牠的腎元具有長的亨利氏環（loops of Henle）",
+        "images": []
+      },
+      {
+        "text": "D 牠的腎元具有短的亨利氏環",
+        "images": []
+      },
+      {
+        "text": "E 牠的後腎（metanephridia）具有大量的腎小管（nephridiopores）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 當血量減少造成血壓下降時，下列何種物質的分泌會減少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎素（rennin）",
+        "images": []
+      },
+      {
+        "text": "B 紅血球生成素（erythropoietin）",
+        "images": []
+      },
+      {
+        "text": "C 心房利鈉因子（atrial natriuretic factor）",
+        "images": []
+      },
+      {
+        "text": "D 醛固酮（aldosterone）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. If a person drinks a large amount of water in a short period of time, he or she may die from water toxicity. Antidiuretic hormone can help to prevent water retention through interaction with target cells in the",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A bladder.",
+        "images": []
+      },
+      {
+        "text": "B urethra.",
+        "images": []
+      },
+      {
+        "text": "C adrenal gland.",
+        "images": []
+      },
+      {
+        "text": "D kidney.",
+        "images": []
+      },
+      {
+        "text": "E anterior pituitary.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 腎小管的近曲小管（proximal tubule）管壁細胞再吸收葡萄糖的方式主要是與下列何者共同運輸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈣離子",
+        "images": []
+      },
+      {
+        "text": "B 鉀離子",
+        "images": []
+      },
+      {
+        "text": "C 鈉離子",
+        "images": []
+      },
+      {
+        "text": "D 氫離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. Diabetes insipidus is a disorder marked by production of abnormally large in volume and very dilute urine. It can cause severe dehydration. The mechanism(s) attributing the disorder can be",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A mutations that prevent ADH production",
+        "images": []
+      },
+      {
+        "text": "B mutations that inactivate aquaporin",
+        "images": []
+      },
+      {
+        "text": "C mutations that inactivate insulin receptor",
+        "images": []
+      },
+      {
+        "text": "D both A and B",
+        "images": []
+      },
+      {
+        "text": "E all of the A, B, and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. About hormonal circuits that link kidney function, which of the following statements is INCORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A An increase in blood osmolarity triggers the release of antidiuretic hormone (ADH), which helps to conserve water.",
+        "images": []
+      },
+      {
+        "text": "B ADH increases water reabsorption in the descending limb of the Loops of Henle.",
+        "images": []
+      },
+      {
+        "text": "C The Renin-Angiotensin-Aldosterone System (RAAS) is part of a complex feedback circuit that functions in the maintenance of blood pressure and volume.",
+        "images": []
+      },
+      {
+        "text": "D A drop in blood pressure near the glomerulus causes the juxtaglomerular apparatus (JGA) to release the enzyme renin.",
+        "images": []
+      },
+      {
+        "text": "E Renin triggers the formation of the peptide angiotensin II, which increases blood volume and pressure by stimulating the release of aldosterone.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 血液中酸鹼值降低時，腎臟可利用何種胺基酸代謝，加速氫離子的排除？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A serine",
+        "images": []
+      },
+      {
+        "text": "B arginine",
+        "images": []
+      },
+      {
+        "text": "C glutamine",
+        "images": []
+      },
+      {
+        "text": "D tyrosine",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. Which of the following statements concerning excretory system is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Urea can be processed by filtration, reabsorption, and secretion during the process of urine formation.",
+        "images": []
+      },
+      {
+        "text": "B Kidney contributes pH balance in body fluid.",
+        "images": []
+      },
+      {
+        "text": "C Ascend limb of the loop of Henle is the site for reabsorption of water.",
+        "images": []
+      },
+      {
+        "text": "D Proximal tubule is the major site for reabsorption of nutrients.",
+        "images": []
+      },
+      {
+        "text": "E The final concentration of the urine is determined in the collecting duct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Which of the following statements about gout is true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A It results from the overproduction of orotic acid.",
+        "images": []
+      },
+      {
+        "text": "B It can result from a deficiency in phosphoribosylpyrophosphate (PRPP) synthetase.",
+        "images": []
+      },
+      {
+        "text": "C It can be treated with inhibitors of xanthine oxidase.",
+        "images": []
+      },
+      {
+        "text": "D It occurs more frequently in women than men.",
+        "images": []
+      },
+      {
+        "text": "E The symptoms appear in early adolescence.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. On a daily basis, the amount of urine produced is approximately ________ of the amount of filtrate.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 80%－90%",
+        "images": []
+      },
+      {
+        "text": "B 50%－60%",
+        "images": []
+      },
+      {
+        "text": "C 30%－40%",
+        "images": []
+      },
+      {
+        "text": "D 10%－20%",
+        "images": []
+      },
+      {
+        "text": "E 1%－2%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 大部分的HCO3-在通過腎小球後，由何處負責再吸收？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 近曲小管（proximal tubule）",
+        "images": []
+      },
+      {
+        "text": "B 亨耳氏套的下降分枝",
+        "images": []
+      },
+      {
+        "text": "C 以主動運輸的方式由亨耳氏套的上升分枝吸收",
+        "images": []
+      },
+      {
+        "text": "D 以被動運輸的方式由集尿管外髓質部（outer medulla）吸收",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. Humans cannot survive at sea by drinking salt water. However, marine vertebrates such as sea turtles and various sea birds can survive by drinking salt water. What DO they have that humans DO NOT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A kidneys that are extremely good at producing a concentrated urine.",
+        "images": []
+      },
+      {
+        "text": "B body fluid concentrations that are similar to or greater than those of seawater.",
+        "images": []
+      },
+      {
+        "text": "C the ability to secrete salts and wastes into their intestinal contents like an insect.",
+        "images": []
+      },
+      {
+        "text": "D They use ammonia as their primary nitrogenous waste.",
+        "images": []
+      },
+      {
+        "text": "E salt glands.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 請問下列敘述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 多數的硬骨魚類，排出體外的含氮化合物，主要是以氨（ammonia）的狀態",
+        "images": []
+      },
+      {
+        "text": "B 哺乳類動物與鯊魚，排出體外的含氮化合物，主要是以尿素（urea）的狀態",
+        "images": []
+      },
+      {
+        "text": "C 氨狀態的含氮廢棄物，其對細胞的毒性較尿素為低",
+        "images": []
+      },
+      {
+        "text": "D 許多爬蟲類與鳥類，排出體內的含氮化合物，主要是以尿酸（uric acid）的狀態",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列在動物體中所產生的含氮廢物（Nitrogenous waste product），何者因毒性高需要立即排出？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 尿素（Urea）",
+        "images": []
+      },
+      {
+        "text": "B 氨（Ammonia）",
+        "images": []
+      },
+      {
+        "text": "C 尿酸（Uricacid）",
+        "images": []
+      },
+      {
+        "text": "D 尿苷（Uridine）",
+        "images": []
+      },
+      {
+        "text": "E 嘧啶（Pyrimidine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. Drinking alcohol makes you urinate more frequently because",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A alcohol contains caffeine.",
+        "images": []
+      },
+      {
+        "text": "B alcohol inhibits the release of ADH and therefore causes excessive urinary water loss.",
+        "images": []
+      },
+      {
+        "text": "C alcohol inhibits the release of renin, a hormone that increases water reabsorption in the kidneys.",
+        "images": []
+      },
+      {
+        "text": "D alcohol causes more water to filter from the blood into the kidneys.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 非洲肺魚常常在小的且不流動的清水池中被發現，此外非洲肺魚以尿素（urea）的形式來排放含氮廢物。請問下列何者有關“非洲肺魚這樣的生活模式具有適應環境的優勢”的敘述最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 比起氨（ammonia），代謝產生尿素較不耗能",
+        "images": []
+      },
+      {
+        "text": "B 面積小且不流動的水池無法提供足夠的水去稀釋較毒的氨",
+        "images": []
+      },
+      {
+        "text": "C 尿素具有高毒性，讓潛在的競爭者無法在水池中生存",
+        "images": []
+      },
+      {
+        "text": "D 尿素使得非洲肺魚在池水中有低滲透的組織（hypoosmotic tissue）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列有關動物排泄的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 海綿動物可藉由焰細胞排除廢物",
+        "images": []
+      },
+      {
+        "text": "B 扁形動物具有稱為腎管的排泄器官",
+        "images": []
+      },
+      {
+        "text": "C 不易取得水分的生物，多利用尿酸形式排除含氮廢物",
+        "images": []
+      },
+      {
+        "text": "D 人類尿液形成的過程中的分泌作用，主要發生於近曲小管及亨耳氏套",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. What is the order of the nephron?1. Thick segment of ascending limb.2. Distal tubule.3. Descending limb.4. Glomerulus.5. Thin segment of ascending limb.6. Collecting duct.7. Proximal tubule.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 4 → 2 → 3 → 5 → 1 → 7 → 6",
+        "images": []
+      },
+      {
+        "text": "B 4 → 7 → 3 → 5 → 1 → 2 → 6",
+        "images": []
+      },
+      {
+        "text": "C 4 → 2 → 3 → 1 → 5 → 7 → 6",
+        "images": []
+      },
+      {
+        "text": "D 4 → 7 → 5 → 1 → 3 → 2 → 6",
+        "images": []
+      },
+      {
+        "text": "E 4 → 2 → 7 → 1 → 5 → 3 → 6",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. Processing of filtrate in the proximal and distal tubules accomplishes what important function?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sorting plasma proteins according to size",
+        "images": []
+      },
+      {
+        "text": "B converting toxic ammonia to less toxic urea",
+        "images": []
+      },
+      {
+        "text": "C maintaining a constant pH in body fluids",
+        "images": []
+      },
+      {
+        "text": "D regulating the speed of blood flow through the nephron",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 某甲發生車禍，造成出血（hemorrhage），使其平均動脈壓，（mean arterial pressure）下降。 以下哪一選項最可能是在該情況下某甲的恆定調節反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心率減緩",
+        "images": []
+      },
+      {
+        "text": "B 心輸出（cardiac output）降低",
+        "images": []
+      },
+      {
+        "text": "C 總周邊阻力（total peripheral resistance）降低",
+        "images": []
+      },
+      {
+        "text": "D 腎絲球濾過率（glomerular filtration rate）降低",
+        "images": []
+      },
+      {
+        "text": "E 排尿量增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. Which of the following statements about renin-angiotensin-aldosterone system (RAAS) is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Sensors in juxtaglomerular apparatus (JAG) Detect decrease in pressure.",
+        "images": []
+      },
+      {
+        "text": "B JAG releases renin with decreased pressure.",
+        "images": []
+      },
+      {
+        "text": "C Renin cleaves angiotensinogen to produce angiotensin I.",
+        "images": []
+      },
+      {
+        "text": "D Angiotensin II stimulates the kidney to release aldosterone.",
+        "images": []
+      },
+      {
+        "text": "E Aldosterone increases blood volume by Na+and water reabsorption.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 有關antidiuretic hormone (ADH) 及ADH receptor之描述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 酒精會促進ADH分泌",
+        "images": []
+      },
+      {
+        "text": "B ADH receptor大量表現在proximal tubules",
+        "images": []
+      },
+      {
+        "text": "C ADH receptor突變沒功能，會引發尿崩症（diabetes insipidus）",
+        "images": []
+      },
+      {
+        "text": "D ADH receptor突變沒功能，collecting duct表面的aquaporin表現量增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. How do ADH and RAAS work together in maintaining osmoregulatory homeostasis?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ADH monitors appropriate osmolarity by reabsorption of water, and RAAS maintains osmolarity by stimulating K+reabsorption.",
+        "images": []
+      },
+      {
+        "text": "B ADH monitors appropriate osmolarity by reabsorption of water, and RAAS maintains osmolarity by stimulating Cl－reabsorption.",
+        "images": []
+      },
+      {
+        "text": "C Only when they are together in the receptor sites of proximal tubule cells, will reabsorption of essential nutrients back into the blood take place.",
+        "images": []
+      },
+      {
+        "text": "D ADH monitors appropriate osmolarity by reabsorption of water, and RAAS maintains osmolarity by stimulating Na+reabsorption.",
+        "images": []
+      },
+      {
+        "text": "E ADH and RAAS work antagonistically; ADH stimulates water reabsorption during dehydration and RAAS removes water when it is in excess in body fluids.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列有關腎臟各部位與其功能配對的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎絲球體（glomerulus）－過濾",
+        "images": []
+      },
+      {
+        "text": "B 近端腎小管（proximal tubule）－胺基酸再吸收",
+        "images": []
+      },
+      {
+        "text": "C 亨式環（loop of Henle）－具滲透壓梯度的變化是由腎髓質（renalmedulla）到腎皮質（renal cortex）漸增加",
+        "images": []
+      },
+      {
+        "text": "D 遠端腎小管（distal tubule）－鉀分泌",
+        "images": []
+      },
+      {
+        "text": "E 集尿管（collecting duct）－水和鹽的再吸收",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 腎絲球（glomerulus）可濾過某物質可濾過某物質（X），今假設某人的腎絲球濾過率是180公升/天，血漿中X的濃度是15毫克/公升；此人排尿量1公升/天，尿中X的濃度為300毫克/公升。請問X在腎小管中最可能經歷了以下何種作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 分泌（secretion）",
+        "images": []
+      },
+      {
+        "text": "B 再吸收（reabsorption）",
+        "images": []
+      },
+      {
+        "text": "C 消化（digestion）",
+        "images": []
+      },
+      {
+        "text": "D 濾過（filtration）",
+        "images": []
+      },
+      {
+        "text": "E 氧化（oxidation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 生理上，即使沒有流汗，皮膚也會流失水份，此稱之為「沒有知覺性水流失（insensible water loss）」，此等流失在正常人每天約為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 60 ml",
+        "images": []
+      },
+      {
+        "text": "B 900 ml",
+        "images": []
+      },
+      {
+        "text": "C 1500 ml",
+        "images": []
+      },
+      {
+        "text": "D 5000 ml",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 哺乳類動物體內的腎上腺可製造醛固酮（aldosterone），醛固酮只會針對某些特定細胞進行作用以維持體內鹽水平衡，這是因為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 只有某些特定細胞可接觸到醛固酮",
+        "images": []
+      },
+      {
+        "text": "B 只有某些特定細胞具有醛固酮的接受器（receptor）",
+        "images": []
+      },
+      {
+        "text": "C 只有某些特定細胞可讓醛固酮直接穿過細胞膜",
+        "images": []
+      },
+      {
+        "text": "D 只有某些特定細胞不會在細胞質內破壞醛固酮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 有關腎元（nephron）功能的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 近端小管中的水分子可被動地回收",
+        "images": []
+      },
+      {
+        "text": "B 亨耳氏小管（loop of Henle）細下降端（thin descending limb）中的水分子可被動地回收",
+        "images": []
+      },
+      {
+        "text": "C 亨耳氏小管粗上升端（thick ascending limb）中的水分子可被動地回收",
+        "images": []
+      },
+      {
+        "text": "D 遠端小管中的NaCl可主動地回收",
+        "images": []
+      },
+      {
+        "text": "E 集尿管中的水分子可被動地回收",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列有關動物排出含氮廢物的比較，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 比較項目：毒性　　　　　氨尿：大　　　酸：中　　　　　尿素：小",
+        "images": []
+      },
+      {
+        "text": "B 比較項目：水溶　　　　　氨尿：大　　　酸：小　　　　　尿素：中",
+        "images": []
+      },
+      {
+        "text": "C 比較項目：排泄所需的水　氨尿：中　　　酸：少　　　　　尿素：多",
+        "images": []
+      },
+      {
+        "text": "D 比較項目：形成所需能量　氨尿：中　　　酸：多　　　　　尿素：少",
+        "images": []
+      },
+      {
+        "text": "E 比較項目：代表生物　　　氨尿：硬骨魚　酸：昆蟲、鳥類　尿素：兩生類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 腎臟具有過濾調節血液中成分的功能，必要時會對尿液中的水分進行再吸收，請問水分子是如何回到血液中？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 透過水通道（aquaporin）運送，促進擴散作用",
+        "images": []
+      },
+      {
+        "text": "B 直接穿過內皮細胞間隙",
+        "images": []
+      },
+      {
+        "text": "C 消耗ATP，透過運輸蛋白（transport protein）進行主動運輸",
+        "images": []
+      },
+      {
+        "text": "D 運用擴散作用，直接穿過細胞膜",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 請選出描述近曲小管（proximal tubule）功能的最佳組合：①再吸收濾液中的營養物②向管腔分泌H+、NH4+等代謝廢物③分解濾液中的有毒物質④轉運和排出青黴素等藥物⑤尿液濃縮",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①③⑤",
+        "images": []
+      },
+      {
+        "text": "B ①②④",
+        "images": []
+      },
+      {
+        "text": "C ①②③⑤",
+        "images": []
+      },
+      {
+        "text": "D ②③⑤",
+        "images": []
+      },
+      {
+        "text": "E ③④⑤",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. The bulk of the reabsorption of useful materials by the kidney takes place in the ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A loop of Henle",
+        "images": []
+      },
+      {
+        "text": "B renal corpuscle",
+        "images": []
+      },
+      {
+        "text": "C collecting ducts",
+        "images": []
+      },
+      {
+        "text": "D distal convoluted tubule",
+        "images": []
+      },
+      {
+        "text": "E proximal convoluted tubule",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 下列哪一類脊椎動物直接攝取鹽水，並且通過鹽腺（Salt gland）排出鹽分？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鯨魚",
+        "images": []
+      },
+      {
+        "text": "B 海鳥",
+        "images": []
+      },
+      {
+        "text": "C 硬骨魚",
+        "images": []
+      },
+      {
+        "text": "D 海象",
+        "images": []
+      },
+      {
+        "text": "E 海豚",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "複選題",
+    "question": "49. 下列有關含氮廢物與其對排泄作用有利因素之配對，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 尿素—相對於氨有較低的毒性",
+        "images": []
+      },
+      {
+        "text": "B 尿素—不易溶於水",
+        "images": []
+      },
+      {
+        "text": "C 尿酸—排泄時，水份的流失最少",
+        "images": []
+      },
+      {
+        "text": "D 尿酸—能沉澱為結晶，較不具毒性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. Renin is a(n) ________. Its secretion is stimulated by ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A hormone, high osmolality",
+        "images": []
+      },
+      {
+        "text": "B hormone, low blood pressure",
+        "images": []
+      },
+      {
+        "text": "C hormone, low pH",
+        "images": []
+      },
+      {
+        "text": "D enzyme, high osmolality",
+        "images": []
+      },
+      {
+        "text": "E enzyme, low blood pressure",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "E"
+    ]
+  }
+]

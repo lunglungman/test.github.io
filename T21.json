@@ -1,0 +1,1415 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 正常的受精發生在：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 卵巢（ovary）",
+        "images": []
+      },
+      {
+        "text": "B 輸卵管（fallopian tube）",
+        "images": []
+      },
+      {
+        "text": "C 子宮（uterus）",
+        "images": []
+      },
+      {
+        "text": "D 子宮頸（uterus cervical）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 賽氏細胞（Sertoli cells）由________刺激，而萊氏細胞（Leydig cells）由________刺激。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A FSH; LH",
+        "images": []
+      },
+      {
+        "text": "B LH; FSH",
+        "images": []
+      },
+      {
+        "text": "C 睪固酮（testosterone）; LH",
+        "images": []
+      },
+      {
+        "text": "D FSH; testosterone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 男性睪固酮（testosterone）主要是由睪丸內何種細胞產生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 塞氏細胞（Sertoli cells）",
+        "images": []
+      },
+      {
+        "text": "B 萊氏細胞（Leydig cells）",
+        "images": []
+      },
+      {
+        "text": "C 顆粒細胞（granulosa cells）",
+        "images": []
+      },
+      {
+        "text": "D 鞘細胞（theca cells）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 在睪丸中萊迪希氏細胞（Leydig cells）在黃體生成激素（luteinizing hormone, LH）存在下，最主要是促進下列何種物質的合成和分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 催產素（oxytocin）",
+        "images": []
+      },
+      {
+        "text": "B 睪固酮（testosterone）",
+        "images": []
+      },
+      {
+        "text": "C 黃體酮（progesterone）",
+        "images": []
+      },
+      {
+        "text": "D 抑制素（inhibin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 下列何種荷爾蒙成份不是胜肽或蛋白質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A epinephrine",
+        "images": []
+      },
+      {
+        "text": "B estrogen",
+        "images": []
+      },
+      {
+        "text": "C ACTH",
+        "images": []
+      },
+      {
+        "text": "D prolactin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列何者是生殖構造中主要發生受精的部位？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 輸卵管",
+        "images": []
+      },
+      {
+        "text": "B 卵巢",
+        "images": []
+      },
+      {
+        "text": "C 子宮",
+        "images": []
+      },
+      {
+        "text": "D 陰道",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. In many species, the females can reproduce by the process of parthenogenesis. Then why do males persist in those species?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A defense.",
+        "images": []
+      },
+      {
+        "text": "B to increase the number of offspring produced.",
+        "images": []
+      },
+      {
+        "text": "C to assist in rearing of the offspring.",
+        "images": []
+      },
+      {
+        "text": "D to decrease the chance of infertility.",
+        "images": []
+      },
+      {
+        "text": "E to ensure genetic diversity.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 男性的testosterone主要由何者產生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Leyding cells（間質細胞）",
+        "images": []
+      },
+      {
+        "text": "B Sertoli cells（支持細胞）",
+        "images": []
+      },
+      {
+        "text": "C seminiferous tubules（曲細精管）",
+        "images": []
+      },
+      {
+        "text": "D epididymis（副睪）",
+        "images": []
+      },
+      {
+        "text": "E vas deferens（輸精管）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. In humans, identical twins are possible because",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A of convergent extension.",
+        "images": []
+      },
+      {
+        "text": "B of the heterogeneous distribution of cytoplasmic determinants in unfertilized eggs.",
+        "images": []
+      },
+      {
+        "text": "C of interactions between extraembryonic cells and the zygote nucleus.",
+        "images": []
+      },
+      {
+        "text": "D the gray crescent divides the dorsal-ventral axis into new cells",
+        "images": []
+      },
+      {
+        "text": "E early blastomeres can form a complete embryo if isolated.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 濾泡刺激激素（follicle-stimulating hormone; FSH）刺激賽托利細胞（Sertoli cells）促進精子形成。同時賽托利細胞亦分泌何種激素進行負回饋（negative feedback）影響腦下垂體前葉？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抑制素（inhibin）",
+        "images": []
+      },
+      {
+        "text": "B 睪固酮（testosterone）",
+        "images": []
+      },
+      {
+        "text": "C 黃體生成激素（luteinizing hormone）",
+        "images": []
+      },
+      {
+        "text": "D 黃體酮（progesterone）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 有關男性生殖系統之描述，下列那一項錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 輸精管與貯精囊導管會合形成射精管",
+        "images": []
+      },
+      {
+        "text": "B 貯精囊有貯存精子的功能",
+        "images": []
+      },
+      {
+        "text": "C 前列腺後面是直腸",
+        "images": []
+      },
+      {
+        "text": "D 精液是精子及附屬腺的分泌物所組成的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 有關人類下視丘在內分泌系統的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 僅分泌的釋放激素（hypothalamic release hormone）類型",
+        "images": []
+      },
+      {
+        "text": "B 分泌物質包含胜肽類和固醇類",
+        "images": []
+      },
+      {
+        "text": "C 分泌生長激素促進生長",
+        "images": []
+      },
+      {
+        "text": "D 分泌促性腺素釋放激素（Gonadotropin relearsing hormone）促進腦垂腺前葉分泌黃體生成素及濾泡刺激素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 抑制素（inhibin）主要能抑制下列何種激素之分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 濾泡刺激素（FSH）",
+        "images": []
+      },
+      {
+        "text": "B 黃體素（progesterone）",
+        "images": []
+      },
+      {
+        "text": "C 雌性素（estrogen）",
+        "images": []
+      },
+      {
+        "text": "D 黃體生成素（LH）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 婦人產後餵母乳後，發現已經半年沒有月經週期，這情況最可能是下列何種激素的作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雌激素（estrogen）",
+        "images": []
+      },
+      {
+        "text": "B 泌乳素（prolactin）",
+        "images": []
+      },
+      {
+        "text": "C 催產素（oxytocin）",
+        "images": []
+      },
+      {
+        "text": "D 褪黑激素（melatonin）生殖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 豬隻在成長過程中，因荷爾蒙分泌之故，會產生令人不悅的腥騷味，影響肉品品質，進而影響豬肉市場價格。傳統的解決方法為進行人工閹割，既不人道且不經濟目前的趨勢為使用免疫去勢法來解決上述的問題，原理為利用抗體來中和性荷爾蒙（Sexual hormone），抑制生殖器官的成熟與性徵表現。請問下列何種荷爾蒙為最合適的抗體中和目標？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Gonadotropin-releasing hormone (GnRH)",
+        "images": []
+      },
+      {
+        "text": "B Testosterone",
+        "images": []
+      },
+      {
+        "text": "C Inhibin",
+        "images": []
+      },
+      {
+        "text": "D Luteinizing hormone (LH)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 關於人類子宮週期（uterine cycle）三個階段的順序，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 月經期 → 增生期 → 分泌期",
+        "images": []
+      },
+      {
+        "text": "B 增生期 → 黃體期 → 排卵期",
+        "images": []
+      },
+      {
+        "text": "C 濾泡期 → 黃體期 → 分泌期",
+        "images": []
+      },
+      {
+        "text": "D 濾泡期 → 排卵期 → 黃體期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下列有關月經週期（Menstrual cycle），何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 下視丘分泌性釋素釋放因素（GnRH），刺激下視丘前葉分泌濾泡促進素（FSH）及黃體化激素（LH）",
+        "images": []
+      },
+      {
+        "text": "B FSH及LH會刺激卵巢濾泡分泌雌激素（Estrogen）及黃體素（Progesterone），這些激素直接作用在子宮上",
+        "images": []
+      },
+      {
+        "text": "C 昇高的雌激素及黃體素，會負回饋下視丘，降低FSH及LH的繼續分泌避免排卵後其他濾泡的成熟",
+        "images": []
+      },
+      {
+        "text": "D 卵巢濾泡成熟伴隨著增加Estrogen及Progesterone分泌，會正回饋下視丘，增加FSH及LH分泌，造成排卵",
+        "images": []
+      },
+      {
+        "text": "E 昇高的FSH及LH，增加子宮內膜新血管生成及內膜增厚",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 小英懷孕已超過42週，一直都沒有生產的徵兆，因此醫生請她住院並在點滴中加入藥物幫助她順利生產，此藥物最可能是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A oxytocin",
+        "images": []
+      },
+      {
+        "text": "B prolactin",
+        "images": []
+      },
+      {
+        "text": "C testosterone",
+        "images": []
+      },
+      {
+        "text": "D growth hormone",
+        "images": []
+      },
+      {
+        "text": "E antidiuretic hormone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 有關威而鋼（Viagra）的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可使陰莖動脈收縮而勃起",
+        "images": []
+      },
+      {
+        "text": "B 可使陰莖動脈平滑肌放鬆而勃起",
+        "images": []
+      },
+      {
+        "text": "C 可促進射精",
+        "images": []
+      },
+      {
+        "text": "D 可升高血中男性激素的濃度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 男性外生殖器官的發育是由那一種激素誘發？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 性腺刺激素（GnRH）",
+        "images": []
+      },
+      {
+        "text": "B 睪固酮（Testosterone）",
+        "images": []
+      },
+      {
+        "text": "C MIS（Mullerian Inhibiting Substance）",
+        "images": []
+      },
+      {
+        "text": "D 抑制素（Inhibin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. The corpus luteum is maintained for the first 10 weeks of pregnancy by",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A progesterone.",
+        "images": []
+      },
+      {
+        "text": "B estrogen.",
+        "images": []
+      },
+      {
+        "text": "C hCG.",
+        "images": []
+      },
+      {
+        "text": "D LH.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列哪兩種激素之間的分泌作用屬於正回饋（positive feedback）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 排卵前的雌激素（estrogen）與黃體生成素（LH）",
+        "images": []
+      },
+      {
+        "text": "B 抑制素（inhibin）與濾泡促激素（FSH）",
+        "images": []
+      },
+      {
+        "text": "C 懷孕期黃體素（progesterone）與黃體生成素（LH）",
+        "images": []
+      },
+      {
+        "text": "D 濾泡中期雌激素（estrogen）與濾泡促激素（FSH）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 大貓熊一般於4至8歲達到性成熟，生殖年齡可持續至20歲，木柵動物園的圓仔目前已7歲，正值生育年齡，每年3至5月為主要的交配季節，但人工飼養的大貓熊生育率低，常需採人工授精的方式提高生育率。若明年圓仔發情時有適當的雄性大貓熊來訪，屆時可能需要施打激素以刺激排卵，下列何種激素最為適合？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雌二醇（estradiol）",
+        "images": []
+      },
+      {
+        "text": "B 黃體酮（progesterone）",
+        "images": []
+      },
+      {
+        "text": "C 黃體成長素（luteinizing hormone, LH）",
+        "images": []
+      },
+      {
+        "text": "D 濾泡刺激激素（follicle-stimulating hormone, FSH）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 形成胎盤的哪一個部份是由胚胎貢獻的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 羊膜（amnion）",
+        "images": []
+      },
+      {
+        "text": "B 絨毛膜（chorion）",
+        "images": []
+      },
+      {
+        "text": "C 尿膜（allantois）",
+        "images": []
+      },
+      {
+        "text": "D 卵黃囊（yolk sac）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 有關男性的生殖內分泌調控系統中，下視丘分泌GnRH可控制腦下腺分泌黃體成長素（LH），LH會使下列何種細胞分泌睪固酮（testosterone），以促使精子成熟？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A primary spermatocyte",
+        "images": []
+      },
+      {
+        "text": "B secondary spermatocyte",
+        "images": []
+      },
+      {
+        "text": "C Leydig cell",
+        "images": []
+      },
+      {
+        "text": "D Sertoli cell",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 由於長期缺乏下列何種賀爾蒙，常造成停經期婦女的骨質疏鬆症？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 睪固酮（Testosterone）",
+        "images": []
+      },
+      {
+        "text": "B 雄烯二酮（Androstenedione）",
+        "images": []
+      },
+      {
+        "text": "C 黃體生成素（Luteinizing hormone；LH）",
+        "images": []
+      },
+      {
+        "text": "D 雌性素（Estrogen）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 女性排卵前的黃體生成素急放（LH surge），主要是因下列那一種荷爾蒙的正迴饋作用所致？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Estrogen",
+        "images": []
+      },
+      {
+        "text": "B Progesterone",
+        "images": []
+      },
+      {
+        "text": "C Inhibin",
+        "images": []
+      },
+      {
+        "text": "D Androgen",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 有關女性濾泡的發育，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在月經週期中，濾泡刺激素、黃體素（progesterone）、雌激素（estrogen）、促黃體素（LH）在血中達到其最高濃度的時間，最早的是雌激素，最晚的是黃體素",
+        "images": []
+      },
+      {
+        "text": "B 濾泡排出卵子後，卵才進行第二減數分裂",
+        "images": []
+      },
+      {
+        "text": "C 受黃體成長激素的影響，所有女性每一月經週期成熟的濾泡固定只有一個",
+        "images": []
+      },
+      {
+        "text": "D 濾泡刺激素（FSH）使成熟濾泡的囊膜層收縮而致排卵",
+        "images": []
+      },
+      {
+        "text": "E 女性的生殖細胞位於卵巢髓質",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. Which hormone stimulates growth of an ovarian follicle?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A LH",
+        "images": []
+      },
+      {
+        "text": "B FSH",
+        "images": []
+      },
+      {
+        "text": "C estrogen",
+        "images": []
+      },
+      {
+        "text": "D progesterone",
+        "images": []
+      },
+      {
+        "text": "E androgen",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 胚胎時期雌性子宮的發育是因為缺乏下列那一種激素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A GnRH",
+        "images": []
+      },
+      {
+        "text": "B Testosterone",
+        "images": []
+      },
+      {
+        "text": "C Mullerian Induction factor",
+        "images": []
+      },
+      {
+        "text": "D Inhibin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 蠑螈與人類遭遇截肢創傷時，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 二者在遭受重大創傷後，傷口會癒合但無法進行再生",
+        "images": []
+      },
+      {
+        "text": "B 二者在遭受重大創傷後，經適當刺激引導皆可以進行再生",
+        "images": []
+      },
+      {
+        "text": "C 蠑螈被截肢時，血管立即收縮減少失血，傷口表皮層會轉變成傳訊細胞（即頂端上皮蓋apical epithelial cap），纖維母細胞則移動至傷口中央，增生形成芽基（blastema），最後再長成肢體，人類則否",
+        "images": []
+      },
+      {
+        "text": "D 人類遭受嚴重創傷時，產生凝血與發炎反應後，表皮層細胞覆蓋傷口，纖維母細胞遷移至傷口，然後啟動芽基生成，蠑螈則否",
+        "images": []
+      },
+      {
+        "text": "E 蠑螈遭受嚴重創傷時，會先產生凝血及發炎反應，接著表皮層細胞覆蓋傷口，纖維母細胞遷移至傷口處並製造過多的膠原蛋白，傷口收縮最後形成傷疤，人類亦同",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 發育中的人類胚胎外層膜會分泌何種荷爾蒙維持黃體（Corpus luteum）的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黃體素（Progesterone）",
+        "images": []
+      },
+      {
+        "text": "B 黃體生成素（LH）",
+        "images": []
+      },
+      {
+        "text": "C 濾泡細胞刺激素（FSH）",
+        "images": []
+      },
+      {
+        "text": "D 人類絨毛膜激素（hCG）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列關於“人體配子發生（gametogenesis）”的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 初級卵母細胞（primary oocytes）是在胚胎時期由卵原（oogonia）細胞經第一次減數分裂而產生",
+        "images": []
+      },
+      {
+        "text": "B 男性在胚胎時期已產生初級精母細胞（primary spermatocytes）",
+        "images": []
+      },
+      {
+        "text": "C 次級精母細胞（secondary spermatocytes）是尚未完成減數分裂的細胞",
+        "images": []
+      },
+      {
+        "text": "D 初級卵母細胞經第二次減數分裂產生四個一樣大小的卵子，稱為次級卵母細胞（secondary oocytes）",
+        "images": []
+      },
+      {
+        "text": "E 不分精卵，配子發生開始於青春期，是受到性荷爾蒙刺激而啟動的一個過程",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. RU486會作用於子宮壁上之接受器，而使子宮內膜崩落瓦解造成流產。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 促濾泡刺激素",
+        "images": []
+      },
+      {
+        "text": "B 黃體素",
+        "images": []
+      },
+      {
+        "text": "C 雌激素",
+        "images": []
+      },
+      {
+        "text": "D 黃體促素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 生產時子宮的收縮主要是催產素及________正回饋的結果。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黃體素",
+        "images": []
+      },
+      {
+        "text": "B 前列腺素",
+        "images": []
+      },
+      {
+        "text": "C 雌激素",
+        "images": []
+      },
+      {
+        "text": "D 血管加壓素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 圖為人類女性生殖系統，請問正常狀況下，受精作用最主要發生於下圖中的哪個位置？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/005.png"
+    ],
+    "options": [
+      {
+        "text": "A 甲",
+        "images": []
+      },
+      {
+        "text": "B 乙",
+        "images": []
+      },
+      {
+        "text": "C 丙",
+        "images": []
+      },
+      {
+        "text": "D 丁",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 下列有關人類的生殖，何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 母親的血管經由臍帶（Umbilical cord）進出胎兒，以提供養分，帶走代謝產物",
+        "images": []
+      },
+      {
+        "text": "B 卵子在輸卵管（Oviduct）中受精",
+        "images": []
+      },
+      {
+        "text": "C 濾泡刺激素（Follicle-stimulating hormone, FSH）跟黃體激素（Luteinizing hormone, LH）共同刺激排卵（Ovulation）",
+        "images": []
+      },
+      {
+        "text": "D 精子的頭部有頂體（acrosome），用來提供泳動所需的能量",
+        "images": []
+      },
+      {
+        "text": "E 性成熟的男生僅產有LH，沒有FSH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 若性釋素（GnRH）濃度固定，非以脈衝式釋放（pulsatile secretion），會產生何種現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雌激素（estrogen）分泌上升",
+        "images": []
+      },
+      {
+        "text": "B 睪固酮（testosterone）分泌上升",
+        "images": []
+      },
+      {
+        "text": "C 性促素（gonadotropins）分泌下降",
+        "images": []
+      },
+      {
+        "text": "D 黃體生成素（LH）以脈衝式釋放",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 精子生成（spermatogenesis）在何處進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細精小管（seminiferous tubules）",
+        "images": []
+      },
+      {
+        "text": "B 間質組織（interstitial tissue）",
+        "images": []
+      },
+      {
+        "text": "C 副睪（epididymis）",
+        "images": []
+      },
+      {
+        "text": "D 精囊（seminal vesicle）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 一般市售之快速驗孕試劑主要檢測尿液中何種荷爾蒙成份？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人類絨毛促性腺激素（human chorionic gonadotropin）",
+        "images": []
+      },
+      {
+        "text": "B 雌激素（estrogen）",
+        "images": []
+      },
+      {
+        "text": "C 抗利尿激素（antidiuretic hormone）",
+        "images": []
+      },
+      {
+        "text": "D 催產激素（oxytocin）",
+        "images": []
+      },
+      {
+        "text": "E 泌乳素（prolactin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 在月經週期早期，________會作用在顆粒細胞（granulosa cells），這會使得________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A LH；雄性素（androgens）轉換成雌激素（estrogens）",
+        "images": []
+      },
+      {
+        "text": "B LH；合成雄性素",
+        "images": []
+      },
+      {
+        "text": "C FSH；雄性素（androgens）轉換成雌激素（estrogens）",
+        "images": []
+      },
+      {
+        "text": "D FSH；合成雄性素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 雌激素（estrogen）最有可能透過直接調控下列何者來進行其作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛋白質激酶（protein kinases）",
+        "images": []
+      },
+      {
+        "text": "B phopholipase C",
+        "images": []
+      },
+      {
+        "text": "C 啟動相關基因以產生專一蛋白",
+        "images": []
+      },
+      {
+        "text": "D 環狀AMP（cyclic AMP）",
+        "images": []
+      },
+      {
+        "text": "E Ca2+離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. In vertebrate animals, spermatogenesis and oogenesis differ, in that",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A oogenesis begins at the onset of sexual maturity, whereas spermatogenesis happens in embryonic development.",
+        "images": []
+      },
+      {
+        "text": "B oogenesis produces four haploid cells, whereas spermatogenesis produces only one functional spermatozoon.",
+        "images": []
+      },
+      {
+        "text": "C cytokinesis is unequal in oogenesis, whereas it is equal in spermatogenesis.",
+        "images": []
+      },
+      {
+        "text": "D spermatogenesis is not completed until after fertilization occurs, but oogenesis is completed by the time a girl is born.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 避孕藥丸RU-486會阻斷下列何種激素受體（receptor）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 卵泡刺激素（Follicle-stimulating hormone）",
+        "images": []
+      },
+      {
+        "text": "B 黃體生成素（Luteinizing hormone）",
+        "images": []
+      },
+      {
+        "text": "C 助孕素（Progesterone）",
+        "images": []
+      },
+      {
+        "text": "D 雌激素（Estrogen）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 動物分泌費洛蒙（pheromones）吸引異性屬於下列哪一項：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長過程（growth processes）",
+        "images": []
+      },
+      {
+        "text": "B 恆定機制（homeostatic mechanisms）",
+        "images": []
+      },
+      {
+        "text": "C 化學刺激（chemical stimulus）",
+        "images": []
+      },
+      {
+        "text": "D 代謝作用（metabolic reaction）",
+        "images": []
+      },
+      {
+        "text": "E 異化作用（catabolism）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列何者不是直接經由腦下垂體（Hypothalamus）前葉或後葉所分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 催產素（Oxytocin）",
+        "images": []
+      },
+      {
+        "text": "B 成長激素（Growth hormone）",
+        "images": []
+      },
+      {
+        "text": "C 雌激素（Estrogen）",
+        "images": []
+      },
+      {
+        "text": "D 乳泌素（Prolactin）",
+        "images": []
+      },
+      {
+        "text": "E 腦內啡（Endorphins）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 有關女性周期的生理學，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 月經周期最後兩、三天，FSH之分泌增加",
+        "images": []
+      },
+      {
+        "text": "B 月經周期最後兩、三天，腦垂體前葉會分泌女性激素estrogen引起乳房增大",
+        "images": []
+      },
+      {
+        "text": "C 當血中女性激素之濃度最高時，也是卵巢濾泡成熟的時候",
+        "images": []
+      },
+      {
+        "text": "D 大多數的初級濾泡中只有一個會成熟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 胚胎性別發育過程中，萊氏細胞（Leydig cells）會分泌何種分子，促進伍氏管（wolffian ducts）發育成副睪、輸精管以及射精管？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 睪固酮（Testosterone）",
+        "images": []
+      },
+      {
+        "text": "B 抑制素（Inhibin）",
+        "images": []
+      },
+      {
+        "text": "C 雌二醇（Estradiol）",
+        "images": []
+      },
+      {
+        "text": "D 穆勒氏抑制因子（Mullerian inhibiting factor）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. In both males and females, gonadotropin secretion by the anterior pituitary is stimulated by",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A GnRH.",
+        "images": []
+      },
+      {
+        "text": "B FSH.",
+        "images": []
+      },
+      {
+        "text": "C GHRH.",
+        "images": []
+      },
+      {
+        "text": "D androgens.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. The beginning of a new menstrual cycle is initiated by the production and release of ________, which occurs when inhibition by________ ceases.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A FSH and LH; GnRH",
+        "images": []
+      },
+      {
+        "text": "B GnRH; FSH and LH",
+        "images": []
+      },
+      {
+        "text": "C estrogen and progesterone; GnRH",
+        "images": []
+      },
+      {
+        "text": "D GnRH; estrogen and progesterone",
+        "images": []
+      },
+      {
+        "text": "E FSH and LH; estrogen and progesterone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D",
+      "E"
+    ]
+  }
+]

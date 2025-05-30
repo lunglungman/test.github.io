@@ -1,0 +1,1484 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 研究人員已找到數十個散佈各海域的海底鯨魚屍骨，並發現400多種在其中生活多樣的物種，這些生物組成了一個：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生物圈（biosphere）",
+        "images": []
+      },
+      {
+        "text": "B 生態系（ecosystem）",
+        "images": []
+      },
+      {
+        "text": "C 群落（community）",
+        "images": []
+      },
+      {
+        "text": "D 族群（population）",
+        "images": []
+      },
+      {
+        "text": "E 種（species）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 如下圖所示，設若Balanus balanoides與Chthamalus stellatus是二種生長在蘇格蘭海岸的藤壺。這些岩石在低潮時會露出水面。藤壺的生長有分層的現象，Balanus集中在岩石的下層，而Chthamalus在較高的部位出現。藤壺浮游性的幼體可隨機的在岩石上固著並開始發育為固著性的成體。若Balanus自較低區移除後，Chthamalus的族群會擴張至該區；但若將Chthamalus自上層移除，Balanus並不會擴張至該區。其它相關條件及潮位資訊如圖所示。請就此自然競爭結果的現象找出下列敘述何者錯誤？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/059.png"
+    ],
+    "options": [
+      {
+        "text": "A Balanus無法生存於上層，可能主要由於無法忍受乾旱",
+        "images": []
+      },
+      {
+        "text": "B Chthamalus無法生存於較下層，可能主要由於競爭排除的結果",
+        "images": []
+      },
+      {
+        "text": "C Balanus的實際生態棲位等於基礎生態棲位",
+        "images": []
+      },
+      {
+        "text": "D Chthamalus的實際生態棲位小於基礎生態棲位",
+        "images": []
+      },
+      {
+        "text": "E 此兩種藤壺的主要競爭資源為食物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列敘述何者不是在初級演替的先鋒植物物種（pioneer plant species）特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 有能力忍受強烈陽光",
+        "images": []
+      },
+      {
+        "text": "B 有能力忍受低水平的養分",
+        "images": []
+      },
+      {
+        "text": "C 屬於體型較小的植物",
+        "images": []
+      },
+      {
+        "text": "D 生長緩慢生命期長",
+        "images": []
+      },
+      {
+        "text": "E 產生多數且小的種子可傳播甚遠",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. The equilibrium model of island biogeography explains diversity on islands as a balance between",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A speciation and extinction.",
+        "images": []
+      },
+      {
+        "text": "B immigration and extinction.",
+        "images": []
+      },
+      {
+        "text": "C speciation and emigration.",
+        "images": []
+      },
+      {
+        "text": "D immigration and emigration.",
+        "images": []
+      },
+      {
+        "text": "E speciation and immigration.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 兩個物種有相同的生態利基（Ecological Niche），但又共存在同一區域內，則以下何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一定會競爭到其中一種滅亡",
+        "images": []
+      },
+      {
+        "text": "B 其中一種會轉換利基（Niche）",
+        "images": []
+      },
+      {
+        "text": "C 可以資源分隔（Resource Partitioning）的方式共存",
+        "images": []
+      },
+      {
+        "text": "D 多樣性保存最主要的目標是保存物種",
+        "images": []
+      },
+      {
+        "text": "E 生物採用終生一胎（Semelparity）方式繁殖，是為了要能產生體型較大的後代",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. Primary succession is succession that",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A involves establishment of primary producers.",
+        "images": []
+      },
+      {
+        "text": "B leads to establishment of a climax community dominated by primary producers.",
+        "images": []
+      },
+      {
+        "text": "C occurs on newly exposed geologic substrates, not organic soil",
+        "images": []
+      },
+      {
+        "text": "D occurs where organic soils have been exposed but not destroyed by disturbance.",
+        "images": []
+      },
+      {
+        "text": "E occurs after fire or agricultural abandonment.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 台灣南部墾丁的南仁山森林常受季節性的颱風與落山風影響，使森林中樹木倒塌，樹冠層破空，而該地區的植物多樣性甚高，此現象之解釋為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 中度干擾假說（intermediate-disturbance hypothesis）",
+        "images": []
+      },
+      {
+        "text": "B 多樣性與穩定性假說（diversity-stability hypothesis）",
+        "images": []
+      },
+      {
+        "text": "C 島嶼生物地理的平衡模式（equilibrium model of island biogeography）",
+        "images": []
+      },
+      {
+        "text": "D 競爭排除假說（competitive exclusion hypothesis）",
+        "images": []
+      },
+      {
+        "text": "E 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. Divergence in morphology that is a result of competition between species is termed",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A competitive exclusion.",
+        "images": []
+      },
+      {
+        "text": "B resource partitioning.",
+        "images": []
+      },
+      {
+        "text": "C character displacement.",
+        "images": []
+      },
+      {
+        "text": "D amensalism.",
+        "images": []
+      },
+      {
+        "text": "E mutualism.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 動物走過草地後，其毛皮沾黏野草種子，種子隨著動物移動而運送，但對動物無害，此現象接近於下列何種交互作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 互利共生（mutualism）",
+        "images": []
+      },
+      {
+        "text": "B 寄生（parasitism）",
+        "images": []
+      },
+      {
+        "text": "C 片利共生（commensalism）",
+        "images": []
+      },
+      {
+        "text": "D 抑制作用（ammensalism）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. ________ species are those that, despite low biomass, exert strong effects on community structure.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Keystone",
+        "images": []
+      },
+      {
+        "text": "B Cornerstone",
+        "images": []
+      },
+      {
+        "text": "C Dominant",
+        "images": []
+      },
+      {
+        "text": "D Prominent",
+        "images": []
+      },
+      {
+        "text": "E Foundational",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. An interaction between individuals of different species that benefit both partners is called",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A commensalism.",
+        "images": []
+      },
+      {
+        "text": "B predation.",
+        "images": []
+      },
+      {
+        "text": "C exploitation.",
+        "images": []
+      },
+      {
+        "text": "D mutualism.",
+        "images": []
+      },
+      {
+        "text": "E ammensalism.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. Which option listed in below is NOT an antipredator defensive behavior?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Camouflage",
+        "images": []
+      },
+      {
+        "text": "B Aposematic coloration",
+        "images": []
+      },
+      {
+        "text": "C Bastesian mimicry",
+        "images": []
+      },
+      {
+        "text": "D Mullerian mimicry",
+        "images": []
+      },
+      {
+        "text": "E Character displacement",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. If primary production increases in an ecosystem, it would be reasonable to expect that ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A nutrients are a limiting factor",
+        "images": []
+      },
+      {
+        "text": "B gross production would not increase",
+        "images": []
+      },
+      {
+        "text": "C cellular respiration would decrease",
+        "images": []
+      },
+      {
+        "text": "D the food web has become more complex",
+        "images": []
+      },
+      {
+        "text": "E the biomass of herbivores would increase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 亞洲柑橘木蝨吸取柑橘類植物的汁液時，同時傳播了黃龍病（huanglongbing），柑橘類植物因此受到細菌感染，導致韌皮部阻塞，根部無法獲得營養，最後使得植物營養不良而衰弱，造成美國佛羅里達及加州的柑橘產業受到嚴重影響，目前最好且較為快速的防治方法為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 引進亞洲柑橘木蝨的天敵寄生蜂--亮腹釉小蜂",
+        "images": []
+      },
+      {
+        "text": "B 噴灑殺蟲劑",
+        "images": []
+      },
+      {
+        "text": "C 進行柑橘的基因改造",
+        "images": []
+      },
+      {
+        "text": "D 施肥",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 某一物種對所棲息的環境或群落有強勢的控制力，但不一定是在此群落中具有最多的個體數，下列何者最符合此物種？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A keystone species",
+        "images": []
+      },
+      {
+        "text": "B dominant species",
+        "images": []
+      },
+      {
+        "text": "C major species",
+        "images": []
+      },
+      {
+        "text": "D recessive species",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 蛾停留在其體色相近的樹幹上，潛在的掠食者不易發現而成為獵物，此現象接近於下列何種作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 誘導防禦（induced defense）",
+        "images": []
+      },
+      {
+        "text": "B 警戒色（aposematic coloration）",
+        "images": []
+      },
+      {
+        "text": "C 靜默（silencing）",
+        "images": []
+      },
+      {
+        "text": "D 隱蔽（crypsis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 在海岸邊的水窪中，若移去其中一個物種後，當中原有的15種無脊椎動物降低為8種，該物種較可能為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A herbivore",
+        "images": []
+      },
+      {
+        "text": "B keystone species",
+        "images": []
+      },
+      {
+        "text": "C resource partitioner",
+        "images": []
+      },
+      {
+        "text": "D community facilitator",
+        "images": []
+      },
+      {
+        "text": "E mutualistic organism",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 澤蘭屬植物的花蜜含吡咯里西啶生物鹼（pyrrolizidine alkaloid）為其化學防禦機制，可抵抗動物及病原的侵害。斑蝶吸食含此成分之花蜜後，可減少被天敵捕食的機率，該成分也是雄斑蝶合成性費洛蒙的前驅物，澤蘭屬植物和斑蝶間交互作用的關係最佳的表示符號，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ＋/－",
+        "images": []
+      },
+      {
+        "text": "B ＋/＋",
+        "images": []
+      },
+      {
+        "text": "C ＋/0",
+        "images": []
+      },
+      {
+        "text": "D －/－",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. Which statement about changing ecosystem properties during succession is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Biomass increases.",
+        "images": []
+      },
+      {
+        "text": "B Soil depths decrease.",
+        "images": []
+      },
+      {
+        "text": "C Primary production increases.",
+        "images": []
+      },
+      {
+        "text": "D Community respiration increases.",
+        "images": []
+      },
+      {
+        "text": "E Stream spiraling lengths decrease.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 賽局理論（game theory）最適合用來回答下列何種問題？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雌性知更鳥如何進行築巢？",
+        "images": []
+      },
+      {
+        "text": "B 為什麼美洲虎幼崽在遊戲中學習打獵技巧？",
+        "images": []
+      },
+      {
+        "text": "C 為什麼三種不同外型的側斑猶他蜥在族群中皆存在？",
+        "images": []
+      },
+      {
+        "text": "D 為什麼海豚會彼此比賽游泳速度？",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. How are species-area relationships traditionally plotted?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A On a bar graph",
+        "images": []
+      },
+      {
+        "text": "B On a log-log plot",
+        "images": []
+      },
+      {
+        "text": "C On a semi-log plot",
+        "images": []
+      },
+      {
+        "text": "D As a regular graph",
+        "images": []
+      },
+      {
+        "text": "E As a pie chart",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Which of the following is an example of Batesian mimicry?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A an insect that resembles a twig",
+        "images": []
+      },
+      {
+        "text": "B a butterfly that resembles a leaf",
+        "images": []
+      },
+      {
+        "text": "C a nonvenomous snake that looks like a venomous snake",
+        "images": []
+      },
+      {
+        "text": "D a fawn with fur coloring that camouflages it in the forest environment",
+        "images": []
+      },
+      {
+        "text": "E a snapping turtle that uses its tongue to mimic a worm, thus attracting fish",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 生物多樣性越大的地方，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 越容易受到外界的干擾作用",
+        "images": []
+      },
+      {
+        "text": "B 生物越多，越難達成平衡",
+        "images": []
+      },
+      {
+        "text": "C 食物網越複雜，越安定",
+        "images": []
+      },
+      {
+        "text": "D 越容易有消長發生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 關於島嶼族群多樣性（biodiversity）的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 熱帶島嶼棲地較極地島嶼棲地有更高的物種豐富度（species richness）",
+        "images": []
+      },
+      {
+        "text": "B 兩相鄰島嶼距離大陸的距離相近，則大面積島嶼的物種豐富度會低於小面積島嶼",
+        "images": []
+      },
+      {
+        "text": "C 兩島嶼面積相近，則靠近大陸的島嶼其物種豐富度低於遠離大陸的島嶼",
+        "images": []
+      },
+      {
+        "text": "D 原先棲息在島嶼上的物種越多，表示島嶼棲地資源豐富，因此新移入物種的速率快，存活率也極高",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 關於物種間互動關係的敍述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 互利共生（mutualism）是對參與的雙方物種都帶來好處的關係",
+        "images": []
+      },
+      {
+        "text": "B 片利共生（commensalism）是對一方有好處，對另一方有壞處的關係",
+        "images": []
+      },
+      {
+        "text": "C 捕食（predation）是一種生物以另一種生物為食物的關係",
+        "images": []
+      },
+      {
+        "text": "D 寄生（parasitism）指的是一種生物從另一種生物的身上攝取養份，但不直接獵殺的關係",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. The Shannon diversity index is a measure of",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the number of different species in a community.",
+        "images": []
+      },
+      {
+        "text": "B the abundance of a species in a community.",
+        "images": []
+      },
+      {
+        "text": "C the types of species found in a typical climate.",
+        "images": []
+      },
+      {
+        "text": "D the number of different species and their relative abundance in a community.",
+        "images": []
+      },
+      {
+        "text": "E the distribution of members of a species in a community.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 有關影響群集多樣性之生物地理因子的敍述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 物種多樣性隨緯度增加而減少",
+        "images": []
+      },
+      {
+        "text": "B 群集所佔地區愈大，物種數愈多",
+        "images": []
+      },
+      {
+        "text": "C 島嶼上的物種多樣性與島嶼大小相關外，亦與鄰近大陸陸塊的距離相關",
+        "images": []
+      },
+      {
+        "text": "D 島嶼上的物種是種化與滅絕加總的結果",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. Which of the following best describes resource partitioning?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Two species can coevolve to share the same niche.",
+        "images": []
+      },
+      {
+        "text": "B Competitive exclusion results in the success of the superior species.",
+        "images": []
+      },
+      {
+        "text": "C Slight variations in niche allow similar species to coexist.",
+        "images": []
+      },
+      {
+        "text": "D A climax community is reached when no new niches are available.",
+        "images": []
+      },
+      {
+        "text": "E Differential resource utilization results in the decrease in species diversity.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 某一物種對所處的環境或群落有強勢的控制力，但不一定是在該群落中具有最多的個體數，稱此物種為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 關鍵物種（keystone species）",
+        "images": []
+      },
+      {
+        "text": "B 優勢物種（dominant species）",
+        "images": []
+      },
+      {
+        "text": "C 主要物種（major species）",
+        "images": []
+      },
+      {
+        "text": "D 生態系統工程師（ecosystem engineers）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 紅樹林主要分佈於熱帶及亞熱帶，約在全球南北緯二十五度之間的河口及海灣，台灣的紅樹林都分佈在西海岸，東海岸因風大浪急，又多砂礫岩石，不利紅樹林生長。河口由於泥沙不斷堆積形成三角洲、潟湖等地形，泥濘而潮溼，適合紅樹林生長，紅樹林植物選擇黏質度高的泥質灘地著根生長，生長地平均溫度在攝氏20 度以上，年雨量約2000 公釐。一般生長在潮汐與海浪較弱的海灣中，非常適應河流與海洋交會的潮間帶缺氧及鹽分高的地區。以上敍述主要描述紅樹林的：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ecological niche",
+        "images": []
+      },
+      {
+        "text": "B reproductive table",
+        "images": []
+      },
+      {
+        "text": "C resource partition",
+        "images": []
+      },
+      {
+        "text": "D life table",
+        "images": []
+      },
+      {
+        "text": "E dimensional profile.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. All of the followings have contributed to the diversity of organisms on the Hawaiian archipelago EXCEPT that",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The islands are distant from the mainland.",
+        "images": []
+      },
+      {
+        "text": "B Multiple invasions have occurred.",
+        "images": []
+      },
+      {
+        "text": "C Adaptive radiation has occurred.",
+        "images": []
+      },
+      {
+        "text": "D The islands are very young in geologic time.",
+        "images": []
+      },
+      {
+        "text": "E Environmental conditions differ from one island to the next.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. What would be the most effective method of reducing the incidence of blood flukes in a human population?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Reduce the mosquito population.",
+        "images": []
+      },
+      {
+        "text": "B Reduce the freshwater snail population.",
+        "images": []
+      },
+      {
+        "text": "C Purify all drinking water.",
+        "images": []
+      },
+      {
+        "text": "D Avoid contact with rodent droppings.",
+        "images": []
+      },
+      {
+        "text": "E Carefully wash all raw fruits and vegetables.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 關於“使某生物在給予條件的環境下得以生存、生長和繁殖的專一性狀（specific traits）”的敘述，最接近於下列何者的定義？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 突變（mutations）",
+        "images": []
+      },
+      {
+        "text": "B 基因（genes）",
+        "images": []
+      },
+      {
+        "text": "C 適應（adaptations）",
+        "images": []
+      },
+      {
+        "text": "D 外表型（phenotypes）",
+        "images": []
+      },
+      {
+        "text": "E 基因組（genomes）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 一般而言，在熱帶地區比遠離赤道地區擁有較多樣的物種，何者為最可能因素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 致病源較少",
+        "images": []
+      },
+      {
+        "text": "B 掠食者較少",
+        "images": []
+      },
+      {
+        "text": "C 生態干擾較多",
+        "images": []
+      },
+      {
+        "text": "D 年日照時間較長",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. A biologist discovers two populations of wolf spiders whose members appear identical. Members of one population are found in the leaf litter deep within the woods. Members of the other population are found in the grass at the edge of the woods. The biologist decides to designate the members of the two populations as two separate species. Which species concept is this biologist most closely utilizing?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A phylogenetic",
+        "images": []
+      },
+      {
+        "text": "B ecological",
+        "images": []
+      },
+      {
+        "text": "C Physiological",
+        "images": []
+      },
+      {
+        "text": "D morphological",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. The sum of a species’ use of the biotic and abiotic resources in its environment is called the species’ ________?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A niche",
+        "images": []
+      },
+      {
+        "text": "B ecological niche",
+        "images": []
+      },
+      {
+        "text": "C resource niche",
+        "images": []
+      },
+      {
+        "text": "D environment niche",
+        "images": []
+      },
+      {
+        "text": "E ecological statement",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 若有“兩種有毒的蛙類其體色彼此相似”與“長的像有毒葉片的蝴蝶”，就動物的防禦行為而言，他們應該分別屬於下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 穆氏擬態與貝氏擬態",
+        "images": []
+      },
+      {
+        "text": "B 貝氏擬態與穆氏擬態",
+        "images": []
+      },
+      {
+        "text": "C 穆氏擬態與偽裝",
+        "images": []
+      },
+      {
+        "text": "D 貝氏擬態與偽裝",
+        "images": []
+      },
+      {
+        "text": "E 貝氏擬態與警戒色",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 校園的花圃裡常見喬木、灌木、草、蘑菇、蟻、鳥類、蜘蛛、瓢蟲和細菌，這些生物組合成什麼?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生態系（Ecosystem）",
+        "images": []
+      },
+      {
+        "text": "B 群聚（Community）",
+        "images": []
+      },
+      {
+        "text": "C 族群（Population）",
+        "images": []
+      },
+      {
+        "text": "D 生物圈（Biosphere）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 小明家後院有一棵山櫻花，樹上住了一群綠繡眼，也常常看見松鼠在上面跳來跳去，樹梢上掛了一個蜂巢，還有螞蟻們忙碌的搬運食物，部分的樹幹上覆滿了地衣，這些生物共同組成了",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 族群（population）",
+        "images": []
+      },
+      {
+        "text": "B 群落（community）",
+        "images": []
+      },
+      {
+        "text": "C 生態系（ecosystem）",
+        "images": []
+      },
+      {
+        "text": "D 種（species）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. The mountain area of the Central Taiwan was deforested by the 921 earthquake in 2000 and has been recovered today. It is an example of ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A secondary succession",
+        "images": []
+      },
+      {
+        "text": "B primary succession",
+        "images": []
+      },
+      {
+        "text": "C climax succession",
+        "images": []
+      },
+      {
+        "text": "D arrival and speciation",
+        "images": []
+      },
+      {
+        "text": "E seral accumulation",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. The ________ defines the physical conditions under which a species might live, in the absence of interaction with other species.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A functional niche",
+        "images": []
+      },
+      {
+        "text": "B realized niche",
+        "images": []
+      },
+      {
+        "text": "C principle niche",
+        "images": []
+      },
+      {
+        "text": "D fundamental niche",
+        "images": []
+      },
+      {
+        "text": "E primary niche",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何者不是生物多樣性所包括的內容？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 遺傳多樣性",
+        "images": []
+      },
+      {
+        "text": "B 物種多樣性",
+        "images": []
+      },
+      {
+        "text": "C 生物個體數量多",
+        "images": []
+      },
+      {
+        "text": "D 生態系多樣性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 根據島嶼生物地理學的理論，島上的種量豐度將在何種狀況下最小？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 島小而靠近大陸",
+        "images": []
+      },
+      {
+        "text": "B 島小而遙遠者",
+        "images": []
+      },
+      {
+        "text": "C 島大而靠近大陸",
+        "images": []
+      },
+      {
+        "text": "D 島大而遙遠者",
+        "images": []
+      },
+      {
+        "text": "E 島的環境均質化時",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列關於大型掠食性動物與大型草食性動物，一般覓食行為比較的敘述，何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 掠食性動物的覓食頻率較草食性動物頻繁",
+        "images": []
+      },
+      {
+        "text": "B 掠食性動物單位時間的蛋白質攝取量較草食性動物低",
+        "images": []
+      },
+      {
+        "text": "C 草食性動物在夜間覓食，掠食性動物在日間覓食",
+        "images": []
+      },
+      {
+        "text": "D 草食性動物較掠食性動物更常經歷到食物資源量的短缺",
+        "images": []
+      },
+      {
+        "text": "E 草食性動物較掠食性動物更重視覓食地點的隱蔽性與安全性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 陳博士研究甲、乙兩種馬陸在不同溫濕度下的競爭力，他設計了3種溫度和2種濕度組合的6組（I-VI）實驗。經1,800次重複所得結果如下表：下列敘述何者錯誤？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/058.png"
+    ],
+    "options": [
+      {
+        "text": "A 由他研究所得到的結果顯示，甲馬陸比乙馬陸更具競爭優勢",
+        "images": []
+      },
+      {
+        "text": "B 甲馬陸可能是邊緣物種（marginal species），只能在極端環境條件下拓殖",
+        "images": []
+      },
+      {
+        "text": "C 環境若從熱濕轉為熱乾、從溫濕轉為冷乾，甲馬陸很可能被乙馬陸淘汰",
+        "images": []
+      },
+      {
+        "text": "D 環境條件先從冷乾轉為熱濕，在乙馬陸尚未滅絕前又恢復原狀，兩種馬陸仍可能長期共存",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 生物多樣性（biodiversity）可區分為生態系多樣性、物種多樣性和遺傳多樣性三階層，其中遺傳多樣性的重要性為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 確保品種改良來源",
+        "images": []
+      },
+      {
+        "text": "B 生物工程的基礎",
+        "images": []
+      },
+      {
+        "text": "C 保護野生物種，避免滅絕",
+        "images": []
+      },
+      {
+        "text": "D 移除遺傳變異",
+        "images": []
+      },
+      {
+        "text": "E 防止基因歧異度消失",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 馬吃飼草是下列何者之範例？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 自營性生物（autotroph）吃異營性生物（heterotroph）",
+        "images": []
+      },
+      {
+        "text": "B 自營性生物吃生產者（producer）",
+        "images": []
+      },
+      {
+        "text": "C 消費者（consumer）吃生產者",
+        "images": []
+      },
+      {
+        "text": "D 生產者吃異營性生物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 設若棘冠海星是珊瑚群聚的關鍵捕食者，請問下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 棘冠海星會產生不平衡的珊瑚多樣性",
+        "images": []
+      },
+      {
+        "text": "B 當移除棘冠海星後珊瑚種類會增多",
+        "images": []
+      },
+      {
+        "text": "C 經由捕食優勢競爭性的珊瑚來維持珊瑚群聚的多樣性",
+        "images": []
+      },
+      {
+        "text": "D 加強棘冠海星與珊瑚間的共演化適應",
+        "images": []
+      },
+      {
+        "text": "E 大量的棘冠海星會增加珊瑚的相對豐度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列何種生物為 Foundation species？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 菟絲 Cuscuta europaea",
+        "images": []
+      },
+      {
+        "text": "B 河狸 Castor Canadensis",
+        "images": []
+      },
+      {
+        "text": "C 北極熊 Ursus maritimus",
+        "images": []
+      },
+      {
+        "text": "D 紅火蟻 Solenopsis invicta",
+        "images": []
+      },
+      {
+        "text": "E 小花蔓澤蘭 Mikania micrantha",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 下列有關貝氏擬態（Batesian mimicry）的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鱷龜（snapping turtle）將其舌頭擬態為蟲以吸引魚類",
+        "images": []
+      },
+      {
+        "text": "B 幼鹿以毛皮的顏色作為在森林中的偽裝",
+        "images": []
+      },
+      {
+        "text": "C 蝴蝶偽裝成樹葉",
+        "images": []
+      },
+      {
+        "text": "D 無毒的蛇擬態為有毒的蛇",
+        "images": []
+      },
+      {
+        "text": "E 看起來像嫩枝的昆蟲",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  }
+]

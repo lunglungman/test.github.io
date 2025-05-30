@@ -1,0 +1,1467 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 人類的白化症為一種隱性體染色體遺傳疾病。一對表型正常的父母生下第一個小孩為白化症男孩，他們的下一個小孩為白化症女孩的機率為多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1/2",
+        "images": []
+      },
+      {
+        "text": "B 1/4",
+        "images": []
+      },
+      {
+        "text": "C 1/6",
+        "images": []
+      },
+      {
+        "text": "D 1/8",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. Martin and Mary have free earlobes, but their son Mark does not. If Martin and Mary have two more children, what is the probability that both will have attached earlobes?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1/4",
+        "images": []
+      },
+      {
+        "text": "B 3/4",
+        "images": []
+      },
+      {
+        "text": "C 1/16",
+        "images": []
+      },
+      {
+        "text": "D 9/16",
+        "images": []
+      },
+      {
+        "text": "E 3/16",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. The elytron colors of ground beetles are polygenically inherited. If one male ground beetle was genotyped as AaBbCc and a female was genotyped as AaBbCc. The uppercase letters in the genotype are the dark-color alleles, and the lowercase letters are the light-color alleles. What is the probability of second darkest colored elytra in their immediate offspring?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 6/64",
+        "images": []
+      },
+      {
+        "text": "B 15/64",
+        "images": []
+      },
+      {
+        "text": "C 20/64",
+        "images": []
+      },
+      {
+        "text": "D 12/64",
+        "images": []
+      },
+      {
+        "text": "E 1/64",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 請問下列何種現象可說明一個基因對會遮蔽非等位基因對的表現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 顯性",
+        "images": []
+      },
+      {
+        "text": "B 上位（epistasis）",
+        "images": []
+      },
+      {
+        "text": "C 共顯性（codominance）",
+        "images": []
+      },
+      {
+        "text": "D 隱性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 有關基因多效性（gene pleiotropy）的敘述，下列何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因多效性是指一個基因的突變可使多種性狀同時改變",
+        "images": []
+      },
+      {
+        "text": "B 多效性基因表現的產物可能被體內不同的細胞所使用，因而控制不同性狀的表現",
+        "images": []
+      },
+      {
+        "text": "C 多效性基因表現的產物可能有負責訊息傳遞的功能，並影響不同的下游基因表現",
+        "images": []
+      },
+      {
+        "text": "D 多效性基因對不同性狀的影響往往都是相同方向的影響",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列有關泰-歇克斯症（Tay-Sachs disease）與龐貝氏症（Pompe disease）的敘述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 此兩類疾病皆與溶酶體（lysosomes）失去功能有關",
+        "images": []
+      },
+      {
+        "text": "B 泰-歇克斯症患者缺乏代謝膽固醇（cholesterol）的酵素，導致脂質堆積於肝臟",
+        "images": []
+      },
+      {
+        "text": "C 龐貝氏症患者缺乏葡萄糖苷酶（glucosidase），導致肝糖堆積",
+        "images": []
+      },
+      {
+        "text": "D 此兩類疾病皆屬於遺傳性疾病",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 小鼠黑毛（B）相對於棕毛（b）為顯性，短尾（T）相對長尾（t）為顯性，兩種基因位在不同染色體上，BbTt × BBtt 兩小鼠交配產出黑毛長尾的小鼠比例為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 3/16",
+        "images": []
+      },
+      {
+        "text": "B 3/8",
+        "images": []
+      },
+      {
+        "text": "C 9/16",
+        "images": []
+      },
+      {
+        "text": "D 1/2",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 有一株豌豆的基因型為AaBBCcDd，在產生配子時會有多少種組合？若是這株豌豆AaBBCcDd和aabbCcDd授粉後，子代的基因型最多有幾種可能性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 8；64",
+        "images": []
+      },
+      {
+        "text": "B 4；16",
+        "images": []
+      },
+      {
+        "text": "C 8；32",
+        "images": []
+      },
+      {
+        "text": "D 4；32",
+        "images": []
+      },
+      {
+        "text": "E 8；18",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列有關苯丙酮尿症（phenylketouria）的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病人體內苯丙胺酸（phenylalanine）無法被代謝",
+        "images": []
+      },
+      {
+        "text": "B 此疾病是因尿黑酸（homogentisate）堆積所造成",
+        "images": []
+      },
+      {
+        "text": "C 病人尿液會呈現黑褐色",
+        "images": []
+      },
+      {
+        "text": "D 病人尿液會呈現楓葉糖漿之氣味",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列族譜分析顯示某種遺傳疾病家族成員患病情形，請問此遺傳疾病最有可能是何種遺傳類型？□：健康男性　　■：患者男性　　○：健康女性　　●：患者女性",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/010.png"
+    ],
+    "options": [
+      {
+        "text": "A 體染色體顯性遺傳",
+        "images": []
+      },
+      {
+        "text": "B 體染色體隱性遺傳",
+        "images": []
+      },
+      {
+        "text": "C X染色體聯結顯性遺傳",
+        "images": []
+      },
+      {
+        "text": "D X染色體聯結隱性遺傳",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. Assuming complete dominance, crosses between two dihybrid F1 plants, which are offspring from a cross AABB x aabb, result in F2 phenotype ratios of ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1:2:1",
+        "images": []
+      },
+      {
+        "text": "B 3:1",
+        "images": []
+      },
+      {
+        "text": "C 1:1:1:1",
+        "images": []
+      },
+      {
+        "text": "D 9:3:3:1",
+        "images": []
+      },
+      {
+        "text": "E 9:1",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 在四性狀雜交的F1子代基因型為AaBbCcDd。假定這四種基因為獨立分配，則F2子代具有1/64 或然率的基因型為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A aabbccdd",
+        "images": []
+      },
+      {
+        "text": "B AaBbCcDd",
+        "images": []
+      },
+      {
+        "text": "C AABBCCDD",
+        "images": []
+      },
+      {
+        "text": "D AaBBccDd",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 有關產前胎兒檢查，下列敘述何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 羊膜穿刺術（Amniocentesis）可進行染色體組型檢查（Karyotyping）",
+        "images": []
+      },
+      {
+        "text": "B 絨毛膜絨毛取樣（Chorionic villus sampling）可進行染色體組型檢查",
+        "images": []
+      },
+      {
+        "text": "C 超音波（Ultrasound）檢查為非侵入性",
+        "images": []
+      },
+      {
+        "text": "D 羊膜穿刺術比絨毛膜絨毛取樣在胎兒發育更早期進行",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 軟骨發育不全症（Achondroplasia）是一種體染色體顯性遺傳疾病，而色盲是一種X染色體隱性遺傳疾病。假設有一位視力正常的軟骨發育不全症男性，和一位身高正常但患有色盲的女性結婚；該男性的父親和該女性的雙親身高皆正常。此夫妻婚後生育若生下男孩，那麼男孩身高正常且同時患有色盲的機率有多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 50%",
+        "images": []
+      },
+      {
+        "text": "B 100%",
+        "images": []
+      },
+      {
+        "text": "C 25%",
+        "images": []
+      },
+      {
+        "text": "D 12.5%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 人類的遺傳疾病，Tay-Sachs disease (TSD)是由於缺乏「胺基己糖苷脂酶（hexosaminidase）」。這種酶和腦細胞的脂質分解轉化有關。TSD為單基因體染色體的隱性遺傳，TSD患者的基因型為aa，下列哪一項說明可以解釋為何基因型Aa和AA的個體均為正常的表型？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 因對偶基因中的A是一種轉位子（transposon），在異型合子的個體A對偶基因轉位至隱性對偶基因a處，造成a對偶基因的轉錄受阻",
+        "images": []
+      },
+      {
+        "text": "B 隱性的突變基因可轉錄一種抑制蛋白質，此蛋白質抑制A基因的轉錄",
+        "images": []
+      },
+      {
+        "text": "C Aa異型合子所製造的胺基己糖苷脂酶的量已足夠正常地分解脂質",
+        "images": []
+      },
+      {
+        "text": "D 異型合子的胚胎中a突變成A，因此不會出現Aa的成人",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. In monohybrid crosses, the phenotype ratio 1:2:1 indicates ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A linkage disequilibrium",
+        "images": []
+      },
+      {
+        "text": "B pleiotropy",
+        "images": []
+      },
+      {
+        "text": "C incomplete dominance",
+        "images": []
+      },
+      {
+        "text": "D three alleles for each trait",
+        "images": []
+      },
+      {
+        "text": "E epistatic effect",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. Radish flowers may be red, purple, or white. A cross between a red-flowered plant and a white-flowered plant yields all-purple offspring. The part of the radish we eat may be oval or long, with long being the dominant trait. If truebreeding red long radishes are crossed with true-breeding white oval radishes, the F1 will be expected to be which of the following?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A purple and long",
+        "images": []
+      },
+      {
+        "text": "B purple and oval",
+        "images": []
+      },
+      {
+        "text": "C red and long",
+        "images": []
+      },
+      {
+        "text": "D white and long",
+        "images": []
+      },
+      {
+        "text": "E red and oval",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. Which of the following description of the genetic term is INCORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Epistasis is a type of gene interaction in which the phenotypic expression of one gene alters that of another independently inherited gene.",
+        "images": []
+      },
+      {
+        "text": "B Codominance is a situation in which the phenotypes of heterozygotes is intermediate between the phenotypes of individuals homozygous for either allele.",
+        "images": []
+      },
+      {
+        "text": "C Pleiotropy is the ability of a single gene to have multiple effects.",
+        "images": []
+      },
+      {
+        "text": "D Epigenetic inheritance is the inheritance of traits transmitted by mechanisms not directly involving the nucleotide sequence of a genome.",
+        "images": []
+      },
+      {
+        "text": "E Polygenic inheritance is an addictive effect of two more genes on a single phenotype.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 單基因遺傳疾病的致病基因為隱性，且位於X染色體上。下圖為某家族的譜系圖，圓形（○）代表女性，方形（□）代表男性；白色代表健康的家族成員；灰色代表病患。在不考慮新增突變的情況下，此家族成員中不能確定是否帶有致病基因的成員共有幾位？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/008.png"
+    ],
+    "options": [
+      {
+        "text": "A 0位",
+        "images": []
+      },
+      {
+        "text": "B 1位",
+        "images": []
+      },
+      {
+        "text": "C 2位",
+        "images": []
+      },
+      {
+        "text": "D 3位",
+        "images": []
+      },
+      {
+        "text": "E 4位",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. A cross between homozygous purple-flowered and homozygous white-flowered pea plants results in offspring with purple flowers. This demonstrates ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the blending model of genetics",
+        "images": []
+      },
+      {
+        "text": "B true-breeding",
+        "images": []
+      },
+      {
+        "text": "C dominance",
+        "images": []
+      },
+      {
+        "text": "D a dihybrid cross",
+        "images": []
+      },
+      {
+        "text": "E the mistakes made by Mendel",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 苯酮尿症的新生兒篩檢指標為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 酪胺酸",
+        "images": []
+      },
+      {
+        "text": "B 苯丙胺酸",
+        "images": []
+      },
+      {
+        "text": "C 甲硫胺酸",
+        "images": []
+      },
+      {
+        "text": "D 白胺酸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 豌豆的植株有高矮的差異：高株（T）是顯性、矮株（t）是隱性；而豌豆種子的顏色：黃色是顯性（Y）、綠色是隱性（y）。一個雜交試驗產生的後代中，若表現型為：高株黃種子個體數為291、矮株綠種子個體數為102。下列何者最可能是親代的基因型？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A TtYY × Ttyy",
+        "images": []
+      },
+      {
+        "text": "B TTyy × TTYy",
+        "images": []
+      },
+      {
+        "text": "C TtYy × TTYy",
+        "images": []
+      },
+      {
+        "text": "D TtYy × TtYy",
+        "images": []
+      },
+      {
+        "text": "E TTyy × ttYY",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. Mendel’s observation of the segregation of alleles in gamete formation has its basis in which of the following phases of cell division?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Anaphase of mitosis",
+        "images": []
+      },
+      {
+        "text": "B Prophase I of meiosis",
+        "images": []
+      },
+      {
+        "text": "C Prophase II of meiosis",
+        "images": []
+      },
+      {
+        "text": "D Metaphase I of meiosis",
+        "images": []
+      },
+      {
+        "text": "E Anaphase I of meiosis",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 近親結婚最容易生下何種遺傳性疾病的後代？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A X-linked dominant",
+        "images": []
+      },
+      {
+        "text": "B Autosomal dominant",
+        "images": []
+      },
+      {
+        "text": "C X-linked recessive",
+        "images": []
+      },
+      {
+        "text": "D Autosomal recessive",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列有關鐮刀型血球貧血症（sickle cell anemia）的描述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血紅素基因的同型合子點突變使得血紅素容易形成纖維狀聚集，造成紅血球變形",
+        "images": []
+      },
+      {
+        "text": "B 鐮刀型性狀（sickle cell trait）為血紅素基因的異型合子突變，在長期低氧狀態下，血紅素也可能形成纖維狀聚集，造成紅血球變形",
+        "images": []
+      },
+      {
+        "text": "C 在非洲，鐮刀型性狀的個體比正常人更容易感染到瘧疾，症狀也較嚴重",
+        "images": []
+      },
+      {
+        "text": "D 此為體染色體隱性遺傳疾病",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 苯丙酮尿症（phenylketonuria; PKU）是由隱性等位基因所引起的遺傳疾病，若夫妻二人都是帶因者（carriers），他們三個孩子中二個正常、一個患病之機率為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1/64",
+        "images": []
+      },
+      {
+        "text": "B 9/64",
+        "images": []
+      },
+      {
+        "text": "C 27/64",
+        "images": []
+      },
+      {
+        "text": "D 37/64",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. If one parent has the blood genotype A i and the other parent has the blood genotype B i, what (is, are) all the possible blood type(s) of their children?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A, O",
+        "images": []
+      },
+      {
+        "text": "B B, O",
+        "images": []
+      },
+      {
+        "text": "C A, B",
+        "images": []
+      },
+      {
+        "text": "D A, B, O",
+        "images": []
+      },
+      {
+        "text": "E A, B, AB, O",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列何者為多基因遺傳（polygenetic inheritance）的例子？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 豌豆紫花及白花",
+        "images": []
+      },
+      {
+        "text": "B 果蠅的紅眼及白眼",
+        "images": []
+      },
+      {
+        "text": "C 人類的ABO血型",
+        "images": []
+      },
+      {
+        "text": "D 人類神經管缺陷（neural tube defects）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. Which of the following statements about inherited disorders is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Cystic fibrosis, a recessive disease, is caused by the defect of Cl-transporter.",
+        "images": []
+      },
+      {
+        "text": "B Tay-Sachs disease, a dominate disease, is caused by the defect in mitochondria.",
+        "images": []
+      },
+      {
+        "text": "C Phenylketonuria, a recessive disease, is caused by inability to metabolized phenylalanine.",
+        "images": []
+      },
+      {
+        "text": "D Huntingon’s disease, a dominate disease, is a neuron degenerative disease.",
+        "images": []
+      },
+      {
+        "text": "E Sickle-cell disease caused by T to A substitution results in defect of hemoglobin.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列有關亨丁頓舞蹈症（Huntington disease）的敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 致命的神經退化性疾病",
+        "images": []
+      },
+      {
+        "text": "B CAG三核苷酸重複發生在蛋白質編碼區",
+        "images": []
+      },
+      {
+        "text": "C 是一個三核苷酸（trinucleotide）重複疾病",
+        "images": []
+      },
+      {
+        "text": "D CAG重複會造成脯胺酸（proline）大量堆積",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 在基因型AaBbCc與AaBbCc交配所產生的子代中，三個顯性基因同時表現的機率為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1/16",
+        "images": []
+      },
+      {
+        "text": "B 3/16",
+        "images": []
+      },
+      {
+        "text": "C 9/64",
+        "images": []
+      },
+      {
+        "text": "D 27/64",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 假設仙人掌刺的尖銳度由S基因控制，具有隱性等位基因ss的仙人掌刺較鈍。另有第二個基因N決定仙人掌是否有刺，nn仙人掌外表型為無刺。如果仙人掌SsNn自花授粉，下列何者最接近其後代外表型比例？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 3/4尖刺：1/4無刺",
+        "images": []
+      },
+      {
+        "text": "B 1/4尖刺：1/2鈍刺：1/4無刺",
+        "images": []
+      },
+      {
+        "text": "C 1/4尖刺：1/4鈍刺：1/4軟刺：1/4無刺",
+        "images": []
+      },
+      {
+        "text": "D 9/16尖刺：3/16鈍刺：4/16無刺",
+        "images": []
+      },
+      {
+        "text": "E 9/16尖刺：3/16鈍刺：3/16軟刺：1/16無刺",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 如果某性狀的表現是受到兩個基因的影響，且這兩個基因在遺傳上互相獨立。當其中一個基因的表現型（phenotype）表現會影響另一個基因的表現型表現時，則此種基因間之交互作用稱為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 完全顯性（complete dominance）",
+        "images": []
+      },
+      {
+        "text": "B 不完全顯性（incomplete dominance）",
+        "images": []
+      },
+      {
+        "text": "C 上位效應（epistasis）",
+        "images": []
+      },
+      {
+        "text": "D 基因多效性（pleiotropy）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 假設一位有軟骨榮養障礙性矮小（chondroplastic dwarf）但眼睛正常的男性與一位身高正常且有色盲的女性結婚。這位男性的父親身高正常，這位女性的雙親身高也皆正常。軟骨榮養障礙性矮小為體染色體顯性遺傳（autosomal dominant），而色盲為X染色體隱性遺傳（X-linked recessive）。請問這對夫婦所生的男性下一代中，身高正常且有色盲的機率為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0",
+        "images": []
+      },
+      {
+        "text": "B 1/2",
+        "images": []
+      },
+      {
+        "text": "C 1/4",
+        "images": []
+      },
+      {
+        "text": "D 全部",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 對於人類遺傳疾病研究，因人類世代長、子代不多且無法控制婚配對象，常利用譜系分析（pedigree analysis）進行，根據下圖譜系分析推測，下列何者正確？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/011.png"
+    ],
+    "options": [
+      {
+        "text": "A 此為性聯隱性遺傳",
+        "images": []
+      },
+      {
+        "text": "B 此為性聯顯性遺傳",
+        "images": []
+      },
+      {
+        "text": "C 此遺傳疾病可能為母系遺傳",
+        "images": []
+      },
+      {
+        "text": "D 子女的性狀與父親相同",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 在符合孟德爾獨立分配律的假設下，一對分別帶有aaBbCC與AABbcc之基因型的父母親產下AaBbCc的兒子之機率為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1/2",
+        "images": []
+      },
+      {
+        "text": "B 1/3",
+        "images": []
+      },
+      {
+        "text": "C 1/4",
+        "images": []
+      },
+      {
+        "text": "D 1/8",
+        "images": []
+      },
+      {
+        "text": "E 1/16",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 囊性纖維化（Cystic fibrosis）是一種隱性遺傳疾病。假設有一對正常的父母，連生兩個孩子皆患有此病症，那麼這對夫妻的下一個孩子得到此病症的機率為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 100%",
+        "images": []
+      },
+      {
+        "text": "B 50%",
+        "images": []
+      },
+      {
+        "text": "C 25%",
+        "images": []
+      },
+      {
+        "text": "D 12.5%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 下列那一種遺傳學上的重要發現並非由孟德爾的實驗所建立？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 顯性性狀（Dominant trait）",
+        "images": []
+      },
+      {
+        "text": "B 分離定律（Law of segregation）",
+        "images": []
+      },
+      {
+        "text": "C 獨立分配定律（Law of independent assortment）",
+        "images": []
+      },
+      {
+        "text": "D 遺傳連鎖（Genetic linkage）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. Which of the followings is an extending Mendelian genetics for two or more genes?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pleiotropy",
+        "images": []
+      },
+      {
+        "text": "B epistasis",
+        "images": []
+      },
+      {
+        "text": "C multiple alleles",
+        "images": []
+      },
+      {
+        "text": "D incomplete dominance",
+        "images": []
+      },
+      {
+        "text": "E codominance",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 一懷孕婦⼥懷疑胎兒可能有戴薩克斯症（Tay-Sachs disease），可用下列何種檢測方法在懷孕早期最快得知？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 羊水穿刺採樣（amniocentesis）作生化分析",
+        "images": []
+      },
+      {
+        "text": "B 超音波檢查（ultrasound imaging）",
+        "images": []
+      },
+      {
+        "text": "C 絨毛膜採樣（chorionic villus sampling）作生化分析",
+        "images": []
+      },
+      {
+        "text": "D 羊水穿刺採樣作胎兒核型分析（karyotyping）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 請回答以下四題：假設具有二個顯隱性基因座（Aa和Bb）的自花授粉雙純品系水稻稻種，一雙純品系基因型為AAbb，另一雙純品系基因型為aaBB：若以AAbb基因型的雙純品系為母本，aaBB基因型的雙純品系為父本，所產生的F1子代再進行試交（testcrosses）試驗，在Aa和Bb二基因座為完全不連鎖的情形下，有關子代基因型組合，下列何者最可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A AaBB、AaBb、aaBB、aaBb",
+        "images": []
+      },
+      {
+        "text": "B AAbb、AaBb、aaBB、aabb",
+        "images": []
+      },
+      {
+        "text": "C Aabb、AaBB、aaBb、aabb",
+        "images": []
+      },
+      {
+        "text": "D AABb、AAbb、aaBb、aabb",
+        "images": []
+      },
+      {
+        "text": "E AaBb、Aabb、aaBb、aabb",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 請回答以下四題：假設具有二個顯隱性基因座（Aa和Bb）的自花授粉雙純品系水稻稻種，一雙純品系基因型為AAbb，另一雙純品系基因型為aaBB：若以AAbb基因型的雙純品系為母本，aaBB基因型的雙純品系為父本，所產生的F1子代再進行試交試驗，在Aa和Bb二基因座為完全連鎖的情況下，有關子代基因型組合，下列何者最可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Aabb、AaBb",
+        "images": []
+      },
+      {
+        "text": "B Aabb、aaBb",
+        "images": []
+      },
+      {
+        "text": "C aaBB、aaBb",
+        "images": []
+      },
+      {
+        "text": "D aaBb、aabb",
+        "images": []
+      },
+      {
+        "text": "E AaBB、aaBb",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 請回答以下四題：假設具有二個顯隱性基因座（Aa和Bb）的自花授粉雙純品系水稻稻種，一雙純品系基因型為AAbb，另一雙純品系基因型為aaBB：若以aaBB基因型的雙純品系為母本，AAbb基因型的雙純品系為父本，在Aa和Bb二基因座為完全不連鎖情形下，所產生的F1子代之胚乳的基因型組合，下列何者最可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A AAaBbb",
+        "images": []
+      },
+      {
+        "text": "B AaaBbb",
+        "images": []
+      },
+      {
+        "text": "C AAaBBb",
+        "images": []
+      },
+      {
+        "text": "D AaaBBb",
+        "images": []
+      },
+      {
+        "text": "E AAabbb",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 請回答以下四題：假設具有二個顯隱性基因座（Aa和Bb）的自花授粉雙純品系水稻稻種，一雙純品系基因型為AAbb，另一雙純品系基因型為aaBB：若以aaBB基因型的雙純品系為母本，AAbb基因型的雙純品系為父本，所產生的F1子代再和原父本AAbb進行雜交試驗，結果如下：AABb：AAbb：AaBb：Aabb＝304：824：809：363，推測Aa和Bb二基因座具有連鎖現象，而由此數據進行此子代重組頻率（recombination frequency）計算，下列何者最接近？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 13.2%",
+        "images": []
+      },
+      {
+        "text": "B 15.8%",
+        "images": []
+      },
+      {
+        "text": "C 29.0%",
+        "images": []
+      },
+      {
+        "text": "D 35.2%",
+        "images": []
+      },
+      {
+        "text": "E 49.1%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 請回答以下兩題：假設人類的隱性遺傳疾病由t對偶基因控制，T代表正常對偶基因，依據第一至第四代的譜系進行分析，下列何者為第一代基因型的組合？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/009.png"
+    ],
+    "options": [
+      {
+        "text": "A TT × TT",
+        "images": []
+      },
+      {
+        "text": "B TT × Tt",
+        "images": []
+      },
+      {
+        "text": "C Tt × Tt",
+        "images": []
+      },
+      {
+        "text": "D TT × tt",
+        "images": []
+      },
+      {
+        "text": "E Tt × tt",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 請回答以下兩題：承上題，下列何者分別為個體甲、乙和丙的基因型？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/009.png"
+    ],
+    "options": [
+      {
+        "text": "A TT、TT和TT",
+        "images": []
+      },
+      {
+        "text": "B TT、TT和Tt",
+        "images": []
+      },
+      {
+        "text": "C TT、Tt和Tt",
+        "images": []
+      },
+      {
+        "text": "D Tt、Tt和Tt",
+        "images": []
+      },
+      {
+        "text": "E Tt、Tt和TT",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 請回答以下三題：孟德爾豌豆實驗，黃色種皮圓型種子與綠色種皮皺型種子純品系進行雙品系雜交試驗，F1子代皆為黃色種皮圓型種子。F1子代與綠色種皮皺型種子進行回交試驗，則「黃色種皮圓型種子：綠色種皮圓型種子：黃色種皮皺型種子：綠色種皮皺型種子」的比例，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0:1:1:0",
+        "images": []
+      },
+      {
+        "text": "B 1:0:0:1",
+        "images": []
+      },
+      {
+        "text": "C 1:1:1:1",
+        "images": []
+      },
+      {
+        "text": "D 1:2:2:1",
+        "images": []
+      },
+      {
+        "text": "E 9:3:3:1",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 請回答以下三題：孟德爾豌豆實驗，黃色種皮圓型種子與綠色種皮皺型種子純品系進行雙品系雜交試驗，F1子代皆為黃色種皮圓型種子。F1子代自交後，F2子代中「綠色種皮圓型種子」所佔比例期望值，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 6.25%",
+        "images": []
+      },
+      {
+        "text": "B 18.75%",
+        "images": []
+      },
+      {
+        "text": "C 43.75%",
+        "images": []
+      },
+      {
+        "text": "D 56.25%",
+        "images": []
+      },
+      {
+        "text": "E 81.25%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 請回答以下三題：孟德爾豌豆實驗，黃色種皮圓型種子與綠色種皮皺型種子純品系進行雙品系雜交試驗，F1子代皆為黃色種皮圓型種子。F1子代在進行減數分裂後，所產生的配子種類數目和比例，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 2種，1:1",
+        "images": []
+      },
+      {
+        "text": "B 2種，3:1",
+        "images": []
+      },
+      {
+        "text": "C 3種，1:1:1",
+        "images": []
+      },
+      {
+        "text": "D 3種，1:2:1",
+        "images": []
+      },
+      {
+        "text": "E 4種，1:1:1:1",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. Mendel used the scientific approach to indentify two laws of inheritance, which comment about “Mendelian genetics” is NOT correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Mendelian genetics includes two laws as law of segregation and law of independent assortment.",
+        "images": []
+      },
+      {
+        "text": "B The law of segregation states that genes have alternative forms, or alleles.",
+        "images": []
+      },
+      {
+        "text": "C The law of independnet assortment states the pair of alleles for a given gene segregates into gametes independently of the pair of alleles for any other gene.",
+        "images": []
+      },
+      {
+        "text": "D Traits are inherited in discrete units, and are not the results of blending.",
+        "images": []
+      },
+      {
+        "text": "E In heterozygotes, the two alleles are different, and the expression of two different alleles makes phenotypic effects of the other.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "E"
+    ]
+  }
+]

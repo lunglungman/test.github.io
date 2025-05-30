@@ -1,0 +1,1499 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列與植物種子相關的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 玉米是單子葉植物，種子中胚乳比子葉大",
+        "images": []
+      },
+      {
+        "text": "B 蓖麻是真雙子葉植物，種子中子葉比胚乳大",
+        "images": []
+      },
+      {
+        "text": "C 種子成熟後期的脫水作用（dehydration）將含水量降低至5－15%，使胚進入休眠",
+        "images": []
+      },
+      {
+        "text": "D 胚根（radicle）是指下胚軸尖端部位",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 下列何種植物的花為單性花（Unisexual flower）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 朱槿",
+        "images": []
+      },
+      {
+        "text": "B 玉米",
+        "images": []
+      },
+      {
+        "text": "C 百合",
+        "images": []
+      },
+      {
+        "text": "D 水稻",
+        "images": []
+      },
+      {
+        "text": "E 豌豆",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. What is NOT a hypothesis to explain why seed dispersal is so advantageous to plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Competition avoidance",
+        "images": []
+      },
+      {
+        "text": "B Predator escape",
+        "images": []
+      },
+      {
+        "text": "C Colonization",
+        "images": []
+      },
+      {
+        "text": "D Indirect dispersal",
+        "images": []
+      },
+      {
+        "text": "E Directed dispersal",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which of these statements best describes fruits?I. A pea pod is formed from an ovary.II. When you consume tomato, you are eating fruits that are derived from ripen ovary.III. A peach and a nut are a simple fruit that is derived from a flower.IV. A strawberry is a fruit that is derived from a single flower.V. A pineapple is a simple fruit.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A I and II",
+        "images": []
+      },
+      {
+        "text": "B II and III",
+        "images": []
+      },
+      {
+        "text": "C III and IV",
+        "images": []
+      },
+      {
+        "text": "D I, II, III, and IV",
+        "images": []
+      },
+      {
+        "text": "E I, II, III, IV, and V",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 下列關於種子植物進行有性生殖產生種子的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 花粉傳到花柱後發育為花粉管",
+        "images": []
+      },
+      {
+        "text": "B 種子是由子房發育而來的",
+        "images": []
+      },
+      {
+        "text": "C 胚和胚乳由珠被發育而來的種皮包裹發育為種子",
+        "images": []
+      },
+      {
+        "text": "D 真雙子葉植物的胚乳通常發達",
+        "images": []
+      },
+      {
+        "text": "E 花粉管中管核與2個極核形成胚乳",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 花粉管在柱頭往下延伸過程，有多少核在裡面？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1",
+        "images": []
+      },
+      {
+        "text": "B 2",
+        "images": []
+      },
+      {
+        "text": "C 3",
+        "images": []
+      },
+      {
+        "text": "D 4",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列何種生物與蘿蔔的親緣關係最遠？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 高麗菜",
+        "images": []
+      },
+      {
+        "text": "B 白菜",
+        "images": []
+      },
+      {
+        "text": "C 油菜",
+        "images": []
+      },
+      {
+        "text": "D 阿拉伯芥",
+        "images": []
+      },
+      {
+        "text": "E 胡蘿蔔",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 有關花朵雌蕊的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 用來抵禦昆蟲的結構",
+        "images": []
+      },
+      {
+        "text": "B 具有單一心皮或一群融合的心皮",
+        "images": []
+      },
+      {
+        "text": "C 產生花粉的地方",
+        "images": []
+      },
+      {
+        "text": "D 一群花絲的總稱",
+        "images": []
+      },
+      {
+        "text": "E 用來吸引昆蟲的結構",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 有關被子植物有性生殖作用的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 風媒花在雌蕊柱頭上的特徵為柱頭較大，多形成羽狀，延伸出花朵外捕捉花粉",
+        "images": []
+      },
+      {
+        "text": "B 雄蕊具花粉粒，為花粉母細胞經減數分裂後形成四個小孢子，再發育為花粉粒",
+        "images": []
+      },
+      {
+        "text": "C 雌蕊中的子房含胚珠，胚珠內具有一個大孢子母細胞，經減數分裂後僅產生一個成熟的大孢子，再經有絲分裂形成一個卵及一個極核",
+        "images": []
+      },
+      {
+        "text": "D 受精時由花粉粒內一個精子與卵結合形成合子（zygote），另一個精子與極核形成胚乳核，後續發育為胚乳（endosperm）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 有關陰性植物（shade plant）與陽性植物（sun plant）生理與構造的比較，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 陰性植物一般有較低的光合作用速率",
+        "images": []
+      },
+      {
+        "text": "B 陰性植物一般有較低的生長速率",
+        "images": []
+      },
+      {
+        "text": "C 陰性植物一般其葉片較大且厚，以利光能接收",
+        "images": []
+      },
+      {
+        "text": "D 陽性植物一般其光補償點（light compensation point）較高",
+        "images": []
+      },
+      {
+        "text": "E 陽性植物若生長在低光環境，其存活率一般較低",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 有關被子植物的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 屬於所有植物中最多樣化且分布最廣的開花植物門（anthophyta）",
+        "images": []
+      },
+      {
+        "text": "B 單子葉植物經雙重受精（double fertilization）後產生胚乳及一片子葉",
+        "images": []
+      },
+      {
+        "text": "C 雙子葉植物沒有雙重受精，故發育成兩片子葉而無胚乳",
+        "images": []
+      },
+      {
+        "text": "D 現存最古老的被子植物世系為無油樟（Amborella trichopoda）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. Which of the following statement about plant flower is correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A flower is the vegetative organ of a plant.",
+        "images": []
+      },
+      {
+        "text": "B A flower lacking any of sepal, petal, stamen or carpel is an imperfect flower.",
+        "images": []
+      },
+      {
+        "text": "C Most grasses have imperfect flowers.",
+        "images": []
+      },
+      {
+        "text": "D Floral parts in all angiosperm are arranged as four whorls.",
+        "images": []
+      },
+      {
+        "text": "E Floral parts are sequentially initiated at the floral meristem.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 植物A染色體數目2n＝16，植物B染色體數目2n＝20。設若新種C為異源多倍體是由A與B雜交而來。試問植物C的2n＝？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 16",
+        "images": []
+      },
+      {
+        "text": "B 26",
+        "images": []
+      },
+      {
+        "text": "C 36",
+        "images": []
+      },
+      {
+        "text": "D 48",
+        "images": []
+      },
+      {
+        "text": "E 72",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 植物學家依照葉形、葉序、葉脈等形式將植物進行區分與分類，下列何種葉序屬於二回羽狀複葉？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/038.png"
+        ]
+      },
+      {
+        "text": "B",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/039.png"
+        ]
+      },
+      {
+        "text": "C",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/040.png"
+        ]
+      },
+      {
+        "text": "D",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/041.png"
+        ]
+      },
+      {
+        "text": "E",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/042.png"
+        ]
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 龍鬚菜在進行有性的生命週期時，何者為配子的形成過程？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 孢子體減數分裂",
+        "images": []
+      },
+      {
+        "text": "B 配子體減數分裂",
+        "images": []
+      },
+      {
+        "text": "C 孢子體有絲分裂",
+        "images": []
+      },
+      {
+        "text": "D 配子體有絲分裂",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. All of the following are primary functions of flowers EXCEPT:",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A meiosis",
+        "images": []
+      },
+      {
+        "text": "B photosynthesis",
+        "images": []
+      },
+      {
+        "text": "C egg production",
+        "images": []
+      },
+      {
+        "text": "D pollen production",
+        "images": []
+      },
+      {
+        "text": "E sexual reproduction",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 2003年芝加哥大學研究人員進行實驗並將結果發表在Cell雜誌，他們發現GABA（gamma-aminobutyric acid）在阿拉伯芥（Arabidopsis）的授粉過程中扮演何種角色？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A GABA 可以幫助引導花粉管至子房中的卵",
+        "images": []
+      },
+      {
+        "text": "B 可促進胚乳之發育",
+        "images": []
+      },
+      {
+        "text": "C 促進花粉粒之萌發",
+        "images": []
+      },
+      {
+        "text": "D 防止自花授粉",
+        "images": []
+      },
+      {
+        "text": "E 抑制花粉粒之萌發",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 有關被子植物的共有特徵，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雙重受精（double fertilization）",
+        "images": []
+      },
+      {
+        "text": "B 獨立生長的配子體（gametophyte）",
+        "images": []
+      },
+      {
+        "text": "C 依賴風力傳播花粉",
+        "images": []
+      },
+      {
+        "text": "D 胚珠（ovule）未包覆在子房（ovary）內",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. The asexual production of seeds from a diploid cell, allow hybrid plants to pass on their desirable genomes intact to their offspring is called ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A apomixis",
+        "images": []
+      },
+      {
+        "text": "B dioecious",
+        "images": []
+      },
+      {
+        "text": "C etiolation",
+        "images": []
+      },
+      {
+        "text": "D phyllotaxy",
+        "images": []
+      },
+      {
+        "text": "E statoliths",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. In gymnosperms and angiosperms, which one is the correct description?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A All gymnosperms are wind-pollinated.",
+        "images": []
+      },
+      {
+        "text": "B The fossil record shows that angiosperms evolved directly from the Gnetophytes.",
+        "images": []
+      },
+      {
+        "text": "C Horizontal gene transfer is restricted to prokaryotes and protists.",
+        "images": []
+      },
+      {
+        "text": "D The fossil record shows that pollen cones of conifers have become increasingly complex through their evolutionary history.",
+        "images": []
+      },
+      {
+        "text": "E Stamens and carpals are, in fact, modified sporangia-bearing leaves.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. Where do you find the cells undergo meiosis in plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A shoot apical meristem",
+        "images": []
+      },
+      {
+        "text": "B pollens",
+        "images": []
+      },
+      {
+        "text": "C embryo sacs",
+        "images": []
+      },
+      {
+        "text": "D corolla",
+        "images": []
+      },
+      {
+        "text": "E ovule",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Which of the following traits is shared by charophytes and land plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Alternation of generations",
+        "images": []
+      },
+      {
+        "text": "B Walled spores produced in sporangia",
+        "images": []
+      },
+      {
+        "text": "C Multicellular gametangia",
+        "images": []
+      },
+      {
+        "text": "D Formation of phragmoplast",
+        "images": []
+      },
+      {
+        "text": "E Apical meristems",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 最早出現於地球上的開花植物為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 遼寧古果",
+        "images": []
+      },
+      {
+        "text": "B 銀杏",
+        "images": []
+      },
+      {
+        "text": "C 相思樹",
+        "images": []
+      },
+      {
+        "text": "D 柳樹",
+        "images": []
+      },
+      {
+        "text": "E 辛夷",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列何種生物不屬於台灣的外來種？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 毛地黃",
+        "images": []
+      },
+      {
+        "text": "B 大花咸豐草",
+        "images": []
+      },
+      {
+        "text": "C 紫花藿香薊",
+        "images": []
+      },
+      {
+        "text": "D 鳳眼蓮",
+        "images": []
+      },
+      {
+        "text": "E 紅毛杜鵑",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 植物在進行有性生殖時，下列哪種植物會有雙受精現象（double fertilization）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 台灣百合",
+        "images": []
+      },
+      {
+        "text": "B 土馬騌",
+        "images": []
+      },
+      {
+        "text": "C 山蘇花",
+        "images": []
+      },
+      {
+        "text": "D 台灣水韭",
+        "images": []
+      },
+      {
+        "text": "E 玉山圓柏",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 反足細胞（antipodals）、胚乳（endosperm）、大孢子（megaspore）、胚（embryo）、助細胞（synergids）、管核細胞（tube cell nucleus）、孢子體（sporophyte），請問以上共有幾項具有二倍體的染色體（2n）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1",
+        "images": []
+      },
+      {
+        "text": "B 2",
+        "images": []
+      },
+      {
+        "text": "C 3",
+        "images": []
+      },
+      {
+        "text": "D 4",
+        "images": []
+      },
+      {
+        "text": "E 5",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何者對單子葉植物與真雙子葉植物的敘述是正確的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 單子葉植物的莖維管束為環狀排列",
+        "images": []
+      },
+      {
+        "text": "B 真雙子葉植物的葉為平行葉脈",
+        "images": []
+      },
+      {
+        "text": "C 單子葉植物的花大多為3個花瓣",
+        "images": []
+      },
+      {
+        "text": "D 真雙子葉植物的根木質部與韌皮部排列成環狀",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. Arrange the following structures, which can be found on male pine trees, from the largest structure to the smallest structure (or from most inclusive to least inclusive).1. sporophyte2. microsporangia3. microspores4. pollen cone5. pollen nuclei",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1, 4, 3, 2, 5",
+        "images": []
+      },
+      {
+        "text": "B 1, 4, 2, 3, 5",
+        "images": []
+      },
+      {
+        "text": "C 1, 2, 3, 5, 4",
+        "images": []
+      },
+      {
+        "text": "D 4, 3, 2, 1, 5",
+        "images": []
+      },
+      {
+        "text": "E 1, 4, 2, 5, 3",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 有關植物花器的構造，由外而內的次序，下列何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A petals → sepals → stamens → carpels",
+        "images": []
+      },
+      {
+        "text": "B sepals → stamens → petals → carpels",
+        "images": []
+      },
+      {
+        "text": "C spores → gametes → zygote → embryo",
+        "images": []
+      },
+      {
+        "text": "D sepals → petals → stamens → carpels",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 依照果實的分類，草莓屬於哪一種果實？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 單花果（simple fruit）",
+        "images": []
+      },
+      {
+        "text": "B 聚合果（aggregate fruit）",
+        "images": []
+      },
+      {
+        "text": "C 多花果（multiple fruit）",
+        "images": []
+      },
+      {
+        "text": "D 合生果（accessory fruit）",
+        "images": []
+      },
+      {
+        "text": "E 乾果（dry fruit）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 有關鳳梨所結的果實是屬於下列何種果實？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 單果（simple fruit）",
+        "images": []
+      },
+      {
+        "text": "B 聚合果（aggregate fruit）",
+        "images": []
+      },
+      {
+        "text": "C 複果（multiple fruit）",
+        "images": []
+      },
+      {
+        "text": "D 附果（accessory fruit）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 典型被子植物的生命週期中哪個構造具有3倍數的染色體（3n）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 花藥",
+        "images": []
+      },
+      {
+        "text": "B 子房",
+        "images": []
+      },
+      {
+        "text": "C 胚乳",
+        "images": []
+      },
+      {
+        "text": "D 種皮",
+        "images": []
+      },
+      {
+        "text": "E 卵",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 栽培香蕉起源於二倍體尖葉蕉（Musa acuminate）和長梗蕉（Musa balbisiana）二種，尖葉蕉染色體組為AA，長梗蕉為BB，尖葉蕉和長梗蕉的單倍體配子（Haploid gamete）染色體數為11，栽培香蕉染色體組若為AAB，其莖部細胞的染色體數目為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 11",
+        "images": []
+      },
+      {
+        "text": "B 22",
+        "images": []
+      },
+      {
+        "text": "C 33",
+        "images": []
+      },
+      {
+        "text": "D 44",
+        "images": []
+      },
+      {
+        "text": "E 55",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. In flowering plant, which one of the following is true characteristic of the gametophyte stage?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A It is the obvious stage such as an oak tree.",
+        "images": []
+      },
+      {
+        "text": "B Megasporangium",
+        "images": []
+      },
+      {
+        "text": "C Seed embryo",
+        "images": []
+      },
+      {
+        "text": "D Gamete producing",
+        "images": []
+      },
+      {
+        "text": "E Diploid",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列何種構造為種子植物所具有，但不出現在任何蕨類植物或苔蘚植物中？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 假根",
+        "images": []
+      },
+      {
+        "text": "B 子葉",
+        "images": []
+      },
+      {
+        "text": "C 假導管",
+        "images": []
+      },
+      {
+        "text": "D 篩管細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 科學家發現花器的形成有賴器官鑑別基因（organ identity genes）的調控，將這些基因依其影響分成ABC三組，將A組基因突變，開出的花只有雄蕊和雌蕊；將B組基因突變，開出的花只有花萼和雌蕊；將C組基因突變，開出的花只有花萼和花瓣。若是將B組基因和C組基因都突變，開出的花可能會是如何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 只有花萼",
+        "images": []
+      },
+      {
+        "text": "B 只有花瓣和雄蕊",
+        "images": []
+      },
+      {
+        "text": "C 只有花瓣和雌蕊",
+        "images": []
+      },
+      {
+        "text": "D 只有雌蕊",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "複選題",
+    "question": "37. Which statement is true for seed plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A In angiosperm life cycles, the female gametophyte is the ovule.",
+        "images": []
+      },
+      {
+        "text": "B A spore grows into a seed.",
+        "images": []
+      },
+      {
+        "text": "C A pollen grain contains a male gametophyte.",
+        "images": []
+      },
+      {
+        "text": "D Double fertilization results in the production of a diploid zygote and a triploid endosperm nucleus.",
+        "images": []
+      },
+      {
+        "text": "E The life cycle of seed plants does not include a gametophyte generation.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 某植物具有24對染色體，一般而言，當花粉萌發後花粉管通過花柱時，此萌發中的花粉細胞內的染色體數目為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 12",
+        "images": []
+      },
+      {
+        "text": "B 24",
+        "images": []
+      },
+      {
+        "text": "C 48",
+        "images": []
+      },
+      {
+        "text": "D 60",
+        "images": []
+      },
+      {
+        "text": "E 72",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. Which option correctly represents the most likely sequence of the evolution of plants, from earliest to most recent?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A bryophytes, seedless vascular plants, gymnosperms, angiosperms",
+        "images": []
+      },
+      {
+        "text": "B seedless vascular plants, bryophytes, angiosperms, gymnosperms",
+        "images": []
+      },
+      {
+        "text": "C bryophytes, seedless vascular plants, angiosperms, gymnosperms",
+        "images": []
+      },
+      {
+        "text": "D bryophytes, gymnosperms, seedless vascular plants, angiosperms",
+        "images": []
+      },
+      {
+        "text": "E bryophytes, angiosperms, seedless vascular plants, gymnosperms",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. The result of double fertilization in angiosperms leads to ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A formation of both a diploid embryo and triploid endosperm",
+        "images": []
+      },
+      {
+        "text": "B the endosperm developing into a diploid nutrient tissue",
+        "images": []
+      },
+      {
+        "text": "C formation of a triploid zygote",
+        "images": []
+      },
+      {
+        "text": "D two embryos in every seed",
+        "images": []
+      },
+      {
+        "text": "E the fertilized antipodal cells developing into the seed coat",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. A flowering plant with a deleterious mutation in microsporogenesis would most likely ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A fail to produce sepals",
+        "images": []
+      },
+      {
+        "text": "B fail to produce petals",
+        "images": []
+      },
+      {
+        "text": "C fail to produce anthers",
+        "images": []
+      },
+      {
+        "text": "D fail to produce pollen",
+        "images": []
+      },
+      {
+        "text": "E fail to produce ovules",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列植物中，何者最早出現於地球上？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 福木",
+        "images": []
+      },
+      {
+        "text": "B 五葉松",
+        "images": []
+      },
+      {
+        "text": "C 銀杏",
+        "images": []
+      },
+      {
+        "text": "D 射干",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 被子植物所謂的真果（true fruit）是指果實純粹由下列哪一個構造發育而來？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 花藥",
+        "images": []
+      },
+      {
+        "text": "B 胚珠",
+        "images": []
+      },
+      {
+        "text": "C 花萼",
+        "images": []
+      },
+      {
+        "text": "D 子房",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. Compare with Monocots and Eudicots, which of the following statements is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A seed of Monocots has one cotyledon; that of Eudicots has two.",
+        "images": []
+      },
+      {
+        "text": "B Leaf vein of Monocots is usually parallel, but that of Eudicots is usually netlike.",
+        "images": []
+      },
+      {
+        "text": "C Vascular tissue of stems in Monocots is scattered, but that of Eudicots is usually arranged in ring.",
+        "images": []
+      },
+      {
+        "text": "D Pollen grain of Monocots has one opening; that of Eudicots has three openings.",
+        "images": []
+      },
+      {
+        "text": "E Floral organs usually in multiple of four in Monocots, but three in Eudicots.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 若有某植物之四倍體（4n＝48）的雄株和二倍體（2n＝24）的雌株雜交，所結的果實中，其果皮、種皮、胚、胚乳等細胞的染色體套數，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 果皮：4n",
+        "images": []
+      },
+      {
+        "text": "B 種皮：2n",
+        "images": []
+      },
+      {
+        "text": "C 胚：2n",
+        "images": []
+      },
+      {
+        "text": "D 胚乳：3n",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 花粉粒（pollen grain）為陸地植物的那一部分？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雄配子體（male gametophyte）",
+        "images": []
+      },
+      {
+        "text": "B 雌配子體（female gametophyte）",
+        "images": []
+      },
+      {
+        "text": "C 胚囊（embryo sac）",
+        "images": []
+      },
+      {
+        "text": "D 孢子體（sporophyte）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 某一真雙子葉植物，雄性基因型為XX，雌性基因型為XY。在雙重受精後，胚及胚乳的基因型可能為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胚X及胚乳XX或胚Y及胚乳XY",
+        "images": []
+      },
+      {
+        "text": "B 胚XX及胚乳XXX或胚XY及胚乳XYY",
+        "images": []
+      },
+      {
+        "text": "C 胚XX及胚乳XXX或胚XY及胚乳XXY",
+        "images": []
+      },
+      {
+        "text": "D 胚XX及胚乳XXY或胚XY及胚乳XXX",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 下列何者對被子植物（angiosperm）的敘述不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 亦稱為開花植物會進行雙重受精（double fertilization）",
+        "images": []
+      },
+      {
+        "text": "B 心皮（carpel）是屬於雄性生殖構造",
+        "images": []
+      },
+      {
+        "text": "C 胚珠發育成種子",
+        "images": []
+      },
+      {
+        "text": "D 胚乳（endosperm）可提供種子發芽所需養分",
+        "images": []
+      },
+      {
+        "text": "E 子房發育成果實",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. Which structure is found in angiosperms but NOT gymnosperms?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A fruit",
+        "images": []
+      },
+      {
+        "text": "B spores",
+        "images": []
+      },
+      {
+        "text": "C seeds",
+        "images": []
+      },
+      {
+        "text": "D ovule",
+        "images": []
+      },
+      {
+        "text": "E a tube that grows from the pollen to deliver sperm",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. Which structure is found in angiosperms but not gymnosperms?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A root",
+        "images": []
+      },
+      {
+        "text": "B spores",
+        "images": []
+      },
+      {
+        "text": "C seeds",
+        "images": []
+      },
+      {
+        "text": "D ovule",
+        "images": []
+      },
+      {
+        "text": "E fruit",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  }
+]

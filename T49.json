@@ -1,0 +1,1428 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 科學家研究發現某一種寄生或半寄生植物之種子，可受到宿主植物分泌的化學訊息誘導發芽，除此之外，此訊息分子並可抑制不定根（adventitious root）形成或吸引共生真菌建立菌根（mycorrhizae）關係等功能，此植物最可能為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 長春花屬（Catharanthus）植物",
+        "images": []
+      },
+      {
+        "text": "B 報春花屬（Primula）植物",
+        "images": []
+      },
+      {
+        "text": "C 獨腳金屬（Striga）植物",
+        "images": []
+      },
+      {
+        "text": "D 水仙屬（Narcissus）植物",
+        "images": []
+      },
+      {
+        "text": "E 鈴蘭屬（Convallaria）植物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 我從花園裡剪了幾枝玫瑰插在花瓶裡，為了讓它不要太快凋謝，我可以使用哪一種植物激素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙烯（Ethylene）",
+        "images": []
+      },
+      {
+        "text": "B 生長素（Auxins）",
+        "images": []
+      },
+      {
+        "text": "C 吉貝素（Gibberellins）",
+        "images": []
+      },
+      {
+        "text": "D 細胞分裂素（Cytokinins）",
+        "images": []
+      },
+      {
+        "text": "E 水楊酸（Salicylic acid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 有關植物病毒（plant virus）的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 目前鑑定會造成植物病害皆是RNA病毒",
+        "images": []
+      },
+      {
+        "text": "B 垂直傳播（vertical transmission）是指從一種植物病毒轉移核酸到另一種植物病毒",
+        "images": []
+      },
+      {
+        "text": "C 水平傳播（horizontal transmission）是在同一類型的兩種植物病毒之間交換遺傳物質",
+        "images": []
+      },
+      {
+        "text": "D 病毒顆粒（viral particles）在植物細胞間可以藉由原生質絲（plasmodesmata）進行移動散佈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. What is the plant hormone which is produced in roots and promote the attraction of mycorrhizal fungi to roots?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A brassinosteroids",
+        "images": []
+      },
+      {
+        "text": "B jasmonates",
+        "images": []
+      },
+      {
+        "text": "C strigolactones",
+        "images": []
+      },
+      {
+        "text": "D abscisic acid",
+        "images": []
+      },
+      {
+        "text": "E gibberellins",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 有關植物被病原感染時所出現的超敏感反應（hypersensitive response）之敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 昆蟲咬食比病毒感染更容易出現此反應",
+        "images": []
+      },
+      {
+        "text": "B 細胞分裂素（cytokinin）為主要參與此反應的植物荷爾蒙",
+        "images": []
+      },
+      {
+        "text": "C 植物細胞中的B細胞會利用抗體來達到防禦機制",
+        "images": []
+      },
+      {
+        "text": "D 受病原感染的一個細胞，其週邊數十個細胞也可能會死亡",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 請問下列何種方法能使冬天的小麥即使在極為寒冷的天氣時，仍能使細胞膜維持液態？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 藉由增加細胞膜中不飽和磷脂質（unsaturated phospholipid）所佔的比例",
+        "images": []
+      },
+      {
+        "text": "B 藉由增加細胞膜中膽固醇（cholesterol）分子所佔的比例",
+        "images": []
+      },
+      {
+        "text": "C 藉由增加細胞膜中疏水性（hydrophobic）蛋白質所佔的比例",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列何種處理方式可提昇萵苣（lettuce）種子中Pfrphytochrome 的濃度？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 照射遠紅光",
+        "images": []
+      },
+      {
+        "text": "B 照射紅光",
+        "images": []
+      },
+      {
+        "text": "C 長時間曝露於黑暗環境",
+        "images": []
+      },
+      {
+        "text": "D 長時間浸於水中",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 小英的男友在情人節送她一束花，她希望花束可以持久不要太快凋謝，她應該將花束插在水中並加入何種物質才可以達到目的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙烯（ethylene）",
+        "images": []
+      },
+      {
+        "text": "B 細胞分裂素（cytokinins）",
+        "images": []
+      },
+      {
+        "text": "C 生長素（auxins）",
+        "images": []
+      },
+      {
+        "text": "D 吉貝素（gibberellins）",
+        "images": []
+      },
+      {
+        "text": "E 離層酸（abscisic acid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列有關植物賀爾蒙與其作用的配對，何者是錯誤的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長素（auxins）－維持頂芽優勢（apical dominance）",
+        "images": []
+      },
+      {
+        "text": "B 激勃素（gibberellins）－打破種子和芽的休眠（seed and bud dormancy）",
+        "images": []
+      },
+      {
+        "text": "C 細胞分裂素（cytokinins）－防止老化（prevent senescence）",
+        "images": []
+      },
+      {
+        "text": "D 離層酸（abscisic acid）－促進氣孔打開（promotes opening of stomata）",
+        "images": []
+      },
+      {
+        "text": "E 乙烯（ethylene）－促進果實成熟（promotes ripening of fruit）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列何種植物激素參與植物防禦的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙烯（ethylene）",
+        "images": []
+      },
+      {
+        "text": "B 細胞分裂素（cytokinins）",
+        "images": []
+      },
+      {
+        "text": "C 吉貝素（gibberellins）",
+        "images": []
+      },
+      {
+        "text": "D 生長素（auxins）",
+        "images": []
+      },
+      {
+        "text": "E 寡聚糖素（Oligosaccharins）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 植物的向光性或向地性是受那個植物激素調控？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脫落酸（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "B 生長素（auxin）",
+        "images": []
+      },
+      {
+        "text": "C brassinosteroids",
+        "images": []
+      },
+      {
+        "text": "D 乙烯（ethylene）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 當種子萌芽時，由胚釋放出下列何種主要的植物激素來打破休眠？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長素（auxin）",
+        "images": []
+      },
+      {
+        "text": "B 細胞分裂素（cytokinins）",
+        "images": []
+      },
+      {
+        "text": "C 乙烯（ethylene）",
+        "images": []
+      },
+      {
+        "text": "D 吉貝素（gibberellins）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 植物被感染的組織會分泌________以活化後天性系統抗性（Systemic acquired resistance, SAR），使細胞產生抗性物質，協助抵禦各種病原菌。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 熱休克蛋白（Heat shock protein）",
+        "images": []
+      },
+      {
+        "text": "B 吉貝素（Gibberellin）",
+        "images": []
+      },
+      {
+        "text": "C 離層酸（Abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "D 水楊酸（Salicylic acid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 大部份科學家認為地球暖化正在進行，因此瞭解植物如何應付熱壓力（heat stress）應是刻不容緩的事，請問植物如何應付短期熱壓力？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 產生獨特的熱休克醣類",
+        "images": []
+      },
+      {
+        "text": "B 和其它生物一樣產生熱休克蛋白，以保護細胞",
+        "images": []
+      },
+      {
+        "text": "C 打開氣孔，以增加熱蒸發效率",
+        "images": []
+      },
+      {
+        "text": "D 產生脫落酸（abscisic acid），以利細胞生存",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 有關植物免疫反應的敘述，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物沒有適應性免疫系統（adaptive immune system）",
+        "images": []
+      },
+      {
+        "text": "B 細菌鞭毛蛋白（flagellin）是引發植物先天免疫系統（innate immune system）常見的誘導劑（elicitor）",
+        "images": []
+      },
+      {
+        "text": "C 植物辨識病原相關分子樣式（pathogen-associated molecular pattern）最終產生植物抗毒素及抗體",
+        "images": []
+      },
+      {
+        "text": "D 病原感染植物後所產生的效應劑（effector）會抑制植物對病原相關分子樣式的辨識能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 關於長日照植物的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 光周期的日照時數長於其臨界日照時可開花的植物",
+        "images": []
+      },
+      {
+        "text": "B 以短暫的黑暗中斷光照期不影響此類植物開花",
+        "images": []
+      },
+      {
+        "text": "C 以短暫的光照中斷黑暗期，此類植物就不會開花",
+        "images": []
+      },
+      {
+        "text": "D 光周期的黑暗時數長於其臨界黑暗時可開花的植物",
+        "images": []
+      },
+      {
+        "text": "E 夜間時間長度超過一定的臨界值時可開花的植物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. How might a plant respond to cold stress EXCEPT",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A an alteration of membrane lipids.",
+        "images": []
+      },
+      {
+        "text": "B the production of a specific solute “plant antifreeze” that reduces water loss.",
+        "images": []
+      },
+      {
+        "text": "C excluding ice crystals from the interior walls.",
+        "images": []
+      },
+      {
+        "text": "D converting of the fluid mosaic cell membrane to a solid mosaic one.",
+        "images": []
+      },
+      {
+        "text": "E increasing the proportion of unsaturated fatty aid in the membranes.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 沙漠植物的開花與結果與何種環境因子最相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雨水",
+        "images": []
+      },
+      {
+        "text": "B 傳粉者",
+        "images": []
+      },
+      {
+        "text": "C 溫度",
+        "images": []
+      },
+      {
+        "text": "D 光線",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 開花植物的賀爾蒙具有刺激葉柄（leaf petiole）的離層（abscission zone）發育為何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 吉貝素（gibberellins）",
+        "images": []
+      },
+      {
+        "text": "B 生長素（auxin）",
+        "images": []
+      },
+      {
+        "text": "C 乙烯（ethylene）",
+        "images": []
+      },
+      {
+        "text": "D 離層酸（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "E 分裂素（cytokinin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 下列何者是生長素（auxin）“酸生長（acid-growth）”理論的一部分：(1) auxin刺激細胞膜上的H+pump(2) 細胞壁上鍵結變鬆(3) auxin活化H+pump刺激分生組織（meristem）分裂(4) 讓伸展蛋白（expansin）滲透力變好",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一粒鳳梨是由一朵花產生的",
+        "images": []
+      },
+      {
+        "text": "B 使用人工照明使長日照植物開花，每天照明需多於12小時",
+        "images": []
+      },
+      {
+        "text": "C 油菜素類固醇（Brassinosteroids）使細胞生長變慢",
+        "images": []
+      },
+      {
+        "text": "D 吉貝素（Gibberellins）可使種子進入休眠",
+        "images": []
+      },
+      {
+        "text": "E 乙烯（Ethylene）可使豌豆苗的莖趨於橫向生長",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 由向觸性（thigmotropism）反應引起的快速葉片運動，下列何者為主要的控制分子？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鉀離子通道（potassium channel）",
+        "images": []
+      },
+      {
+        "text": "B 神經組織（nervous tissue）",
+        "images": []
+      },
+      {
+        "text": "C 水通道蛋白（aquaporin）",
+        "images": []
+      },
+      {
+        "text": "D 逆境蛋白（stress protein）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 植物的光敏素（phytochrome）並未參與下列何種生理現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 種子萌芽（seed germination）",
+        "images": []
+      },
+      {
+        "text": "B 植物開花（flowering）",
+        "images": []
+      },
+      {
+        "text": "C 避蔭效應（shade avoidance）",
+        "images": []
+      },
+      {
+        "text": "D 向觸性（thigmotropism）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 小黃想要為他的無花果（Ficus carica）進行扦插，為了提高存活率，決定使用植物生長調節劑（plant growth regulators）促進不定根的生長，請問他應該要使用何種植物生長調節劑較為適合？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A GA（gibberellins）",
+        "images": []
+      },
+      {
+        "text": "B IBA（indole-3-butyric acid）",
+        "images": []
+      },
+      {
+        "text": "C ABA（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "D Strigolactones",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 關於日光照射下造成植物產生向光生長特性的主要原因，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在莖的背光面，因光敏素無法作用導致生長停止",
+        "images": []
+      },
+      {
+        "text": "B 因光線照射刺激植物根部的生長",
+        "images": []
+      },
+      {
+        "text": "C 增加根部的呼吸作用，刺激植物的生長",
+        "images": []
+      },
+      {
+        "text": "D 在莖的背光面細胞膨脹速率遠大於莖的向光面",
+        "images": []
+      },
+      {
+        "text": "E 在莖的背光面細胞分裂速度加速導致差異產生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 下列何種基因主要調控植物的開花？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A KNOTTED-1基因",
+        "images": []
+      },
+      {
+        "text": "B Hox基因",
+        "images": []
+      },
+      {
+        "text": "C GLABRA-2基因",
+        "images": []
+      },
+      {
+        "text": "D BT基因",
+        "images": []
+      },
+      {
+        "text": "E FT基因",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 有關植物激素的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長素可促進側芽生長",
+        "images": []
+      },
+      {
+        "text": "B 吉貝素可以打破種子休眠",
+        "images": []
+      },
+      {
+        "text": "C 離層素會誘導植物體內離層的生成，而使老葉脫落",
+        "images": []
+      },
+      {
+        "text": "D 乙烯若增加，會促使保衛細胞膨壓上升，而使氣孔關閉",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列植物荷爾蒙，何者可以促進莖的延長並協助種子打破休眠？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長素（Auxin）",
+        "images": []
+      },
+      {
+        "text": "B 吉貝素（Gibberellin）",
+        "images": []
+      },
+      {
+        "text": "C 細胞分裂素（Cytokinin）",
+        "images": []
+      },
+      {
+        "text": "D 乙烯（Ethylene）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 植物利用多重防線對抗病原體（pathogen），當病原體入侵，植物會表現過敏反應（hypersensitive response）來抑制致病原的生存和擴散。植物也會表現系統性後天抗性（systemic acquired resistance），誘發其他部位的免疫反應，以對抗更多的致病原。有關被感染的植物細胞製造的產物用來啟動系統性後天抗性，下列何者最可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 反義RNA（antisense RNA）",
+        "images": []
+      },
+      {
+        "text": "B 水楊酸（salicylic acid）",
+        "images": []
+      },
+      {
+        "text": "C 離層酸（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "D Pfr光敏素（Pfrphytochrome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 關於植物對抗逆境（stress）的配對，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乾旱—增加葉子合成及分泌離層酸，使氣孔關閉減少水分散失",
+        "images": []
+      },
+      {
+        "text": "B 雨水氾濫成災—乙烯促進根部細胞凋亡形成空氣通道（air tubes）",
+        "images": []
+      },
+      {
+        "text": "C 高溫環境—合成特殊蛋白質，降低高溫下蛋白質之變性",
+        "images": []
+      },
+      {
+        "text": "D 寒冷—增加細胞膜飽和脂肪酸含量，降低細胞質中的糖分",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 一般植物越冬休眠花芽內，絕對不可能累積哪種高濃度的植物激素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物生長素",
+        "images": []
+      },
+      {
+        "text": "B 細胞分裂素",
+        "images": []
+      },
+      {
+        "text": "C 激勃素",
+        "images": []
+      },
+      {
+        "text": "D 吲哚乙酸",
+        "images": []
+      },
+      {
+        "text": "E 乙烯",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. When we refer to a plant as a “short-day plant”, we mean that ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the plant flowers in winter",
+        "images": []
+      },
+      {
+        "text": "B the plant flowers when day is shorter than 12 hours",
+        "images": []
+      },
+      {
+        "text": "C the plant flowers only in the equator area",
+        "images": []
+      },
+      {
+        "text": "D the plant flowers when the night is longer than its own critical night length",
+        "images": []
+      },
+      {
+        "text": "E both A and D",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列敘述何者為植物向性（Tropisms）的表現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 荷花於夏天開花結果",
+        "images": []
+      },
+      {
+        "text": "B 夜間睡蓮花朵會閉闔",
+        "images": []
+      },
+      {
+        "text": "C 平放的雛菊的莖部仍會向反地心方向生長",
+        "images": []
+      },
+      {
+        "text": "D 葉子的氣孔會在夜間關閉",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 何種植物激素會促進植物根系細胞分裂和生長，以及延緩花和葉的衰老？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 赤黴素（gibberellin）",
+        "images": []
+      },
+      {
+        "text": "B 光敏色素（phytochrome）",
+        "images": []
+      },
+      {
+        "text": "C 細胞分裂素（cytokinin）",
+        "images": []
+      },
+      {
+        "text": "D 乙烯（ethylene）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. ________ is produced in the roots of plants. It promotes cell division and growth, and retards the aging of flowers and leaves?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ethylene",
+        "images": []
+      },
+      {
+        "text": "B Abscisic acid",
+        "images": []
+      },
+      {
+        "text": "C Karrikins",
+        "images": []
+      },
+      {
+        "text": "D Cytokinins",
+        "images": []
+      },
+      {
+        "text": "E Gibberellins",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 有關植物枝條酸生長假說（acid growth hypothesis）的敍述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物生長素刺激質膜和液泡膜（tonoplast）中的質子泵",
+        "images": []
+      },
+      {
+        "text": "B 植物生長素活化質子幫浦降低細胞壁的pH值，並打斷鍵結使壁柔軟",
+        "images": []
+      },
+      {
+        "text": "C 植物生長素和吉貝素為潤滑劑以幫助伸展纖維素微纖維（cellulose microfibrils）",
+        "images": []
+      },
+      {
+        "text": "D 植物生長素和吉貝素被運輸到液泡以建立膨脹壓力（turgor pressure）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. Auxin can be functioned as EXCEPT",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A herbicides.",
+        "images": []
+      },
+      {
+        "text": "B the detection of photoperiod.",
+        "images": []
+      },
+      {
+        "text": "C formation of adventitious roots.",
+        "images": []
+      },
+      {
+        "text": "D phototropism.",
+        "images": []
+      },
+      {
+        "text": "E cell elongation.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 下列何種植物激素存在於所有植物組織中，以促進木質部分化、種子萌發及花粉管延長，並且抑制韌皮部分化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長素（auxin）",
+        "images": []
+      },
+      {
+        "text": "B 吉貝素（gibberellins）",
+        "images": []
+      },
+      {
+        "text": "C 細胞分裂素（cytokinins）",
+        "images": []
+      },
+      {
+        "text": "D 芥菜固醇（brassinosteroids）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 短日照植物如果要開花是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 日照時間超過臨界日長（critical day length）",
+        "images": []
+      },
+      {
+        "text": "B 日照時間長短不會影響開花",
+        "images": []
+      },
+      {
+        "text": "C 日照時間短於臨界日長（critical day length）",
+        "images": []
+      },
+      {
+        "text": "D 以閃光中斷連續暗期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列何種植物激素（hormone）和菌根（mycorrhiza）的形成有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 獨角金萌發內酯（strigolactone）",
+        "images": []
+      },
+      {
+        "text": "B 乙烯（ethylene）",
+        "images": []
+      },
+      {
+        "text": "C 離層酸（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "D 油菜固醇（brassinosteroid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 科學家研究發現某種寄生植物的種子，可受到宿主植物所分泌的化學物質誘導而發芽，此種化學訊息分子具刺激種子發芽、抑制不定根（adventitiousroot）的形成及吸引共生真菌建立菌根（mycorrhizae）等功能，有關此類化學訊息分子，下列何者最可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 吉貝素（gibberellins）",
+        "images": []
+      },
+      {
+        "text": "B 離層酸（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "C 乙烯（ethylene）",
+        "images": []
+      },
+      {
+        "text": "D 獨角金內酯（strigolactones）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何種植物荷爾蒙（hormone）會減緩植物的生長？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 離層酸（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "B 油菜固醇（brassinosteroids）",
+        "images": []
+      },
+      {
+        "text": "C 細胞分裂素（cytokinins）",
+        "images": []
+      },
+      {
+        "text": "D 吉貝素（gibberellins）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 以下何種植物激素可以促進植物莖部細胞延長？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物生長素",
+        "images": []
+      },
+      {
+        "text": "B 細胞分裂素",
+        "images": []
+      },
+      {
+        "text": "C 乙烯",
+        "images": []
+      },
+      {
+        "text": "D 離層酸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 與光線相關的植物生理現象是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 玉米根的向地作用",
+        "images": []
+      },
+      {
+        "text": "B 含羞草的觸發運動",
+        "images": []
+      },
+      {
+        "text": "C 冬小麥的春化運動",
+        "images": []
+      },
+      {
+        "text": "D 菜豆的睡眠運動",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. What does the infected plant produce in response to the attacking of a pathogenic fungus?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Phytoalexins.",
+        "images": []
+      },
+      {
+        "text": "B Phytochrome.",
+        "images": []
+      },
+      {
+        "text": "C Statoliths.",
+        "images": []
+      },
+      {
+        "text": "D Antisense RNA.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 植物激素中可以促進果實成熟的是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A cytokinin",
+        "images": []
+      },
+      {
+        "text": "B ethylene",
+        "images": []
+      },
+      {
+        "text": "C gibberellin",
+        "images": []
+      },
+      {
+        "text": "D abscisic acid",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 誘導及抑制莖快速延長的植物激素分別為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長素（auxin）；細胞分裂素（cytokinin）",
+        "images": []
+      },
+      {
+        "text": "B 脫落酸（abscisic acid）；乙烯（ethylene）",
+        "images": []
+      },
+      {
+        "text": "C 吉貝素（gibberellin）；脫落酸（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "D 乙烯（ethylene）；生長素（auxin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 請問下列哪個植物激素與葉片的離層最具有相關性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙烯",
+        "images": []
+      },
+      {
+        "text": "B 細胞分裂素",
+        "images": []
+      },
+      {
+        "text": "C 離層酸",
+        "images": []
+      },
+      {
+        "text": "D 吉貝素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. Which of the following is one of the ways that the membranes of winter wheat are able to remain fluid when it is extremely cold?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A by increasing the percentage of cholesterol molecules in the membrane.",
+        "images": []
+      },
+      {
+        "text": "B by co-transport of glucose and hydrogen.",
+        "images": []
+      },
+      {
+        "text": "C by decreasing the number of hydrophobic proteins in the membrane.",
+        "images": []
+      },
+      {
+        "text": "D by increasing the percentage of saturated phospholipids in the membrane.",
+        "images": []
+      },
+      {
+        "text": "E by increasing the percentage of unsaturated phospholipids in the membrane.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 下列何者被認為是植物的逆境激素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長素",
+        "images": []
+      },
+      {
+        "text": "B 吉貝素",
+        "images": []
+      },
+      {
+        "text": "C 細胞分裂素",
+        "images": []
+      },
+      {
+        "text": "D 離層酸",
+        "images": []
+      },
+      {
+        "text": "E 乙烯",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  }
+]

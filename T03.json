@@ -1,0 +1,1448 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. Aquaporins",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A allow water to cross the plasma membrane via facilitated diffusion.",
+        "images": []
+      },
+      {
+        "text": "B allow water to cross the plasma membrane against its concentration gradient.",
+        "images": []
+      },
+      {
+        "text": "C allow for the active transport of water.",
+        "images": []
+      },
+      {
+        "text": "D are found in all cells.",
+        "images": []
+      },
+      {
+        "text": "E all are correct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. Which one is the correct description of salt and water balance in animal?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Sodium and potassium ions can easily diffuse through the lipid bilayer of plasma membranes.",
+        "images": []
+      },
+      {
+        "text": "B Sweat has a higher salt concentration than the blood does in humans.",
+        "images": []
+      },
+      {
+        "text": "C Animals that do not control internal water concentration also typically do not control the concentrations of ions like sodium and potassium.",
+        "images": []
+      },
+      {
+        "text": "D Transport of salts against their concentration gradients is energetically expensive.",
+        "images": []
+      },
+      {
+        "text": "E The filtrate that leaves the proximal convoluted tubule is much more concentrated than the blood in humans.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列何者可能會增加細胞膜的流動性（fluidity）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞膜中不飽和磷脂質的比例增加",
+        "images": []
+      },
+      {
+        "text": "B 細胞膜中大分子的醣脂比例增加",
+        "images": []
+      },
+      {
+        "text": "C 細胞膜中飽和磷脂質的比例增加",
+        "images": []
+      },
+      {
+        "text": "D 細胞膜中飽和脂肪酸含量較高",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which of the following components and conditions increases membrane fluidity?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A phospholipids with long, saturated fatty acyl chains",
+        "images": []
+      },
+      {
+        "text": "B phospholipids with short, unsaturated fatty acyl chains",
+        "images": []
+      },
+      {
+        "text": "C lower temperatures",
+        "images": []
+      },
+      {
+        "text": "D cholesterol at the usual concentrations found in biomembranes",
+        "images": []
+      },
+      {
+        "text": "E lipid rafts",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Celery stalks that are immersed in fresh water for several hours become stiff and hard. Similar stalks left in a salt solution become limp and soft. From this we can deduce that the cells of the celery stalks are",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A hypotonic to both fresh water and the salt solution.",
+        "images": []
+      },
+      {
+        "text": "B hypertonic to both fresh water and the salt solution.",
+        "images": []
+      },
+      {
+        "text": "C hypertonic to fresh water but hypotonic to the salt solution.",
+        "images": []
+      },
+      {
+        "text": "D hypotonic to fresh water but hypertonic to the salt solution.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 海帶細胞內常有大量碘的累積，試問海帶藉下列哪一種方法吸收（運輸）碘？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 簡易擴散",
+        "images": []
+      },
+      {
+        "text": "B 便利（促進）擴散",
+        "images": []
+      },
+      {
+        "text": "C 主動運輸",
+        "images": []
+      },
+      {
+        "text": "D ATP改變細胞膜構造，使碘易於輸入而難以輸出",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列何種物質無法通過細胞膜？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A thyroxine",
+        "images": []
+      },
+      {
+        "text": "B oxytocin",
+        "images": []
+      },
+      {
+        "text": "C estrogen",
+        "images": []
+      },
+      {
+        "text": "D vitamin D",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. The difference between pinocytosis and receptor-mediated endocytosis is that ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pinocytosis brings only water molecules into the cell, but receptor-mediated endocytosis brings in other molecules as well",
+        "images": []
+      },
+      {
+        "text": "B pinocytosis increases the surface area of the plasma membrane whereas receptor-mediated endocytosis decreases the plasma membrane surface area",
+        "images": []
+      },
+      {
+        "text": "C pinocytosis requires cellular energy, but receptor-mediated endocytosis does not",
+        "images": []
+      },
+      {
+        "text": "D pinocytosis is nonselective in the molecules it brings into the cell, whereas receptor-mediated endocytosis offers more selectivity",
+        "images": []
+      },
+      {
+        "text": "E pinocytosis can concentrate substances from the extracellular fluid, but receptor-mediated endocytosis cannot",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 某單細胞生物細胞外的磷酸鹽濃度遠低於細胞質的磷酸鹽濃度，由於此生物細胞外的酸性比細胞內的酸性更強，所以磷酸鹽可繼續輸入細胞內，並且已知此生物將磷酸鹽輸入細胞的機制是取決於細胞膜上的pH梯度，有關此單細胞生物進行磷酸鹽運輸的機制，下列何者最可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 被動擴散（passive diffusion）",
+        "images": []
+      },
+      {
+        "text": "B 促進擴散（facilitated diffusion）",
+        "images": []
+      },
+      {
+        "text": "C 主動運輸（active transport）",
+        "images": []
+      },
+      {
+        "text": "D 共同運輸（cotransport）",
+        "images": []
+      },
+      {
+        "text": "E 胞吞作用（endocytosis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 葡萄糖以主動運輸的方式，由小腸絨毛的細胞吸收時，通常伴隨著何種離子的主動運輸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Na+",
+        "images": []
+      },
+      {
+        "text": "B K+",
+        "images": []
+      },
+      {
+        "text": "C Cl-",
+        "images": []
+      },
+      {
+        "text": "D Ca2+",
+        "images": []
+      },
+      {
+        "text": "E H+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 藉由植物葉片細胞經光合作用合成醣類，會經下列那一作用進入維管束的篩細胞運送至貯藏區？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A H+的共運輸系統（co-transport system）",
+        "images": []
+      },
+      {
+        "text": "B Na+/K+幫浦（pump）",
+        "images": []
+      },
+      {
+        "text": "C Na+幫浦",
+        "images": []
+      },
+      {
+        "text": "D K+幫浦",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列關於脊椎動物的細胞液中離子含量的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞外液—含量最多的陽離子為Na+，細胞內液—含量最多的陽離子K+",
+        "images": []
+      },
+      {
+        "text": "B 細胞外液—含量最多的陽離子為Na+，細胞內液—含量最多的陽離子Ca2+",
+        "images": []
+      },
+      {
+        "text": "C 細胞外液—含量最多的陽離子為K+，細胞內液—含量最多的陰離子為HCO3-",
+        "images": []
+      },
+      {
+        "text": "D 細胞外液—含量最多的陰離子為HPO4-2，細胞內液—含量最多的陰離子為HCO3-",
+        "images": []
+      },
+      {
+        "text": "E 細胞外液—含量最多的陰離子為HSO4-2，細胞內液—含量最多的陰離子為HCO3-",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 動物細胞如果在細胞膜外側缺乏寡醣（oligosaccharide），則細胞最可能有下列何種缺失？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷脂質流動無法維持",
+        "images": []
+      },
+      {
+        "text": "B 細胞間辨認異常",
+        "images": []
+      },
+      {
+        "text": "C 無法與細胞骨架連結",
+        "images": []
+      },
+      {
+        "text": "D 離子通道異常",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. In ________, a cell engulfs a particle by wrapping pseudopodia.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A receptor-mediated endocytosis",
+        "images": []
+      },
+      {
+        "text": "B phagocytosis",
+        "images": []
+      },
+      {
+        "text": "C pinocytosis",
+        "images": []
+      },
+      {
+        "text": "D exocytosis",
+        "images": []
+      },
+      {
+        "text": "E osmosis",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 植物細胞有細胞壁，但動物細胞沒有。何種滲透壓環境分別對植物、動物細胞是最好的呢？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 等滲；等滲",
+        "images": []
+      },
+      {
+        "text": "B 高滲；高滲",
+        "images": []
+      },
+      {
+        "text": "C 等滲；高滲",
+        "images": []
+      },
+      {
+        "text": "D 低滲；等滲",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 腎小管的近曲小管（proximal tubule）管壁細胞再吸收葡萄糖的方式主要是與下列何者共同運輸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈣離子",
+        "images": []
+      },
+      {
+        "text": "B 鉀離子",
+        "images": []
+      },
+      {
+        "text": "C 鈉離子",
+        "images": []
+      },
+      {
+        "text": "D 氫離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. Which of the following is one of the ways that the membranes of winter wheat are able to remain fluid when it is extremely cold?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A by increasing the percentage of cholesterol molecules in the membrane.",
+        "images": []
+      },
+      {
+        "text": "B by co-transport of glucose and hydrogen.",
+        "images": []
+      },
+      {
+        "text": "C by decreasing the number of hydrophobic proteins in the membrane.",
+        "images": []
+      },
+      {
+        "text": "D by increasing the percentage of saturated phospholipids in the membrane.",
+        "images": []
+      },
+      {
+        "text": "E by increasing the percentage of unsaturated phospholipids in the membrane.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 關於細胞膜的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 其組成主要為雙層磷脂質（phospholipidsbilayer）",
+        "images": []
+      },
+      {
+        "text": "B 細胞膜上具有均勻分布之蛋白質",
+        "images": []
+      },
+      {
+        "text": "C 動物細胞膜的膽固醇（cholesterol）含量可達25%",
+        "images": []
+      },
+      {
+        "text": "D 魚類細胞之細胞膜含較高的不飽和脂肪酸（unsaturated fatty acids），使其細胞膜在低溫環境下能維持流動性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 關於鈉－葡萄糖共同轉運器（Na-glucose cotransporter），下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 屬於簡單擴散（simple diffusion）機制",
+        "images": []
+      },
+      {
+        "text": "B 在小腸幫助排出葡萄糖至腸道中",
+        "images": []
+      },
+      {
+        "text": "C 常與鈉－鉀幫浦（Na+-K+pump）一起出現在同一個細胞的不同側細胞膜",
+        "images": []
+      },
+      {
+        "text": "D 無法將葡萄糖由低濃度區運輸至高濃度區",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 下列何者是主要幫助葡萄糖運送入小腸黏膜細胞的物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鉀離子",
+        "images": []
+      },
+      {
+        "text": "B 鈉離子",
+        "images": []
+      },
+      {
+        "text": "C 鎂離子",
+        "images": []
+      },
+      {
+        "text": "D 鈣離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 細胞膜上有較多的膽固醇聚集的局部區域稱之為lipid raft，請問當溫度上升時，lipid raft的膜流動性會與周遭有何差異？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 流動性相對較高",
+        "images": []
+      },
+      {
+        "text": "B 流動性相對較低",
+        "images": []
+      },
+      {
+        "text": "C lipid raft會脫離細胞膜",
+        "images": []
+      },
+      {
+        "text": "D 流動性與周遭一致",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Jams, jellies, preserves, honey, and other foods with high sugar content hardly ever become contaminated by bacteria, even when the food containers are left open at room temperature. This is because bacteria that encounter such an environment ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A are unable to swim through these thick and viscous materials",
+        "images": []
+      },
+      {
+        "text": "B undergo death as a result of water loss from the cell",
+        "images": []
+      },
+      {
+        "text": "C are unable to metabolize the glucose or fructose, and thus starve to death",
+        "images": []
+      },
+      {
+        "text": "D are obligate anaerobes",
+        "images": []
+      },
+      {
+        "text": "E are unable to reproduce then die eventually",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 哪一種方式的運輸不需要經由膜蛋白？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 促進擴散（Facilitated diffusion）",
+        "images": []
+      },
+      {
+        "text": "B 巨量運輸（Bulk）",
+        "images": []
+      },
+      {
+        "text": "C 簡單擴散（Simple diffusion）",
+        "images": []
+      },
+      {
+        "text": "D 主動運輸（Active）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 細胞內主要的陽離子是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ca2+",
+        "images": []
+      },
+      {
+        "text": "B K+",
+        "images": []
+      },
+      {
+        "text": "C Mg2+",
+        "images": []
+      },
+      {
+        "text": "D Na+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 在極為寒冷的冬天，小麥藉由下列何者使其細胞膜維持在液態？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 主動運輸",
+        "images": []
+      },
+      {
+        "text": "B 葡萄糖和氫離子的共同運輸",
+        "images": []
+      },
+      {
+        "text": "C 增加細胞膜中膽固醇分子所佔的比例",
+        "images": []
+      },
+      {
+        "text": "D 增加細胞膜中不飽和磷脂所佔的比例",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 在極寒的下雪天氣下，冬小麥（winter wheat）的細胞膜仍能保持流體（fluid）不結冰的形式，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加膜的膽固醇（cholesterol）分子含量",
+        "images": []
+      },
+      {
+        "text": "B 增加膜的不飽和磷脂質（unsaturated phospholipids）含量",
+        "images": []
+      },
+      {
+        "text": "C 增加膜的疏水性蛋白質（hydrophobic proteins）含量",
+        "images": []
+      },
+      {
+        "text": "D 增加膜的醣脂類（glycolipids）含量",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 藉由就物質在細胞膜內、外間的移動方式而言，下列何者需要穿膜蛋白的仲介，但並不需能量的供應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 單純性擴散作用（simple diffusion）",
+        "images": []
+      },
+      {
+        "text": "B 滲透作用（osmosis）",
+        "images": []
+      },
+      {
+        "text": "C 促進性擴散作用（facilitated diffusion）",
+        "images": []
+      },
+      {
+        "text": "D 主動運輸（active transport）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 動物細胞膜醣蛋白及醣脂質上面的醣類，下列何者最符合其功能的敍述？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 維持細胞膜的流動性",
+        "images": []
+      },
+      {
+        "text": "B 維持細胞膜的完整性",
+        "images": []
+      },
+      {
+        "text": "C 活化分子的通透性",
+        "images": []
+      },
+      {
+        "text": "D 媒介細胞與細胞間的辨識作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 鈉鉀幫浦（Na+/K+pump）每次會運輸________進入細胞以及運輸________排出細胞。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 3Na+, 2K+",
+        "images": []
+      },
+      {
+        "text": "B 2Na+, 3K+",
+        "images": []
+      },
+      {
+        "text": "C 3K+, 2Na+",
+        "images": []
+      },
+      {
+        "text": "D 2K+, 3Na+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列有關細胞膜的描述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 具有選擇性通透性（selective permeability）",
+        "images": []
+      },
+      {
+        "text": "B 細胞膜上糖蛋白質與糖脂質，蛋白質及脂質上糖的修飾會位在細胞質側",
+        "images": []
+      },
+      {
+        "text": "C 細胞膜由雙層脂質（lipid bilayer）組成",
+        "images": []
+      },
+      {
+        "text": "D O2及CO2可以自由通過細胞膜，不需要蛋白質幫忙",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 水的被動運輸被認為是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 過濾（filtration）",
+        "images": []
+      },
+      {
+        "text": "B 滲透（osmosis）",
+        "images": []
+      },
+      {
+        "text": "C 促進擴散（facilitated diffusion）",
+        "images": []
+      },
+      {
+        "text": "D 水幫浦（water pump）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. Glucose diffuses slowly through artificial phospholipid bilayers. The cells lining the small intestine, however, rapidly move large quantities of glucose from the glucose-rich food into their glucose-poor cytoplasm. Using this information, which transport mechanism is most probably functioning in the intestinal cells?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A simple diffusion",
+        "images": []
+      },
+      {
+        "text": "B phagocytosis",
+        "images": []
+      },
+      {
+        "text": "C active transport pumps",
+        "images": []
+      },
+      {
+        "text": "D facilitated diffusion",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. The uptake of low-density lipoproteins is through ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pinocytosis",
+        "images": []
+      },
+      {
+        "text": "B facilitated transport",
+        "images": []
+      },
+      {
+        "text": "C receptor-mediated endocytosis",
+        "images": []
+      },
+      {
+        "text": "D simple diffusion",
+        "images": []
+      },
+      {
+        "text": "E ion channel guided mechanism",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. When animal cell loss its extra-membranous oligosaccharides, it will be deficient in which of the following function?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the aggregation of cytoskeleton",
+        "images": []
+      },
+      {
+        "text": "B the intercellular recognition",
+        "images": []
+      },
+      {
+        "text": "C the exchange of proton across the membrane",
+        "images": []
+      },
+      {
+        "text": "D the change of membrane action potential",
+        "images": []
+      },
+      {
+        "text": "E the calcium influx or efflux",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 有關物質在細胞膜的運送之敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 具極性的小分子可藉擴散（diffusion）自由穿透細胞膜",
+        "images": []
+      },
+      {
+        "text": "B 鈉-鉀離子幫浦（sodium-potassium pump）是一種促進擴散（facilitateddiffusion）",
+        "images": []
+      },
+      {
+        "text": "C 胞飲作用（pinocytosis）為細胞伸出偽足（pseudopodia）圍繞未溶解的團塊或顆粒，將物質攝入細胞的一種方式",
+        "images": []
+      },
+      {
+        "text": "D 細胞可藉由特殊受體（receptor）將特定蛋白攝入，稱受體媒介式之胞吞作用（receptor-mediated endocytosis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列哪些細胞膜性質可利用細胞膜之流體鑲嵌模型（fluid mosaic model of plasma membrane）描述？甲、細胞骨架與細胞膜緊鄰，可促使細胞膜移動。乙、細胞膜磷脂形成脂雙層，而蛋白質與醣類分子插入脂雙層或點綴其上。丙、細胞膜的磷脂與蛋白質可在膜水平移動。丁、細胞膜的離子通道可允許特定離子流動。戊、細胞膜表面含不同的受器分子，可同時與不同的配位體結合。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甲乙",
+        "images": []
+      },
+      {
+        "text": "B 乙丙",
+        "images": []
+      },
+      {
+        "text": "C 丙丁",
+        "images": []
+      },
+      {
+        "text": "D 丁戊",
+        "images": []
+      },
+      {
+        "text": "E 丙丁戊",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. Which of the following statements about fluid mosaic model is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Lipid-anchored proteins are a part of the original fluid mosaic.",
+        "images": []
+      },
+      {
+        "text": "B The fluid part of the model is the phospholipid bilayer.",
+        "images": []
+      },
+      {
+        "text": "C The mosaic part of the model is the protein.",
+        "images": []
+      },
+      {
+        "text": "D The model was proposed by S. Jonathan Singer and Garth Nicolson",
+        "images": []
+      },
+      {
+        "text": "E This model can provide explanations for most of the criticisms of the “lipid bilayer plus protein sheets” model.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. Which of the following is NOT a factor influencing membrane fluidity?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A number of double bond in lipids",
+        "images": []
+      },
+      {
+        "text": "B temperature",
+        "images": []
+      },
+      {
+        "text": "C flip-flop move of lipids",
+        "images": []
+      },
+      {
+        "text": "D cholesterol",
+        "images": []
+      },
+      {
+        "text": "E none of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 細胞膜的組成基本上是磷脂雙層（lipid bilayer）。其中關於磷脂分子的運動何者敘述錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷脂分子可在同層中平向移動（lateral movement）",
+        "images": []
+      },
+      {
+        "text": "B 磷脂分子可跨層翻轉（flip-flopping across the membrane）",
+        "images": []
+      },
+      {
+        "text": "C 磷脂雙層的曲度可改變（curvature changes）",
+        "images": []
+      },
+      {
+        "text": "D 磷脂分子跨層翻轉的頻率大概為數週一次",
+        "images": []
+      },
+      {
+        "text": "E 磷脂分子可在同層反轉（spin-over）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 離子通道蛋白（ion channel proteins）的功能是幫助離子進出細胞。下列對於離子通道蛋白的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 離子通道蛋白的作用具高度的專一性",
+        "images": []
+      },
+      {
+        "text": "B 所有離子通道蛋白的開關決定於配體（ligand）的結合與否",
+        "images": []
+      },
+      {
+        "text": "C 它們通常含疏水性區域（hydrophobic region）及親水性區域（hydrophilic region）",
+        "images": []
+      },
+      {
+        "text": "D 並非所有藉由離子通道蛋白的離子運輸都屬於初級主動運輸（primary active transport）",
+        "images": []
+      },
+      {
+        "text": "E 有些離子通道蛋白可以幫助二種離子進出細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. The major lipids found in membranes are",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A triacylglycerols and cholesterol.",
+        "images": []
+      },
+      {
+        "text": "B cholesterol and sphingomyelin.",
+        "images": []
+      },
+      {
+        "text": "C phospholipids, glycolipids, and cholesterol.",
+        "images": []
+      },
+      {
+        "text": "D phospholipids and free fatty acids.",
+        "images": []
+      },
+      {
+        "text": "E cholesterol, inositol, and glycolipids.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. A patient has had a serious accident and lost a lot of blood. In an attempt to replenish body fluids, distilled water, equal to the volume of blood lost, is transferred directly into one of his veins. What will be the most probable result of this transfusion?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The patient's red blood cells will swell because the blood fluid is hypertonic compared to the cells.",
+        "images": []
+      },
+      {
+        "text": "B The patient's red blood cells will swell because the blood fluid is hypotonic compared to the cells.",
+        "images": []
+      },
+      {
+        "text": "C The patient's red blood cells will shrivel up because the blood fluid is hypertonic compared to the cells.",
+        "images": []
+      },
+      {
+        "text": "D The patient's red blood cells will burst because the blood fluid is hypertonic compared to the cells.",
+        "images": []
+      },
+      {
+        "text": "E It will have no unfavorable effect as long as the water is free of viruses and bacteria.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 有關鈉鉀幫浦（Na+/K+-pump）的說明，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Na+以主動運輸的方式進入細胞",
+        "images": []
+      },
+      {
+        "text": "B K+以主動運輸的方式離開細胞",
+        "images": []
+      },
+      {
+        "text": "C 此幫浦每一次運作所運送的Na+和K+數目相等",
+        "images": []
+      },
+      {
+        "text": "D 所有動物細胞中的鈉鉀幫浦都必須持續不斷的運作",
+        "images": []
+      },
+      {
+        "text": "E 鈉鉀幫浦的運作與Na+和K+之外其他的離子的運輸無關",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 物質被運送經過細胞膜的方式中，下列何者不會出現運送速率達到飽和的狀態？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 簡單擴散（simple diffusion）",
+        "images": []
+      },
+      {
+        "text": "B 促進性擴散（facilitated diffusion）",
+        "images": []
+      },
+      {
+        "text": "C 初級主動運輸（primary active transport）",
+        "images": []
+      },
+      {
+        "text": "D 次級主動運輸（secondary active transport）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. About cell membrane, which of the following statements is NOT TRUE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Cell membranes are fluid mosaics of lipid and proteins, and the phospholipid bilayer is the basic building block of the membrane.",
+        "images": []
+      },
+      {
+        "text": "B Most of the phospholipids can shift about laterally in the plane of the membrane, but it is quite rare for phospholipids to flip-flop transversely across the membrane because the hydrophilic part of the molecule must cross the hydrophobic interior of the membrane.",
+        "images": []
+      },
+      {
+        "text": "C Phospholipids with saturated hydrocarbon tail pack more tightly, therefore decreasing membrane fluidity and viscosity.",
+        "images": []
+      },
+      {
+        "text": "D The presence of unsaturated hydrocarbon tails in phospholipids can enhance membrane fluidity, because unsaturated hydrocarbon tails cannot pack together as closely as saturated carbon tails.",
+        "images": []
+      },
+      {
+        "text": "E The steroid cholesterol in the plasma membrane of animal cells can change membrane fluidity and this effect is temperature-dependent.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 有關細胞膜的結構與功能的描述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 橫跨細胞膜的離子梯度能夠促使許多細胞的功能",
+        "images": []
+      },
+      {
+        "text": "B 膜蛋白附著或嵌在phospholipid bilayer",
+        "images": []
+      },
+      {
+        "text": "C 細胞膜主要成分為phospholipid bilayer",
+        "images": []
+      },
+      {
+        "text": "D Na+/K+-ATPase pump是一種ligand-gated離子通道",
+        "images": []
+      },
+      {
+        "text": "E Antiporters結合二或多個離子或分子並且以相反方向將離子或分子穿越過細胞膜",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 請問以下何種蛋白質沒有嵌在脂雙層（lipid bilayer）中的疏水性（hydrophobic）部分？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 跨膜蛋白（transmembrane protein）",
+        "images": []
+      },
+      {
+        "text": "B 整合蛋白（integral protein）",
+        "images": []
+      },
+      {
+        "text": "C 周邊蛋白（peripheral protein）",
+        "images": []
+      },
+      {
+        "text": "D 整聯蛋白（integrin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "複選題",
+    "question": "48. 某些細菌能調整細胞膜的組成來適應環境變化。當環境溫度由低變高時，該細菌細胞膜最可能先產生哪種變化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 改變細胞膜上蛋白質的含量",
+        "images": []
+      },
+      {
+        "text": "B 增加細胞膜上不飽和脂肪酸含量",
+        "images": []
+      },
+      {
+        "text": "C 增加其細胞膜上膽固醇的含量",
+        "images": []
+      },
+      {
+        "text": "D 增加細胞膜上飽和脂肪酸含量",
+        "images": []
+      },
+      {
+        "text": "E 製造熱休克蛋白傳送至細胞膜上",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "複選題",
+    "question": "49. Na+/K+ATPase pump下列敘述何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 為α2β2四聚體",
+        "images": []
+      },
+      {
+        "text": "B 造成內外膜Na+濃度差，Na+回到細胞內同時可吸取細胞外的糖",
+        "images": []
+      },
+      {
+        "text": "C Na+送入細胞內，K+送出細胞外",
+        "images": []
+      },
+      {
+        "text": "D E1構形朝向細胞膜外與Na+結合力強",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 在高溫或低溫下需要下列何者以維持細胞膜的流動性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脂肪酸",
+        "images": []
+      },
+      {
+        "text": "B 類固醇",
+        "images": []
+      },
+      {
+        "text": "C 蛋白質",
+        "images": []
+      },
+      {
+        "text": "D 膽固醇",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  }
+]

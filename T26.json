@@ -1,0 +1,1454 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列何者為主宰細胞活動並負責生物遺傳的重要物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛋白質（proteins）",
+        "images": []
+      },
+      {
+        "text": "B 去氧核醣核酸（DNA）",
+        "images": []
+      },
+      {
+        "text": "C 核醣核酸（RNA）",
+        "images": []
+      },
+      {
+        "text": "D 核糖核蛋白（ribonucleoproteins）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 真核細胞（eukaryotic cells）中，調節細胞週期（cell cycle）之有絲分裂期（Mitotic phase）的細胞週期蛋白（Cyclins）與Cyclin-dependent kinases（CDK）複合體是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Cyclin E/CDK2",
+        "images": []
+      },
+      {
+        "text": "B Cyclin A/CDK6",
+        "images": []
+      },
+      {
+        "text": "C Cyclin H/CDK2",
+        "images": []
+      },
+      {
+        "text": "D Cyclin B/CDK1",
+        "images": []
+      },
+      {
+        "text": "E Cyclin D/CDK4",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 有絲分裂過程中，姐妹染色單體因cohesins這種蛋白質而結合在一起。下列有關cohesins的敍述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 必須在細胞週期G2重新連接到染色體",
+        "images": []
+      },
+      {
+        "text": "B 必須在核膜重新形成前維持完整",
+        "images": []
+      },
+      {
+        "text": "C 必須在整個細胞週期持續表現",
+        "images": []
+      },
+      {
+        "text": "D 被移除後，細胞才會進入有絲分裂後期（anaphase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 下列有關細胞週期（cell cycle）的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 活化的Mitosis-promoting factor (MPF)是由尚未活化的cyclin-dependent kinase (cdk)和cyclin結合形成",
+        "images": []
+      },
+      {
+        "text": "B Mitosis-promoting factor (MPF)推動細胞通過G2checkpoint 進入有絲分裂期（mitosis）",
+        "images": []
+      },
+      {
+        "text": "C 在有絲分裂期（mitosis）常可偵測到cyclin B",
+        "images": []
+      },
+      {
+        "text": "D 在細胞週期中皆可偵測到cdk",
+        "images": []
+      },
+      {
+        "text": "E MPF磷酸化其他蛋白質，如p27，p27為細胞分裂的抑制劑",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Which Which of the following statements about the cell cycle is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Maturation-promoting factor (MPF)stimulates nuclear envelope breakdown by phosphorylating the lamin proteins of nuclear lamina.",
+        "images": []
+      },
+      {
+        "text": "B Active MPF phosphorylates microfilament-associated proteins to facilitate formation of the mitotic spindle.",
+        "images": []
+      },
+      {
+        "text": "C Active MPF phosphorylates histones to allow chromosome condensation.",
+        "images": []
+      },
+      {
+        "text": "D Epidermal growth factor can induce cells to pass through the G1checkpoint and into S phase through the Ras pathway.",
+        "images": []
+      },
+      {
+        "text": "E The p21 protein functions to suppress the activity of Cdk-cyclin complex to block passage through the G1checkpoint.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. If there are 24 chromatids in a mammalian skin cell, how many kinetochores are there?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 6",
+        "images": []
+      },
+      {
+        "text": "B 12",
+        "images": []
+      },
+      {
+        "text": "C 24",
+        "images": []
+      },
+      {
+        "text": "D 36",
+        "images": []
+      },
+      {
+        "text": "E 48",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. MPF is a cyclin-Cdk complex that was discovered first in Xenopus egg. Its activity fluctuates during cell cycle. Which of the following is NOT its characteristic?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Fluctuation of the cyclin concentration is the same as MPF activity.",
+        "images": []
+      },
+      {
+        "text": "B The peak of the MPF activity is G2phase.",
+        "images": []
+      },
+      {
+        "text": "C The peak of the MPF activity is M phase.",
+        "images": []
+      },
+      {
+        "text": "D The breakdown of the MPF occurs abruptly during M phase.",
+        "images": []
+      },
+      {
+        "text": "E The activity of the MPF promotes mitosis by phosphorylating various proteins.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. Whether during mitosis or meiosis, sister chromatids are held together by proteins referred to as cohesions. Such molecules must have which of the following properties?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A They must reattach to chromosomes during G1.",
+        "images": []
+      },
+      {
+        "text": "B They must be removed before anaphase can occur.",
+        "images": []
+      },
+      {
+        "text": "C They must be intact for nuclear envelope reformation.",
+        "images": []
+      },
+      {
+        "text": "D They must be removed before meiosis can begin.",
+        "images": []
+      },
+      {
+        "text": "E They must persist throughout the cell cycle.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 肌肉與神經細胞在細胞週期的哪一期？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A S phase",
+        "images": []
+      },
+      {
+        "text": "B G2phase",
+        "images": []
+      },
+      {
+        "text": "C G1phase",
+        "images": []
+      },
+      {
+        "text": "D G0phase",
+        "images": []
+      },
+      {
+        "text": "E M phase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 在某些生物體中，細胞分裂（mitosis）發生但卻沒有細胞質分裂（cytokinesis）發生，這會導致：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞具有一個以上的細胞核",
+        "images": []
+      },
+      {
+        "text": "B 細胞比一般細胞來得小",
+        "images": []
+      },
+      {
+        "text": "C 細胞缺乏核",
+        "images": []
+      },
+      {
+        "text": "D 細胞週期缺乏S phase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 植物之細胞質分裂（cytokinesis）與下列何者最直接相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 著絲點 Kinetochores",
+        "images": []
+      },
+      {
+        "text": "B 源自高基氏體之液泡（Golgi-derived vesicles）",
+        "images": []
+      },
+      {
+        "text": "C 中心粒和基體（Centrioles and basal bodies）",
+        "images": []
+      },
+      {
+        "text": "D 型成分裂溝（cleavage furrow）",
+        "images": []
+      },
+      {
+        "text": "E 肌動蛋白（actin）及肌凝蛋白（myosin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 兩個哺乳動物細胞，一個在細胞週期G1，另一個在G0（靜止）期。當這兩個細胞受到增加細胞外增殖信號（extracellular proliferation signal）的刺激，通過傳遞限制點（restriction point），但信號隨即被刪除，你認為何者最可能發生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 兩個細胞將複製它們的DNA",
+        "images": []
+      },
+      {
+        "text": "B 只有在G1期細胞會複製其DNA",
+        "images": []
+      },
+      {
+        "text": "C 只有在G0期細胞會複製其DNA",
+        "images": []
+      },
+      {
+        "text": "D 只有在G1期細胞會開始複製其DNA，但是會在複製中途停止而不會達到G2期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 細胞週期（cell cycle）中那個時期是染色體分離？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A G1期",
+        "images": []
+      },
+      {
+        "text": "B S期",
+        "images": []
+      },
+      {
+        "text": "C G2期",
+        "images": []
+      },
+      {
+        "text": "D M期",
+        "images": []
+      },
+      {
+        "text": "E G0期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. In the cell cycle, which of the following occurs during S phase?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A separation of sister chromatids",
+        "images": []
+      },
+      {
+        "text": "B replication of the DNA",
+        "images": []
+      },
+      {
+        "text": "C spindle formation",
+        "images": []
+      },
+      {
+        "text": "D condensation of the chromosomes",
+        "images": []
+      },
+      {
+        "text": "E centrosomes synthesis",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 有關結構與功能的配對，下列何者是錯誤的組合？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紡錘絲（spindle）：染色體分離",
+        "images": []
+      },
+      {
+        "text": "B 核仁（nucleolus）：製造核醣體",
+        "images": []
+      },
+      {
+        "text": "C 粒線體（mitochondria）：細胞呼吸",
+        "images": []
+      },
+      {
+        "text": "D 微管（microtubule）：肌肉收縮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 植物細胞進行細胞有絲分裂，完成細胞核分裂之後，需要下列哪一構造參與來完成胞質分裂（cytokinesis）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內質網（endoplasmic reticulum）",
+        "images": []
+      },
+      {
+        "text": "B 高爾基氏體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "C 紡錘體（spindle）",
+        "images": []
+      },
+      {
+        "text": "D 溶體（lysosome）",
+        "images": []
+      },
+      {
+        "text": "E 分裂溝（cleavage furrow）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 在細胞分裂過程中，下列何者為染色體移動的機制？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微管（microtubule）的組裝",
+        "images": []
+      },
+      {
+        "text": "B 微絲（microfilament）的組裝",
+        "images": []
+      },
+      {
+        "text": "C 動力蛋白（dynein）的組裝",
+        "images": []
+      },
+      {
+        "text": "D 微絲與動力蛋白二者的組裝",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. Cells will usually divide if they receive the proper signal at a checkpoint in which phase of the cell cycle?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A M",
+        "images": []
+      },
+      {
+        "text": "B G1",
+        "images": []
+      },
+      {
+        "text": "C G2",
+        "images": []
+      },
+      {
+        "text": "D S",
+        "images": []
+      },
+      {
+        "text": "E cytokinesis",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 關於細胞週期（cell cycle）的調控機轉，下列何者為非？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 主要的調節分子有兩類，週期素依賴激酶cdk（cyclin dependent kinase）與週期素（cyclin）",
+        "images": []
+      },
+      {
+        "text": "B 進行細胞週期時，cdk濃度通常不變，但其活性會因週期素的濃度變化而不同",
+        "images": []
+      },
+      {
+        "text": "C 週期素的濃度在G2進入M期時漸達高峰，會影響MPF（maturation promoting factor）的活性",
+        "images": []
+      },
+      {
+        "text": "D MPF是一種組合體，其功能之一是將核膜的蛋白質去磷酸化（dephosphorylation），使核膜解體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. The data were obtained from a study of the length of time spent in each phase of the cell cycle by cells of three eukaryotic organisms designated beta, delta, and gamma.Of the following, the best conclusion concerning the difference between the S phases for beta and gamma is that",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/007.png"
+    ],
+    "options": [
+      {
+        "text": "A gamma contains 48 times more DNA than beta.",
+        "images": []
+      },
+      {
+        "text": "B beta and gamma contain the same amount of DNA.",
+        "images": []
+      },
+      {
+        "text": "C beta contains more RNA than gamma.",
+        "images": []
+      },
+      {
+        "text": "D beta is a plant cell and gamma is an animal cell.",
+        "images": []
+      },
+      {
+        "text": "E gamma contains more DNA than beta.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 一般的細胞週期（cell cycle）中，下列哪一時期所需的時間較短？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A G0/G1phase",
+        "images": []
+      },
+      {
+        "text": "B S phase",
+        "images": []
+      },
+      {
+        "text": "C G2phase",
+        "images": []
+      },
+      {
+        "text": "D M phase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 動物細胞的有絲分裂（mitosis）過程中，核膜（nuclear envelope）裂解成碎片發生於那個時期？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A prophase",
+        "images": []
+      },
+      {
+        "text": "B prometaphase",
+        "images": []
+      },
+      {
+        "text": "C metaphase",
+        "images": []
+      },
+      {
+        "text": "D anaphase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. Which is NOT a microtubule-organizing center (MTOC)?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A centrosome",
+        "images": []
+      },
+      {
+        "text": "B basal body of cilia",
+        "images": []
+      },
+      {
+        "text": "C mitotic spindle pole",
+        "images": []
+      },
+      {
+        "text": "D kinetochore",
+        "images": []
+      },
+      {
+        "text": "E all of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Which of the following is a protein synthesized at specific times during the cell cycle that associates with a kinase to form a catalytically active complex?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A PDGF",
+        "images": []
+      },
+      {
+        "text": "B MPF",
+        "images": []
+      },
+      {
+        "text": "C protein kinase",
+        "images": []
+      },
+      {
+        "text": "D cyclin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. Cytokinesis屬於下列哪一個細胞週期：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A M期",
+        "images": []
+      },
+      {
+        "text": "B S期",
+        "images": []
+      },
+      {
+        "text": "C G1期",
+        "images": []
+      },
+      {
+        "text": "D G2期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. How do the daughter cells at the end of mitosis and cytokinesis compare with their parent cells when it was in G1of the cell cycle?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The daughter cells have the same number of chromosomes and half the amount of DNA.",
+        "images": []
+      },
+      {
+        "text": "B The daughter cells have the same number of chromosomes and the same amount of DNA.",
+        "images": []
+      },
+      {
+        "text": "C The daughter cells have the same number of chromosomes and twice the amount of DNA.",
+        "images": []
+      },
+      {
+        "text": "D The daughter cells have half the amount of cytoplasm and half the amount of DNA.",
+        "images": []
+      },
+      {
+        "text": "E The daughter cells have half the number of chromosomes and half the amount of DNA.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. Place the following events of mitosis in the correct order.I. Sister chromatids align on the metaphase plate.II. The cleavage furrow forms.III. The nuclear membrane breaks up.IV. Sister chromatids condense.V. Sister chromatids separate.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A I, II, III, IV, V",
+        "images": []
+      },
+      {
+        "text": "B III, IV, I, V, II",
+        "images": []
+      },
+      {
+        "text": "C IV, III, I, V, II",
+        "images": []
+      },
+      {
+        "text": "D III, II, I, IV, V",
+        "images": []
+      },
+      {
+        "text": "E IV, I, III, V, II",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 請依發生順序排列下列植物細胞分裂的過程：(甲)細胞板（cell plate）形成(乙)子染色體（sister chromatids）分離(丙)染色體複製(丁)紡錘絲（spindle fiber）與著絲點連接",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 丙乙丁甲",
+        "images": []
+      },
+      {
+        "text": "B 丙丁甲乙",
+        "images": []
+      },
+      {
+        "text": "C 丁甲乙丙",
+        "images": []
+      },
+      {
+        "text": "D 丙丁乙甲",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 生長因子如platelet-derived growth factor主要調控細胞週期的那一檢查點（check point），可促進纖維母細胞分裂？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A G1檢查點",
+        "images": []
+      },
+      {
+        "text": "B S檢查點",
+        "images": []
+      },
+      {
+        "text": "C G2檢查點",
+        "images": []
+      },
+      {
+        "text": "D M檢查點",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 某些生物在進行有絲分裂時缺少cytokinesis，因此產生",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 染色體被破壞",
+        "images": []
+      },
+      {
+        "text": "B 多核細胞",
+        "images": []
+      },
+      {
+        "text": "C 細胞特別小",
+        "images": []
+      },
+      {
+        "text": "D 無核細胞",
+        "images": []
+      },
+      {
+        "text": "E 細胞週期沒有S期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. At which phase is centrioles beginning to duplicate in animal cells?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A interphase",
+        "images": []
+      },
+      {
+        "text": "B prophase",
+        "images": []
+      },
+      {
+        "text": "C metaphase",
+        "images": []
+      },
+      {
+        "text": "D anaphase",
+        "images": []
+      },
+      {
+        "text": "E telophase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列那一個真核細胞分裂週期階段缺乏查核點（checkpoint）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A G1",
+        "images": []
+      },
+      {
+        "text": "B S",
+        "images": []
+      },
+      {
+        "text": "C G2",
+        "images": []
+      },
+      {
+        "text": "D M",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. Which of these sequences correctly describes the cell cycle?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A G1, G2, S, prophase, metaphase, anaphase, telophase",
+        "images": []
+      },
+      {
+        "text": "B G1, G2, S, prophase, metaphase, telophase, anaphase",
+        "images": []
+      },
+      {
+        "text": "C S, G2, prophase, metaphase, anaphase, telophase, G1",
+        "images": []
+      },
+      {
+        "text": "D G1, S, G2, metaphase, prophase, anaphase, telophase",
+        "images": []
+      },
+      {
+        "text": "E G2, S, prophase, metaphase, anaphase, telophase, G1",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 在mitosis後期MPF (M-phase promoting factor)活性的降低，主要是因為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A cyclin-dependent kinases (cdks)被破壞",
+        "images": []
+      },
+      {
+        "text": "B cyclin之合成降低",
+        "images": []
+      },
+      {
+        "text": "C 細胞“體積/核酸”之比值增加",
+        "images": []
+      },
+      {
+        "text": "D 酵素活化將cyclin分解",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 隨著細胞數量的增加，關於密度依賴性抑制（density-dependent inhibition）的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞開始相互擠壓，限制了細胞的大小",
+        "images": []
+      },
+      {
+        "text": "B 細胞產生的蛋白質激酶開始相互競爭受質，從而使蛋白質激酶產生飽和效應，抑制細胞的移行（migration）",
+        "images": []
+      },
+      {
+        "text": "C 相鄰細胞的表面蛋白質相互接觸發出信號，促使細胞停止分裂",
+        "images": []
+      },
+      {
+        "text": "D 細胞的代謝廢物排出量增加，減緩了新陳代謝進而抑制細胞生長",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 真核生物之細胞週期（Cell cycle）分為不同階段，並受到調節分子之導引。下列哪個階段佔細胞週期的時間最長？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 間期（Interphase）",
+        "images": []
+      },
+      {
+        "text": "B 前期（Prophase）",
+        "images": []
+      },
+      {
+        "text": "C 中期（Metaphase）",
+        "images": []
+      },
+      {
+        "text": "D 後期（Anaphase）",
+        "images": []
+      },
+      {
+        "text": "E 末期（Telophase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. What number and types of chromosomes are found in a human somatic cell?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 21 autosomes and 2 sex chromosomes",
+        "images": []
+      },
+      {
+        "text": "B 22 autosomes and 1 sex chromosome",
+        "images": []
+      },
+      {
+        "text": "C 45 autosomes and 1 sex chromosome",
+        "images": []
+      },
+      {
+        "text": "D 44 autosomes and 2 sex chromosomes",
+        "images": []
+      },
+      {
+        "text": "E n chromosomes",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. Which of the following statements about cell cycle is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Cyclin is degraded during G1",
+        "images": []
+      },
+      {
+        "text": "B Synthesis of cyclin begins in S phase.",
+        "images": []
+      },
+      {
+        "text": "C Cyclin combines with Cdk to produce maturation-promoting factor (MPF)",
+        "images": []
+      },
+      {
+        "text": "D MPF promotes mitosis by phosphorylating various proteins.",
+        "images": []
+      },
+      {
+        "text": "E MPF’s activity peaks during prophase of M phase.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 關於有絲分裂（mitosis）之敘述配對何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核膜消失－中期",
+        "images": []
+      },
+      {
+        "text": "B 中心體之複製－間期",
+        "images": []
+      },
+      {
+        "text": "C 著絲粒微管（kinetochore microtubule）縮短－後期",
+        "images": []
+      },
+      {
+        "text": "D 非著絲粒微管（non-kinetochore microtubule）延長－後期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列何者為正確的細胞週期時相組成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A M-G1-G2-S",
+        "images": []
+      },
+      {
+        "text": "B G2-M-S-G1",
+        "images": []
+      },
+      {
+        "text": "C S-G1-G2-M",
+        "images": []
+      },
+      {
+        "text": "D G1-S-G2-M",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 有關在植物細胞進行有絲分裂（mitosis）過程的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 同源染色體聯會（synapsis）後排列在細胞中央",
+        "images": []
+      },
+      {
+        "text": "B 過程中會出現紡錘體（spindle）",
+        "images": []
+      },
+      {
+        "text": "C 不會發生細胞質分裂（cytokinesis）",
+        "images": []
+      },
+      {
+        "text": "D 細胞膜會向內凹陷",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 生物學家在觀察細胞有絲分裂（mitosis）時發現姊妹染色分體（sister chromatids）分離且開始向細胞兩極移動。請問此時是有絲分裂的那個時期？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 前期（prophase）",
+        "images": []
+      },
+      {
+        "text": "B 中期（metaphase）",
+        "images": []
+      },
+      {
+        "text": "C 後期（anaphase）",
+        "images": []
+      },
+      {
+        "text": "D 末期（telophase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 細胞週期中，下列何種蛋白質表現量會出現週期性變化，並與特定蛋白質激酶結合使之具有活性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長因子（growth factor）",
+        "images": []
+      },
+      {
+        "text": "B 細胞週期蛋白（cyclin）",
+        "images": []
+      },
+      {
+        "text": "C 成熟促進因子（mature promoting factor, MPF）",
+        "images": []
+      },
+      {
+        "text": "D 週期素蛋白質激酶（CDK）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 有關癌細胞的特性敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 癌細胞的細胞週期停止於S時期",
+        "images": []
+      },
+      {
+        "text": "B 癌細胞的細胞週期通常停留於M時期",
+        "images": []
+      },
+      {
+        "text": "C 癌細胞具有附著依賴性（anchorage dependence）",
+        "images": []
+      },
+      {
+        "text": "D 癌細胞無「密度依賴的抑制（density-dependent inhibition）」特性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列有關細胞週期的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在動物細胞的分裂前期（prophase），中心粒（centrioles）開始分開",
+        "images": []
+      },
+      {
+        "text": "B 週期素（cyclin）與細胞週期激酶（kinase）結合，可以活化該激酶",
+        "images": []
+      },
+      {
+        "text": "C 成熟因子（Maturation-promoting factor; MPF）可以視為合成期（S phase）促進因子",
+        "images": []
+      },
+      {
+        "text": "D 動物細胞的細胞骨架整合中心（microtubule-organizing center）是中心體（centrosome）構造",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 如果將MPF (maturation-promoting factor)注射到G2細胞週期的蛙卵母細胞，下列敘述何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 什麼事都不會發生",
+        "images": []
+      },
+      {
+        "text": "B 卵母細胞開始減數分裂",
+        "images": []
+      },
+      {
+        "text": "C 卵母細胞開始細胞分裂",
+        "images": []
+      },
+      {
+        "text": "D 卵母細胞開始分化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 關於希拉細胞（HeLa cells）的描述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 其細胞株（cell line）首度在1951年被分離出來",
+        "images": []
+      },
+      {
+        "text": "B 此細胞來自一名得子宮頸癌的病人",
+        "images": []
+      },
+      {
+        "text": "C 此細胞已經過轉型作用（transformation）",
+        "images": []
+      },
+      {
+        "text": "D 其名稱來自一名叫Henrietta Lacks的美國婦女",
+        "images": []
+      },
+      {
+        "text": "E 此細胞最多只能分裂20－50次",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 進行細胞分裂時，哪一個時期染色體會排列在赤道板上？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 前期",
+        "images": []
+      },
+      {
+        "text": "B 中期",
+        "images": []
+      },
+      {
+        "text": "C 後期",
+        "images": []
+      },
+      {
+        "text": "D 末期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 細胞生長和分裂有一定的週期，週期中有關卡（checkpoints）來控制週期的終止和前進，下列何段時期不具有關卡？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A M期",
+        "images": []
+      },
+      {
+        "text": "B G1期",
+        "images": []
+      },
+      {
+        "text": "C S期",
+        "images": []
+      },
+      {
+        "text": "D G2期",
+        "images": []
+      },
+      {
+        "text": "E M和G1期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. Which statement regarding the function of mitosis is false?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Mitosis allows organisms to grow.",
+        "images": []
+      },
+      {
+        "text": "B Mitosis promotes genetic diversity.",
+        "images": []
+      },
+      {
+        "text": "C Mitosis is necessary for asexual reproduction in eukaryotes.",
+        "images": []
+      },
+      {
+        "text": "D Mitosis promotes repair tissues.",
+        "images": []
+      },
+      {
+        "text": "E All are incorrect.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

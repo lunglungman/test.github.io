@@ -1,0 +1,1418 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 當DNA甲基化發生後，會有下列何種影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抑制轉錄作用發生",
+        "images": []
+      },
+      {
+        "text": "B 增加了互換（crossover）事件",
+        "images": []
+      },
+      {
+        "text": "C 促進轉譯後蛋白質的修飾作用",
+        "images": []
+      },
+      {
+        "text": "D 促進RNA處理（RNA processing）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. In the absence of recombination, what ratio of phenotypes is expected in the progeny of the cross aB/Ab × AB/ab?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 3 A-B- : 1 aabb",
+        "images": []
+      },
+      {
+        "text": "B 1 aaB- : 2 A-B- : 1A-bb",
+        "images": []
+      },
+      {
+        "text": "C 9 A-B- : 3 A-bb : 3 aaB- : 1 aabb",
+        "images": []
+      },
+      {
+        "text": "D 1 A-B- : 1 A-bb : 1 aaB- : 1 aabb",
+        "images": []
+      },
+      {
+        "text": "E 1 aB : 1 Ab : 1 AB : 1 ab",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 當兩個基因的重組頻率約為1%，下列敘述何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 僅在性染色體上",
+        "images": []
+      },
+      {
+        "text": "B 未連鎖在同一染色體",
+        "images": []
+      },
+      {
+        "text": "C 在同一染色體上，但彼此非常遠",
+        "images": []
+      },
+      {
+        "text": "D 在同一染色體上，但彼此非常接近",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 關於遺傳上的印痕現象（imprinting）之描述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 因為在不同基因產生突變，導致突變外表型的抑制作用",
+        "images": []
+      },
+      {
+        "text": "B DNA在配子生成過程（gametogenesis）的修飾（modification），影響合子的基因表現",
+        "images": []
+      },
+      {
+        "text": "C 因為帶有密碼序列（coding sequence）的干擾，導致基因的不活化",
+        "images": []
+      },
+      {
+        "text": "D 生物因為細胞質的物質導致",
+        "images": []
+      },
+      {
+        "text": "E 因為啟動子（promoter）和enhancer 距離改變所導致",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 下列染色體構造的改變中，何者對表現型的影響最大？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 缺失",
+        "images": []
+      },
+      {
+        "text": "B 重覆",
+        "images": []
+      },
+      {
+        "text": "C 倒位",
+        "images": []
+      },
+      {
+        "text": "D 易位",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. In a series of mapping experiments, the recombination frequencies for four different linked genes of Drosophila were determined as shown in the figure. What is the order of these genes on a chromosome map?",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/012.png"
+    ],
+    "options": [
+      {
+        "text": "A cn-rb-b-vg",
+        "images": []
+      },
+      {
+        "text": "B b-rb-cn-vg",
+        "images": []
+      },
+      {
+        "text": "C rb-cn-vg-b",
+        "images": []
+      },
+      {
+        "text": "D vg-b-rb-cn",
+        "images": []
+      },
+      {
+        "text": "E vg-cn-b-rb",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 有關人類色盲的遺傳敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 為隱性基因引起",
+        "images": []
+      },
+      {
+        "text": "B 男女生色盲機率相同",
+        "images": []
+      },
+      {
+        "text": "C 女性色盲者為異型配子基因型",
+        "images": []
+      },
+      {
+        "text": "D 男性色盲基因由父親遺傳而來",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 有關遺傳疾病的產生，下列何者最可能為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核酸序列突變不會造成遺傳疾病",
+        "images": []
+      },
+      {
+        "text": "B 同源染色體重組不一定會造成遺傳疾病",
+        "images": []
+      },
+      {
+        "text": "C 同源染色體數目增加不會造成遺傳疾病",
+        "images": []
+      },
+      {
+        "text": "D 同源染色體數目減少不會造成遺傳疾病",
+        "images": []
+      },
+      {
+        "text": "E 染色體斷裂不會造成遺傳疾病",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 有關染色體的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 每一種生物的基因聯鎖群是一定的數目",
+        "images": []
+      },
+      {
+        "text": "B 人類精細胞上的基因聯鎖群較精原細胞少一半",
+        "images": []
+      },
+      {
+        "text": "C 減數分裂後有時會造成子細胞內染色體數目不等",
+        "images": []
+      },
+      {
+        "text": "D 染色體較長，則其發生互換的機會也會較多",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 摩根（Thomas H. Morgan）將紅眼母果蠅與白眼公果蠅進行交配，所產出之F1皆為紅眼果蠅，接著將F1子代進行交配後，產出紅眼和白眼的F2果蠅。他發現於F2子代中的白眼果蠅皆為雄性。下列敘述何者為此實驗最可能的結論？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 決定眼睛顏色的基因位於X染色體",
+        "images": []
+      },
+      {
+        "text": "B 決定眼睛顏色的基因位於Y染色體",
+        "images": []
+      },
+      {
+        "text": "C 決定眼睛顏色的基因位於體染色體",
+        "images": []
+      },
+      {
+        "text": "D 無法判定眼睛顏色的基因位於何染色體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 摩根（Thomas H. Morgan）著名的果蠅雜交實驗中，他將紅眼母果蠅與白眼公果蠅進行雜交，所產出之F1皆為紅眼果蠅。接著將F1子代雜交後，產出紅眼和白眼的F2果蠅。他發現於F2子代中的白眼果蠅皆為雄性。請問決定果蠅眼睛顏色的基因位於？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A X染色體",
+        "images": []
+      },
+      {
+        "text": "B Y染色體",
+        "images": []
+      },
+      {
+        "text": "C 體染色體",
+        "images": []
+      },
+      {
+        "text": "D 無法判定",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 配子（gametes）在減數分裂第一期若發生同源染色體（homologous chromosome）不分離的現象，則配子的染色體數不可能出現下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A n",
+        "images": []
+      },
+      {
+        "text": "B n＋1",
+        "images": []
+      },
+      {
+        "text": "C n - 1",
+        "images": []
+      },
+      {
+        "text": "D 以上皆非",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 人體的染色體異常，可能源自其父親或母親的精子或卵形成過程發生不分離（nondisjunction）現象，使配子的染色體數目異常；某一患有克萊恩斐特氏症（Klinefelter syndrome）的兒童，假設其母親形成卵的過程是正常，而其父親在形成精子的過程發生了染色體不分離現象，有關精子形成的過程中，下列何階段發生染色體不分離現象機率最高？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 減數分裂I（meiosis I）",
+        "images": []
+      },
+      {
+        "text": "B 減數分裂II（meiosis II）",
+        "images": []
+      },
+      {
+        "text": "C 減數分裂I和減數分裂II",
+        "images": []
+      },
+      {
+        "text": "D 有絲分裂（mitosis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 將野生型果蠅（灰色正常翅，b+ b vg+ vg）與雙隱性果蠅（黑色捲翅，b b vg vg）交配，得到子代數比為b+ b vg+ vg : b b vg vg : b+ b vg vg : b b vg+ vg = 1150 :1150 : 0 : 0，下列何者為此現象最可能的因素?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 上位遺傳（epistasis）",
+        "images": []
+      },
+      {
+        "text": "B 母系效應（maternal effect）",
+        "images": []
+      },
+      {
+        "text": "C 基因多效性（pleiotropy）",
+        "images": []
+      },
+      {
+        "text": "D 基因連鎖（gene linkage）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 已知果蠅的b及vg為連鎖（linked）基因，以b+ b vg+ vg果蠅進行試交（testcross）試驗，得到後代的基因型及其數目分別為b+ b vg+ vg (905)、b b vg vg (895)、b+ b vg vg (97)、b b vg+ vg (103)，此二基因在染色體的距離，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 5 centiMorgan (cM)",
+        "images": []
+      },
+      {
+        "text": "B 10 cM",
+        "images": []
+      },
+      {
+        "text": "C 15 cM",
+        "images": []
+      },
+      {
+        "text": "D 20 cM",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 有關基因突變的錯誤敘述為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 只發生於細胞分裂過程中",
+        "images": []
+      },
+      {
+        "text": "B 若是隱性突變基因在族群中可由異型合子代代保存下去",
+        "images": []
+      },
+      {
+        "text": "C 鐮刀形血球性貧血為點突變的結果",
+        "images": []
+      },
+      {
+        "text": "D 人工誘導突變可用來改良作物品種",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 關於後代之變異性，可能因為何種因素所致：(1)姊妹染色單體（sister chromatid）之交換(2)精子與卵子之隨機受精（random fertilization）(3)染色體的獨立分配（independent assortment of chromosome）(4)同源染色分體（homologous chromatids）之刪除(5)非同源染色分體（nonhomologous chromosome）之易位（translocation）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)(3)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "E (2)(3)(5)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. Which of the following functional groups participate in chromatin-mediated gene expression?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A OH",
+        "images": []
+      },
+      {
+        "text": "B COOH",
+        "images": []
+      },
+      {
+        "text": "C CH3",
+        "images": []
+      },
+      {
+        "text": "D NH2",
+        "images": []
+      },
+      {
+        "text": "E CO",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 關於後代之變異性，可能因為何種因素所致：(1)姐妹分體（sister chromatids）之crossing over(2)精子與卵子之隨機授精(3)染色體獨立分離（Independent assortment of chromosomes）(4)同源染色體（homologous chromosome）之刪除(5)非同源染色體（nonhomologous chromosome）之易位",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)(3)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)(4)(5)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 如果眼睛皆為紅色的雄果蠅和雌果蠅交配後，生下的子代是：80隻紅眼雄果蠅，78隻白眼雄果蠅，158隻紅眼雌果蠅。請問果蠅白眼對偶基因是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 體染色體；顯性",
+        "images": []
+      },
+      {
+        "text": "B 性聯；顯性",
+        "images": []
+      },
+      {
+        "text": "C 體染色體；隱性",
+        "images": []
+      },
+      {
+        "text": "D 性聯；隱性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 各基因組之重組頻率（recombination frequencies）分別為cn-b: 9.5%; a-b: 17%; a-cn:8%，請問各基因的排列順序為何：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a-cn-b",
+        "images": []
+      },
+      {
+        "text": "B cn-a-b",
+        "images": []
+      },
+      {
+        "text": "C a-b-cn",
+        "images": []
+      },
+      {
+        "text": "D cn-b-a",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Genes A and B are linked on the same chromosome with recombination frequency of 20%. What will be the frequency of offspring with recessive phenotype from a cross between individuals with AB/ab and Ab/aB genotypes?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 20%",
+        "images": []
+      },
+      {
+        "text": "B 10%",
+        "images": []
+      },
+      {
+        "text": "C 6%",
+        "images": []
+      },
+      {
+        "text": "D 4%",
+        "images": []
+      },
+      {
+        "text": "E 2%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 一位色盲的媽媽和一位正常的爸爸生下的子女，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 所有的女兒都是色盲",
+        "images": []
+      },
+      {
+        "text": "B 所有的兒子都是色盲",
+        "images": []
+      },
+      {
+        "text": "C 不論兒子女兒都有一半的機率是色盲",
+        "images": []
+      },
+      {
+        "text": "D 皆為正常",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 大多數染色體數目的改變源自於配子形成時的不分離（nondisjunction），包括第13對、第18對與第21對染色體出現額外的染色體而成為三倍體（trisomy），為什麼唐氏症（trisomy 21）患者比其他二者常見？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 因為唐寶寶外型特徵明顯，辨識度高",
+        "images": []
+      },
+      {
+        "text": "B 因第21對染色體比其他染色體擁有更多基因",
+        "images": []
+      },
+      {
+        "text": "C 唐氏症並不比較常見，而是比較嚴重，所以引起較多重視",
+        "images": []
+      },
+      {
+        "text": "D trisomy13與trisomy18嬰孩通常出生不久即可能致命",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 假設小鼠體型大小由Igf 2基因控制，若一公鼠其對偶基因型為Ii，其體型正常，另一母鼠其對偶基因型亦為Ii，但體型表現瘦小，推測可能原因是此母鼠Igf 2發生基因印痕（genomic imprinting），亦即其顯性對偶基因可能發生何種反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷酸化",
+        "images": []
+      },
+      {
+        "text": "B 甲基化",
+        "images": []
+      },
+      {
+        "text": "C 乙醯化",
+        "images": []
+      },
+      {
+        "text": "D 以上皆非",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 若是將Y染色體上帶有正常的Sry基因的片段轉位到X染色體上，此時XX小鼠胚胎若是可以順利發育，則其外表型之敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 初始為雄性，出生後回復為雌性",
+        "images": []
+      },
+      {
+        "text": "B 初始為雌性，出生後回復為雄性",
+        "images": []
+      },
+      {
+        "text": "C 雄性",
+        "images": []
+      },
+      {
+        "text": "D 雌性",
+        "images": []
+      },
+      {
+        "text": "E 雌雄同體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 關於突變的敘述，請問下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在細胞進行有絲分裂和減數分裂時皆可能發生",
+        "images": []
+      },
+      {
+        "text": "B 發生於生殖細胞者才可以遺傳",
+        "images": []
+      },
+      {
+        "text": "C 隱性的突變基因在單套染色體的個體中可以表現出來",
+        "images": []
+      },
+      {
+        "text": "D 隱性基因不可能突變成為顯性基因",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 在複製動物技術可成功應用於哺乳動物，但複製動物可能會出現和細胞核捐贈者形態及行為的差異表現。Rainbow貓為花白毛色，而其複製貓CC則為灰白毛色，關於Rainbow貓和CC 貓毛色不同的原因，最可能是由下列那項因素造成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因被干擾靜默化（Silencing）",
+        "images": []
+      },
+      {
+        "text": "B X染色體不活化",
+        "images": []
+      },
+      {
+        "text": "C 染色體不分離",
+        "images": []
+      },
+      {
+        "text": "D 染色體多倍體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 基因型AaBbCc之個體，其ABC三基因聯鎖，已知AB間的互換率為20%，BC間的互換率為12%，AC間的互換率為32%，據此資料推測基因在染色體上的排列次序為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ABC",
+        "images": []
+      },
+      {
+        "text": "B ACB",
+        "images": []
+      },
+      {
+        "text": "C BAC",
+        "images": []
+      },
+      {
+        "text": "D 皆有可能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 當一個甲基添加到何種核苷酸上通常是產生突變的熱點（Hot spot）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腺嘌呤（Adenine）",
+        "images": []
+      },
+      {
+        "text": "B 胸腺嘧啶（Thymine）",
+        "images": []
+      },
+      {
+        "text": "C 尿嘧啶（Uracil）",
+        "images": []
+      },
+      {
+        "text": "D 胞嘧啶（Cytosine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 染色體不分離（Nondisjunction）之現象，發生在減數分裂配子（Gamete）形成中那一時期，會產生最高機率的異常染色體數目的配子？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Metaphase I",
+        "images": []
+      },
+      {
+        "text": "B Metaphase II",
+        "images": []
+      },
+      {
+        "text": "C Anaphase I",
+        "images": []
+      },
+      {
+        "text": "D Anaphase II",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 唐氏症患者具有三條21號染色體",
+        "images": []
+      },
+      {
+        "text": "B 鐮刀型貧血（sickle cell anemia）屬於體染色體的隱性疾病",
+        "images": []
+      },
+      {
+        "text": "C 苯酮尿症（phenylketonuria, PKU）屬於體染色體的隱性疾病",
+        "images": []
+      },
+      {
+        "text": "D 血友病為X性聯遺傳的隱性疾病",
+        "images": []
+      },
+      {
+        "text": "E 羊膜穿刺（amniocentesis）導致自然流產的機率較絨毛膜取樣（chorionic villi sampling）為高",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 以下何種遺傳性疾病為X-性聯隱性遺傳（X-linked recessive pattern）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血友病（hemophilia）",
+        "images": []
+      },
+      {
+        "text": "B 鐮刀性貧血（sickle cell disease）",
+        "images": []
+      },
+      {
+        "text": "C 家族性高血脂症（familial hypercholesterolaemia）",
+        "images": []
+      },
+      {
+        "text": "D 苯丙酮尿症（phenylketonruria）",
+        "images": []
+      },
+      {
+        "text": "E 唐氏症（Down syndrome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 黑色雄貓（性染色體為XY）和橙色雌貓（性染色體為XX）交配生下的小貓中，所有的小雄貓都是橙色的，所有的小雌貓都是同時具有黑橙兩色毛交雜嵌合的玳瑁貓；橙色雄貓和黑色雌貓交配生下的小貓中，所有的小雄貓都是黑色的，所有小雌貓都是玳瑁貓。由這樣的結果可以得到什麼樣的推論？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 決定貓的毛色的基因可能位於X染色體上",
+        "images": []
+      },
+      {
+        "text": "B 決定貓的毛色的基因可能位於Y染色體上",
+        "images": []
+      },
+      {
+        "text": "C 決定貓的毛色的基因可能位於粒線體中",
+        "images": []
+      },
+      {
+        "text": "D 貓的毛色基因表現可能受到轉位子（transposon）的影響",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 人類正常女性之染色體為44＋XX，二個X性染色體之其中一個會不活化而形成巴爾氏體（Barr body）。但在基因型為XXX之個體，其細胞內具有幾個巴爾氏體？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0個",
+        "images": []
+      },
+      {
+        "text": "B 1個",
+        "images": []
+      },
+      {
+        "text": "C 2個",
+        "images": []
+      },
+      {
+        "text": "D 3個",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 關於連鎖的基因的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在減數分裂過程中獨立分離",
+        "images": []
+      },
+      {
+        "text": "B 在減數分裂過程中不獨立分配",
+        "images": []
+      },
+      {
+        "text": "C 位於非同源染色體上",
+        "images": []
+      },
+      {
+        "text": "D 皆在X染色體上",
+        "images": []
+      },
+      {
+        "text": "E 在減數分裂過程中分配至對立的兩極",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 在人類染色體組（genome）一特定的基因座，被發現有200個不同的對偶基因（alleles）存在於族群中，那每一個體在這個基因座至多擁有幾個對偶基因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1",
+        "images": []
+      },
+      {
+        "text": "B 2",
+        "images": []
+      },
+      {
+        "text": "C 100",
+        "images": []
+      },
+      {
+        "text": "D 200",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 染色體組型（karyotype）分析可用於下列何種情形？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是否為同卵雙胞胎",
+        "images": []
+      },
+      {
+        "text": "B 色盲之鑑定",
+        "images": []
+      },
+      {
+        "text": "C 親緣關係之鑑定",
+        "images": []
+      },
+      {
+        "text": "D 白化症（albinism）之鑑定",
+        "images": []
+      },
+      {
+        "text": "E Turner syndrome 之鑑定",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. Carbon Copy是第一隻複製貓，其毛色與原提供細胞核的母貓皆為雜色花斑，然而兩者的花紋模式和斑紋位置卻不完全相同。下列敘述何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核移植的過程中控制毛色的基因產生突變",
+        "images": []
+      },
+      {
+        "text": "B 控制毛色的基因位於X染色體上，於發育過程中一條X染色體隨機形成巴爾氏體（Barr body）",
+        "images": []
+      },
+      {
+        "text": "C 如同玉米顆粒顏色的變化，為跳躍基因躍動現象",
+        "images": []
+      },
+      {
+        "text": "D 目前科學無法解釋該現象",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 關於X聯鎖隱性遺傳，下列敘述何者正確?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 有害基因由母親傳遞",
+        "images": []
+      },
+      {
+        "text": "B 患者一般為女性",
+        "images": []
+      },
+      {
+        "text": "C 雙親正常，女兒可以是患者",
+        "images": []
+      },
+      {
+        "text": "D 女兒若表型正常，後代都正常",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 人體的染色體異常，可能源自父母的精子或卵形成過程產生染色體不分離（nondisjunction）現象，下列何者不是以上原因造成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 克萊恩斐特氏症（Klinefelter syndrome）",
+        "images": []
+      },
+      {
+        "text": "B 唐氏症（Down syndrome）",
+        "images": []
+      },
+      {
+        "text": "C 愛德華氏症候群（Edwards syndrome）",
+        "images": []
+      },
+      {
+        "text": "D 庫賈氏病（Creutzfeldt-Jakob syndrome）",
+        "images": []
+      },
+      {
+        "text": "E 透納氏症（Turner syndrome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何者為性聯遺傳疾病？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 裘馨氏肌肉失養症（Duchenne muscular dystrophy）",
+        "images": []
+      },
+      {
+        "text": "B 囊狀纖維化（cystic fibrosis）",
+        "images": []
+      },
+      {
+        "text": "C 唐氏症（Down syndrome）",
+        "images": []
+      },
+      {
+        "text": "D 軟骨發育不全（achondroplasia）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 基因SRY（sex-determining region of Y）是指下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 引發雌性發育且位於X染色體的基因",
+        "images": []
+      },
+      {
+        "text": "B 體染色體基因（autosomal gene），是Y染色體的基因表現所需",
+        "images": []
+      },
+      {
+        "text": "C 引發雄性發育且位於Y染色體的基因",
+        "images": []
+      },
+      {
+        "text": "D 體染色體基因，是X染色體的基因表現所需",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 小明被診斷出罹患一種粒線體缺陷的肌肉萎縮症。他的家族中，何者可能有罹患此病的高風險？ ①姨表妹　②姑表弟　③叔堂哥　④舅表姊",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①②",
+        "images": []
+      },
+      {
+        "text": "B ③④",
+        "images": []
+      },
+      {
+        "text": "C ①④",
+        "images": []
+      },
+      {
+        "text": "D ①",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列那些現象與基因DNA甲基化（methylation）有關？I. 基因體印記（Genomic imprinting）II. 染色體轉位（Chromosome translocation）III. X染色體不活化（X chromosome inactivation）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 只有III有關",
+        "images": []
+      },
+      {
+        "text": "B I和II",
+        "images": []
+      },
+      {
+        "text": "C I 和III",
+        "images": []
+      },
+      {
+        "text": "D II 和III",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 蜜蜂的社會階級有蜂后、雄蜂與工蜂。現假設某蜜蜂物種的蜂后染色體數目為32＋XX，則雄蜂的染色體數目應為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 16＋X",
+        "images": []
+      },
+      {
+        "text": "B 16＋O",
+        "images": []
+      },
+      {
+        "text": "C 32＋XX",
+        "images": []
+      },
+      {
+        "text": "D 32＋XY",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 下列有關染色體的敘述，請問何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 染色體因聯鎖作用，而造成基因重組",
+        "images": []
+      },
+      {
+        "text": "B 由染色體區域圖可以表示出基因的順序但無法表示基因的距離",
+        "images": []
+      },
+      {
+        "text": "C 若兩基因位在同一條染色體上，兩者間的互換率不會超過50%",
+        "images": []
+      },
+      {
+        "text": "D 染色體遺傳學說主要是根據孟德爾豌豆實驗之結果分析而確立的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 費城染色體（Philadelphia chromosome）是何種染色體變異的例子？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 染色體轉位（chromosome translocation）",
+        "images": []
+      },
+      {
+        "text": "B 單染色體（monosomy）",
+        "images": []
+      },
+      {
+        "text": "C 三染色體（trisomy）",
+        "images": []
+      },
+      {
+        "text": "D 非整倍體（aneuploidy）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. For what purpose(s) might a karyotype be prepared?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A for prenatal screening, to determine if a fetus has the correct number of chromosomes",
+        "images": []
+      },
+      {
+        "text": "B to determine whether a fetus is male or female",
+        "images": []
+      },
+      {
+        "text": "C to detect the possible presence of chromosomal abnormalities such as deletions, inversions, or translocations",
+        "images": []
+      },
+      {
+        "text": "D The first and second answers are correct.",
+        "images": []
+      },
+      {
+        "text": "E The first three answers are correct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 下表為z, x, c, v和b五個基因的重組頻率，請問其染色體圖譜上基因的順序為何？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/013.png"
+    ],
+    "options": [
+      {
+        "text": "A z-x-c-v-b",
+        "images": []
+      },
+      {
+        "text": "B c-v-z-b-x",
+        "images": []
+      },
+      {
+        "text": "C c-b-v-z-x",
+        "images": []
+      },
+      {
+        "text": "D x-b-z-v-c",
+        "images": []
+      },
+      {
+        "text": "E x-v-c-b-z",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ]
+  }
+]

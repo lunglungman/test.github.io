@@ -1,0 +1,1474 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 當某植物的α澱粉酶基因（α-amylase gene）突變而失去功能時，最可能對該種子萌芽過程（germination）造成何種影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胚會營養缺乏",
+        "images": []
+      },
+      {
+        "text": "B 種子無法吸收水分",
+        "images": []
+      },
+      {
+        "text": "C 種皮無法脫落",
+        "images": []
+      },
+      {
+        "text": "D 種子無法萌芽",
+        "images": []
+      },
+      {
+        "text": "E 種子發芽速度變快，但存活率降低",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. What is the logical treatment to make a seed break dormancy?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A IAA",
+        "images": []
+      },
+      {
+        "text": "B CO2",
+        "images": []
+      },
+      {
+        "text": "C DTT",
+        "images": []
+      },
+      {
+        "text": "D gibberellins",
+        "images": []
+      },
+      {
+        "text": "E ascorbic acid",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. In a dark environment, plants will grow toward light in a response called phototropism. Which of the followings is an INCORRECT statement regarding phototropism?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Phototropism is caused by a chemical signal.",
+        "images": []
+      },
+      {
+        "text": "B One chemical involved is auxin.",
+        "images": []
+      },
+      {
+        "text": "C Auxin causes an increase in growth on one side of the stem.",
+        "images": []
+      },
+      {
+        "text": "D Auxin causes a decrease in growth on the side of the stem exposed to light.",
+        "images": []
+      },
+      {
+        "text": "E Removing the apical meristem prevents phototropism.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. In Taiwan, farmers harvest banana when the fruit is green. Then, it is shipped to other countries. Before marketing, with what kind of plant hormone is the fruit treated?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Abscisic acid",
+        "images": []
+      },
+      {
+        "text": "B Ethylene",
+        "images": []
+      },
+      {
+        "text": "C Auxins",
+        "images": []
+      },
+      {
+        "text": "D Gibberellins",
+        "images": []
+      },
+      {
+        "text": "E Cytokinins",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 植物氣孔調節蒸散作用，下列何種情形最可能促使植物氣孔關閉？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 保衛細胞膨大",
+        "images": []
+      },
+      {
+        "text": "B 保衛細胞中鉀離子濃度增加",
+        "images": []
+      },
+      {
+        "text": "C 植物水分供應充足但CO2濃度不足以供應光合作用所需",
+        "images": []
+      },
+      {
+        "text": "D 葉片中離層酸（abscisic acid, ABA）濃度增加",
+        "images": []
+      },
+      {
+        "text": "E 光照刺激",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. Which of the following statements about plant hormones is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Auxin (IAA) is produced by shoot apical meristems to stimulate stem elongation.",
+        "images": []
+      },
+      {
+        "text": "B Cytokinins are synthesized in roots to regulate cell division.",
+        "images": []
+      },
+      {
+        "text": "C Gibberellins (GA) are produced by meristems of apical buds to stimulate pollen development.",
+        "images": []
+      },
+      {
+        "text": "D Ethylene can be produced by most parts of the plant to promote ripening of fruits.",
+        "images": []
+      },
+      {
+        "text": "E Jasmonates are derived from cartenoid regulate floral development.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列植物生理反應中，哪個不受紅光影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 常日照植物開花",
+        "images": []
+      },
+      {
+        "text": "B 光反應（photoreaction）",
+        "images": []
+      },
+      {
+        "text": "C 種子發芽",
+        "images": []
+      },
+      {
+        "text": "D 向地性（gravitropism）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 有關植物激素（hormone）可誘發許多植物生理作用，下列何種植物激素在植物防禦病蟲害上扮演最重要之角色？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長素（auxin）",
+        "images": []
+      },
+      {
+        "text": "B 吉貝素（gibberellins）",
+        "images": []
+      },
+      {
+        "text": "C 芥菜固醇（brassinosteroids）",
+        "images": []
+      },
+      {
+        "text": "D 細胞分裂素（cytokinins）",
+        "images": []
+      },
+      {
+        "text": "E 茉莉酸（jasmonates）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下圖為長日照與短日照植物受光影響的開花模式：請問短日照植物在①, ②及長日照植物在③, ④的表現應是：",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/037.png"
+    ],
+    "options": [
+      {
+        "text": "A ①②③④全開花",
+        "images": []
+      },
+      {
+        "text": "B ①不開花　②開花　③開花　④不開花",
+        "images": []
+      },
+      {
+        "text": "C ①開花　②不開花　③開花　④不開花",
+        "images": []
+      },
+      {
+        "text": "D ①不開花　②開花　③不開花　④開花",
+        "images": []
+      },
+      {
+        "text": "E ①開花　②不開花　③不開花　④開花",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 請問下列何者最可能在植物的正屈光性反應（positive phototropic response）實驗中發現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 光會破壞植物生長素（auxin）",
+        "images": []
+      },
+      {
+        "text": "B 植物生長素透過質外體（apoplast）往下運輸",
+        "images": []
+      },
+      {
+        "text": "C 植物生長素在莖曲折的區域產生",
+        "images": []
+      },
+      {
+        "text": "D 植物生長素會移動到莖的暗處",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. A plant will recognize a pathogenic invader",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A if it has many specific plant disease resistance (R) genes.",
+        "images": []
+      },
+      {
+        "text": "B when the pathogen has an R gene complementary to the plant's antivirulence (Avr) gene.",
+        "images": []
+      },
+      {
+        "text": "C when the pathogen secretes Avr protein.",
+        "images": []
+      },
+      {
+        "text": "D if it has the specific R gene that corresponds to the pathogen molecule encoded by an Avr gene.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 原本應開花的短日照植物，在其黑暗期間若用短暫紅光照射處理就不會開花，其原因為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 光敏素在照射紅光之後即失去活性",
+        "images": []
+      },
+      {
+        "text": "B 光敏素在照射紅光之後容易被分解",
+        "images": []
+      },
+      {
+        "text": "C 光照之後會造成Pr形式的光敏素累積",
+        "images": []
+      },
+      {
+        "text": "D Pfr形式的光敏素會抑制短日照植物開花",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 某農夫在巡視所栽種的作物時，發現有部分作物的葉片出現黑色斑點並有凋萎現象，故推論該現象為病原菌入侵所造成，此時被感染的葉片上應有什麼反應已被引發？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抗性反應（resistant response）",
+        "images": []
+      },
+      {
+        "text": "B 非致病反應（avirulence response）",
+        "images": []
+      },
+      {
+        "text": "C 過敏反應（hypersensitive response）",
+        "images": []
+      },
+      {
+        "text": "D 致病反應（virulence response）",
+        "images": []
+      },
+      {
+        "text": "E 凋亡反應（apoptosis response）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 植物的果實成熟與掉落與那一種物質最有關係？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 吉貝素（gibberellin）",
+        "images": []
+      },
+      {
+        "text": "B 細胞分裂素（cytokinins）",
+        "images": []
+      },
+      {
+        "text": "C 空氣中二氧化碳濃度",
+        "images": []
+      },
+      {
+        "text": "D 乙烯（ethylene）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 關於植物對抗致病性微生物防禦機制的描述，下列何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 產生抗微生物因子（anti-microbial chemicals），如phytoalexins",
+        "images": []
+      },
+      {
+        "text": "B R蛋白（R protein）與特定微生物分子（effector）結合",
+        "images": []
+      },
+      {
+        "text": "C 高敏反應（hypersensitive response）促成感染部位的修復",
+        "images": []
+      },
+      {
+        "text": "D 產生methylsalicylic acid，最終促成系統性防禦",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 幫助植物忍受乾旱的賀爾蒙是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脫落酸（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "B 赤酶素（gibberellins）",
+        "images": []
+      },
+      {
+        "text": "C 細胞分裂素（cytokinin）",
+        "images": []
+      },
+      {
+        "text": "D 乙烯（ethylene）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 當病原真菌入侵植物時，下列何者是被感染的植物細胞最有可能產生與釋放的物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 反義股RNA（antisense RNA）",
+        "images": []
+      },
+      {
+        "text": "B 光敏色素（phytochrome）",
+        "images": []
+      },
+      {
+        "text": "C 植物防禦素（phytoalexins）",
+        "images": []
+      },
+      {
+        "text": "D 甲殼素（chitin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 有關光敏素（phytochrome）的描述，下列哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 與開花有關",
+        "images": []
+      },
+      {
+        "text": "B 位於葉綠體",
+        "images": []
+      },
+      {
+        "text": "C 僅存在高等植物",
+        "images": []
+      },
+      {
+        "text": "D 是一種脂蛋白",
+        "images": []
+      },
+      {
+        "text": "E 植物抗旱的物質之一",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. A farmer uses triazine herbicide to control pigweed in his field. For the first few years, the triazine works well and almost all the pigweed dies; but after several years, the farmer sees more and more pigweed. Which of these explanations best explains what happened?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The herbicide company lost its triazine formula and started selling poor-quality triazine.",
+        "images": []
+      },
+      {
+        "text": "B Triazine-resistant pigweed has less-efficient photosynthesis metabolism.",
+        "images": []
+      },
+      {
+        "text": "C Natural selection caused the pigweed to mutate, creating a new triazine-resistant species.",
+        "images": []
+      },
+      {
+        "text": "D Triazine-resistant weeds were more likely to survive and reproduce.",
+        "images": []
+      },
+      {
+        "text": "E Disruptive selection caused the pigweed to produce a new triazine-resistant species.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 茉莉酸（Jasmonic acid）在植物防禦反應中所扮演的角色為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 直接抑制食草性動物消化蛋白質之功能",
+        "images": []
+      },
+      {
+        "text": "B 促進植物氣孔張開，提高呼吸作用及光合作用，以延長細胞壽命",
+        "images": []
+      },
+      {
+        "text": "C 具有毒性，使昆蟲接觸後死亡",
+        "images": []
+      },
+      {
+        "text": "D 調節葉片酸鹼值，使病原菌較不易入侵",
+        "images": []
+      },
+      {
+        "text": "E 具有調控植物抗蟲基因之能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列有關植物防禦機制的敘述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 當植物受感染時會產生一些激素（hormones）來參與植物的防禦機制",
+        "images": []
+      },
+      {
+        "text": "B 植物遭受生物性逆境（biotic stress）時，可藉由合成水楊酸（salicylic acid）誘導後續反應",
+        "images": []
+      },
+      {
+        "text": "C 植物合成的茉莉酸（Jasmonic acid），可調節植物蛋白酶抑制劑基因（proteinase inhibitor genes）表現",
+        "images": []
+      },
+      {
+        "text": "D 植物對病菌與草食性動物產生的防禦反應具有物種的專一性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列有關植物體乙烯（ethylene）與離層酸的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 兩者均為氣體",
+        "images": []
+      },
+      {
+        "text": "B 與其他荷爾蒙比較下，兩者的生理活性主要與環境逆境有關",
+        "images": []
+      },
+      {
+        "text": "C 兩者的受體與光敏素一樣均位於細胞膜上",
+        "images": []
+      },
+      {
+        "text": "D 兩者均以環化的AMP（即cAMP）來活化訊息傳遞中的激酶（kinase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. Which of the following statements about plant hormones differing from hormones in animals is correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Plant hormones are synthesized from two or more different molecules.",
+        "images": []
+      },
+      {
+        "text": "B Animal hormones are primarily for mating and embryonic development.",
+        "images": []
+      },
+      {
+        "text": "C Plant hormones interact primarily with intracellular receptors.",
+        "images": []
+      },
+      {
+        "text": "D Animal hormones are found in much greater concentration.",
+        "images": []
+      },
+      {
+        "text": "E Plant hormones may travel in air or through vascular systems.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Which plant hormone is NOT correctly paired with its function?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A auxin － promotes stem growth through cell elongation",
+        "images": []
+      },
+      {
+        "text": "B cytokinins － initiate programmed cell death",
+        "images": []
+      },
+      {
+        "text": "C gibberellins － stimulate seed germination",
+        "images": []
+      },
+      {
+        "text": "D abscisic acid － promotes seed dormancy",
+        "images": []
+      },
+      {
+        "text": "E ethylene － inhibits cell elongation",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 一短日照植物的臨界光週期是13小時，在下列何種情況下植物才會開花？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 14小時光照，隨後10小時夜長",
+        "images": []
+      },
+      {
+        "text": "B 10小時光照，隨後14小時夜長",
+        "images": []
+      },
+      {
+        "text": "C 12小時光照，隨後12小時夜長，並在第18小時給一次紅光閃光",
+        "images": []
+      },
+      {
+        "text": "D 10小時光照，隨後14小時夜長，並在第18小時給一次紅光閃光",
+        "images": []
+      },
+      {
+        "text": "E 12小時光照，隨後12小時夜長，並在第18小時順序給一次紅外線閃光和紅光閃光",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 下列有關植物荷爾蒙的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 離層酸（ABA）可延遲植物老化",
+        "images": []
+      },
+      {
+        "text": "B 吉貝素（GA）可抑制澱粉水解酶的合成",
+        "images": []
+      },
+      {
+        "text": "C 除了果實外，植物葉片也會產生乙烯",
+        "images": []
+      },
+      {
+        "text": "D 離層酸只對吉貝素具有拮抗作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. A plant produces a guard cell hormone under water-deficit conditions. Most likely the hormone is ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 2, 4-D",
+        "images": []
+      },
+      {
+        "text": "B gibberellin",
+        "images": []
+      },
+      {
+        "text": "C IAA",
+        "images": []
+      },
+      {
+        "text": "D abscisic acid",
+        "images": []
+      },
+      {
+        "text": "E ethylene",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. We tend to think of plants as immobile when, in fact, they can move in many ways. All of the following are movements plants can accomplish EXCEPT",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A growth movements up or down in response to gravity.",
+        "images": []
+      },
+      {
+        "text": "B folding and unfolding of leaves using muscle-like tissues.",
+        "images": []
+      },
+      {
+        "text": "C growth movements toward or away from light.",
+        "images": []
+      },
+      {
+        "text": "D changes in plant growth form in response to wind or touch.",
+        "images": []
+      },
+      {
+        "text": "E rapid responses using action potentials similar to those found in the nervous tissue of animals.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. The transduction pathway that activates systemic acquired resistance in plants is initially signaled by ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A antisense RNA",
+        "images": []
+      },
+      {
+        "text": "B Pfr phytochrome",
+        "images": []
+      },
+      {
+        "text": "C salicylic acid",
+        "images": []
+      },
+      {
+        "text": "D abscisic acid",
+        "images": []
+      },
+      {
+        "text": "E red, but not far-red, light",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列有關吉貝素的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 其受體位於細胞膜",
+        "images": []
+      },
+      {
+        "text": "B GA3是第一個被分離出來且活性最高者",
+        "images": []
+      },
+      {
+        "text": "C 熱帶植物比溫帶植物易受GA的催化開花",
+        "images": []
+      },
+      {
+        "text": "D 園藝植物可利用GA的合成抑制劑來矮化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 下列何種激素可促使綠色的番茄成熟而變紅？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長素（auxin）",
+        "images": []
+      },
+      {
+        "text": "B 吉貝素（gibberellin）",
+        "images": []
+      },
+      {
+        "text": "C 乙烯（ethylene）",
+        "images": []
+      },
+      {
+        "text": "D 離素（abscisic acid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列何者為提供保護避免病原菌侵入維管束植物葉片的聚酯聚合物（Polyester polymer）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 幾丁質（Chitin）",
+        "images": []
+      },
+      {
+        "text": "B 纖維素（Cellulose）",
+        "images": []
+      },
+      {
+        "text": "C 木質素（Lignin）",
+        "images": []
+      },
+      {
+        "text": "D 角質（Cutin）",
+        "images": []
+      },
+      {
+        "text": "E 半纖維素（Hemicellulose）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 關於植物賀爾蒙與動物賀爾蒙特性的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 動植物都由腺體來製造賀爾蒙",
+        "images": []
+      },
+      {
+        "text": "B 動物有固醇類賀爾蒙，植物則無",
+        "images": []
+      },
+      {
+        "text": "C 植物賀爾蒙有氣體形式，動物則無",
+        "images": []
+      },
+      {
+        "text": "D 動物及植物賀爾蒙均需要透過細胞外液及組織間液進行運送",
+        "images": []
+      },
+      {
+        "text": "E 相較於動物賀爾蒙，大部分植物賀爾蒙需要較高濃度才能誘發相對應反應",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. All of the following are responses of plants to cold stress except:",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the production of a specific solute \"plant antifreeze\" that reduces water loss.",
+        "images": []
+      },
+      {
+        "text": "B excluding ice crystals from the interior walls.",
+        "images": []
+      },
+      {
+        "text": "C conversion of the fluid mosaic cell membrane to a solid mosaic one.",
+        "images": []
+      },
+      {
+        "text": "D an alteration of membrane lipids so that the membranes remain flexible.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 關於植物的防禦系統，下列描述哪一項錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病原侵入植物體會刺激使其發生高度敏感化反應（hypersensitive response）",
+        "images": []
+      },
+      {
+        "text": "B 利用肉食性的動物來協助共同防禦特殊的草食性動物",
+        "images": []
+      },
+      {
+        "text": "C 因草食性動物的傷害而釋放某些揮發性物質，警示鄰近的同種植物",
+        "images": []
+      },
+      {
+        "text": "D 產生不好吃或有毒的成份，來防止被草食性動物掠食",
+        "images": []
+      },
+      {
+        "text": "E 水楊酸是植物體後天性系統抗性（systemic acquired resistance, SAR）的代謝產物之一",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 有關植物向光性（phototropism）的敘述，下列何者最佳？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 光促使植物生長激素（auxin）累積在植物莖的陰影面",
+        "images": []
+      },
+      {
+        "text": "B 植物生長激素（auxin）間接抑制植物幹細胞的伸長",
+        "images": []
+      },
+      {
+        "text": "C 植物生長激素由胚芽鞘的頂端分生組織產生並向下移動",
+        "images": []
+      },
+      {
+        "text": "D 細胞分裂素（cytokinin）比生長素更直接地參與",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. Which of the following hormones is the most useful for promoting the growth of the root after plant cuttings?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Abscisic acid",
+        "images": []
+      },
+      {
+        "text": "B Auxins",
+        "images": []
+      },
+      {
+        "text": "C Cytokinins",
+        "images": []
+      },
+      {
+        "text": "D Gibberellins",
+        "images": []
+      },
+      {
+        "text": "E ligosaccharins",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. ________ triggers the ripening and aging of the banana, while ________ inhibits growth and seed germination during periods of drought.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Auxin; abscisic acid",
+        "images": []
+      },
+      {
+        "text": "B Abscisic acid; ethylene",
+        "images": []
+      },
+      {
+        "text": "C Ethylene; cytokinin",
+        "images": []
+      },
+      {
+        "text": "D Ethylene; abscisic acid",
+        "images": []
+      },
+      {
+        "text": "E Auxin; gibberellin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 由嫩枝頂端從上向下運輸是植物生長素在植物體流動的方向，此現象稱之為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雙極性運輸",
+        "images": []
+      },
+      {
+        "text": "B 單極性運輸",
+        "images": []
+      },
+      {
+        "text": "C 非極性運輸",
+        "images": []
+      },
+      {
+        "text": "D 三極性運輸",
+        "images": []
+      },
+      {
+        "text": "E 偶極性運輸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. What is the response a plant would react to an attack from herbivores?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Leaf abscission to prevent further loss of tissue.",
+        "images": []
+      },
+      {
+        "text": "B Early flowering to reproduce before being eaten.",
+        "images": []
+      },
+      {
+        "text": "C Production of chemical compounds for defense or to attract predators of the herbivores.",
+        "images": []
+      },
+      {
+        "text": "D Production of physical defenses, such as thorns.",
+        "images": []
+      },
+      {
+        "text": "E Production of thicker bark and cuticle to make it more difficult to eat.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 有關水果的成熟及葉子和果實的掉落，最可能受到下列何種植物賀爾蒙的調控？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物生長激素（auxin）",
+        "images": []
+      },
+      {
+        "text": "B 細胞分裂素（cytokinins）",
+        "images": []
+      },
+      {
+        "text": "C 吲哚乙酸（indole acetic acid）",
+        "images": []
+      },
+      {
+        "text": "D 乙烯（ethylene）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 有關光敏素（phytochrome）的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 有Pr和Pfr兩種形式，其中Pr具有活性，Pfr不具有活性",
+        "images": []
+      },
+      {
+        "text": "B 屬於植物激素，具調節植物開花與否的功能",
+        "images": []
+      },
+      {
+        "text": "C 屬於植物色素，能使植物呈現綠色",
+        "images": []
+      },
+      {
+        "text": "D 當細胞內的[Pfr]＞[Pr]時，會促進長日照植物開花",
+        "images": []
+      },
+      {
+        "text": "E 當細胞內的[Pr]減少時會引起植物休眠",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 植物荷爾蒙，又稱為植物生長調節劑（plant growth regulators），關於它們的特性，下列描述哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物體離層的發生主要受乙烯調控",
+        "images": []
+      },
+      {
+        "text": "B 均為水溶性的物質",
+        "images": []
+      },
+      {
+        "text": "C 必須在細胞質內運送到達作用部位",
+        "images": []
+      },
+      {
+        "text": "D 具有濃度與敏感度的效應",
+        "images": []
+      },
+      {
+        "text": "E 自然環境中沒有植物荷爾蒙的存在",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列何者是植物生長素（auxin）“酸促生長（acid-growth）”理論的一部分？(1) 植物生長素刺激細胞膜上的氫離子幫浦（H+pump）(2) 細胞壁上鍵結變鬆(3) 植物生長素活化氫離子幫浦（H+pump）刺激分生組織（meristem）分裂(4) 擴展蛋白（expansin）滲透力變好",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. The series of metabolic events that occurs within tomato plants in response to wounding is ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a waterfall effect",
+        "images": []
+      },
+      {
+        "text": "B the hypersensitive response",
+        "images": []
+      },
+      {
+        "text": "C resistance to coevolution",
+        "images": []
+      },
+      {
+        "text": "D a systemic response",
+        "images": []
+      },
+      {
+        "text": "E a pathogen-specific response",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. The plant hormone that inhibits growth and promotes leaf senescence is ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A abscisic acid",
+        "images": []
+      },
+      {
+        "text": "B auxin",
+        "images": []
+      },
+      {
+        "text": "C cytokinin",
+        "images": []
+      },
+      {
+        "text": "D gibberellin",
+        "images": []
+      },
+      {
+        "text": "E strigolactone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 在昏暗環境中生長的植物會朝光線較亮的方向生長，此現象為趨光性（phototropism）。下列關於趨光性的敘述何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是由植物生長激素（auxin）所調控",
+        "images": []
+      },
+      {
+        "text": "B 植物生長激素auxin可使照光面的細胞生長速率增加",
+        "images": []
+      },
+      {
+        "text": "C 不管照光與否，植物各部位之auxin濃度皆維持等量",
+        "images": []
+      },
+      {
+        "text": "D 若將植物的頂端分生組織（apical meristem）去除，趨光性便會消失",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 水是影響植物分佈及生理的重要因子，如何保有水份是植物生存的重要機轉，所以當環境的水份資源有所改變，根據水份的缺乏程度調節生理代謝，你認為下列描述哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 根部可感知輕微的水份缺乏而送出訊息至葉部，減少氣孔開度",
+        "images": []
+      },
+      {
+        "text": "B 淹水情形，水份充分，不引起生理代謝改變",
+        "images": []
+      },
+      {
+        "text": "C 在水所含的鹽份增加狀況下，水份的吸收會增加",
+        "images": []
+      },
+      {
+        "text": "D 藻類無維管束分化，沒有根分化，所以生理代謝不受水份影響",
+        "images": []
+      },
+      {
+        "text": "E 空氣相對濕度為水蒸氣狀態，對於葉部的水份狀態影響不大",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 有關長日照植物的敘述，下列何者最佳？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 夜間時間長度超過一定的臨界值時可開花的植物",
+        "images": []
+      },
+      {
+        "text": "B 以短暫的黑暗中斷光照期不影響此類植物開花",
+        "images": []
+      },
+      {
+        "text": "C 光周期的黑暗時數長於其臨界黑暗時可開花的植物",
+        "images": []
+      },
+      {
+        "text": "D 光周期的日照時數長於其臨界日照時可開花的植物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 下列有關植物的過敏反應（hypersensitive response）的敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 屬於局部、專一性反應",
+        "images": []
+      },
+      {
+        "text": "B 會產生病死斑的防禦反應",
+        "images": []
+      },
+      {
+        "text": "C 是病原菌與寄主共同演化的結果",
+        "images": []
+      },
+      {
+        "text": "D 會於感染處產生水楊酸（salicylic acid），並以甲基水楊酸進行訊息傳遞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  }
+]

@@ -1,0 +1,1492 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 體染色體顯性遺傳疾病藍眼症（blue sclera）之患者，他們有淺藍色的鞏膜，同時其骨骼相當脆弱，聽力亦有問題，這類的遺傳是屬於下列何種遺傳的範例？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 不完全顯性（incomplete dominance）",
+        "images": []
+      },
+      {
+        "text": "B 基因多效性（pleiotropy）",
+        "images": []
+      },
+      {
+        "text": "C 上位現象（epistasis）",
+        "images": []
+      },
+      {
+        "text": "D 等顯性（codominance）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 將二親本進行交配，其二親本中不連鎖的七個基因之基因型分別為Aa Bb cc Dd Ee Ff Gg 和Aa Bb Cc Dd ee Ff Gg，其子代在七個基因皆表現隱性外表型的期望值為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1/4)7",
+        "images": []
+      },
+      {
+        "text": "B (1/4)6",
+        "images": []
+      },
+      {
+        "text": "C (1/4)4",
+        "images": []
+      },
+      {
+        "text": "D (1/4)3",
+        "images": []
+      },
+      {
+        "text": "E (1/4)2",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列何者最可能為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 顯性基因對生物個體生存是比較有益的，所以是顯性",
+        "images": []
+      },
+      {
+        "text": "B 隱性基因在演化中會逐漸被淘汰，直到只剩顯性基因",
+        "images": []
+      },
+      {
+        "text": "C 性聯遺傳基因都是隱性",
+        "images": []
+      },
+      {
+        "text": "D 突變基因一定是變成隱性的",
+        "images": []
+      },
+      {
+        "text": "E 一個哺乳類動物的基因中，顯性基因不一定會表現",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 白色母雞和黑色公雞的所有子代皆為灰色，這個遺傳模式稱為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 性聯",
+        "images": []
+      },
+      {
+        "text": "B 多樣性",
+        "images": []
+      },
+      {
+        "text": "C 獨立分配",
+        "images": []
+      },
+      {
+        "text": "D 不完全顯性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 對於Tay-Sachs disease之敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 發生肝細胞受損",
+        "images": []
+      },
+      {
+        "text": "B 第21 對染色體異常",
+        "images": []
+      },
+      {
+        "text": "C 由於缺乏分解多醣類酵素引起",
+        "images": []
+      },
+      {
+        "text": "D 脂質在腦細胞中堆積",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 一對夫婦育有2個兒子，皆患有Tay-Sachs disease，現在太太又懷孕了，請問第3個小孩是正常女性的機率有多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 3/8",
+        "images": []
+      },
+      {
+        "text": "B 1/4",
+        "images": []
+      },
+      {
+        "text": "C 1/8",
+        "images": []
+      },
+      {
+        "text": "D 0",
+        "images": []
+      },
+      {
+        "text": "E 1/16",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. Mendel’s law of independent assortment states that",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A chromosomes sort independently of each other during mitosis and meiosis.",
+        "images": []
+      },
+      {
+        "text": "B independent sorting of genes produces polyploid plants under some circumstances.",
+        "images": []
+      },
+      {
+        "text": "C the allele that a gamete receives for one gene does not influence the allele the gamete receives for another gene.",
+        "images": []
+      },
+      {
+        "text": "D genes are sorted concurrently during gamete formation.",
+        "images": []
+      },
+      {
+        "text": "E genes are transmitted to progeny.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. Sex-influenced gene雖位於體染色體（autosome）上，但性別會影響其表現，雄性禿就是其中一個例子。假設雄性禿是由一對具兩種型式（B1、B2）之對偶基因調控，B1會導致禿頭，B2則正常，若為B1B2在女性為正常，男性則因雄性激素影響下表現出禿頭。一對夫婦皆為B1B2，他們的兒子，將來禿頭的機率為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 75%",
+        "images": []
+      },
+      {
+        "text": "B 50%",
+        "images": []
+      },
+      {
+        "text": "C 12.5%",
+        "images": []
+      },
+      {
+        "text": "D 37.5%",
+        "images": []
+      },
+      {
+        "text": "E 25%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. Which of the following do you expect if an individual is heterozygous for the sickle-cell trait?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A they will not develop sickle-cell disease",
+        "images": []
+      },
+      {
+        "text": "B they will show some symptoms of the disease because the allele that causes sickle-cell disease is not really recessive",
+        "images": []
+      },
+      {
+        "text": "C they will be more apt to acquire a serious case of malaria",
+        "images": []
+      },
+      {
+        "text": "D they will have full-blown sickle-cell disease because the allele is dominant",
+        "images": []
+      },
+      {
+        "text": "E none of the listed choices are correct",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列何者符合孟德爾的遺傳理論（Mendelian inheritance）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 性聯遺傳（sex-linked inheritance）",
+        "images": []
+      },
+      {
+        "text": "B 上位遺傳（epistasis）",
+        "images": []
+      },
+      {
+        "text": "C 染色體獨立分離、分配（chromosome segregation，independent assortment）",
+        "images": []
+      },
+      {
+        "text": "D 色質體的遺傳（plastid inheritance）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列哪一個生殖方式產生的新個體與親代差異較大？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 豌豆的自花授粉",
+        "images": []
+      },
+      {
+        "text": "B 利用匍匐莖來繁殖草莓",
+        "images": []
+      },
+      {
+        "text": "C 蝴蝶蘭的組織培養",
+        "images": []
+      },
+      {
+        "text": "D 馬鈴薯的塊莖繁殖",
+        "images": []
+      },
+      {
+        "text": "E 石蓮以葉片繁殖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 某人的某一對特定的對偶基因（Allele）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 會遺傳給同一個小孩",
+        "images": []
+      },
+      {
+        "text": "B 位在同一條染色體上",
+        "images": []
+      },
+      {
+        "text": "C 具有一樣的表現型",
+        "images": []
+      },
+      {
+        "text": "D 具有一樣的基因型",
+        "images": []
+      },
+      {
+        "text": "E 分別來自此人父母",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 在Mendel的雙品系雜交試驗（dihybrid），使用種子形狀與種子顏色二獨立性狀進行實驗，種子形狀圓形和皺型分別為顯性和隱性，種子顏色為黃色和綠色分別為顯性和隱性，在F2雜交子代中，圓形綠色種子數目為108，下列何者接近圓形黃色種子數目？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 315",
+        "images": []
+      },
+      {
+        "text": "B 981",
+        "images": []
+      },
+      {
+        "text": "C 101",
+        "images": []
+      },
+      {
+        "text": "D 32",
+        "images": []
+      },
+      {
+        "text": "E 12",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 高莖（T）腋生花（A）的豌豆與高莖（T）頂生花（A）的豌豆雜交，第一子代（F1）的表現型為高莖腋生花、高莖頂生花、矮莖腋生花及矮莖頂生花的比例為3：3：1：1。下列何者為非？（大寫代表顯性，小寫為隱性）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 親代基因型為TtAa × Ttaa",
+        "images": []
+      },
+      {
+        "text": "B F1中高莖腋生花基因型可能為TTAA",
+        "images": []
+      },
+      {
+        "text": "C F1中兩基因皆為同型合子的機率為1/4",
+        "images": []
+      },
+      {
+        "text": "D F1中兩種性狀皆為隱性性狀的機率為1/8",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列何種疾病不符合孟德爾的遺傳學定律？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 漢汀頓症（Huntington’s disease）",
+        "images": []
+      },
+      {
+        "text": "B 囊狀纖維化（cystic fibrosis）",
+        "images": []
+      },
+      {
+        "text": "C 裘馨氏肌肉萎縮症（Duchenne muscular dystrophy）",
+        "images": []
+      },
+      {
+        "text": "D 泰伊—薩克斯二氏病（Tay-Sachs disease）",
+        "images": []
+      },
+      {
+        "text": "E 鐮刀型貧血症（sickle-cell disease）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Which of the following statements regarding inheritance is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A “Ture-breeding” means varieties for each self-fertilization produced offspring all identical to the parent.",
+        "images": []
+      },
+      {
+        "text": "B The offspring of two different varieties are called hybrids.",
+        "images": []
+      },
+      {
+        "text": "C A monohybrid cross is a breeding experiment in which the parental varieties differ in some characters.",
+        "images": []
+      },
+      {
+        "text": "D The hybrid offspring of an F1 cross are the F2 generation.",
+        "images": []
+      },
+      {
+        "text": "E The hybrid offspring of a cross are the F1 generation.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. Black fur in mice (B) is dominant to brown fur (b). Short tails (T) are dominant to long tails (t). What fraction of the progeny of the cross BbTt × BBtt will have black fur and long tails?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1/16",
+        "images": []
+      },
+      {
+        "text": "B 1/4",
+        "images": []
+      },
+      {
+        "text": "C 3/8",
+        "images": []
+      },
+      {
+        "text": "D 1/3",
+        "images": []
+      },
+      {
+        "text": "E 1/2",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. One of the typical ratios resulting from epistatic interactions in dihybrid crosses would be",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 9:3:3:1",
+        "images": []
+      },
+      {
+        "text": "B 1:1:1:1",
+        "images": []
+      },
+      {
+        "text": "C 9:3:4",
+        "images": []
+      },
+      {
+        "text": "D 1:2:1",
+        "images": []
+      },
+      {
+        "text": "E 3:1",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. What is an allele?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the dominant form of a gene",
+        "images": []
+      },
+      {
+        "text": "B the recessive form of a gene",
+        "images": []
+      },
+      {
+        "text": "C a type of chromosome",
+        "images": []
+      },
+      {
+        "text": "D a variety of pea plant used by Mendel",
+        "images": []
+      },
+      {
+        "text": "E an alternative version of a gene",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 一家四口中，爸爸的血型是AB型，媽媽的血型是O型，哥哥的血型是A型，妹妹的血型是B型，以下何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 爸爸的精子形成時，ABO血型基因的分配不會影響性別基因的分配，符合孟德爾的獨立分配率（law of independent assortment）",
+        "images": []
+      },
+      {
+        "text": "B 控制ABO血型的基因有IA、IB、和i三種，形成配子時不遵照孟德爾的分離率（law of segregation）",
+        "images": []
+      },
+      {
+        "text": "C 媽媽的血液中既沒有抗A抗體，也沒有抗B抗體，可捐血給所有血型的人",
+        "images": []
+      },
+      {
+        "text": "D 妹妹血型的基因型有可能是IBIB或IBi",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 王太太結婚二年生下一個兒子，王太太有三個弟弟，王先生則有四個兄弟，最近王太太又懷孕了，請問這對夫妻有二個兒子的機率為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 100%",
+        "images": []
+      },
+      {
+        "text": "B 85%",
+        "images": []
+      },
+      {
+        "text": "C 75%",
+        "images": []
+      },
+      {
+        "text": "D 50%",
+        "images": []
+      },
+      {
+        "text": "E 25%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. In tigers, a recessive allele of a particular gene causes both an absence of fur pigmentation (a white tiger) and a cross-eyed condition. If two phenotypically normal tigers that are heterozygous at this locus are mated, what percentage of their offspring will be cross-eyed?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 100%",
+        "images": []
+      },
+      {
+        "text": "B 10%",
+        "images": []
+      },
+      {
+        "text": "C 25%",
+        "images": []
+      },
+      {
+        "text": "D 50%",
+        "images": []
+      },
+      {
+        "text": "E 75%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 人的AB血型是下列何種特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因多效性（pleiotropy）",
+        "images": []
+      },
+      {
+        "text": "B 共顯性（codominance）",
+        "images": []
+      },
+      {
+        "text": "C 不完全顯性（incomplete dominance）",
+        "images": []
+      },
+      {
+        "text": "D 多基因遺傳（polygenic inheritance）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 白化症（albino）是一種體染色體隱性特徵疾病（非性聯遺傳）。一對夫婦都有正常的色素沉積，但兩者父母都有一位是白化症。請問這對的第一個孩子患白化症的機率是多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1/2",
+        "images": []
+      },
+      {
+        "text": "B 1/4",
+        "images": []
+      },
+      {
+        "text": "C 1/8",
+        "images": []
+      },
+      {
+        "text": "D 1/16",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 孟德爾的獨立分配律（principle of independent assortment）是經由下列何種型式的雜交實驗推論而來？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A monohybrid cross",
+        "images": []
+      },
+      {
+        "text": "B dihybrid cross",
+        "images": []
+      },
+      {
+        "text": "C trihybrid cross",
+        "images": []
+      },
+      {
+        "text": "D tetrahybrid cross",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 有關遺傳疾病的產生，下列何者最可能為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核酸序列突變不會造成遺傳疾病",
+        "images": []
+      },
+      {
+        "text": "B 同源染色體重組不一定會造成遺傳疾病",
+        "images": []
+      },
+      {
+        "text": "C 同源染色體數目增加不會造成遺傳疾病",
+        "images": []
+      },
+      {
+        "text": "D 同源染色體數目減少不會造成遺傳疾病",
+        "images": []
+      },
+      {
+        "text": "E 染色體斷裂不會造成遺傳疾病",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 人類的「雄性禿」為sex-influenced gene屬體染色體（autosome），其表現會受到性別影響，由一對具兩種型式之對偶基因（alleles）所調控，其中Bl會導致禿頭，B2為正常，若為異型接合子（heterozygote），即BlB2，若是女性，則顯現正常；若是男性，則因受雄性激素影響顯現禿頭性狀，今有一對同樣具BlB2之男女結婚後，第一胎生兒子且日後禿頭的機率為多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 12.5%",
+        "images": []
+      },
+      {
+        "text": "B 25%",
+        "images": []
+      },
+      {
+        "text": "C 37.5%",
+        "images": []
+      },
+      {
+        "text": "D 50%",
+        "images": []
+      },
+      {
+        "text": "E 75%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列何種遺傳有別於孟德爾的遺傳學定律？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 連鎖基因的遺傳",
+        "images": []
+      },
+      {
+        "text": "B 基因體印記（genomic imprinting）",
+        "images": []
+      },
+      {
+        "text": "C 粒線體和葉綠體的遺傳",
+        "images": []
+      },
+      {
+        "text": "D A and C",
+        "images": []
+      },
+      {
+        "text": "E A, B and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 根據孟德爾遺傳實驗所進行的兩種性狀雜交實驗（dihybrid cross），在F2雜交子代中最多會產生幾種基因型（genotype）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 3",
+        "images": []
+      },
+      {
+        "text": "B 4",
+        "images": []
+      },
+      {
+        "text": "C 6",
+        "images": []
+      },
+      {
+        "text": "D 8",
+        "images": []
+      },
+      {
+        "text": "E 9",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 黃色種子的植物與綠色種子的植物交配後產生的F1子代其種子為黃色，請問F1子代與F1子代交配後，可能產生的種子外表型黃色與綠色的比例為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1:2",
+        "images": []
+      },
+      {
+        "text": "B 2:1",
+        "images": []
+      },
+      {
+        "text": "C 3:1",
+        "images": []
+      },
+      {
+        "text": "D 1:3",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 父母血型分別為AB及O型，小孩的血型最可能是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A AB, O",
+        "images": []
+      },
+      {
+        "text": "B A, B",
+        "images": []
+      },
+      {
+        "text": "C A, O",
+        "images": []
+      },
+      {
+        "text": "D B, O",
+        "images": []
+      },
+      {
+        "text": "E A, B, O, AB",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 在遺傳學領域中，下列何者為專門研究與分析基因的結構和功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 經典遺傳學（classic genetics）",
+        "images": []
+      },
+      {
+        "text": "B 分子遺傳學（molecular genetics）",
+        "images": []
+      },
+      {
+        "text": "C 植物遺傳學（plant genetics）",
+        "images": []
+      },
+      {
+        "text": "D 族群遺傳學（population genetics）",
+        "images": []
+      },
+      {
+        "text": "E 應用遺傳學（applied genetics）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. Hemochromatosis is an inherited disease caused by a recessive allele. If a woman and her husband, who are both carriers, have three children, what is the probability of all three children have the disease?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 3/4",
+        "images": []
+      },
+      {
+        "text": "B 1/64",
+        "images": []
+      },
+      {
+        "text": "C 37/64",
+        "images": []
+      },
+      {
+        "text": "D 27/64",
+        "images": []
+      },
+      {
+        "text": "E 7/64",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 如果父母的血型分別為AB型和O型，則子女的血型可能為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A、B、AB、O",
+        "images": []
+      },
+      {
+        "text": "B A、B",
+        "images": []
+      },
+      {
+        "text": "C A、B、AB",
+        "images": []
+      },
+      {
+        "text": "D AB、O",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 孟德爾的豌豆實驗選用的花色性狀有紫色及白色之分。顯性的紫花對偶基因以大寫的「P」表示，隱性的白花對偶基因以小寫的「p」表示，若是將基因型為「Pp」與「Pp」的豌豆人工授粉後，預期所產生的子代中，同基因型合子紫花與異基因型合子紫花的比率為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 同基因型合子紫花：異基因型合子紫花＝1：4",
+        "images": []
+      },
+      {
+        "text": "B 同基因型合子紫花：異基因型合子紫花＝4：1",
+        "images": []
+      },
+      {
+        "text": "C 同基因型合子紫花：異基因型合子紫花＝1：2",
+        "images": []
+      },
+      {
+        "text": "D 同基因型合子紫花：異基因型合子紫花＝2：1",
+        "images": []
+      },
+      {
+        "text": "E 同基因型合子紫花：異基因型合子紫花＝1：1",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列何種情形，無法符合孟德爾的遺傳定律？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 每一條染色體上只有一個基因",
+        "images": []
+      },
+      {
+        "text": "B 等位基因位在同源染色體上",
+        "images": []
+      },
+      {
+        "text": "C 控制不同性狀的基因位於同一對染色體上",
+        "images": []
+      },
+      {
+        "text": "D 同源染色體在細胞進行減數分裂時，相互分離",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 關於孟德爾遺傳的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一基因最多有二個對偶基因（alleles）",
+        "images": []
+      },
+      {
+        "text": "B 假設完全顯性，則雙品系雜交F2子代的期望比例可為9:3:3:1",
+        "images": []
+      },
+      {
+        "text": "C 孟德爾的獨立分配律可由試交（testcross）結果3:1的比例來支持",
+        "images": []
+      },
+      {
+        "text": "D 孟德爾的分離律可由試交（testcross）結果9:3:3:1的比例來支持",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 若血型為B型的男子與AB型的女子結婚，其所生的子女不可能為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A型",
+        "images": []
+      },
+      {
+        "text": "B B型",
+        "images": []
+      },
+      {
+        "text": "C AB型",
+        "images": []
+      },
+      {
+        "text": "D O型",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 有關人類遺傳性疾病的種類,下列何者屬於體染色體顯性遺傳疾病（dominantly inherited disorder）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 杭丁頓氏舞蹈症（Huntington's disease）",
+        "images": []
+      },
+      {
+        "text": "B 囊腫纖化症（cystic fibrosis）",
+        "images": []
+      },
+      {
+        "text": "C 鐮刀型紅血球貧血症（sickle-cell disease）",
+        "images": []
+      },
+      {
+        "text": "D 白化症（albinism）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. In his breeding experiments, Mendel first crossed true-breeding plants to produce a second generation, which were then allowed to self-pollinate to generate the offspring. How do we name these three generations?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A P1, P2, and F",
+        "images": []
+      },
+      {
+        "text": "B P1, P2, and P3",
+        "images": []
+      },
+      {
+        "text": "C P, F1, and F2",
+        "images": []
+      },
+      {
+        "text": "D F1, F2, and F3",
+        "images": []
+      },
+      {
+        "text": "E F, P1, and P2",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. In the cross Aa Bb CC Dd Ee × Aa Bb Cc Dd EE, in which all genes undergo independent assortment, what proportion of offspring are expected to be homozygous dominant for all five genes?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1/4)",
+        "images": []
+      },
+      {
+        "text": "B (1/4)2",
+        "images": []
+      },
+      {
+        "text": "C (1/4)3",
+        "images": []
+      },
+      {
+        "text": "D (1/4)4",
+        "images": []
+      },
+      {
+        "text": "E 0",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何種遺傳疾病為隱性遺傳，造成細胞膜上離子通道異常，患者呼吸道產生過多的黏液？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Hunting’s disease",
+        "images": []
+      },
+      {
+        "text": "B Cystic fibrosis",
+        "images": []
+      },
+      {
+        "text": "C Hemophilia",
+        "images": []
+      },
+      {
+        "text": "D Duchenne muscular dystrophy",
+        "images": []
+      },
+      {
+        "text": "E Klinefelter syndrome",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. The recessive allele that causes phenylketonuria (PKU) is harmful, except when an infant's diet lacks the amino acid, phenylalanine. What maintains the presence of this harmful allele in a population's gene pool?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A heterozygote advantage",
+        "images": []
+      },
+      {
+        "text": "B stabilizing selection",
+        "images": []
+      },
+      {
+        "text": "C diploidy",
+        "images": []
+      },
+      {
+        "text": "D balancing selection",
+        "images": []
+      },
+      {
+        "text": "E kin selection",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. Which of the following accurately gives the distribution of phenotypes produced from a cross of purple dwarf pea plants that are heterozygous for flower color and plant height?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 27 purple dwarf; 28 purple tall; 31 white dwarf; 29 white tall",
+        "images": []
+      },
+      {
+        "text": "B 63 purple dwarf; 28 purple tall; 27 white dwarf; 7 white tall",
+        "images": []
+      },
+      {
+        "text": "C 132 purple dwarf; 138 white tall",
+        "images": []
+      },
+      {
+        "text": "D 54 purple dwarf; 6 white tall",
+        "images": []
+      },
+      {
+        "text": "E 100% purple dwarf",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 根據孟德爾遺傳法則，試問下列敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 兩個有相同表現型的個體，可有不同的基因型",
+        "images": []
+      },
+      {
+        "text": "B 個體中每一性狀皆由兩個等位基因（alleles）控制，它們分別來自父母雙方",
+        "images": []
+      },
+      {
+        "text": "C 一顯性個體和一隱性個體交配，不會產生半顯性個體",
+        "images": []
+      },
+      {
+        "text": "D 分離律是指控制同一性狀之等位基因相互分離",
+        "images": []
+      },
+      {
+        "text": "E 人類的身高適用孟德爾遺傳法則",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列有關異型接合子（Heterozygote）對環境的適應力，何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 比同型接合子（Homozygote）差",
+        "images": []
+      },
+      {
+        "text": "B 比顯性同型接合子差",
+        "images": []
+      },
+      {
+        "text": "C 比隱性同型接合子好",
+        "images": []
+      },
+      {
+        "text": "D 介於顯隱性同型接合子間",
+        "images": []
+      },
+      {
+        "text": "E 在某些環境中，比同型接合子好",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 環境有時會影響生物的表現型（phenotype），同一品種的繡球花（Hydrangea macrophylla，又名紫陽花）其開花的顏色即是一個很明顯的例子，若園丁要改變它的花色時，採取下列哪一個策略最有效？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 改變土壤的溫度",
+        "images": []
+      },
+      {
+        "text": "B 改變土壤的溫度",
+        "images": []
+      },
+      {
+        "text": "C 改變土壤的酸度",
+        "images": []
+      },
+      {
+        "text": "D 改變空氣的品質",
+        "images": []
+      },
+      {
+        "text": "E 改變澆水的頻率",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 在人類的遺傳中，假設棕色眼睛的對偶基因是顯性，藍色眼睛是隱性。有一對夫婦都是棕眼，並育有一子為藍眼，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雙親調控眼睛顏色的基因為heterozygous",
+        "images": []
+      },
+      {
+        "text": "B 雙親調控眼睛顏色的基因為homozygous",
+        "images": []
+      },
+      {
+        "text": "C 第二個小孩有1/4機率為棕眼",
+        "images": []
+      },
+      {
+        "text": "D 第二個小孩有1/2機率為棕眼",
+        "images": []
+      },
+      {
+        "text": "E 第二個小孩有1/2機率為藍眼",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. You cross a true-breeding, red-flowered snapdragon with a true-breeding, white-flowered one. All of the F1 are pink. What does this say about the parental traits?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A red and white are codominant",
+        "images": []
+      },
+      {
+        "text": "B red shows incomplete dominance over white",
+        "images": []
+      },
+      {
+        "text": "C pink is dominant, and red and white are recessive",
+        "images": []
+      },
+      {
+        "text": "D red is completely dominant",
+        "images": []
+      },
+      {
+        "text": "E both red and white are pleiotropic",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. Which is one of the two laws of inheritance identified by Mendel?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The law of priority.",
+        "images": []
+      },
+      {
+        "text": "B The law of independent assortment.",
+        "images": []
+      },
+      {
+        "text": "C The law of neutralism.",
+        "images": []
+      },
+      {
+        "text": "D The law of paternity.",
+        "images": []
+      },
+      {
+        "text": "E The law of polarity.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

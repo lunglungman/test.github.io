@@ -1,0 +1,1421 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列何種器官負責角加速度之運動平衡調節作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 尾狀核",
+        "images": []
+      },
+      {
+        "text": "B 小腦後葉",
+        "images": []
+      },
+      {
+        "text": "C 半規管",
+        "images": []
+      },
+      {
+        "text": "D 球狀囊",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. The cells which allow us to distinguish different colors are ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A cones",
+        "images": []
+      },
+      {
+        "text": "B rods",
+        "images": []
+      },
+      {
+        "text": "C both cones and rods",
+        "images": []
+      },
+      {
+        "text": "D only certain rods",
+        "images": []
+      },
+      {
+        "text": "E none of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 有關人類眼睛的桿狀細胞（rod）敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 有三種不同的接受器",
+        "images": []
+      },
+      {
+        "text": "B 唯一含視紫紅質（rhodopsin）光受器",
+        "images": []
+      },
+      {
+        "text": "C 集中在中央窩（fovea）",
+        "images": []
+      },
+      {
+        "text": "D 對波長419nm的光最敏感",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 眼球前後直徑過長：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 遠視（hyperopia）",
+        "images": []
+      },
+      {
+        "text": "B 近視（myopia）",
+        "images": []
+      },
+      {
+        "text": "C 異側性半盲（heteronymous hemianopia）",
+        "images": []
+      },
+      {
+        "text": "D 斜視（strabismus）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 下列何者之改變不會影響視網膜上影像的聚焦？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 水晶體（lens）的形狀",
+        "images": []
+      },
+      {
+        "text": "B 視網膜（retina）的形狀",
+        "images": []
+      },
+      {
+        "text": "C 睫狀肌（ciliary muscles）",
+        "images": []
+      },
+      {
+        "text": "D 水晶體（lens）的彈性（elasticity）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 脊椎動物的視網膜透過下列何種細胞達成光／暗感官訊息之傳遞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雙極細胞（bipolar cells）",
+        "images": []
+      },
+      {
+        "text": "B 水平細胞（horizontal cells）",
+        "images": []
+      },
+      {
+        "text": "C 神經節細胞（ganglion cells）",
+        "images": []
+      },
+      {
+        "text": "D 桿狀細胞和錐狀細胞（rods and cones）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 一般而言，人類的視覺系統有多少種具有功能性的錐細胞（cone cell）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1種",
+        "images": []
+      },
+      {
+        "text": "B 3種",
+        "images": []
+      },
+      {
+        "text": "C 4種",
+        "images": []
+      },
+      {
+        "text": "D 5種",
+        "images": []
+      },
+      {
+        "text": "E 數百種",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 關於哺乳動物的感官輸入，下列何者需要化學感受器（chemoreceptors）的刺激作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氣味（smell）",
+        "images": []
+      },
+      {
+        "text": "B 聽力（hearing）",
+        "images": []
+      },
+      {
+        "text": "C 平衡（balance）",
+        "images": []
+      },
+      {
+        "text": "D 視覺（vision）",
+        "images": []
+      },
+      {
+        "text": "E 觸摸（touch）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 人體的柯蒂氏器（Corti’s organ）位於下列何處？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腦幹",
+        "images": []
+      },
+      {
+        "text": "B 內耳",
+        "images": []
+      },
+      {
+        "text": "C 腹腔",
+        "images": []
+      },
+      {
+        "text": "D 中耳",
+        "images": []
+      },
+      {
+        "text": "E 動脈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 公司替全體員工進行身體健康檢查，有關檢查結果的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 聽力異常－耳朵接收聲波後在內耳處轉換成電位訊號以傳遞到腦判斷聲音形式的功能異常",
+        "images": []
+      },
+      {
+        "text": "B 近視－配戴凹透鏡可以矯正水晶體的屈光異常",
+        "images": []
+      },
+      {
+        "text": "C 動脈硬化－因為動脈內壁累積過多膽固醇LDL所導致",
+        "images": []
+      },
+      {
+        "text": "D 懷孕－小玟剛好月經沒來而且尿液中含有人類絨毛膜激素",
+        "images": []
+      },
+      {
+        "text": "E 色盲－是因為眼睛裡的桿狀細胞的功能異常以致辨色力不完全",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 音波在內耳中的傳遞主要是靠：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 神經纖維",
+        "images": []
+      },
+      {
+        "text": "B 骨頭構造",
+        "images": []
+      },
+      {
+        "text": "C 空氣",
+        "images": []
+      },
+      {
+        "text": "D 液體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 靈長類動物的演化和行為中，如狩獵技能，部分是直接由景深知覺（depth perception）的發展而來。下列何者最可能是造成景深知覺的因素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 更大的大腦",
+        "images": []
+      },
+      {
+        "text": "B 複眼的形成",
+        "images": []
+      },
+      {
+        "text": "C 眼睛在頭部前方的位置",
+        "images": []
+      },
+      {
+        "text": "D 晝夜活動",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 有關造成人暈車、暈船的主要原因，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 耳咽管內的壓力改變而關閉",
+        "images": []
+      },
+      {
+        "text": "B 鼓膜受到振動",
+        "images": []
+      },
+      {
+        "text": "C 半規管受到不正常的刺激",
+        "images": []
+      },
+      {
+        "text": "D 前庭的淋巴受到振動",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 有一位小男孩有聽力障礙，醫生以震動音叉貼近頭骨後方測試，小男孩可以聽到。但如果將震動音叉拿離開頭骨他則聽不到。這小男孩的問題可能為________受損。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腦部聽覺中心",
+        "images": []
+      },
+      {
+        "text": "B 耳蝸（cochlea）的hair cells",
+        "images": []
+      },
+      {
+        "text": "C 中耳的聽骨",
+        "images": []
+      },
+      {
+        "text": "D 耳蝸（cochlea）內的液體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 感覺受體與其類別之配對，下列何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 味覺受體 ─ 機械受體（mechanoreceptor）",
+        "images": []
+      },
+      {
+        "text": "B 肌梭（muscle spindle）─ 電磁受體（electromagnetic receptor）",
+        "images": []
+      },
+      {
+        "text": "C 纖毛（cilia）─ 機械受體",
+        "images": []
+      },
+      {
+        "text": "D 感光受體 ─ 化學受體（chemoreceptor）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 當觀看遠處事物時眼球會進行下列何種反應：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 睫狀肌放鬆",
+        "images": []
+      },
+      {
+        "text": "B 水晶體變窄",
+        "images": []
+      },
+      {
+        "text": "C 垂懸韌帶收緊",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 聽覺系統中可以分辨不同聲音頻率之原因為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 中耳的三塊骨頭有不同的反應",
+        "images": []
+      },
+      {
+        "text": "B 半規管的環形管路有不同的反應",
+        "images": []
+      },
+      {
+        "text": "C 卵圓窗（oval window）與圓形窗（round window）有不同的反應",
+        "images": []
+      },
+      {
+        "text": "D 基底膜（basilar membrane）的不同部位有不同的反應",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 有些蛇能偵測狩獵物的體溫是利用下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溫度受器（thermoreceptors）",
+        "images": []
+      },
+      {
+        "text": "B 機械性受器（mechanoreceptors）",
+        "images": []
+      },
+      {
+        "text": "C 化學受器（chemoreceptors）",
+        "images": []
+      },
+      {
+        "text": "D 電磁波受器（electromagnetic receptors）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 缺乏維生素A會患夜盲症，其原因為下列何者受到影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 視紫紅質（rhodopsin）的合成",
+        "images": []
+      },
+      {
+        "text": "B 感光細胞的形成",
+        "images": []
+      },
+      {
+        "text": "C 視神經的傳導",
+        "images": []
+      },
+      {
+        "text": "D 黑色素（melanin）的合成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 老花眼與視覺調適（accommodation）有關，而人體之視覺調適與下列何者最密切相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 睫狀肌（ciliary muscle）收縮",
+        "images": []
+      },
+      {
+        "text": "B 增加眼睛晶狀體韌帶（lens ligament）張力",
+        "images": []
+      },
+      {
+        "text": "C 減少眼睛晶狀體（lens）曲率",
+        "images": []
+      },
+      {
+        "text": "D 眼壓增高",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 聽覺的受器為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 三半規管（semicircular canal）",
+        "images": []
+      },
+      {
+        "text": "B 耳蝸（cochlea）",
+        "images": []
+      },
+      {
+        "text": "C 耳石細胞（otolith）",
+        "images": []
+      },
+      {
+        "text": "D 毛細胞（hair cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 有關視覺細胞的敍述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 視桿細胞（rod cell）對光的反應較不敏銳",
+        "images": []
+      },
+      {
+        "text": "B 視錐細胞（cone cell）對光的反應較敏銳，但對顏色無法分辨",
+        "images": []
+      },
+      {
+        "text": "C 視網膜的中央小凹（fovea）有高密度的視錐細胞",
+        "images": []
+      },
+      {
+        "text": "D 視覺細胞中僅視桿細胞內含視覺色素─視紫質（rhodopsin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 有關動物感覺系統的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溫度感受器（thermoreceptors）只分佈在體表的皮膚上",
+        "images": []
+      },
+      {
+        "text": "B 脊椎動物的視桿細胞（rods）和視錐細胞（cones）與視網膜（retina）神經節細胞（ganglion cells）直接接觸",
+        "images": []
+      },
+      {
+        "text": "C 視桿細胞（rods）和視錐細胞（cones）在接收刺激時產生去極化現象",
+        "images": []
+      },
+      {
+        "text": "D 鹹味的感知發生在舌尖的味蕾（taste bud）",
+        "images": []
+      },
+      {
+        "text": "E 當飢餓時，味覺和嗅覺的感官會增強",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列人體聽覺構造中，何者與平衡感最無關聯？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基底膜（basilar membrane）",
+        "images": []
+      },
+      {
+        "text": "B 半規管（semicircular canals）",
+        "images": []
+      },
+      {
+        "text": "C 橢圓囊（utricle）",
+        "images": []
+      },
+      {
+        "text": "D 毛細胞（hair cells）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人類維持平衡感主要是靠中耳",
+        "images": []
+      },
+      {
+        "text": "B 動物平衡感的維持主要是靠感應聲音，辦別方向",
+        "images": []
+      },
+      {
+        "text": "C 動物平衡感的維持主要是靠機械感受器（Mechanoreceptor）感受液體移動或固體顆粒的沉降",
+        "images": []
+      },
+      {
+        "text": "D 視覺感受器（Visual receptor）位於角膜（Cornea）上，負責接收光波",
+        "images": []
+      },
+      {
+        "text": "E 人類的兩種感光細胞（Photoreceptor cell）中，桿細胞（Rods）可以區分顏色，錐細胞（Cones）不能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 關於人體感覺器官或感覺受器（sensory receptors）的描述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 聽覺受器位於內耳前庭",
+        "images": []
+      },
+      {
+        "text": "B 觸壓受器位於皮膚真皮層",
+        "images": []
+      },
+      {
+        "text": "C 光感受器位為水晶體",
+        "images": []
+      },
+      {
+        "text": "D 肌腱內之高基氏肌腱器（Golgi tendon organ）屬於內部受器（interoceptors）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 摩擦或震動受傷部位減少受傷疼痛，這是所謂疼痛調節的門控（gate control）機制。這機制可能與下列何者的作用最密切相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 傳輸痛覺的通路於脊髓背角（dorsal horn）感覺傳出的位置被中斷",
+        "images": []
+      },
+      {
+        "text": "B 傳輸痛覺的通路於脊髓腹角（ventral horn）感覺傳出的位置被中斷",
+        "images": []
+      },
+      {
+        "text": "C 傳輸痛覺的通路於脊髓背角（dorsal horn）感覺傳入的位置被中斷",
+        "images": []
+      },
+      {
+        "text": "D 傳輸痛覺的通路於脊髓腹角（ventral horn）感覺傳入的位置被中斷",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. The pathway leading to the perception of sound begins with the hair cells of the organ of Corti,",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A which rests on the tympanic membrane, coming in contact with the tectorial membrane.",
+        "images": []
+      },
+      {
+        "text": "B which rests on the tectorial membrane, coming in contact with the basilar membrane.",
+        "images": []
+      },
+      {
+        "text": "C which rests on the basilar membrane, coming in contact with the tectorial membrane.",
+        "images": []
+      },
+      {
+        "text": "D which comes in contact with the tectorial membrane as a result of fluid waves in the cochlea causing vibrations in the round window.",
+        "images": []
+      },
+      {
+        "text": "E which stimulates the tectorial membrane neurons leading to the auditory section of the brain.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 熱的感覺是經由何種接受器引發去極化現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 番辣椒素接受器（capsaicin receptors）",
+        "images": []
+      },
+      {
+        "text": "B 腎上腺素接受器（adrenergic receptors）",
+        "images": []
+      },
+      {
+        "text": "C nociceptors傷害性受器",
+        "images": []
+      },
+      {
+        "text": "D Proprioceptors本體感受器",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 耳朵的構造中，最直接負責區分聲音中不同音高（pitch）的膜是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 圓窗（round window）",
+        "images": []
+      },
+      {
+        "text": "B 鼓膜（tympanic membrane）",
+        "images": []
+      },
+      {
+        "text": "C 覆膜（tectorial membrane）",
+        "images": []
+      },
+      {
+        "text": "D 基底膜（basilar membrane）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 色盲是指眼球中何者異常？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 錐細胞（cones）",
+        "images": []
+      },
+      {
+        "text": "B 水晶體（lens）",
+        "images": []
+      },
+      {
+        "text": "C 睫狀肌（ciliary muscle）",
+        "images": []
+      },
+      {
+        "text": "D 桿細胞（rods）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 當你將手臂伸入冰箱拿飲料時，為何手臂會覺得冷？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 因為血液中的前列腺素（prostaglandins）增加",
+        "images": []
+      },
+      {
+        "text": "B 因為循環到手臂的血液溫度降低",
+        "images": []
+      },
+      {
+        "text": "C 因為皮膚上的熱感應器（thermoreceptors）將溫度改變的訊息傳遞至大腦皮質",
+        "images": []
+      },
+      {
+        "text": "D 因為皮膚上的熱感應器將溫度改變的訊息傳遞至後下視丘（posterior hypothalamus）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列有關感光細胞（photoreceptor cells）的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 感光色素rhodopsin內含可接收光能改變型態的分子opsin",
+        "images": []
+      },
+      {
+        "text": "B Rhodopsin是一個G-protein coupled receptor",
+        "images": []
+      },
+      {
+        "text": "C Rhodopsin活化後刺激cAMP的產生",
+        "images": []
+      },
+      {
+        "text": "D 光照會刺激感光細胞釋放神經傳導物質",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 關於轉移疼痛（referred pain），下列何者最不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心臟疼痛，左手臂痛",
+        "images": []
+      },
+      {
+        "text": "B 通常是同一個結構或相同的胚段或皮節",
+        "images": []
+      },
+      {
+        "text": "C 輸尿管脹引起胃疼痛",
+        "images": []
+      },
+      {
+        "text": "D 可能機制是軀體痛和內臟疼痛在同一個二階背角神經元纖維聚合",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 看遠距離的物體時，眼球睫狀肌肉會________、水晶體會________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 收縮，變扁平",
+        "images": []
+      },
+      {
+        "text": "B 放鬆，變扁平",
+        "images": []
+      },
+      {
+        "text": "C 收縮，變圓",
+        "images": []
+      },
+      {
+        "text": "D 放鬆，變圓",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 前庭器橢圓囊（utricle）的毛細胞（hair cells）屬於？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溫覺接受器（thermoreceptors）",
+        "images": []
+      },
+      {
+        "text": "B 機械接受器（mechanoreceptors）",
+        "images": []
+      },
+      {
+        "text": "C 化學接受器（chemoreceptors）",
+        "images": []
+      },
+      {
+        "text": "D 傷害感受器（nocioceptors）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 聽覺接受器位於下列何處？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 聽斑",
+        "images": []
+      },
+      {
+        "text": "B 球囊",
+        "images": []
+      },
+      {
+        "text": "C 柯氏器（organ of Corti）",
+        "images": []
+      },
+      {
+        "text": "D 壼腹嵴",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. Animal communication involves what type of sensory information?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A visual",
+        "images": []
+      },
+      {
+        "text": "B auditory",
+        "images": []
+      },
+      {
+        "text": "C chemical",
+        "images": []
+      },
+      {
+        "text": "D A and C only",
+        "images": []
+      },
+      {
+        "text": "E A, B, and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 盲點（blind spot）位置在視網膜的________軸突聚集處，缺乏光受體。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 神經節細胞（ganglion cells）",
+        "images": []
+      },
+      {
+        "text": "B 初級視覺皮層（visual cortex）",
+        "images": []
+      },
+      {
+        "text": "C 雙極細胞（bipolar cells）",
+        "images": []
+      },
+      {
+        "text": "D 側膝狀體神經核（lateral geniculate nuclei）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 電針（electroacupuncture）的鎮痛作用可能與下列何者的作用最密切相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內源性鴉片類（opioids）物質的釋放和激活脊椎至腦的上升疼痛調節通路",
+        "images": []
+      },
+      {
+        "text": "B 內源性前列腺素（prostaglandin）類物質的釋放和激活腦至脊椎的下降疼痛調節通路",
+        "images": []
+      },
+      {
+        "text": "C 內源性前列腺素（prostaglandin）類物質的釋放和激活脊椎至腦的上升疼痛調節通路",
+        "images": []
+      },
+      {
+        "text": "D 內源性鴉片類（opioids）物質的釋放和激活腦至脊椎的下降疼痛調節通路",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 生理性盲點和眼睛的何者構造有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黃斑",
+        "images": []
+      },
+      {
+        "text": "B 視網膜剝離處",
+        "images": []
+      },
+      {
+        "text": "C 視神經盤",
+        "images": []
+      },
+      {
+        "text": "D 中央凹",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. “Accommodation” is the process in the eye of ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A regulation of vitreous humor volume",
+        "images": []
+      },
+      {
+        "text": "B bending light rays to varying degrees by the lens",
+        "images": []
+      },
+      {
+        "text": "C converting light energy into electrical signals by the retina",
+        "images": []
+      },
+      {
+        "text": "D adjustment to varying light levels by altering the sensitivity of the eye",
+        "images": []
+      },
+      {
+        "text": "E adjustment of the amount of light admitted to the eye by adjusting pupil diameter",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 下列何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人類總共有四種味覺細胞，分別感受酸、甜、鹹、苦",
+        "images": []
+      },
+      {
+        "text": "B 人類有超過1000個嗅覺感受器（Olfactory receptor）基因",
+        "images": []
+      },
+      {
+        "text": "C 肌肉收縮，主要是靠肌原纖維（Sarcomere）的粗肌絲（Thick filament）與細肌絲（Thin filament）縮短",
+        "images": []
+      },
+      {
+        "text": "D 細菌內毒素（Endotoxin）的成分以蛋白質為主",
+        "images": []
+      },
+      {
+        "text": "E 人類平滑肌多半附著在骨骼上",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. When light strikes the rod cell, it becomes ________ and glutamate release onto bipolar cells ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A excited, increases",
+        "images": []
+      },
+      {
+        "text": "B depolarized, increases",
+        "images": []
+      },
+      {
+        "text": "C depolarized, decreases",
+        "images": []
+      },
+      {
+        "text": "D hyperpolarized, increases",
+        "images": []
+      },
+      {
+        "text": "E hyperpolarized, decreases",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. Choose the INCORRECT description regarding the hearing system of human.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The cochlea can distinguish volume because the basilar membrane is not uniform along its length.",
+        "images": []
+      },
+      {
+        "text": "B The ear conveys information to the brain about two important sound variables that are volume and pitch.",
+        "images": []
+      },
+      {
+        "text": "C Three bones of the middle ear transmit the vibrations to the oval window.",
+        "images": []
+      },
+      {
+        "text": "D The cochlea has two large canals, an upper vestibular canal and a lower tympanic canal, which separated by a smaller cochlear duct.",
+        "images": []
+      },
+      {
+        "text": "E The hearing system of human is a mechanoreceptor system.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. Which list correctly orders the structures within the ear as they transfer a sound wave during hearing?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A eardrum, hammer, anvil, stirrup, oval window, auditory canal",
+        "images": []
+      },
+      {
+        "text": "B eardrum, stirrup, hammer, anvil, oval window, auditory canal",
+        "images": []
+      },
+      {
+        "text": "C auditory canal, eardrum, hammer, stirrup, anvil, oval window",
+        "images": []
+      },
+      {
+        "text": "D auditory canal, eardrum, stirrup, hammer, anvil, oval window",
+        "images": []
+      },
+      {
+        "text": "E auditory canal, eardrum, hammer, anvil, stirrup, oval window",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 下列敘述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 多數的硬骨魚類，體側有側線系統（lateral line system）",
+        "images": []
+      },
+      {
+        "text": "B 渦蟲（planarian）頭部的上方有一對特化的杯狀單眼（ocelli），且有整層的色素細胞（pigmented cells），可接受光線的刺激",
+        "images": []
+      },
+      {
+        "text": "C 無脊椎動物中，有些物種具有特化平衡囊（statocyst），內有一或數顆的平衡石（statoliths），可偵測環境中的重力（gravity）因子",
+        "images": []
+      },
+      {
+        "text": "D 人類皮膚的真皮層（dermis），存在有溫度感覺受器（thermoreceptors）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 有關球狀囊（saccule）及橢圓囊（utricle），下列敘述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 兩者皆位於內耳",
+        "images": []
+      },
+      {
+        "text": "B 兩者皆與平衡感覺有關",
+        "images": []
+      },
+      {
+        "text": "C 兩者皆有毛細胞（hair cell）存在",
+        "images": []
+      },
+      {
+        "text": "D 兩者皆與神經動作電位傳導有關",
+        "images": []
+      },
+      {
+        "text": "E 兩者內部皆含有由磷酸鎂結晶而成的耳石（otolith）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 關於人類的毛細胞（hair cell），是下列何種感覺的受體？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 視力和聽力",
+        "images": []
+      },
+      {
+        "text": "B 味覺和嗅覺",
+        "images": []
+      },
+      {
+        "text": "C 聽力和平衡",
+        "images": []
+      },
+      {
+        "text": "D 視力和聽力",
+        "images": []
+      },
+      {
+        "text": "E 觸覺和味覺",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 下列有關視覺細胞的描述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 視桿細胞（rod cells）可咸應微弱的光源",
+        "images": []
+      },
+      {
+        "text": "B 視錐細胞（cone cell）可感應較強的光源",
+        "images": []
+      },
+      {
+        "text": "C 視桿細胞受光子刺激時會使cGMP上升，造成鈉離子通道關閉和細胞過度極化，因為抑制型的刺激無法釋出，而使眼睛感受到亮光",
+        "images": []
+      },
+      {
+        "text": "D 多數視錐細胞位於中央小凹（fovea）",
+        "images": []
+      },
+      {
+        "text": "E 視桿細胞含有視光素（photopsins）有藍、綠、黃等色素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C",
+      "E"
+    ]
+  }
+]

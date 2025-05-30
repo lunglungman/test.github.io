@@ -1,0 +1,1438 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 愛滋病毒（HIV）主要攻擊下列何種免疫細胞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A B淋巴球",
+        "images": []
+      },
+      {
+        "text": "B T淋巴球",
+        "images": []
+      },
+      {
+        "text": "C 嗜中性白血球",
+        "images": []
+      },
+      {
+        "text": "D 嗜酸性白血球",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 對於白血球細胞（white blood cells）的敘述那一個是錯的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 嗜鹼性細胞（basophils）的功能是放出組織胺（histamine）",
+        "images": []
+      },
+      {
+        "text": "B 嗜伊紅細胞（eosinophils）會殺死抗體包覆的寄生蟲",
+        "images": []
+      },
+      {
+        "text": "C T cell會分化成產生抗體的細胞",
+        "images": []
+      },
+      {
+        "text": "D 單核細胞（monocyte）會發育成巨噬細胞（macrophage）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列那一個選項同時參與免疫、生殖、消化、呼吸、循環以及泌尿⋯等生理系統的調控？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胰島素（insulin）",
+        "images": []
+      },
+      {
+        "text": "B 前列腺素（prostaglandin）",
+        "images": []
+      },
+      {
+        "text": "C 生長激素（growth hormone）",
+        "images": []
+      },
+      {
+        "text": "D 抗利尿素（antidiuretic hormone, ADH）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 如果人長期處於壓力狀態時，主要會造成哪一種荷爾蒙分泌量增加？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A epinephrine",
+        "images": []
+      },
+      {
+        "text": "B glucocorticoid",
+        "images": []
+      },
+      {
+        "text": "C calcitonin",
+        "images": []
+      },
+      {
+        "text": "D leptin",
+        "images": []
+      },
+      {
+        "text": "E insulin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 免疫反應中，下列何者可以活化輔助T細胞（helper T cell）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抗原被樹突細胞（dendritic cells）呈現時",
+        "images": []
+      },
+      {
+        "text": "B 毒殺T細胞（cytotoxic T cells）釋放細胞激素（cytokines）時",
+        "images": []
+      },
+      {
+        "text": "C 自然殺手細胞（natural killer cells）遇到腫瘤時",
+        "images": []
+      },
+      {
+        "text": "D 有補體（complement）刺激時",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列關於“克隆選擇理論（clonal selection theory）”的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 此理論顯示出在體液免疫反應（humoral immune response）中B細胞的克隆選擇，但不適用於細胞免疫反應（cell-mediated immune response）中T細胞的克隆選擇",
+        "images": []
+      },
+      {
+        "text": "B 依照此理論每一個B細胞可生產多種不同種類的抗體",
+        "images": []
+      },
+      {
+        "text": "C 依照此理論每一個T細胞可生產多種不同種類的抗體",
+        "images": []
+      },
+      {
+        "text": "D 依照此理論每一個動物個體含有許多不同種類的B細胞，每一種B細胞產生相同的抗體",
+        "images": []
+      },
+      {
+        "text": "E 依照此理論抗體分子會隨其遇到的抗原分子而調整其形狀",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列哪一選項不包含在人體的先天免疫（innate immunity）系統？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 自然殺手細胞（natural killer cell）",
+        "images": []
+      },
+      {
+        "text": "B 補體（complement）",
+        "images": []
+      },
+      {
+        "text": "C 干擾素（interferon）",
+        "images": []
+      },
+      {
+        "text": "D T淋巴細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. Toll樣受體（Toll-like receptors, TLRs）與其所辨認的微生物分子配對何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A TLR2－鞭毛素（fragellin）TRL5-可以辨識鞭毛蛋白",
+        "images": []
+      },
+      {
+        "text": "B TLR3－CpG DNA雙股RNA",
+        "images": []
+      },
+      {
+        "text": "C TLR9－double-stranded RNA",
+        "images": []
+      },
+      {
+        "text": "D TLR4－脂多糖（lipopolysaccharide）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列有關免疫系統反應的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 每一個抗原只含一個抗原決定位置（epitope）",
+        "images": []
+      },
+      {
+        "text": "B 脊椎動物體內帶有數百萬個不同的抗體基因",
+        "images": []
+      },
+      {
+        "text": "C 脊椎動物體內有數百萬種不同的巨噬細胞以呈現不同抗原",
+        "images": []
+      },
+      {
+        "text": "D 同一個體的B細胞的基因體（genome）和肝細胞的基因體並不完全相同",
+        "images": []
+      },
+      {
+        "text": "E 不同的抗體是經mRNA重整exon的組合而製造出",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 有關細胞介導的免疫反應（cell-mediated immune response）的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由抗原呈現細胞（antigen presenting cell）吞噬病原",
+        "images": []
+      },
+      {
+        "text": "B 抗原呈現細胞透過CD4與helper T細胞結合",
+        "images": []
+      },
+      {
+        "text": "C 由cytotoxic T細胞攻擊受感染的細胞",
+        "images": []
+      },
+      {
+        "text": "D 利用抗體來攻擊受感染的細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. T cell由骨髓中幹細胞（stem cell）製造產生後，即移入胸腺（thymus），待成熟後分散於身體各處，部份T cell 可防範自體免疫反應產生，協助身體對抗病菌的再次感染，保護腸道內共生細菌，但也可能妨礙免疫系統對癌化細胞之監督，而促使癌組織擴大，此類T cell最有可能是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 記憶型T細胞（memory T cell）",
+        "images": []
+      },
+      {
+        "text": "B 毒殺性T細胞（T cytotoxic cell）",
+        "images": []
+      },
+      {
+        "text": "C 輔助型T細胞（T helper cell）",
+        "images": []
+      },
+      {
+        "text": "D 調節型T細胞（regulatory T cell）",
+        "images": []
+      },
+      {
+        "text": "E 未成熟T細胞（immature T cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. It is estimated that humans can produce over 1.5 million different types of antibodies. Which of the following statements regarding this extraordinary variation is correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A V and J domains of antibody light chains are randomly joined.",
+        "images": []
+      },
+      {
+        "text": "B Random segments of DNA can be removed from antibody genes.",
+        "images": []
+      },
+      {
+        "text": "C V and J domains of antibody heavy chains are randomly joined.",
+        "images": []
+      },
+      {
+        "text": "D Cytosines in the variable regions of antibody genes can be converted to uracils via hypermutation.",
+        "images": []
+      },
+      {
+        "text": "E All of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列何種白血球於呼吸與胃腸黏膜多而於氣喘等過敏病人血中最可能增加？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 中性白血球（neutrophil）",
+        "images": []
+      },
+      {
+        "text": "B 嗜酸性白血球（eosinophil）",
+        "images": []
+      },
+      {
+        "text": "C 嗜鹼性白血球（basophil）",
+        "images": []
+      },
+      {
+        "text": "D 單核細胞（monocyte）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 有關免疫系統的B cell與T cell之差異，下列敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A B cell的受器為一Y形狀的分子，包含了四條多肽鏈；而T cell的受器為兩條多肽鏈",
+        "images": []
+      },
+      {
+        "text": "B B cell分泌抗體，而T cell可協助抗原辨識和細胞毒殺作用",
+        "images": []
+      },
+      {
+        "text": "C 皆會受抗原刺激致細胞大量增生，也都會產生記憶細胞",
+        "images": []
+      },
+      {
+        "text": "D B cell與T cell皆於骨髓中生成但在胸腺中成熟",
+        "images": []
+      },
+      {
+        "text": "E B cell可與游離抗原（free antigen）及細胞表面的抗原結合，而T cell僅能與細胞表面抗原結合",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 有關脊椎動物後天免疫反應，具有抗原呈現細胞（antigenpresentingcells）以主要組織相容複合物（MH蛋白分子）將抗原片段呈現在其細胞膜表面上，發出感染訊號給免疫系統，下列何者不能成為抗原呈現細胞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A B cell",
+        "images": []
+      },
+      {
+        "text": "B dendritic cell",
+        "images": []
+      },
+      {
+        "text": "C macrophage",
+        "images": []
+      },
+      {
+        "text": "D T cell",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 假設開發一種單株抗體藥物以抑制過敏反應（allergic reaction），此藥物作用的免疫球蛋白（immunoglobulin; Ig）為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A IgA",
+        "images": []
+      },
+      {
+        "text": "B IgG",
+        "images": []
+      },
+      {
+        "text": "C IgM",
+        "images": []
+      },
+      {
+        "text": "D IgE",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. About adrenal hormones, which of the following statements is NOT TRUE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The adrenal medulla secretes catecholamines including epinephrine and norepinephrine.",
+        "images": []
+      },
+      {
+        "text": "B Epinephrine and norepinephrine are secreted in response to stress activated hormone cascade pathway via hypothalamus.",
+        "images": []
+      },
+      {
+        "text": "C The adrenal cortex releases a family of steroids called corticosteroids in response to stress.",
+        "images": []
+      },
+      {
+        "text": "D Humans produce two types of corticosteroids: glucocorticoids and mineralocorticoids.",
+        "images": []
+      },
+      {
+        "text": "E Both glucocorticoids and mineralocorticoids play an important role in regulating blood pressure and volume.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. Which of the following is an autoimmune disease in which myelinated neurons become the target of the immune response?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A rheumatoid arthritis",
+        "images": []
+      },
+      {
+        "text": "B myasthenia gravis",
+        "images": []
+      },
+      {
+        "text": "C multiple sclerosis",
+        "images": []
+      },
+      {
+        "text": "D diabetes mellitus",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. Which of the following statements about immunoglobulin is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A IgG is the most abundant immunoglobulin in serum.",
+        "images": []
+      },
+      {
+        "text": "B IgM can activate classical complement pathway.",
+        "images": []
+      },
+      {
+        "text": "C IgE can induce mast cell degranulation.",
+        "images": []
+      },
+      {
+        "text": "D IgG is the first immunoglobulin class produced in a primary response to an antigen.",
+        "images": []
+      },
+      {
+        "text": "E IgA is the predominant immunoglobulin class in external secretions such as breast milk, saliva and tears.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. Mammalian Toll-like receptors (TLRs) recognize macromolecules present on certain groups of pathogens. Which of the following is most likely to be recognized by TLR that defends against certain viruses?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A lipopolysaccharides",
+        "images": []
+      },
+      {
+        "text": "B double-stranded peptide",
+        "images": []
+      },
+      {
+        "text": "C double-stranded RNA",
+        "images": []
+      },
+      {
+        "text": "D gylcoproteins",
+        "images": []
+      },
+      {
+        "text": "E phosphopeptides",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 在哺乳動物免疫系統中可以辨識細菌表面的酯多醣（lipopolysaccharide）的Toll-like receptor (TLR)為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A TLR3",
+        "images": []
+      },
+      {
+        "text": "B TLR4",
+        "images": []
+      },
+      {
+        "text": "C TLR5",
+        "images": []
+      },
+      {
+        "text": "D TLR9",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何種白血球，主要不是以吞噬作用來清除病原菌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 嗜中性球（Neutrophils）",
+        "images": []
+      },
+      {
+        "text": "B 單核球（Monocytes）",
+        "images": []
+      },
+      {
+        "text": "C 嗜酸性球（Eosinophils）",
+        "images": []
+      },
+      {
+        "text": "D 樹突細胞（Dendritic cells）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 關於抗體，下列何者是錯的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A IgE為造成立即型過敏反應的主要抗體",
+        "images": []
+      },
+      {
+        "text": "B 抗體為免疫球蛋白",
+        "images": []
+      },
+      {
+        "text": "C IgG是循環中之主要抗體，免疫反應後數量會增加",
+        "images": []
+      },
+      {
+        "text": "D IgD為外分泌液（如唾液及母乳）之主要抗體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. A patient who has a parasitic worm infection and another patient responding to an allergen such as ragweed pollen have which of the following in common?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A an increase in cytotoxic T cell number",
+        "images": []
+      },
+      {
+        "text": "B suffering from anaphylactic shock",
+        "images": []
+      },
+      {
+        "text": "C risking development of an autoimmune disease",
+        "images": []
+      },
+      {
+        "text": "D suffering from a decreased level of innate immunity",
+        "images": []
+      },
+      {
+        "text": "E an increase in the levels of IgE",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. Which of the following statements about the adrenal gland is CORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A During stress, ACTH stimulates the adrenal cortex, and neurons of the sympathetic nervous system stimulate the adrenal medulla.",
+        "images": []
+      },
+      {
+        "text": "B At all times, the anterior portion secretes ACTH, while the posterior portion secretes oxytocin.",
+        "images": []
+      },
+      {
+        "text": "C At all times, the adrenal gland monitors calcium levels in the blood and regulates calcium by secreting the two antagonistic hormones, epinephrine and norepinephrine.",
+        "images": []
+      },
+      {
+        "text": "D During stress, the alpha cells of islets secrete insulin and simultaneously the beta cells of the islets secrete glucagon.",
+        "images": []
+      },
+      {
+        "text": "E During stress, TSH stimulates the adrenal cortex and medulla to secrete acetylcholine.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. Diversity of antibodies arises from which of the following?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Assortment of V, D, J gene segments",
+        "images": []
+      },
+      {
+        "text": "B Junctional variation upon V-D or D-J joining",
+        "images": []
+      },
+      {
+        "text": "C Somatic mutation",
+        "images": []
+      },
+      {
+        "text": "D Assortment of heavy and light chain genes",
+        "images": []
+      },
+      {
+        "text": "E All of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 人類的巨噬細胞如何辨識不同種類的病原而引起適當的反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 靠MHC I分子辨識",
+        "images": []
+      },
+      {
+        "text": "B 靠MHC II分子辨識",
+        "images": []
+      },
+      {
+        "text": "C 靠CD4分子辨識",
+        "images": []
+      },
+      {
+        "text": "D 靠Toll-like receptor辨識",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 人類細胞的基因約有2萬多個，只有少數基因負責製造大量的抗體，B細胞分化生產多樣性抗體的主要機轉為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA重組（DNA recombination）",
+        "images": []
+      },
+      {
+        "text": "B RNA的選擇性剪接（alternative RNA splicing）",
+        "images": []
+      },
+      {
+        "text": "C DNA的甲基化（DNA methylation）",
+        "images": []
+      },
+      {
+        "text": "D 以上皆非",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. Cancer types can be classified according to the origin of cells or tissues. Which of the following statements is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Cancers of the leukemia cells are called lymphomas.",
+        "images": []
+      },
+      {
+        "text": "B Cancers of the epithelial cells are called carcinomas.",
+        "images": []
+      },
+      {
+        "text": "C Cancers of the glandular cells are called adenocarcinoma.",
+        "images": []
+      },
+      {
+        "text": "D Cancers of the connective tissue are called sarcomas.",
+        "images": []
+      },
+      {
+        "text": "E Cancers of the glial cells are called gliomas.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "複選題",
+    "question": "30. IgM抗體在體內會形成五聚體（Pentamer），這表示此種形式的抗體每分子可結合幾個抗原（Antigen）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 2",
+        "images": []
+      },
+      {
+        "text": "B 5",
+        "images": []
+      },
+      {
+        "text": "C 15",
+        "images": []
+      },
+      {
+        "text": "D 10",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. The number of MHC protein combinations possible in a given population is enormous. However, an individual in that population has only a couple of MHC possibilities. Why?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Once a B cell has matured in the bone marrow, it is limited to two MHC response categories.",
+        "images": []
+      },
+      {
+        "text": "B Once a T cell has matured in the thymus, it can only respond to two MHC categories.",
+        "images": []
+      },
+      {
+        "text": "C MHC proteins from one individual can only be of class I or class II.",
+        "images": []
+      },
+      {
+        "text": "D The MHC proteins are made from several different gene regions that are capable of rearranging in a number of ways.",
+        "images": []
+      },
+      {
+        "text": "E Each of the MHC genes has a large number of alleles, but each individual only inherits 2 for each gene.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. The \"immunotolerance\" of a pregnant woman toward her unborn child is the result of",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the complete physical separation from her cells and those of the unborn child.",
+        "images": []
+      },
+      {
+        "text": "B the tenacity with which the unborn child's immune system counteracts the woman's immune system.",
+        "images": []
+      },
+      {
+        "text": "C the unborn child having enough of the woman's identity so as to escape detection as foreign.",
+        "images": []
+      },
+      {
+        "text": "D modern medical intervention during every pregnancy.",
+        "images": []
+      },
+      {
+        "text": "E the relative quiescence of a pregnant woman's immune system compared to when she was not pregnant.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. Which statement about the complement is true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A These proteins are involved in innate immunity only.",
+        "images": []
+      },
+      {
+        "text": "B These proteins can be induced after the invasion of pathogens into the humans.",
+        "images": []
+      },
+      {
+        "text": "C These proteins can only defense against the bacteria’s infection.",
+        "images": []
+      },
+      {
+        "text": "D These proteins are selectively antimicrobial proteins.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. Which of these statements about gamma interferon is false?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A It stimulates the immune system to attack infected cells and tumors.",
+        "images": []
+      },
+      {
+        "text": "B It is produced by almost all cells of the body.",
+        "images": []
+      },
+      {
+        "text": "C It is a polypeptide regulator.",
+        "images": []
+      },
+      {
+        "text": "D It can be produced in response to viral infections.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 有關人體免疫的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人體感染病原體後復原，可以獲得主動免疫（active immunity）",
+        "images": []
+      },
+      {
+        "text": "B 經由疫苗（vaccines）的注射，可以獲得主動免疫",
+        "images": []
+      },
+      {
+        "text": "C 經減毒處理的微生物活體，可以做為主動免疫的疫苗",
+        "images": []
+      },
+      {
+        "text": "D 被動免疫（passive immunity）需要由體外注入抗體，才可以獲得",
+        "images": []
+      },
+      {
+        "text": "E 被動免疫的抗體免疫力與主動免疫相比，較不能持久",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 有關過敏反應的描述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 立即性過敏反應（Immediate allergic responses）是因為記憶性T細胞（Memory T cells）對過敏原產生反應",
+        "images": []
+      },
+      {
+        "text": "B 延遲性過敏反應（Delayed allergic responses）是因為肥大細胞（Mast cells）受到過敏原刺激產生組織胺（Histamine）",
+        "images": []
+      },
+      {
+        "text": "C 肺結核篩檢貼膚試驗屬於立即性過敏反應",
+        "images": []
+      },
+      {
+        "text": "D 接觸性皮膚炎（Contact dermatitis）屬於延遲性過敏反應",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 關於抗體和抗原，下列何者是錯的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抗體對抗原的特異性來自於抗原結合區Fc（crystallizable fragment）的變異性",
+        "images": []
+      },
+      {
+        "text": "B 一個大而複雜的外來分子具有許多不同的抗原決定部位",
+        "images": []
+      },
+      {
+        "text": "C 半抗原（haptens）為小的有機分子，本身並不具抗原性，但若與蛋白質結合便可組成抗原",
+        "images": []
+      },
+      {
+        "text": "D 抗體分子是由4條彼此連接的多胜肽鏈組成，其中2條長的重鏈（heavy chain）分別與2條短的輕鏈（light chain）結合",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 關於人類Toll樣受體（toll-like receptors, TLRs）之作用，下列何者最相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抗原呈遞（Antigen presentation）",
+        "images": []
+      },
+      {
+        "text": "B 細胞免疫（Cellular immunity）",
+        "images": []
+      },
+      {
+        "text": "C 體液免疫（Humoral immunity）",
+        "images": []
+      },
+      {
+        "text": "D 先天免疫（Innate immunity）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 哺乳類動物具有類鐸受體（Toll-like receptors, TLRs）可辨識一些具有病原體特性的分子碎片（fragment），其為包含病毒之何種物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 醣蛋白（glycoprotein）",
+        "images": []
+      },
+      {
+        "text": "B 磷脂質（phospholipid）",
+        "images": []
+      },
+      {
+        "text": "C 鞭毛（flagella）",
+        "images": []
+      },
+      {
+        "text": "D 雙股螺旋核醣核酸（dsRNA）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. Which of the following statement is NOT correct about immunoglobulin producing B cells?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A B cell does not express its immunoglobulin gene unless primed by antigen.",
+        "images": []
+      },
+      {
+        "text": "B B cells rearrange their immunoglobulin gene during their development.",
+        "images": []
+      },
+      {
+        "text": "C The VDJ rearrangement creates the diversity of immunoglobulin produced by B cells.",
+        "images": []
+      },
+      {
+        "text": "D Somatic mutation of immunoglobulin gene is one way to produce high affinity antibody.",
+        "images": []
+      },
+      {
+        "text": "E B cell anergy is one way to induce tolerance.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 局部發炎反應在早期的特徵為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞釋放組織胺",
+        "images": []
+      },
+      {
+        "text": "B 發燒",
+        "images": []
+      },
+      {
+        "text": "C cytotoxic T細胞的攻擊",
+        "images": []
+      },
+      {
+        "text": "D 抗體和補體（complement）所調節的病菌分解",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. The cell-mediated immunity that destroys virally infected cells involves ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A cytotoxic T cells",
+        "images": []
+      },
+      {
+        "text": "B natural killer cells",
+        "images": []
+      },
+      {
+        "text": "C helper T cells",
+        "images": []
+      },
+      {
+        "text": "D macrophages",
+        "images": []
+      },
+      {
+        "text": "E B cells",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 懷孕後期，何種免疫球蛋白（immunoglobulin）會透過胎盤由母體送至胎兒體內？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A IgA",
+        "images": []
+      },
+      {
+        "text": "B IgD",
+        "images": []
+      },
+      {
+        "text": "C IgE",
+        "images": []
+      },
+      {
+        "text": "D IgG",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. If a newborn were accidentally given a drug that destroyed the thymus, what would most likely happen?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A His cells would lack class I MHC molecules on their surface.",
+        "images": []
+      },
+      {
+        "text": "B His humoral immunity would be missing.",
+        "images": []
+      },
+      {
+        "text": "C Genetic rearrangement of antigen receptors would not occur.",
+        "images": []
+      },
+      {
+        "text": "D His T cells would not mature and differentiate appropriately.",
+        "images": []
+      },
+      {
+        "text": "E His B cells would be reduced in number and antibodies would not form.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 人類免疫缺失病毒（HIV）主要感染下列何種細胞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 毒殺T細胞（cytotoxic T cells）",
+        "images": []
+      },
+      {
+        "text": "B 漿細胞（plasma cells）",
+        "images": []
+      },
+      {
+        "text": "C 輔助T細胞（helper T cells）",
+        "images": []
+      },
+      {
+        "text": "D 自然殺手細胞（natural killer cells）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列何者為抗原呈現細胞（antigen-presenting cells）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 漿細胞（plasma cells）",
+        "images": []
+      },
+      {
+        "text": "B 自然殺手細胞（natural killer cells）",
+        "images": []
+      },
+      {
+        "text": "C 毒殺T細胞（cytotoxic T cells）",
+        "images": []
+      },
+      {
+        "text": "D 巨噬細胞（macrophages）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 人類防禦系統的相關配對，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 疫苗接種：被動免疫反應",
+        "images": []
+      },
+      {
+        "text": "B 抗體：由巨噬細胞所分泌",
+        "images": []
+      },
+      {
+        "text": "C 輔助性T細胞：HIV病毒主要攻擊之免疫細胞",
+        "images": []
+      },
+      {
+        "text": "D 吞噬作用：由B細胞所調控之體液免疫",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 有關補體系統（complement system）的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一組參與後天性免疫的蛋白質。",
+        "images": []
+      },
+      {
+        "text": "B 一組由細胞毒性T細胞分泌的蛋白質",
+        "images": []
+      },
+      {
+        "text": "C 一組包括干擾素和介白素（interleukin）的蛋白質",
+        "images": []
+      },
+      {
+        "text": "D 一組以級聯（cascade）方式共同作用的抗菌蛋白",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 幾丁質（chitin）是昆蟲外骨骼主要的結構多醣體，它是由下列何者聚合而成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 半乳糖胺（galactosamine）",
+        "images": []
+      },
+      {
+        "text": "B N-乙醯半乳糖胺（N-acetylgalactosamine）",
+        "images": []
+      },
+      {
+        "text": "C 葡萄糖胺（glucosamine）",
+        "images": []
+      },
+      {
+        "text": "D N-乙醯葡萄糖胺（N-acetylglucosamine）",
+        "images": []
+      },
+      {
+        "text": "E 半乳糖胺（galactosamine）及葡萄糖胺（glucosamine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 關於免疫T細胞及B細胞在抗原辦認上的差異，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 免疫T細胞在胸腺中成熟，而B細胞在骨髓中成熟",
+        "images": []
+      },
+      {
+        "text": "B B細胞在表面形成輕鏈及重鏈組成抗原受體，而T細胞在表面形成α及β鏈組成抗原受體",
+        "images": []
+      },
+      {
+        "text": "C T細胞的表面形成抗原受體是Y形，而B細胞在表面抗原受體則不是",
+        "images": []
+      },
+      {
+        "text": "D B細胞在辦認到抗原後產生稱為免疫球蛋白抗體以對抗病原，而T細胞則是辦認在細胞上的主要組織相容複合體（MHC）加上抗原片段",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

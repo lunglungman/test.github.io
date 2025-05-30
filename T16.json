@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 阿斯匹靈（aspirin）及普羅芬（ibuprofen）兩者都可直接：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抑制前列腺素的合成",
+        "images": []
+      },
+      {
+        "text": "B 抑制NO 的釋放",
+        "images": []
+      },
+      {
+        "text": "C 刺激腎臟血管收縮",
+        "images": []
+      },
+      {
+        "text": "D 刺激催產素釋放",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 關於「壓力荷爾蒙」的描述，下列何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人在面對長期精神壓力時腎上腺皮質會分泌糖皮質荷爾蒙（glucocorticoids）",
+        "images": []
+      },
+      {
+        "text": "B 糖皮質荷爾蒙會降低血糖濃度",
+        "images": []
+      },
+      {
+        "text": "C 糖皮質荷爾蒙會抑制免疫系統",
+        "images": []
+      },
+      {
+        "text": "D 糖皮質荷爾蒙會促進骨骼肌蛋白質分解",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 哺乳類動物體內的腎上腺可製造醛固酮（aldosterone），醛固酮只會針對某些特定細 胞進行作用以維持體內鹽水平衡，這是因為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 只有某些特定細胞可接觸到醛固酮",
+        "images": []
+      },
+      {
+        "text": "B 只有某些特定細胞具有醛固酮的接受器（receptor）",
+        "images": []
+      },
+      {
+        "text": "C 只有某些特定細胞可讓醛固酮直接穿過細胞膜",
+        "images": []
+      },
+      {
+        "text": "D 只有某些特定細胞不會在細胞質內破壞醛固酮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which one of the following hormones could raise the level of basal metabolic rate (BMR)?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Calcitonin",
+        "images": []
+      },
+      {
+        "text": "B Thyrocalcitonin",
+        "images": []
+      },
+      {
+        "text": "C Triiodothyronine",
+        "images": []
+      },
+      {
+        "text": "D Dexamethasone",
+        "images": []
+      },
+      {
+        "text": "E Parathyroid hormone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 下列何者不屬於內分泌系統？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腦下垂體，下視丘",
+        "images": []
+      },
+      {
+        "text": "B 腎上腺，松果腺",
+        "images": []
+      },
+      {
+        "text": "C 胰臟，甲狀腺",
+        "images": []
+      },
+      {
+        "text": "D 脾臟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 人體體內的前列腺素（prostaglandins），是經由下列何種化合物所衍生出來的產物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脂肪酸類（fatty acids）",
+        "images": []
+      },
+      {
+        "text": "B 嘌呤類（purine）",
+        "images": []
+      },
+      {
+        "text": "C 嘧啶類（pyrimidine）",
+        "images": []
+      },
+      {
+        "text": "D 類固醇類（steroids）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 如果人體無法得到足夠的維生素D，則會發生：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血鈣濃度增加",
+        "images": []
+      },
+      {
+        "text": "B 破骨細胞（osteoclast）活性受抑制",
+        "images": []
+      },
+      {
+        "text": "C 副甲狀腺素分泌降低",
+        "images": []
+      },
+      {
+        "text": "D 小腸無法吸收鈣及磷酸鹽",
+        "images": []
+      },
+      {
+        "text": "E 神經細胞軸突退化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 副甲狀腺素（parathyroid hormone）分泌過多，體內會產生何種現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血液中磷酸鹽增加",
+        "images": []
+      },
+      {
+        "text": "B 腸道吸收鈣減少",
+        "images": []
+      },
+      {
+        "text": "C 血液中鈣離子會增加",
+        "images": []
+      },
+      {
+        "text": "D 骨質的礦質化（mineralization）會增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 有關胰島素的說明，下列敘述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 與第一型糖尿病成因無關",
+        "images": []
+      },
+      {
+        "text": "B 是因血糖升高而分泌",
+        "images": []
+      },
+      {
+        "text": "C 刺激肝醣和脂肪的合成",
+        "images": []
+      },
+      {
+        "text": "D 能跨越血腦障蔽",
+        "images": []
+      },
+      {
+        "text": "E 主要是由蘭氏小島（islets of Langerhans）的β細胞所分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 黃體素受體突變導致其功能破壞會有何影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 容易受孕",
+        "images": []
+      },
+      {
+        "text": "B 子宮內膜異常增厚",
+        "images": []
+      },
+      {
+        "text": "C 子宮壁無法支撐懷孕過程",
+        "images": []
+      },
+      {
+        "text": "D 腦下垂體促性腺荷爾蒙（pituitary gonadotropin hormones）缺乏",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 有關腦垂腺（hypophysial gland）後葉的說明，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由胚胎口腔上皮衍生而來",
+        "images": []
+      },
+      {
+        "text": "B 分泌生長激素和泌乳素（prolactin）",
+        "images": []
+      },
+      {
+        "text": "C 不能產生激素",
+        "images": []
+      },
+      {
+        "text": "D 與個體水分與離子的平衡調控無關",
+        "images": []
+      },
+      {
+        "text": "E 受到下視丘釋放激素的刺激而分泌激素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列有關皮質醇（cortisol）的作用，何者為錯？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 皮質醇對於身體有抗發炎的效果",
+        "images": []
+      },
+      {
+        "text": "B 血液中皮質醇濃度升高時，容易產生高血糖",
+        "images": []
+      },
+      {
+        "text": "C 血液中皮質醇濃度升高時，容易產生高血壓",
+        "images": []
+      },
+      {
+        "text": "D 血液中皮質醇的濃度升高，會對腦下垂體前葉產生正性回饋的作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 腎上腺皮質會釋放皮質醇（cortisol），而皮質醇會：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 減低血糖",
+        "images": []
+      },
+      {
+        "text": "B 增加蛋白質合成",
+        "images": []
+      },
+      {
+        "text": "C 減低脂肪溶解",
+        "images": []
+      },
+      {
+        "text": "D 有抗發炎的作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 負責血鈣恆定的荷爾蒙為________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甲狀腺素（thyroxine）及副甲狀腺素（parathyroid hormone）",
+        "images": []
+      },
+      {
+        "text": "B 胰島素（insulin）及升糖素（glucagon）",
+        "images": []
+      },
+      {
+        "text": "C 甲狀腺素（thyroxine）及降鈣素（calcitonin）",
+        "images": []
+      },
+      {
+        "text": "D 降鈣素（calcitonin）及副甲狀腺素（parathyroid hormone）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列何者可以刺激乳腺管，讓乳腺管內的母乳流出？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 泌乳素（prolactin）",
+        "images": []
+      },
+      {
+        "text": "B 催產素（oxytocin）",
+        "images": []
+      },
+      {
+        "text": "C 黃體成長激素（luteinizing hormone）",
+        "images": []
+      },
+      {
+        "text": "D 動情素（estrogen）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Which one of the following signal molecule is specific to animals?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Pheromone",
+        "images": []
+      },
+      {
+        "text": "B Cytokinin",
+        "images": []
+      },
+      {
+        "text": "C Ethylene",
+        "images": []
+      },
+      {
+        "text": "D Strigolactone",
+        "images": []
+      },
+      {
+        "text": "E Nitric oxide",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 若連續幾天食用低鈉鹽的飲食，會出現那一種生理現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 尿液中鈉離子（Na+）濃度增高",
+        "images": []
+      },
+      {
+        "text": "B 醛固酮（aldosterone）分泌增加",
+        "images": []
+      },
+      {
+        "text": "C 心房利鈉胜肽（atrial natriuretic peptide）分泌增加",
+        "images": []
+      },
+      {
+        "text": "D 血漿中腎素（rennin）的濃度減少",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. Which of the following pair of hormones have antagonistic effects?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A thyroid hormone and parathyroid hormone",
+        "images": []
+      },
+      {
+        "text": "B epinephrine and norepinephrine",
+        "images": []
+      },
+      {
+        "text": "C glucagon and insulin",
+        "images": []
+      },
+      {
+        "text": "D prolactin and oxytocin",
+        "images": []
+      },
+      {
+        "text": "E androgen and estrogen",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 當一個人外觀產生龐狀臉（moon face），水牛背（buffalo hump），同時腹部有橫紋（striae）出現時，對該病人的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 此病人血液中皮質醇（cortisol）可能是低下的",
+        "images": []
+      },
+      {
+        "text": "B 此病人可能是庫興氏症候群（Cushing syndrome）",
+        "images": []
+      },
+      {
+        "text": "C 此病人可能是患有愛迪生症候群（Addison syndrome）",
+        "images": []
+      },
+      {
+        "text": "D 如果血液中促腎上腺皮質激素（ACTH）上升，則該病人可能是大量攝取類皮質醇藥物所引起的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. In human endocrine systems, which one is NOT correct description?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Metamorphosis in flatfishes and in amphibians is controlled by growth hormone.",
+        "images": []
+      },
+      {
+        "text": "B Vitamin D is a hormone produced in part by exposure to sunlight.",
+        "images": []
+      },
+      {
+        "text": "C If blood sodium levels rise sharply above normal limits the heart will release more atrial natriuretic peptide.",
+        "images": []
+      },
+      {
+        "text": "D Insulin's effects on reducing blood glucose levels are counteracted by glucagon’s actions, which increase blood glucose.",
+        "images": []
+      },
+      {
+        "text": "E It would be reasonable to assume that environmental cues such as photoperiod and temperature might regulate animal reproduction.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 有關激素與功能的配對，何者錯誤?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黃體成長激素（luteinizing hormone, LH）─抑制子宮平滑肌活動",
+        "images": []
+      },
+      {
+        "text": "B 胃泌素（gastrin）─促進胃液分泌",
+        "images": []
+      },
+      {
+        "text": "C 胰島素（insulin）─促進肝細胞吸收血中葡萄糖",
+        "images": []
+      },
+      {
+        "text": "D 膽囊收縮素（cholecystokinin）─刺激膽囊釋放膽汁",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Which combination of hormones helps a mother to produce milk and nurse her baby?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A prolactin and calcitonin",
+        "images": []
+      },
+      {
+        "text": "B oxytocin and prolactin",
+        "images": []
+      },
+      {
+        "text": "C follicle-stimulating hormone and luteinizing hormone",
+        "images": []
+      },
+      {
+        "text": "D luteinizing hormone and oxytocin",
+        "images": []
+      },
+      {
+        "text": "E oxytocin, prolactin, and luteinizing hormone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列何種激素不是由腦下垂體前葉所分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長激素（growth hormone）",
+        "images": []
+      },
+      {
+        "text": "B 泌乳素（prolactin）",
+        "images": []
+      },
+      {
+        "text": "C 促性腺激素（gonadotropin）",
+        "images": []
+      },
+      {
+        "text": "D 甲狀腺素（thyroid hormone）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列對於賀爾蒙（hormones）敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 所有賀爾蒙都是蛋白質分子",
+        "images": []
+      },
+      {
+        "text": "B 身體一部分細胞產生的信號，只能影響鄰近細胞活動的化學物質",
+        "images": []
+      },
+      {
+        "text": "C 可利用血液運輸到目標細胞",
+        "images": []
+      },
+      {
+        "text": "D 所有賀爾蒙都是脂溶性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 將下列六種激素分成如下表的兩大類，則其最可能的分類依據為何？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/004.png"
+    ],
+    "options": [
+      {
+        "text": "A 是否為固醇類激素",
+        "images": []
+      },
+      {
+        "text": "B 是否為胜肽類激素",
+        "images": []
+      },
+      {
+        "text": "C 是否受到腦垂腺的激素所調控",
+        "images": []
+      },
+      {
+        "text": "D 是否會降低人體內血糖值",
+        "images": []
+      },
+      {
+        "text": "E 是否在細胞質內有其可結合的受體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 下列荷爾蒙作用的敘述，何者最適當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雄性激素和礦物質皮質素—維持雄性的特徵",
+        "images": []
+      },
+      {
+        "text": "B 胰島素和升糖素為拮抗荷爾蒙—維持血糖的恆定",
+        "images": []
+      },
+      {
+        "text": "C 正腎上腺素和甲狀腺素—調控血鈣的濃度",
+        "images": []
+      },
+      {
+        "text": "D 副甲狀腺和生長激素—維持血鈣的濃度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. Which of the following about endocrine system is incorrect?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Testis is a part of endocrine system",
+        "images": []
+      },
+      {
+        "text": "B T3 and T4 are hormones derived from tyrosine",
+        "images": []
+      },
+      {
+        "text": "C The alpha cells of pancreas produce glucagon to increase the blood glucose level",
+        "images": []
+      },
+      {
+        "text": "D The heart is an endocrine organ because the cardiac cells produce atrial natriuretic peptide in response to high blood pressure",
+        "images": []
+      },
+      {
+        "text": "E Estrogen is a water-soluble hormone that regulates the female reproductive system and sex characteristics",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列有關副甲狀腺素的敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 副甲狀腺機能亢進會導致骨質疏鬆症",
+        "images": []
+      },
+      {
+        "text": "B 可以促進腎臟對鈣離子的再吸收",
+        "images": []
+      },
+      {
+        "text": "C 可以促進腎臟合成維他命D3",
+        "images": []
+      },
+      {
+        "text": "D 是一種由類固醇（steroid）為主架構所形成的荷爾蒙",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 睪固酮（testosterone）在細胞內的作用，是以下列何種方式來達成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 先與受體蛋白結合，再進入細胞核活化特定基因",
+        "images": []
+      },
+      {
+        "text": "B 作為訊息受體，活化離子通道蛋白",
+        "images": []
+      },
+      {
+        "text": "C 作為類固醇訊息受體，活化離子通道蛋白",
+        "images": []
+      },
+      {
+        "text": "D 以「第二信使」的作用而抑制腺苷酸環化酶（adenylcyclase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 鈣代謝受多種激素的影響，雌激素（estrogen）最主要是抑制下列何種細胞的作用來達到防止骨質疏鬆症？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 成骨細胞（osteoblast）",
+        "images": []
+      },
+      {
+        "text": "B 蝕骨細胞（osteoclast）",
+        "images": []
+      },
+      {
+        "text": "C 副甲狀腺主細胞（chief cell）",
+        "images": []
+      },
+      {
+        "text": "D 甲狀腺濾泡旁細胞（parafollicular cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 何者不是副甲狀腺素（parathyroid hormone, PTH）的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抑制降鈣素的分泌",
+        "images": []
+      },
+      {
+        "text": "B 增加腎臟對鈣離子的再吸收",
+        "images": []
+      },
+      {
+        "text": "C 刺激蝕骨細胞（osteoclasts）的活性以分解硬骨基質，使鈣離子釋出",
+        "images": []
+      },
+      {
+        "text": "D 增加血液中鈣離子的濃度，以維持人體內鈣離子的恆定",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 昆蟲生理學家可以透過哪一項操作處使幼蛻皮，體型變大但無法進入成階段？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抑制蛻皮激素（ecdysone）分泌",
+        "images": []
+      },
+      {
+        "text": "B 促進蛻皮激素分泌",
+        "images": []
+      },
+      {
+        "text": "C 促前胸腺激素（prothoracicotropic hormone）分泌",
+        "images": []
+      },
+      {
+        "text": "D 促進青春激素（juvenile hormone）分泌",
+        "images": []
+      },
+      {
+        "text": "E 抑制雄激素（androgen）分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 副甲狀腺（parathyroid gland）分泌副甲狀腺素進入血液中時，促進",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎臟釋放鈣離子",
+        "images": []
+      },
+      {
+        "text": "B 噬骨細胞（osteoclast）活性，吸收鈣離子",
+        "images": []
+      },
+      {
+        "text": "C 血鈣濃度增加",
+        "images": []
+      },
+      {
+        "text": "D 腎臟細胞活化維生素E",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. About adrenal hormones, which of the following statements is NOT TRUE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The adrenal medulla secretes catecholamines including epinephrine and norepinephrine.",
+        "images": []
+      },
+      {
+        "text": "B Epinephrine and norepinephrine are secreted in response to stress-activated hormone cascade pathway via hypothalamus.",
+        "images": []
+      },
+      {
+        "text": "C The adrenal cortex releases a family of steroids called corticosteroids in response to stress.",
+        "images": []
+      },
+      {
+        "text": "D Humans produce two types of corticosteroids: glucocorticoids and mineralocorticoids.",
+        "images": []
+      },
+      {
+        "text": "E Both glucocorticoids and mineralocorticoids play an important role in regulating blood pressure and volume.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 有關下列那一種胺基酸是血清素（serotonin）生合成的前驅物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 精胺酸（arginine）",
+        "images": []
+      },
+      {
+        "text": "B 麩胺酸（glutamic acid）",
+        "images": []
+      },
+      {
+        "text": "C 色胺酸（tryptophan）",
+        "images": []
+      },
+      {
+        "text": "D 酪胺酸（tyrosine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 食鹽中加碘主要是為了維持________功能正常。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 副甲狀腺（parathyroid gland）",
+        "images": []
+      },
+      {
+        "text": "B 腎上腺（adrenal gland）",
+        "images": []
+      },
+      {
+        "text": "C 甲狀腺（thyroid gland）",
+        "images": []
+      },
+      {
+        "text": "D 胰臟（pancreas）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 在長期工作壓力下________會釋放，而造成免疫功能低下。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 糖皮質激素（glucocorticoid）",
+        "images": []
+      },
+      {
+        "text": "B 鹽皮質激素（mineralocorticoid）",
+        "images": []
+      },
+      {
+        "text": "C 升糖素（glucagon）",
+        "images": []
+      },
+      {
+        "text": "D 褪黑激素（melatonin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. What is the only type of chemical signal that does not alter the physiology of the animal producing that signal?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A paracrine",
+        "images": []
+      },
+      {
+        "text": "B pheromones",
+        "images": []
+      },
+      {
+        "text": "C neuroendocrine",
+        "images": []
+      },
+      {
+        "text": "D neural",
+        "images": []
+      },
+      {
+        "text": "E none of above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. RU486 在懷孕早期可引發流產，下列描述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它會抑制黃體產生黃體素（progesterone）",
+        "images": []
+      },
+      {
+        "text": "B 它會與黃體素競爭結合位",
+        "images": []
+      },
+      {
+        "text": "C 它會殺死胚胎",
+        "images": []
+      },
+      {
+        "text": "D 它會直接促進腦下垂體前葉釋放FSH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. When an individual is subject to short-term starvation, most available food is used to provide energy (metabolism)rather than building blocks (growth and repair). Which hormone would be particularly active in times of food shortage?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A antidiuretic hormone",
+        "images": []
+      },
+      {
+        "text": "B insulin",
+        "images": []
+      },
+      {
+        "text": "C epinephrine",
+        "images": []
+      },
+      {
+        "text": "D glucagon",
+        "images": []
+      },
+      {
+        "text": "E oxytocin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. The hormones epinephrine and norepinephrine constitute the “alarm” response of the body to stress. What secretes these hormones?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pancreas",
+        "images": []
+      },
+      {
+        "text": "B pineal gland",
+        "images": []
+      },
+      {
+        "text": "C thyroid gland",
+        "images": []
+      },
+      {
+        "text": "D adrenal medulla",
+        "images": []
+      },
+      {
+        "text": "E anterior pituitary gland",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 有關胰島素被分泌後作用於肌肉細胞以增加葡萄糖攝取的訊息傳導類型，下列何者 最可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞間訊息傳導（intercellular signaling）",
+        "images": []
+      },
+      {
+        "text": "B 內分泌訊息傳導（endocrine signaling）",
+        "images": []
+      },
+      {
+        "text": "C 旁分泌訊息傳導（paracrine signaling）",
+        "images": []
+      },
+      {
+        "text": "D 自分泌訊息傳導（autocrine signaling）",
+        "images": []
+      },
+      {
+        "text": "E 共分泌訊息傳導（synaptic signaling）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 在持續性之運動過程中（例如長距離賽跑），運動員血中何種成分會隨著時間下降？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抗利尿激素（antidiuretic hormone）",
+        "images": []
+      },
+      {
+        "text": "B 腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "C 胰島素（insulin）",
+        "images": []
+      },
+      {
+        "text": "D 游離脂肪酸（free fatty acid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 蝌蚪必須經歷變態（metamorphosis）的過程變成青蛙。這個過程包括尾部再吸收、肢體生長、骨骼鈣化、視網膜視紫質增加、肺部發育、血紅蛋白結構改變和腸道的改造。所有的變化都是由甲狀腺素引起的，下列敘述何者最有可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甲狀腺素有許多不同的形式，每種都是針對不同的組織",
+        "images": []
+      },
+      {
+        "text": "B 不同的組織具有激活不同信號轉導途徑的甲狀腺素受體",
+        "images": []
+      },
+      {
+        "text": "C 一些組織具有甲狀腺素的膜受體，而其他組織在細胞核內具有甲狀腺素受體",
+        "images": []
+      },
+      {
+        "text": "D 不同的釋放激素",
+        "images": []
+      },
+      {
+        "text": "E （releasing hormone）釋放甲狀腺素到不同的組織",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 非冬眠的哺乳類動物，在冬季寒冷時需增加何種物質分泌以維持身體能量代謝正常？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛻皮激素（ecdysone）",
+        "images": []
+      },
+      {
+        "text": "B 升糖素（glucagon）",
+        "images": []
+      },
+      {
+        "text": "C 甲狀腺素（thyroxine）",
+        "images": []
+      },
+      {
+        "text": "D 副甲狀腺素（parathyroid hormone）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 關於神經激素（neurohormone）之敘述，下列哪一選項是正確的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 為突觸後神經元（post -synaptic neuron）所分泌",
+        "images": []
+      },
+      {
+        "text": "B 為突觸前神經元（pre-synaptic neuron）所分泌",
+        "images": []
+      },
+      {
+        "text": "C 作用於神經突觸（synapse）",
+        "images": []
+      },
+      {
+        "text": "D 由循環系統運送至標靶細胞（target cell）",
+        "images": []
+      },
+      {
+        "text": "E 其標靶細胞一定是神經",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "複選題",
+    "question": "47. 下列激素何者可刺激蛋白質合成及脂肪分解？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長激素（growth hormone）",
+        "images": []
+      },
+      {
+        "text": "B 甲狀腺素（thyroid hormone）",
+        "images": []
+      },
+      {
+        "text": "C 胰島素（insulin）",
+        "images": []
+      },
+      {
+        "text": "D 腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "E 昇糖素（glucagon）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "複選題",
+    "question": "48. How many of the following is/are antagonistic function?I. sympathetic and parasympathetic nervesII. biceps and triceps musclesIII. insulin and glucagonIV. thyroid and parathyroid",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0",
+        "images": []
+      },
+      {
+        "text": "B 1",
+        "images": []
+      },
+      {
+        "text": "C 2",
+        "images": []
+      },
+      {
+        "text": "D 3",
+        "images": []
+      },
+      {
+        "text": "E 4",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "複選題",
+    "question": "49. 對於血液中鈣離子濃度恆定的維持，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血鈣過高時，甲狀腺分泌降鈣素（calcitonin）增加腎臟鈣離子流失",
+        "images": []
+      },
+      {
+        "text": "B 降鈣素主要作用在增加造骨細胞（osteoblast）活性",
+        "images": []
+      },
+      {
+        "text": "C 血鈣過低時，鈣質僅由骨頭中釋放來補充",
+        "images": []
+      },
+      {
+        "text": "D 降鈣素會減低腎臟對鈣離子的再吸收",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 下列敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蘭氏小島β細胞因應血糖上升，可使存於細胞囊泡（vesicle）中的胰島素釋出於血液中",
+        "images": []
+      },
+      {
+        "text": "B 腎上腺皮質細胞因應ACTH刺激，可使存於細胞囊泡中的cortisol釋出於血液中",
+        "images": []
+      },
+      {
+        "text": "C 腎上腺髓質細胞因應ACTH刺激，可使存於細胞囊泡中的腎上腺素釋出於血液中",
+        "images": []
+      },
+      {
+        "text": "D 副甲狀腺腺體細胞因應血鈣降低，可使存於細胞囊泡中的副甲狀腺素釋出於血液中",
+        "images": []
+      },
+      {
+        "text": "E 神經細胞因應刺激產生動作電位後，可使存於突觸末端（synaptic terminal）囊泡中的神經傳導物質釋出於突觸裂隙（synaptic cleft）中",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ]
+  }
+]

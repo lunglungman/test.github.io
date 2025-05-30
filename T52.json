@@ -1,0 +1,1478 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列有關植物與醫藥相關性的敘述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 長春花含長春花鹼（Vinblastine）可治血癌",
+        "images": []
+      },
+      {
+        "text": "B 柳樹樹皮富含水楊酸（salicylic acid），可提煉止痛藥阿斯匹林",
+        "images": []
+      },
+      {
+        "text": "C 太平洋紫杉富含 taxol，經萃取濃縮後可有效治療乳癌",
+        "images": []
+      },
+      {
+        "text": "D 波斯菊富含水飛薊（silymarin），經萃取濃縮後可有效治療肝癌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. Which of the followings is a trend in the evolution of land plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Decrease in the size of the leaf",
+        "images": []
+      },
+      {
+        "text": "B Reduction of the gametophyte phase of the life cycle",
+        "images": []
+      },
+      {
+        "text": "C Elimination of sperm cells or sperm nuclei",
+        "images": []
+      },
+      {
+        "text": "D Increasing reliance on water to bring sperm and egg together",
+        "images": []
+      },
+      {
+        "text": "E Increasing spore size",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 有關陸地植物世代交替的敍述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 苔蘚植物的孢子體較不發達，但仍可獨立生活",
+        "images": []
+      },
+      {
+        "text": "B 蕨類植物的生命週期以孢子體較發達",
+        "images": []
+      },
+      {
+        "text": "C 種子植物以孢子體為主要的世代",
+        "images": []
+      },
+      {
+        "text": "D 被子植物的雌配子體發育成胚囊（embryo sac）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 在所有的陸生植物都是從水生的何種生物演化而來？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 藻類",
+        "images": []
+      },
+      {
+        "text": "B 鸚鵡螺",
+        "images": []
+      },
+      {
+        "text": "C 魚甲龍",
+        "images": []
+      },
+      {
+        "text": "D 肉鰭魚類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Which one could be the pollinator of the flower that has long floral tube?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Bats",
+        "images": []
+      },
+      {
+        "text": "B Flies",
+        "images": []
+      },
+      {
+        "text": "C Bees",
+        "images": []
+      },
+      {
+        "text": "D Hawk moths",
+        "images": []
+      },
+      {
+        "text": "E Ants",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. In species interaction, which one is the correct description of allelopathy?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Amensalism",
+        "images": []
+      },
+      {
+        "text": "B The secretion of toxins into the environment by plant roots or leaves",
+        "images": []
+      },
+      {
+        "text": "C Commensalism",
+        "images": []
+      },
+      {
+        "text": "D Mutualism",
+        "images": []
+      },
+      {
+        "text": "E The movement of genes from one species to another",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. Which of the following is an ongoing trend in the evolution of land plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A decrease in the size of the leaf",
+        "images": []
+      },
+      {
+        "text": "B reduction of the gametophyte phase of the life cycle",
+        "images": []
+      },
+      {
+        "text": "C elimination of sperm cells or sperm nuclei",
+        "images": []
+      },
+      {
+        "text": "D increasing reliance on water to bring sperm and egg together",
+        "images": []
+      },
+      {
+        "text": "E replacement of roots by rhizoids",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 如果一個植物的卵的單套染色體數目是16（n＝16）。下列對於此植物其他組織中染色體數目的敘述何者最正確？I. 精子的數目是8II. 葉子跟莖的數目是16III. 合子（zygote）的數目是16IV. 種殼（seed coat）的數目是32V. 胚乳的數目是48",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A I, II, III",
+        "images": []
+      },
+      {
+        "text": "B II, III, IV",
+        "images": []
+      },
+      {
+        "text": "C II, III, IV, V",
+        "images": []
+      },
+      {
+        "text": "D IV, V",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 植物生活史具有世代交替（alternation of generations），下面哪一群植物具有各自獨立生存的孢子體（sporophyte）與配子體（gametophyte）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 被子植物",
+        "images": []
+      },
+      {
+        "text": "B 裸子植物",
+        "images": []
+      },
+      {
+        "text": "C 苔蘚植物",
+        "images": []
+      },
+      {
+        "text": "D 蕨類植物",
+        "images": []
+      },
+      {
+        "text": "E 單子葉植物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列何者不是所有維管束植物所共同具有的特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 種子的發育",
+        "images": []
+      },
+      {
+        "text": "B 世代交替",
+        "images": []
+      },
+      {
+        "text": "C 細胞壁上有木質素",
+        "images": []
+      },
+      {
+        "text": "D 二倍體世代的優勢",
+        "images": []
+      },
+      {
+        "text": "E 木質部和韌皮部",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "複選題",
+    "question": "11. 下列哪種藥物屬於植物鹼（alkaloid）或其衍生物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 嗎啡（morphine）",
+        "images": []
+      },
+      {
+        "text": "B 阿司匹林（aspirin）",
+        "images": []
+      },
+      {
+        "text": "C 紫杉醇（taxol）",
+        "images": []
+      },
+      {
+        "text": "D 麥角酸二乙胺（LSD）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列有關植物多樣性的敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 土馬騌及地錢為蘚苔類，不具維管束",
+        "images": []
+      },
+      {
+        "text": "B 石松是小葉植物，沒有葉脈",
+        "images": []
+      },
+      {
+        "text": "C 蕨類是大葉植物，具複雜葉脈",
+        "images": []
+      },
+      {
+        "text": "D 蘇鐵是裸子植物，沒有花",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. Which plant group is NOT vascular plant?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ginkgo",
+        "images": []
+      },
+      {
+        "text": "B Mosses",
+        "images": []
+      },
+      {
+        "text": "C Conifers",
+        "images": []
+      },
+      {
+        "text": "D Angiosperms",
+        "images": []
+      },
+      {
+        "text": "E Ferns",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 原產於南美洲熱帶雨林的巴西堅果樹為一種硬木樹，可以長到50多公尺高，每個堅果中含有8－25粒種子，具有高經濟價值。巴西堅果樹的黃色花朵只能依靠某種特殊的雌性蜜蜂orchid bee作為傳粉者，無法自行授粉。如果一隻雌性蜜蜂orchid bee剛造訪一棵巴西堅果樹的花朵，並繼續造訪另一棵樹的花朵，下列事件發生的順序應該為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 授粉 → 花粉管從花粉粒中萌發 → 花粉管進入珠孔（micropyle） → 雙重受精",
+        "images": []
+      },
+      {
+        "text": "B 授粉 → 花粉管進入珠孔 → 花粉管從花粉粒中萌發 → 雙重受精",
+        "images": []
+      },
+      {
+        "text": "C 花粉管從花粉粒中萌發 → 授粉 → 花粉管進入珠孔 → 雙重受精",
+        "images": []
+      },
+      {
+        "text": "D 花粉管進入珠孔 → 花粉管從花粉粒中萌發 → 授粉 → 雙重受精",
+        "images": []
+      },
+      {
+        "text": "E 花粉管從花粉粒中萌發 → 花粉管進入珠孔 → 授粉 → 雙重受精",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 原產於南美洲熱帶雨林的巴西堅果樹為一種硬木樹，可以長到50多公尺高，每個堅果中含有8－25粒種子，具有高經濟價值。巴西堅果樹的黃色花朵只能依靠某種特殊的雌性蜜蜂orchid bee作為傳粉者，無法自行授粉。若將此巴西堅果樹移植到東南亞栽種，發現這些植株生長狀況良好，開花率也很高，但是卻無法結出果實，下列何者為最可能的原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 孢子體存活率低",
+        "images": []
+      },
+      {
+        "text": "B 無法產生胚珠",
+        "images": []
+      },
+      {
+        "text": "C 無法產生花粉",
+        "images": []
+      },
+      {
+        "text": "D 花粉太小",
+        "images": []
+      },
+      {
+        "text": "E 授粉失敗",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 世代交替中，染色體在下列何種情況會發生套數變化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 孢子體（sporophyte）產生孢子（spore）",
+        "images": []
+      },
+      {
+        "text": "B 孢子形成配子體（gametophyte）",
+        "images": []
+      },
+      {
+        "text": "C 配子體產生配子（gamete）",
+        "images": []
+      },
+      {
+        "text": "D 合子（zygote）形成孢子體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. Which statement is true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Plants are defined as multicellular, eukaryotic, photosynthetic autotrophs.",
+        "images": []
+      },
+      {
+        "text": "B Plants are defined by their chloroplasts, which contain chlorophyll a and b.",
+        "images": []
+      },
+      {
+        "text": "C Plant sporophytes grow from haploid spores.",
+        "images": []
+      },
+      {
+        "text": "D Charophytes and land plants share four derived traits that suggest they share a relatively recent common ancestor.",
+        "images": []
+      },
+      {
+        "text": "E Charophytes are embryophytes.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 在世代交替（alternation of generations）現象中，下列哪一分類群的配子體（gametophyte）可以獨立生存？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蕨類植物（ferns）",
+        "images": []
+      },
+      {
+        "text": "B 單子葉植物（monocots）",
+        "images": []
+      },
+      {
+        "text": "C 雙子葉植物（dicots）",
+        "images": []
+      },
+      {
+        "text": "D 松柏類（conifers）",
+        "images": []
+      },
+      {
+        "text": "E 銀杏（Ginkgo）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 陸生植物的生活史中，配子體（gametophyte）世代和孢子體（sporophyte）世代的植物體交替出現，有關配子體和孢子體各自獨立生存的分類群，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蕨類植物",
+        "images": []
+      },
+      {
+        "text": "B 苔蘚植物",
+        "images": []
+      },
+      {
+        "text": "C 被子植物",
+        "images": []
+      },
+      {
+        "text": "D 裸子植物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 植物界（Kingdom Plantae）推測由下列何者演化而來？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Zygomycete",
+        "images": []
+      },
+      {
+        "text": "B Charophycean",
+        "images": []
+      },
+      {
+        "text": "C Stramenopile",
+        "images": []
+      },
+      {
+        "text": "D Choanoflagellate",
+        "images": []
+      },
+      {
+        "text": "E Myxophyceae",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列哪一項特徵可以在輪藻綱（Charophyceae）物種中發現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A carrageenan",
+        "images": []
+      },
+      {
+        "text": "B phragmoplast",
+        "images": []
+      },
+      {
+        "text": "C gonidium",
+        "images": []
+      },
+      {
+        "text": "D conjugation",
+        "images": []
+      },
+      {
+        "text": "E statospores",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列數種植物在演化上的先後順序為何？1. 蕨類植物（Pteridophytes）2. 苔蘚植物（Bryophytes）3. 裸子植物（Gymnosperms）4. 輪藻植物（Charophyceans）5. 被子植物（Angiosperms）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 4 → 2 → 1 → 3 → 5",
+        "images": []
+      },
+      {
+        "text": "B 4 → 1 → 2 → 3 → 5",
+        "images": []
+      },
+      {
+        "text": "C 1 → 2 → 3 → 4 → 5",
+        "images": []
+      },
+      {
+        "text": "D 4 → 1 → 2 → 5 → 3",
+        "images": []
+      },
+      {
+        "text": "E 1 → 4 → 2 → 5 → 3",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 有關植物的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 所有的裸子植物在冬季皆不落葉",
+        "images": []
+      },
+      {
+        "text": "B 某些植物二次代謝物可用來區分不同分類群",
+        "images": []
+      },
+      {
+        "text": "C 由化石紀錄得知被子植物由買麻藤植物（Gnetophytes）直接演化而來",
+        "images": []
+      },
+      {
+        "text": "D 所有裸子植物皆為風媒授粉",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. About plant endosperm, which statement is NOT correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Endosperm is produced by the union of a central cell with a sperm cell.",
+        "images": []
+      },
+      {
+        "text": "B In angiosperms, an endosperm formed by the union of a sperm with three polar nuclei during double fertilization.",
+        "images": []
+      },
+      {
+        "text": "C The endosperm provides nourishment to the developing embryo in angiosperm seeds.",
+        "images": []
+      },
+      {
+        "text": "D The endosperm is a nutrient source for the embryo.",
+        "images": []
+      },
+      {
+        "text": "E Wheat endosperm is ground into flour for bread.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列有關蕨類植物的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 配子體需依靠孢子體存活",
+        "images": []
+      },
+      {
+        "text": "B 具有明顯的直立莖",
+        "images": []
+      },
+      {
+        "text": "C 減數分裂發生在孢子囊內",
+        "images": []
+      },
+      {
+        "text": "D 受精作用不需要外在水分做為媒介",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 有關植物生活史的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 世代交替（alternation of generations）是植物所特有的現象",
+        "images": []
+      },
+      {
+        "text": "B 精子（sperm）是由antheridium產生",
+        "images": []
+      },
+      {
+        "text": "C 蕨類植物（ferns）和種子植物（seed plants）統稱為euphyllophytes",
+        "images": []
+      },
+      {
+        "text": "D 配子體（gametophyte）不會發生減數分裂（meiosis）",
+        "images": []
+      },
+      {
+        "text": "E 苔蘚（mosses）的精子具有鞭毛，需要水為媒介傳播",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何種為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 維管束植物是開花植物",
+        "images": []
+      },
+      {
+        "text": "B 苔蘚類是維管束植物",
+        "images": []
+      },
+      {
+        "text": "C 苔蘚類是隱花植物",
+        "images": []
+      },
+      {
+        "text": "D 蕨類是維管束植物",
+        "images": []
+      },
+      {
+        "text": "E 隱花植物不產生種子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 生物學家在熱帶雨林發現一新植物物種，詳細觀察此物種的形態解剖特徵及生活史，發現有幾項特徵如下：精子具有鞭毛、具有管胞（tracheid）、孢子體較佔優勢、不會產生種子，由此推論該物種最可能屬於下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 裸子植物",
+        "images": []
+      },
+      {
+        "text": "B 苔蘚植物",
+        "images": []
+      },
+      {
+        "text": "C 被子植物",
+        "images": []
+      },
+      {
+        "text": "D 蕨類植物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 與植物一樣會由光合作用產生氧氣的是下列哪類生物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 藍菌（Cyanobacteria）",
+        "images": []
+      },
+      {
+        "text": "B 古細菌（Archaebacteria）",
+        "images": []
+      },
+      {
+        "text": "C 化合自營細菌",
+        "images": []
+      },
+      {
+        "text": "D 異營性細菌",
+        "images": []
+      },
+      {
+        "text": "E 放射菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. There are several stages about alternation of generations of ferns. Which order is TRUE?(1) gametophyte,(2) sporophyte,(3) spores,(4) archegonia,(5) gametes.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 32541",
+        "images": []
+      },
+      {
+        "text": "B 23145",
+        "images": []
+      },
+      {
+        "text": "C 32451",
+        "images": []
+      },
+      {
+        "text": "D 23541",
+        "images": []
+      },
+      {
+        "text": "E 32145",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 以下何種藻類被認為是陸生植物的共同祖先？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 金黃藻",
+        "images": []
+      },
+      {
+        "text": "B 綠藻",
+        "images": []
+      },
+      {
+        "text": "C 矽藻",
+        "images": []
+      },
+      {
+        "text": "D 紅藻",
+        "images": []
+      },
+      {
+        "text": "E 褐藻",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 可產生帶鞭毛的精細胞，世代交替中單倍體與二倍體世代都可獨立生活的陸生植物。下列何者最符合此描述？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 被子植物",
+        "images": []
+      },
+      {
+        "text": "B 裸子植物",
+        "images": []
+      },
+      {
+        "text": "C 蕨類植物",
+        "images": []
+      },
+      {
+        "text": "D 苔蘚植物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 有關蕨類植物（fern）的生命週期之順序，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 孢子體 → 配子 → 配子體 → 孢子 → 合子",
+        "images": []
+      },
+      {
+        "text": "B 孢子 → 配子體 → 配子 → 合子 → 孢子體",
+        "images": []
+      },
+      {
+        "text": "C 孢子體 → 合子 → 配子體 → 配子 → 孢子",
+        "images": []
+      },
+      {
+        "text": "D 合子 → 孢子 → 配子體 → 配子 → 孢子體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. Biofuels are mainly produced by:",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A plants that convert hemicellulose into gasoline.",
+        "images": []
+      },
+      {
+        "text": "B the breakdown of cell wall biopolymers into sugars that can be fermented.",
+        "images": []
+      },
+      {
+        "text": "C the genetic engineering of ethanol generating genes into plants.",
+        "images": []
+      },
+      {
+        "text": "D plants that are easy to grow in arid environments.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 植物學家認為所有植物是由一共同祖先演化而來，可能是green alga，因為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物的外形很像藻類",
+        "images": []
+      },
+      {
+        "text": "B 植物生長在陸地上",
+        "images": []
+      },
+      {
+        "text": "C 都有綠色的葉子",
+        "images": []
+      },
+      {
+        "text": "D 皆為自營生活者（autotrophs）",
+        "images": []
+      },
+      {
+        "text": "E 有許多共同的生化及代謝的特性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 假設一植物在晚間開白色花，其花朵具有蜜腺（nectary），此蜜腺位於細長花冠筒的基部，下列何者可能為此植物的授粉者（pollinator）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A birds",
+        "images": []
+      },
+      {
+        "text": "B moths",
+        "images": []
+      },
+      {
+        "text": "C butterflies",
+        "images": []
+      },
+      {
+        "text": "D honey bees",
+        "images": []
+      },
+      {
+        "text": "E bumblebees",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. In the life cycle of an angiosperm, which of the following cells or tissues are diploids?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A generative cells",
+        "images": []
+      },
+      {
+        "text": "B microsporocyte",
+        "images": []
+      },
+      {
+        "text": "C antipodal cells",
+        "images": []
+      },
+      {
+        "text": "D tube cells",
+        "images": []
+      },
+      {
+        "text": "E polar nuclei of the embryo sac",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 下列分類群，何者不是現存的裸子植物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蘇鐵植物（Cycadophyta）",
+        "images": []
+      },
+      {
+        "text": "B 銀杏（Ginkgophyta）",
+        "images": []
+      },
+      {
+        "text": "C 松柏植物（Coniferophyta）",
+        "images": []
+      },
+      {
+        "text": "D 石松（Lycophyta）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. Which of the following is true in plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Mitosis occurs in gametophytes to produce gametes.",
+        "images": []
+      },
+      {
+        "text": "B Meiosis occurs in sporophytes to produce spores.",
+        "images": []
+      },
+      {
+        "text": "C The gametophyte is within the flower in angiosperms.",
+        "images": []
+      },
+      {
+        "text": "D A and B only",
+        "images": []
+      },
+      {
+        "text": "E A, B, and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. Beginning with the germination of a moss spore, what is the sequence of structures that develop after germination?1. embryo2. sporophyte3. gametes4. protonema5. gametophore",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 4 → 3 → 5 → 2 → 1",
+        "images": []
+      },
+      {
+        "text": "B 4 → 1 → 3 → 5 → 2",
+        "images": []
+      },
+      {
+        "text": "C 4 → 5 → 2 → 1 → 3",
+        "images": []
+      },
+      {
+        "text": "D 4 → 5 → 3 → 1 → 2",
+        "images": []
+      },
+      {
+        "text": "E 4 → 5 → 1 → 2 → 3",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 有關植物的次級代謝物與人體生理的配對關係，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紫杉－taxol－抗癌藥物",
+        "images": []
+      },
+      {
+        "text": "B 蓖麻－ricin－抑制細胞轉譯作用",
+        "images": []
+      },
+      {
+        "text": "C 樹薯－cyanogenic glycoside－阻斷細胞呼吸作用之電子傳遞鏈",
+        "images": []
+      },
+      {
+        "text": "D 黃豆－genistein－中樞神經系統麻醉藥物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 植物會產生一些對本身細胞結構或生長無關，但會有助於植物存活或生殖的二級代謝物（secondary metabolites），許多植物二級代謝物具有發展成藥物的潛力。有關植物二級代謝物的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物鹼（alkaloids）為帶有氮元素的二級代謝物，咖啡因（caffeine）即為其中一種",
+        "images": []
+      },
+      {
+        "text": "B 紫杉醇（taxol）為多酚類（phenolics）化合物，被用於癌症的化學治療",
+        "images": []
+      },
+      {
+        "text": "C 萜烯（terpenes）類化合物可吸收UV，保護植物DNA免於UV傷害",
+        "images": []
+      },
+      {
+        "text": "D 古柯鹼（cocaine）屬於類萜（terpenoids）化合物，為成癮性較低的麻醉藥物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. Which of the following characteristics tends to limit bryophytes and seedless vascular plants to habitats that are relatively moist?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A absence of cuticle",
+        "images": []
+      },
+      {
+        "text": "B presence of flagellated sperm",
+        "images": []
+      },
+      {
+        "text": "C presence of free-living, independent zygotes and early embryos",
+        "images": []
+      },
+      {
+        "text": "D presence of lignified vascular tissues",
+        "images": []
+      },
+      {
+        "text": "E presence of seeds and pollen",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列何種生物不具有孢子體與配子體交替之世代交替（Alternation of generations）過程？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 地錢",
+        "images": []
+      },
+      {
+        "text": "B 水苔",
+        "images": []
+      },
+      {
+        "text": "C 輪藻",
+        "images": []
+      },
+      {
+        "text": "D 木賊",
+        "images": []
+      },
+      {
+        "text": "E 菸草",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. Which of the following statements for characteristics of monocots and eudicots is not true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Veins of monocots are usually parallel; veins of eudicots are usually netlike.",
+        "images": []
+      },
+      {
+        "text": "B Stem vascular tissues of monocots are usually scattered; stem vascular tissues of eudicots are usually arranged in ring.",
+        "images": []
+      },
+      {
+        "text": "C The root system of monocots are usually fibrous（no main root）; taproots are usually present in the root system of eudicots.",
+        "images": []
+      },
+      {
+        "text": "D There are three openings on every pollen grain of monocots; there is one opening on every pollen grain of eudicots.",
+        "images": []
+      },
+      {
+        "text": "E Floral organs of monocots are usually in multiples of three; floral organs of eudicots are usually in multiples of four or five.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 黑核桃樹釋放胡桃酮等化學物質抑制其他植物的生長，此現象稱之為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 競爭（competition）",
+        "images": []
+      },
+      {
+        "text": "B 共生（symbiotism）",
+        "images": []
+      },
+      {
+        "text": "C 相生相剋（allelopathy）",
+        "images": []
+      },
+      {
+        "text": "D 性狀替換（character displacement）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 在植物演化的過程中，哪一項敘述是錯誤的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 石松類植物、蕨類植物都有韌皮部和木質部，但不產生種子",
+        "images": []
+      },
+      {
+        "text": "B 只有被子植物為開花植物",
+        "images": []
+      },
+      {
+        "text": "C 在世代交替中，無維管束植物的孢子體是較優勢的，而維管束植物則是配子體較具優勢",
+        "images": []
+      },
+      {
+        "text": "D 苔蘚植物像地錢、蘚苔等為無維管束植物",
+        "images": []
+      },
+      {
+        "text": "E 在所有的藻類中，綠藻與陸地植物的關係最相近",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 陸生植物具有世代交替的生殖循環特性，下列哪種植物在世代交替時是以配子體（gametophyte）為優勢（dominant）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 苔類",
+        "images": []
+      },
+      {
+        "text": "B 蕨類",
+        "images": []
+      },
+      {
+        "text": "C 松樹",
+        "images": []
+      },
+      {
+        "text": "D 台灣水韮",
+        "images": []
+      },
+      {
+        "text": "E 海芋",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 在形態與分子證據的支持下，輪藻被認為是陸生植物的親緣最近藻類。下列何者是輪藻與陸生植物共同擁有的形態特徵，而在其它類群不存在？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 頂端分生組織（apical meristems）",
+        "images": []
+      },
+      {
+        "text": "B 世代交替（alternation of generations）",
+        "images": []
+      },
+      {
+        "text": "C 成膜體（phragmoplast）的形成",
+        "images": []
+      },
+      {
+        "text": "D 多細胞性配子囊（multicellular gametangia）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. Which structure is common to both gymnosperms and angiosperms?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A stigma",
+        "images": []
+      },
+      {
+        "text": "B carpel",
+        "images": []
+      },
+      {
+        "text": "C ovule",
+        "images": []
+      },
+      {
+        "text": "D ovary",
+        "images": []
+      },
+      {
+        "text": "E anthers",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

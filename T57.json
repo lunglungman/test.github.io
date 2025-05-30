@@ -1,0 +1,1479 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 考古學常用碳十四定年法來測定年代，原理如下：生物體內的碳十四與碳十二的比等於1.3 × 10–12：1，當生物死亡後，生物體內碳十四會衰變而逐漸減少，而碳十二幾乎不變，已知碳十四半衰期為5730年。若發現一生物化石，測得其碳十四與碳十二的比為3.25 × 10–13：1，則此生物生存的年代距今約多少年前？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 11500",
+        "images": []
+      },
+      {
+        "text": "B 22500",
+        "images": []
+      },
+      {
+        "text": "C 33500",
+        "images": []
+      },
+      {
+        "text": "D 44500",
+        "images": []
+      },
+      {
+        "text": "E 55500",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 在演化史中，物種形成是演化的一個重要過程，兩個族群因地理上完全隔離（可能為板塊的移動，或陸地隆起、冰河事件等）且族群和族群之間無法交流，進而形成種化的現象，稱為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 異域種化（allopatric speciation）",
+        "images": []
+      },
+      {
+        "text": "B 同域種化（sympatric speciation）",
+        "images": []
+      },
+      {
+        "text": "C 臨域性種化（parapatric speciation）",
+        "images": []
+      },
+      {
+        "text": "D 邊域性種化（peripatric speciation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. Speciation without geographic isolation is called ________ speciation.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A convergent",
+        "images": []
+      },
+      {
+        "text": "B allopatric",
+        "images": []
+      },
+      {
+        "text": "C incomplete",
+        "images": []
+      },
+      {
+        "text": "D diversifying",
+        "images": []
+      },
+      {
+        "text": "E sympatric",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 某植物學家在野外發現一含有52條染色體的新種玉米，其細胞核中含有13對大染色體以及另外13對小染色體。已知現存兩種野生型的玉米品種分別含有13對大型以及13對小型染色體。這位植物學家可以根據以下哪一個選項提出合理的假說來解釋他的新發現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 同源演化（evolutionary homology）",
+        "images": []
+      },
+      {
+        "text": "B 同域種化（sympatric speciation）",
+        "images": []
+      },
+      {
+        "text": "C 異域種化（allopatric speciation）",
+        "images": []
+      },
+      {
+        "text": "D 同功演化（convergent evolution）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 下列有關生物物種觀念（Biological species concept）之描述，何者正確？I. 形態類似的族群在遺傳上是隔離的，即每個物種都被生殖障礙所隔離II. 生物物種為一種獨特的遺傳標誌（Genetic marker）來界分的分類群III. 生物物種是最大的族群單位，其中基因交換是可能的IV. 生物物種是以獨立之結構特徵的觀點描述的分類群",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A I和IV",
+        "images": []
+      },
+      {
+        "text": "B II和IV",
+        "images": []
+      },
+      {
+        "text": "C I和III",
+        "images": []
+      },
+      {
+        "text": "D II和III",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列何者最有可能是地球生物性變遷（biological history of Earth）的正確順序？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 動物早於藻類",
+        "images": []
+      },
+      {
+        "text": "B 真核早於原核生物",
+        "images": []
+      },
+      {
+        "text": "C 代謝早於有絲分裂",
+        "images": []
+      },
+      {
+        "text": "D DNA早於RNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列有關種化（Speciation）的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 同域種化常見於植物",
+        "images": []
+      },
+      {
+        "text": "B 適應輻射是同域種化的一種類型",
+        "images": []
+      },
+      {
+        "text": "C 小的分離族群比大的族群為較佳的異域種化對象",
+        "images": []
+      },
+      {
+        "text": "D 異域種化是目前較被接受的種化觀念",
+        "images": []
+      },
+      {
+        "text": "E 異域種化主要由於地理隔離所造成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 由於中國大陸畫眉人為非法引入台灣，已在野外與台灣特有種畫眉雜交，開始出現雜交種。生態學者擔心此雜交現象（hybdridization）可能會促成已被列為保育動物類的台灣畫眉絕滅，其理由何在？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 因產生不適的雜交後代",
+        "images": []
+      },
+      {
+        "text": "B 可能引入有害基因",
+        "images": []
+      },
+      {
+        "text": "C 增加遺傳漂變機會",
+        "images": []
+      },
+      {
+        "text": "D 雜交種可能比原生親代種更具競爭力",
+        "images": []
+      },
+      {
+        "text": "E 增加近親交配的可能性因而降低適存性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 某孤立島嶼上有五種同屬植物A, B, C, D, E，分別為2倍體、2倍體、2倍體、4倍體和3倍體，根據細胞學證據顯示，D物種為A和B物種的後代，E物種為C和D物種的後代，下面哪一機制為此現象最有可能的原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 棲地選擇（habitat selection）",
+        "images": []
+      },
+      {
+        "text": "B 同種多倍體（autopolyploidy）",
+        "images": []
+      },
+      {
+        "text": "C 同域種化（sympatric speciation）",
+        "images": []
+      },
+      {
+        "text": "D 遺傳漂變（genetic drift）",
+        "images": []
+      },
+      {
+        "text": "E 天擇（natural selection）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列有關地球演化的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氧氣大約在25－30億年前在地球的大氣層累積",
+        "images": []
+      },
+      {
+        "text": "B 米勒（Miller）與尤瑞（Urey）在1953年將CH4、NH3、H2、H2S等混合物，在無氧的環境下，經過加熱與放電處理，發現可以產生有機小分子",
+        "images": []
+      },
+      {
+        "text": "C DNA聚合酶（polymerase）需要RNA引子（primer），而RNA聚合酶則否，對生命的起源，支持了RNA先現假說（RNA-first hypothesis）",
+        "images": []
+      },
+      {
+        "text": "D 核糖核酸酵素（ribozyme）的發現，對生命的起源，支持了RNA先現假說",
+        "images": []
+      },
+      {
+        "text": "E 在古生代（Paleozoic）寒武紀（Cambrian）時，植物首度出現於陸地",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 依據地球各地質歷史時期的環境狀態和大氣組成判斷，最早能讓現生的哺乳動物生存的時期，下列何者最可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 太古宙（Archaean Eon）",
+        "images": []
+      },
+      {
+        "text": "B 元古宙（Proterozoic Eon）",
+        "images": []
+      },
+      {
+        "text": "C 泥盆紀時期（Devonian Period）",
+        "images": []
+      },
+      {
+        "text": "D 寒武紀時期（Cambrian Period）",
+        "images": []
+      },
+      {
+        "text": "E 三疊紀時期（Triassic Period）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. The ostrich and the emu look very similar and live in similar habitat. However, they are not very closely related. This is an example of",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sympatric speciation.",
+        "images": []
+      },
+      {
+        "text": "B divergent evolution.",
+        "images": []
+      },
+      {
+        "text": "C exaptation.",
+        "images": []
+      },
+      {
+        "text": "D adaptive evolution.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. What is thought to be the correct sequence of these events, from earliest to most recent, in the evolution of life on Earth?1. origin of mitochondria.2. origin of chloroplasts.3. origin of multicellular eukaryotes.4. origin of cyanobacteria.5. origin of fungal-plant symbioses.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 4, 3, 2, 1, 5",
+        "images": []
+      },
+      {
+        "text": "B 4, 2, 1, 3, 5",
+        "images": []
+      },
+      {
+        "text": "C 4, 2, 3, 1, 5",
+        "images": []
+      },
+      {
+        "text": "D 4, 1, 2, 3, 5",
+        "images": []
+      },
+      {
+        "text": "E 4, 1, 3, 2, 5",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 有關地球歷史上最大強度的生物大滅絕（mass extinction）事件，在下列何種地質歷史時期發生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 志留紀（Silurian）",
+        "images": []
+      },
+      {
+        "text": "B 二疊紀（Permian）",
+        "images": []
+      },
+      {
+        "text": "C 三疊紀（Triassic）",
+        "images": []
+      },
+      {
+        "text": "D 侏羅紀（Jurassic）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Endosymbiosis is the event occurring in the algal evolution. Which is NOT CORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Cyanobacterium is included by marine animal cells in the primary endosymbiosis.",
+        "images": []
+      },
+      {
+        "text": "B Genetic exchange between cyanobacterium and animal host.",
+        "images": []
+      },
+      {
+        "text": "C Red algae are the old species derived from primary endosymbiosis.",
+        "images": []
+      },
+      {
+        "text": "D Secondary endosymbiosis is happening again when carbon dioxide concentration is sharply declined.",
+        "images": []
+      },
+      {
+        "text": "E Land plants are appearing after secondary endosymbiosis.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 避免馬與驢交配繁殖成一新的物種的機制為________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A prezygotic barrier",
+        "images": []
+      },
+      {
+        "text": "B hybrid breakdown",
+        "images": []
+      },
+      {
+        "text": "C hybrid sterility",
+        "images": []
+      },
+      {
+        "text": "D gametic isolation",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 生物若因多倍體化而產生新物種，此現象屬於下列何種機制？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 同域種化（sympatric speciation）",
+        "images": []
+      },
+      {
+        "text": "B 異域種化（allopatric speciation）",
+        "images": []
+      },
+      {
+        "text": "C 邊域種化（peripatric speciation）",
+        "images": []
+      },
+      {
+        "text": "D 鄰域種化（parapatric speciation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. Which one of the following statements about endosymbiosis and the origin of the eukaryotic cell are FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Mitochondria are the descendents of purple nonsulfur bacteria.",
+        "images": []
+      },
+      {
+        "text": "B The chloroplasts of red and green alga are the descendents of cyanobacteria.",
+        "images": []
+      },
+      {
+        "text": "C Not all compartments of the eukaryotic cell are derived from the endomembrane system.",
+        "images": []
+      },
+      {
+        "text": "D The brown algae acquired their chloroplasts by engulfing a prokaryotic cell with chloroplasts.",
+        "images": []
+      },
+      {
+        "text": "E None of these choices are correct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 2008年11月《自然》期刊發表在中國貴州發現一個生活在2億2000萬年前原始龜類化石，這個古老的化石具保護動物柔軟腹部的扁平腹甲，但缺乏上方的背甲，這項發現可能有助於了解烏龜的起源及演化，此化石為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 原顎龜Proganochelys",
+        "images": []
+      },
+      {
+        "text": "B 半甲齒龜Odontochelys semitestacea",
+        "images": []
+      },
+      {
+        "text": "C 象牙海岸側頸龜Pelusios cupulatta",
+        "images": []
+      },
+      {
+        "text": "D 鱗背長頸龜Chelodina reimanni",
+        "images": []
+      },
+      {
+        "text": "E 肯氏龜Lepidochelys kempii",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 下列那一個選項不屬於生物種（biological species）觀念的內涵？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 不同物種之間存在生殖隔離（reproductive isolation）",
+        "images": []
+      },
+      {
+        "text": "B 同物種的雌雄個體交配產生具有繁殖力的後代",
+        "images": []
+      },
+      {
+        "text": "C 生態環境中存在的自然物種（natural populations）",
+        "images": []
+      },
+      {
+        "text": "D 同物種族群內出現雜交物種（hybrid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. Which of the following statements about fruit fly is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Spermatheca can be used to store sperm in male fly.",
+        "images": []
+      },
+      {
+        "text": "B Defective expression of Hox genes suppresses the embryonic development.",
+        "images": []
+      },
+      {
+        "text": "C The courtship behaviors include orienting, tapping and singing",
+        "images": []
+      },
+      {
+        "text": "D Toll receptor leads to synthesis of antimicrobial peptides against fungi.",
+        "images": []
+      },
+      {
+        "text": "E Drosophila melanogaster has a diploid number of 8.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列哪一本書是以天擇（natural selection）為主要的內容？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大霹靂（The origin of the universe）",
+        "images": []
+      },
+      {
+        "text": "B 寂靜的春天（Silent spring）",
+        "images": []
+      },
+      {
+        "text": "C 盲眼鐘錶匠（The blind watchmaker ）",
+        "images": []
+      },
+      {
+        "text": "D 最後三分鐘（The last three minutes）",
+        "images": []
+      },
+      {
+        "text": "E 古海荒漠（The Mediterranean was a desert）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列有關地球生物史的描述何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 古生代的石炭紀，森林遍布地球，這些森林植物變成化石後形成了我們今日稱的煤炭",
+        "images": []
+      },
+      {
+        "text": "B 中生代是「恐龍的時代」，恐龍在白堊紀滅絕了",
+        "images": []
+      },
+      {
+        "text": "C 銀杏和蘇鐵化石出現在二疊紀地層中，今日仍可見，堪稱活化石",
+        "images": []
+      },
+      {
+        "text": "D 欲知某恐龍化石的年代可用14C定年",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 就異域種化（allopatric speciation）發生的過程，下面哪一項不是造成異域種化之因素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 孤立族群因為突變的累積，導致遺傳差異產生",
+        "images": []
+      },
+      {
+        "text": "B 因為地理上的隔離，導致原來族群分裂成二個孤立族群",
+        "images": []
+      },
+      {
+        "text": "C 孤立族群因為環境因子不同，受到不同天擇作用影響而分離",
+        "images": []
+      },
+      {
+        "text": "D 孤立族群因為遺傳漂變（genetic drift），導致遺傳分歧",
+        "images": []
+      },
+      {
+        "text": "E 孤立族群間持續維持基因交流",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. What is the single greatest threat to biodiversity throughout the biosphere?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A overharvesting of commercially important species",
+        "images": []
+      },
+      {
+        "text": "B introduced species that compete with native species",
+        "images": []
+      },
+      {
+        "text": "C pollution of Earth’s air, water, and soil",
+        "images": []
+      },
+      {
+        "text": "D disruption of trophic relationships as more and more prey species become extinct",
+        "images": []
+      },
+      {
+        "text": "E habitat alteration, fragmentation, and destruction",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 許多作物為多倍體。若作物A染色體數目2n＝14，作物B染色體數目2n＝18。新種作物C為異源多倍體，由作物A與作物B天然雜交而產生。試問作物C其染色體數目2n＝________，此種化事件為________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 16，同域種化（sympatric speciation）",
+        "images": []
+      },
+      {
+        "text": "B 32，同域種化（sympatric speciation）",
+        "images": []
+      },
+      {
+        "text": "C 16，異域種化（allopatric speciation）",
+        "images": []
+      },
+      {
+        "text": "D 32，異域種化（allopatric speciation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 以下哪一生物最可能發生地理隔絕（geographic isolation）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鴿子",
+        "images": []
+      },
+      {
+        "text": "B 蝙蝠",
+        "images": []
+      },
+      {
+        "text": "C 海水魚",
+        "images": []
+      },
+      {
+        "text": "D 蝸牛",
+        "images": []
+      },
+      {
+        "text": "E 馬",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 有關生物種（biological species）概念的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 具有相似外觀（appearance）的生物族群",
+        "images": []
+      },
+      {
+        "text": "B 能夠交配繁殖出具有生殖能力後代的生物族群",
+        "images": []
+      },
+      {
+        "text": "C 有共同祖先（common ancestor）的生物族群",
+        "images": []
+      },
+      {
+        "text": "D 生活在相似環境中的生物族群",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 有關古細菌的敘述，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 古細菌和細菌都屬原核生物",
+        "images": []
+      },
+      {
+        "text": "B 古細菌有部分的特性與真核細胞相近",
+        "images": []
+      },
+      {
+        "text": "C 古細菌多生長在極端環境",
+        "images": []
+      },
+      {
+        "text": "D 古細菌為演化最早的生物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. Which of these statements about prokaryotes is correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Bacterial cells conjugate to mutually exchange genetic material.",
+        "images": []
+      },
+      {
+        "text": "B Their genetic material is confined within a nuclear envelope.",
+        "images": []
+      },
+      {
+        "text": "C They divide by binary fission, without mitosis or meiosis.",
+        "images": []
+      },
+      {
+        "text": "D The persistence of bacteria throughout evolutionary time is due to their genetic homogeneity (i.e., sameness).",
+        "images": []
+      },
+      {
+        "text": "E Genetic variation in bacteria is not known to occur, nor should it occur, because of their asexual mode of reproduction.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. Which of the followings would a paleontologist be most likely to do in order to determine whether a fossil represents a reptile or a mammal?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Look for the mammalian characteristics of a four-chambered heart and a diaphragm.",
+        "images": []
+      },
+      {
+        "text": "B Because mammals are eutherians, look for evidence of a placenta.",
+        "images": []
+      },
+      {
+        "text": "C Use molecular analysis to look for the protein keratin.",
+        "images": []
+      },
+      {
+        "text": "D Examine the teeth.",
+        "images": []
+      },
+      {
+        "text": "E Look for the presence of milk-producing glands.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. A fossil that has one fourth the normal proportion of carbon-14 to carbon-12 is approximately ________ years?（Carbon-14 half life is about 5,700 years）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1,350",
+        "images": []
+      },
+      {
+        "text": "B 2,750",
+        "images": []
+      },
+      {
+        "text": "C 11,400",
+        "images": []
+      },
+      {
+        "text": "D 16,800",
+        "images": []
+      },
+      {
+        "text": "E 22,400",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. Which of the following is considered an intrinsic isolating mechanism?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Gametic incompatibility.",
+        "images": []
+      },
+      {
+        "text": "B Sterile offspring.",
+        "images": []
+      },
+      {
+        "text": "C Ecological isolation.",
+        "images": []
+      },
+      {
+        "text": "D Timing of courtship display.",
+        "images": []
+      },
+      {
+        "text": "E All of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 生物學家在夏威夷群島的不同島上發現超過500種果蠅，而且它們似乎來自於一個祖先物種。這個例子說明：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sympatric speciation",
+        "images": []
+      },
+      {
+        "text": "B adaptive radiation",
+        "images": []
+      },
+      {
+        "text": "C postzygotic barriers",
+        "images": []
+      },
+      {
+        "text": "D temporal isolation",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 石炭紀Carboniferous period 是全世界各地煤形成的時期，這一個時期主要的植物為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 種子植物（Seed plants）",
+        "images": []
+      },
+      {
+        "text": "B 被子植物（Angiosperms）",
+        "images": []
+      },
+      {
+        "text": "C 綠藻（Chlorophytes）",
+        "images": []
+      },
+      {
+        "text": "D 裸子植物（Gymnosperms）",
+        "images": []
+      },
+      {
+        "text": "E 蕨類植物ferns及大型石松（Lycophytes）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 大多數新種產生（speciation）的因素，需要許多世代後才能看見他的改變。下列何者所需時間較短？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 拓殖（colonization）",
+        "images": []
+      },
+      {
+        "text": "B 增強（reinforcement）",
+        "images": []
+      },
+      {
+        "text": "C 多倍性（polyploidy）",
+        "images": []
+      },
+      {
+        "text": "D 天擇（natural selection）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 下表為X物種與其他五種類生物的DNA雜交實驗結果，數字為各雜交DNA完全變性（denaturation）的溫度，請問與X物種親緣關係較接近是何者？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/043.png"
+    ],
+    "options": [
+      {
+        "text": "A A",
+        "images": []
+      },
+      {
+        "text": "B B",
+        "images": []
+      },
+      {
+        "text": "C C",
+        "images": []
+      },
+      {
+        "text": "D D",
+        "images": []
+      },
+      {
+        "text": "E E",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 擁有長尾巴鳥類飛行較慢易被天敵掠食，但根據野外實驗，人工加長尾巴長度的雄鳥獲得雌鳥與其交配機會增多，且子代數亦較多。此現象雖為性擇（sexual selection）的表現，但雌鳥為何喜歡與具長尾巴的雄鳥交配呢？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 長尾巴雄鳥較威武",
+        "images": []
+      },
+      {
+        "text": "B 長尾巴雄鳥較會照顧子代",
+        "images": []
+      },
+      {
+        "text": "C 長尾巴雄鳥佔有的資源較豐富",
+        "images": []
+      },
+      {
+        "text": "D 長尾巴雄鳥較健康能抵抗疾病",
+        "images": []
+      },
+      {
+        "text": "E 長尾巴雄鳥的費洛蒙較強烈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 如果在台灣嘉義阿里山麓發現有一種青蛙的兩個亞種，其形態構造、生殖環境及分布範圍均相當類似，但在自然環境下第一個亞種之繁殖期為2～4月，而另一亞種為7～9月，則這個兩亞種青蛙屬於：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 棲地隔離（Habitat isolation）",
+        "images": []
+      },
+      {
+        "text": "B 行為隔離（Behavioral isolation）",
+        "images": []
+      },
+      {
+        "text": "C 時間隔離（Temporal isolation）",
+        "images": []
+      },
+      {
+        "text": "D 構造性隔離（Mechanical isolation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 藻類屬於原生生物界且能進行光合作用合成碳水化合物，屬於生態系統中的初級生產者。有關藻類的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 褐藻、紅藻不為綠色的原因是因為他們都不含葉綠素",
+        "images": []
+      },
+      {
+        "text": "B 矽藻葉綠體具有獨特的層膜構造可支持二次內共生的存在",
+        "images": []
+      },
+      {
+        "text": "C 輪藻門（Charophyta）因具有維管束組織可支持其為陸生植物的祖先",
+        "images": []
+      },
+      {
+        "text": "D 藻類與植物一樣都不具運動能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 兩個不同物種具有類似的結構特徵，這表示：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它們的親緣關係很接近",
+        "images": []
+      },
+      {
+        "text": "B 它們的親緣關係很遙遠",
+        "images": []
+      },
+      {
+        "text": "C 它們在生態中具有類似的利基（Niche）",
+        "images": []
+      },
+      {
+        "text": "D 它們可以交配產生下一代",
+        "images": []
+      },
+      {
+        "text": "E 它們的基因非常相似",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. Which of these should decline in hybrid zones where reinforcement is occurring?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A gene flow between distinct gene pools",
+        "images": []
+      },
+      {
+        "text": "B speciation",
+        "images": []
+      },
+      {
+        "text": "C the genetic distinctness of two gene pools",
+        "images": []
+      },
+      {
+        "text": "D mutation rate",
+        "images": []
+      },
+      {
+        "text": "E hybrid sterility",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. During the history of the Earth, what is the time sequence of originations（from old to young）of the animals below?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A trilobites, dragonflies, reptiles, dinosaurs, primates",
+        "images": []
+      },
+      {
+        "text": "B trilobites, reptiles, dragonflies, dinosaurs, primates",
+        "images": []
+      },
+      {
+        "text": "C trilobites, dragonflies, dinosaurs, reptiles, primates",
+        "images": []
+      },
+      {
+        "text": "D dragonflies, trilobites, reptiles, dinosaurs, primates",
+        "images": []
+      },
+      {
+        "text": "E dragonflies, trilobites, dinosaurs, reptiles, primates",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 植物A的染色體數目2n＝2X＝10，植物B的染色體數目2n＝2X＝14，由植物A及植物B雜交，再自行多倍體化而產生的新種植物C為八倍體（8X），則植物C之染色體數目2n＝？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 24",
+        "images": []
+      },
+      {
+        "text": "B 40",
+        "images": []
+      },
+      {
+        "text": "C 48",
+        "images": []
+      },
+      {
+        "text": "D 56",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 在原始大氣中的氣體組成，沒有下列哪一種成分？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氨氣",
+        "images": []
+      },
+      {
+        "text": "B 氧氣",
+        "images": []
+      },
+      {
+        "text": "C 氫氣",
+        "images": []
+      },
+      {
+        "text": "D 硫化氫",
+        "images": []
+      },
+      {
+        "text": "E 水蒸氣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 新物種的產生，常起因於生殖隔離（reproductive isolation），不同的植物花朵外型吸引到特定種的傳粉生物，以致於彼此間的配子沒有機會接觸形成雜交種，此為下列哪一種生殖屏障（reproductive barrier）所引起？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Temporal isolation",
+        "images": []
+      },
+      {
+        "text": "B Behavioral isolation",
+        "images": []
+      },
+      {
+        "text": "C Mechanical isolation",
+        "images": []
+      },
+      {
+        "text": "D Gametic isolation",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "複選題",
+    "question": "47. A new species of plant could be originated by hybridization coupled with ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A autopolyploidy",
+        "images": []
+      },
+      {
+        "text": "B polymorphic speciation",
+        "images": []
+      },
+      {
+        "text": "C a super species",
+        "images": []
+      },
+      {
+        "text": "D sympatric speciation",
+        "images": []
+      },
+      {
+        "text": "E allopatric speciation",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. The emergence of 14 species of Galápagos finches from a common ancestor that finds itself in a new environment is called",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A adaptive radiation.",
+        "images": []
+      },
+      {
+        "text": "B jumping selection.",
+        "images": []
+      },
+      {
+        "text": "C disruptive selection.",
+        "images": []
+      },
+      {
+        "text": "D sympatric speciation.",
+        "images": []
+      },
+      {
+        "text": "E hybridization.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. Which of the following statements is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Speciation, or the formation of new species, is the bridge between microevolution and macroevolution.",
+        "images": []
+      },
+      {
+        "text": "B The likelihood of allopatric speciation increases when a splinter population is small and isolated from the broader range of the species.",
+        "images": []
+      },
+      {
+        "text": "C Speciation without geographic isolation is called allopatric speciation.",
+        "images": []
+      },
+      {
+        "text": "D Organisms carry more than two complete sets of chromosomes in are called as polyploid.",
+        "images": []
+      },
+      {
+        "text": "E Most polyploid species arise from the hybridization of two parent species and subsequent chromosome duplications.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 科學家利用放射性碳定年（radiocarbon dating）來計算生物化石的年代，假設一個受化石化的鸚鵡螺殼有4克的14C，而現存活的鸚鵡螺殼有16克的14C。而14C的半衰期為5600年，則此鸚鵡螺殼的化石約為多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 5,600年",
+        "images": []
+      },
+      {
+        "text": "B 11,200年",
+        "images": []
+      },
+      {
+        "text": "C 2,800年",
+        "images": []
+      },
+      {
+        "text": "D 1,400年",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

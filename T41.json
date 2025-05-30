@@ -1,0 +1,1420 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 對於引起狂牛症之傳染原prions之途述，下列何者為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一種不正常摺疊（misfolded）的正常腦部蛋白",
+        "images": []
+      },
+      {
+        "text": "B 小的RNA分子可感染動物",
+        "images": []
+      },
+      {
+        "text": "C 一種可移動之DNA片段",
+        "images": []
+      },
+      {
+        "text": "D 病毒DNA可附著在宿主之染色體上",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. RNA 病毒必須要自己提供酵素是因為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 宿主細胞會快速的破壞病毒",
+        "images": []
+      },
+      {
+        "text": "B 宿主細胞缺少複製病毒基因的酵素",
+        "images": []
+      },
+      {
+        "text": "C 這些酵素會將病毒的RNA轉譯（translate）成蛋白質",
+        "images": []
+      },
+      {
+        "text": "D 這些酵素會穿透宿主的細胞膜",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列關於人類免疫缺陷病毒（human immunodeficiency virus, HIV）的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A HIV是一外覆磷脂膜的病毒（enveloped virus），其基因體是由RNA所組成",
+        "images": []
+      },
+      {
+        "text": "B HIV感染宿主細胞後其基因體會以原病毒（provirus）型式嵌入宿主細胞染色體內",
+        "images": []
+      },
+      {
+        "text": "C HIV早期感染時需要逆轉錄酶（reverse transcriptase）及整合酶（integrase）",
+        "images": []
+      },
+      {
+        "text": "D 宿主細胞染色體內的HIV原病毒DNA不含有啟動子（promoter）序列，所以無法進行轉錄但可以被複製",
+        "images": []
+      },
+      {
+        "text": "E HIV原病毒DNA的表現需要一種稱為tat的HIV病毒蛋白質參與才能有效進行",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 愛滋病（AIDS）為病毒導致的疾病，此病毒具有複雜的增殖週期，關於引起愛滋病之病毒的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病毒名稱：人類乳突狀瘤病毒（HPV）　類型：DNA病毒　套膜：無",
+        "images": []
+      },
+      {
+        "text": "B 病毒名稱：人類乳突狀瘤病毒（HPV）　類型：RNA病毒　套膜：有",
+        "images": []
+      },
+      {
+        "text": "C 病毒名稱：人類乳突狀瘤病毒（HPV）　類型：DNA病毒　套膜：有",
+        "images": []
+      },
+      {
+        "text": "D 病毒名稱：人類免疫缺失病毒（HIV）　類型：DNA病毒　套膜：無",
+        "images": []
+      },
+      {
+        "text": "E 病毒名稱：人類免疫缺失病毒（HIV）　類型：RNA病毒　套膜：有",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 有關普利昂（prion）的敘述，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 含核酸的成分",
+        "images": []
+      },
+      {
+        "text": "B 造成羊搔症（scrapie）原因",
+        "images": []
+      },
+      {
+        "text": "C 造成牛出現海綿狀腦病（mad cow disease）",
+        "images": []
+      },
+      {
+        "text": "D 對熱、紫外線及消毒劑均有很強的耐抗性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列對於逆轉錄酶（reverse transcriptase）的相關敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是一種可催化轉錄進行的蛋白質",
+        "images": []
+      },
+      {
+        "text": "B 所催化的反應是以DNA為模版（template）",
+        "images": []
+      },
+      {
+        "text": "C 所催化反應的產物是DNA",
+        "images": []
+      },
+      {
+        "text": "D 所催化反應的產物是RNA",
+        "images": []
+      },
+      {
+        "text": "E 是發現於細菌的一種DNA合成酶",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 關於“prion”之敘述，下列何者正確：(1) 會引發庫賈氏疾病（Creutzfelt-Jakob disease）。(2) 核酸為其主要的致病物質。(3) 其致病物質會誘導正常蛋白質改變型態。(4) 會透過飲食傳染、且烹煮食物的高溫無法將其破壞。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "B (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(3)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 下列有關伊波拉病毒（Ebola virus）的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 最初來源可能是野生動物所帶之病毒",
+        "images": []
+      },
+      {
+        "text": "B 透過空氣與飲水傳播，因此影響範圍大",
+        "images": []
+      },
+      {
+        "text": "C 主要致死機轉為破壞免疫系統，造成後續感染",
+        "images": []
+      },
+      {
+        "text": "D 目前病例僅限於非洲，無其他地區發病病例",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 近來，新型H1N1流感肆虐全球，下列對新型H1N1流感病毒的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 具八條可直接進行轉譯蛋白質的RNA分子",
+        "images": []
+      },
+      {
+        "text": "B 是由豬流感病毒和禽流感病毒混合演變而來",
+        "images": []
+      },
+      {
+        "text": "C 具一條雙股DNA分子，套膜（envelope）上有醣基化蛋白",
+        "images": []
+      },
+      {
+        "text": "D H和N為兩種抗原，H指的是Hemagglutin；N指的是Neuraminiase",
+        "images": []
+      },
+      {
+        "text": "E 因人體沒抗體，為高致死率病毒",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 由新發現的病毒中分離出DNA分子，其鹼基（base）組成為32% A、17% C、26% G、25% T，以下說明哪個是正確的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 此病毒易有嘌呤與嘌呤（purine）或嘧啶與嘧啶（pyrimidine）的配對",
+        "images": []
+      },
+      {
+        "text": "B 此病毒基因組是環形不是線型的",
+        "images": []
+      },
+      {
+        "text": "C 在分離DNA的過程中有些T轉換為C",
+        "images": []
+      },
+      {
+        "text": "D 此病毒基因組是單股而不是雙股",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. Which of the following is a TRUE statement about virus?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A all viruses have capsid and membrane envelope",
+        "images": []
+      },
+      {
+        "text": "B only retrovirus can reversely transcribe RNA to DNA",
+        "images": []
+      },
+      {
+        "text": "C RNA viruses can serve as a template for DNA synthesis",
+        "images": []
+      },
+      {
+        "text": "D only bacteriophages have lysogenic cycle",
+        "images": []
+      },
+      {
+        "text": "E virulent phage breaks open host cell wall for phage assembly",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列關於病毒與腫瘤的配對，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Hepatitis B virus—肝癌",
+        "images": []
+      },
+      {
+        "text": "B Epstein-Barr virus—Burkitt淋巴瘤",
+        "images": []
+      },
+      {
+        "text": "C Retrovirus—血癌",
+        "images": []
+      },
+      {
+        "text": "D Rhinovirus—肝癌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 請排序噬菌體進行溶菌循環（Lytic cycle）的五步驟：1. Attachment2. Maturation3. Penetration4. Release5. Biosynthesis",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1 → 2 → 3 → 4 → 5",
+        "images": []
+      },
+      {
+        "text": "B 1 → 3 → 5 → 2 → 4",
+        "images": []
+      },
+      {
+        "text": "C 1 → 3 → 2 → 5 → 4",
+        "images": []
+      },
+      {
+        "text": "D 1 → 3 → 5 → 4 → 2",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. Which of the following represents a difference between viruses and viroids?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Viruses contain introns; viroids have only exons.",
+        "images": []
+      },
+      {
+        "text": "B Viruses infect many types of cells, whereas viroids infect only prokaryotic cells.",
+        "images": []
+      },
+      {
+        "text": "C Viruses always have genomes composed of DNA, whereas viroids always have genomes composed of RNA.",
+        "images": []
+      },
+      {
+        "text": "D Viruses have capsids composed of protein, whereas viroids have no capsids.",
+        "images": []
+      },
+      {
+        "text": "E Viruses cannot pass through plasmodesmata; viroids can.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 我們近年來歷經SARS的肆虐、H5N1禽流感的挑戰、H1N1新型流感的侵襲，現又面臨H7N9禽流感的威脅，下列有關這些流感病毒的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A SARS病毒與B型肝病毒的遺傳物質皆為DNA",
+        "images": []
+      },
+      {
+        "text": "B H5N1與H7N9病毒感染禽類的致死率相同",
+        "images": []
+      },
+      {
+        "text": "C H1N1新型流感病毒是由豬流感病毒與禽流感病毒進行基因重組而產生新的病毒株",
+        "images": []
+      },
+      {
+        "text": "D 流感病毒具有八段基因，其中一段所轉譯出的血液凝集素（hemagglutin）即為H抗原，另一段所轉譯出的神經胺酶（neuraminidase）即為N抗原。禽流感病毒有16種H抗原和9種N抗原，總共有144種組合",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 自西元1918年西班牙發生H1N1流感病毒至西元2009年流行的新型H1N1，流感病毒的基因體是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雙股DNA",
+        "images": []
+      },
+      {
+        "text": "B 單股DNA",
+        "images": []
+      },
+      {
+        "text": "C 雙股RNA",
+        "images": []
+      },
+      {
+        "text": "D 單股RNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下列關於細菌防禦噬菌體感染的策略，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細菌分泌的酶會消化噬菌體外殼蛋白質，因此噬菌體無法感染細菌",
+        "images": []
+      },
+      {
+        "text": "B 當噬菌體DNA進入細菌時，細菌會將其甲基化並通過限制內切酶對其進行破壞",
+        "images": []
+      },
+      {
+        "text": "C CRISPR-Cas系統使細菌識別先前感染該細菌譜系的噬菌體株，並靶向噬菌體DNA進行破壞",
+        "images": []
+      },
+      {
+        "text": "D 潛溶期（lysogenic cycle）允許細菌進化出與它們所含的噬菌體DNA結合的抑制物，因此它們的子代將不再被感染",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 2015年底巴西爆發茲卡病毒（Zika virus）流行，也造成全世界的恐慌。茲卡病毒屬於黃熱病毒科，請問其傳播途徑與下列何種病毒類似？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A B型肝炎病毒（hepatitis B virus）",
+        "images": []
+      },
+      {
+        "text": "B 登革病毒（dengue virus）",
+        "images": []
+      },
+      {
+        "text": "C 人類免疫缺陷病毒（human immunodeficiency virus）",
+        "images": []
+      },
+      {
+        "text": "D 流感病毒（influenzavirus）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 病原體（pathogen）傳播至新棲息地時，通常較具致死性的原因，下列敘述何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 中間宿主物種加速移動將病原體運送到新的地區",
+        "images": []
+      },
+      {
+        "text": "B 病原體在新環境中演變出更有效的繁殖形式",
+        "images": []
+      },
+      {
+        "text": "C 新環境中的宿主沒有經過天擇（natural selection）",
+        "images": []
+      },
+      {
+        "text": "D 新環境的面積通常較小，容易在宿主之間完成病原體的傳播",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. Which of the following characteristics is referred to HIV, but not other viruses?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 2 copies of RNA molecules",
+        "images": []
+      },
+      {
+        "text": "B reverse transcription",
+        "images": []
+      },
+      {
+        "text": "C enveloped virus",
+        "images": []
+      },
+      {
+        "text": "D A＋B",
+        "images": []
+      },
+      {
+        "text": "E all are correct",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 有關病毒和細菌之敍述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病毒為原核生物，細菌為真核生物",
+        "images": []
+      },
+      {
+        "text": "B 病毒的遺傳物質皆為RNA，細菌的遺傳物質皆為DNA",
+        "images": []
+      },
+      {
+        "text": "C 病毒和細菌皆在活的宿主細胞內才能繁殖",
+        "images": []
+      },
+      {
+        "text": "D B型肝炎、愛滋病的病原體為病毒，肺結核、破傷風的病原體為細菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 新興的病毒（emerging viruses）會經由何種方式產生：(1) 由已存在的病毒突變生成。(2) 由已存在的病毒感染新的宿主而產生。(3) 由已存在的病毒廣泛感染不同物種的宿主而產生。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (2)(3)",
+        "images": []
+      },
+      {
+        "text": "D (1)(3)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列關於病毒與腫瘤的配對，下列何者正確：(1) Papillomavirus—子宮頸癌(2) Epstein-Barr virus—Burkitt’s淋巴瘤(3) Retrovirus—血癌(4) Rhinovirus—血癌",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)",
+        "images": []
+      },
+      {
+        "text": "B (2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(2)(3)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列何種疾病和異常的普恩蛋白（prion protein）無關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 高雪氏症（Gaucher disease）",
+        "images": []
+      },
+      {
+        "text": "B 羊搔癢症（scrapie）",
+        "images": []
+      },
+      {
+        "text": "C 人類庫賈氏症（Creutzfeldt-Jakob disease）",
+        "images": []
+      },
+      {
+        "text": "D 鹿的慢性消耗症（chronic wasting disease）",
+        "images": []
+      },
+      {
+        "text": "E 狂牛症（bovine spongiform encephalopathy）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 關於“普利昂（prion）”之敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 會引發庫賈氏疾病（Creutzfelt-Jakob disease）",
+        "images": []
+      },
+      {
+        "text": "B 核酸為其主要的致病物質",
+        "images": []
+      },
+      {
+        "text": "C 其致病物質會誘導正常蛋白質改變型態",
+        "images": []
+      },
+      {
+        "text": "D 會透過飲食傳染、且烹煮食物的高溫無法將其破壞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. T4噬菌體是一種雙股DNA病毒，其中一個可被宿主轉錄-轉譯的基因製造出一種酵素，可以破壞宿主細胞本身的DNA，但病毒的DNA卻無恙。這是因為病毒DNA上的哪一種鹼基已被修飾過？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腺嘌呤（adenine; A）",
+        "images": []
+      },
+      {
+        "text": "B 尿嘧啶（uracil; U）",
+        "images": []
+      },
+      {
+        "text": "C 鳥糞嘌呤（guanine; G）",
+        "images": []
+      },
+      {
+        "text": "D 胞嘧啶（cytosine; C）",
+        "images": []
+      },
+      {
+        "text": "E 胸腺嘧啶（thymine; T）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 什麼是狂牛症傳染原Prions？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一種可移動DNA的片段",
+        "images": []
+      },
+      {
+        "text": "B 小的RNA分子可感染動物",
+        "images": []
+      },
+      {
+        "text": "C 一種不正常摺疊的正常腦部蛋白",
+        "images": []
+      },
+      {
+        "text": "D 病毒DNA可附著在宿主之染色體上",
+        "images": []
+      },
+      {
+        "text": "E 可感染細菌的病毒",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列何者對於病毒的敘述不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病毒可在實驗室內被合成",
+        "images": []
+      },
+      {
+        "text": "B 病毒可以脫離寄主而存活",
+        "images": []
+      },
+      {
+        "text": "C 病毒一般具有外殼與去氧核糖核酸（DNA）或核糖核酸（RNA）遺傳物質",
+        "images": []
+      },
+      {
+        "text": "D 病毒所帶的遺傳物質非常容易突變",
+        "images": []
+      },
+      {
+        "text": "E 病毒不是由細胞組合而成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 目前在歐、美出現之狂牛症與在人類發生之庫賈氏症（Creutzfeldt-Jakob disease, CJD），所引起之病原為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA 病毒",
+        "images": []
+      },
+      {
+        "text": "B 葛蘭氏陰性菌",
+        "images": []
+      },
+      {
+        "text": "C RNA 病毒",
+        "images": []
+      },
+      {
+        "text": "D 普利昂蛋白（Prion）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列那一類病毒與癌症的發生有密切關聯？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乳突狀病毒（Papilloma virus）",
+        "images": []
+      },
+      {
+        "text": "B 冠狀病毒（Coronavirus）",
+        "images": []
+      },
+      {
+        "text": "C 禽流感病毒（Avian influenza virus）",
+        "images": []
+      },
+      {
+        "text": "D 腺病毒（Adenovirus）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. Which description is correct about virus infectious diseases?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Human immunodeficiency virus (HIV) is a mosquito-borne retrovirus that cause acquired immunodeficiency syndrome (AIDS) of human.",
+        "images": []
+      },
+      {
+        "text": "B Dengue virus has four serotypes that all are zoonoses pathogens that are transmitted from animal to human by vector mosquitoes.",
+        "images": []
+      },
+      {
+        "text": "C Japanese encephalitis virus is a pathogen of zoonoses infectious disease that is transmitted between species from animal to human by vector mosquitoes.",
+        "images": []
+      },
+      {
+        "text": "D H7N9 is an avian influenza virus also a subtype of influenza B virus.",
+        "images": []
+      },
+      {
+        "text": "E Hepatitis B virus is a vector-borne virus that cause more than 80% infection in Taiwan.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 一個細菌被含有T2噬菌體（phage）蛋白質和T4噬菌體DNA的重組噬菌體所感染。請問新合成的噬菌體將會含有：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A T2的蛋白質與T4的DNA",
+        "images": []
+      },
+      {
+        "text": "B T2的蛋白質與T2的DNA",
+        "images": []
+      },
+      {
+        "text": "C 兩種噬菌體的DNA與蛋白質的混合",
+        "images": []
+      },
+      {
+        "text": "D T4的蛋白質與T4的DNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. What happens first when a phage infects a bacterial cell and is going to enter a lysogenic cycle?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A when the bacterial chromosome replicates, viral DNA is also replicated",
+        "images": []
+      },
+      {
+        "text": "B linear DNA circularizes",
+        "images": []
+      },
+      {
+        "text": "C viral DNA becomes inserted into the bacterial chromosome",
+        "images": []
+      },
+      {
+        "text": "D all bacterial descendants will carry the viral genes",
+        "images": []
+      },
+      {
+        "text": "E the host cell is lysed by the invasion",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. SARS是由冠狀病毒（Coronavirus）所引發之疾病，此疾病快速擴散後又快速消失，下面哪一項為最可能之因素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 屬於RNA病毒，突變速度快，無校正功能",
+        "images": []
+      },
+      {
+        "text": "B 屬於DNA病毒，突變速率快，無校正功能",
+        "images": []
+      },
+      {
+        "text": "C 屬於RNA病毒，複製速度快",
+        "images": []
+      },
+      {
+        "text": "D 屬於DNA病毒，複製速度快",
+        "images": []
+      },
+      {
+        "text": "E 屬於DNA病毒，可以進入宿主細胞染色體中",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 病毒具有單股RNA、而且可以此RNA當模版合成DNA的為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A phages",
+        "images": []
+      },
+      {
+        "text": "B provirus",
+        "images": []
+      },
+      {
+        "text": "C retroviruses",
+        "images": []
+      },
+      {
+        "text": "D lytic phages",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. Which of the following statements about human immunodeficiency virus (HIV) is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A HIV is double -stranded RNA virus.",
+        "images": []
+      },
+      {
+        "text": "B HIV is equipped with reverse transcriptase.",
+        "images": []
+      },
+      {
+        "text": "C It can infect T lymphocytes and cause AIDS.",
+        "images": []
+      },
+      {
+        "text": "D Its genome serves as template for DNA synthesis and the newly made viral DNA can integrate into the host’s chromosome as provirus.",
+        "images": []
+      },
+      {
+        "text": "E The host’s RNA polymerase transcribes the provial DNA into mRNAs and viral genomes.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 狂牛症（mad cow disease，又稱prion disease）的學名是bovine spongiform encephalopathy (BSE)，意思是「牛的海綿樣腦病變」，目前已知狂牛症是因為在腦部發現有________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病毒感染",
+        "images": []
+      },
+      {
+        "text": "B 細菌感染",
+        "images": []
+      },
+      {
+        "text": "C 特定基因發生點突變（point mutation）",
+        "images": []
+      },
+      {
+        "text": "D 特定蛋白質構形改變（alteration in protein conformation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 人類免疫缺陷病毒（human immunodeficiency virus）需要使用自己的那種酵素進行繁殖？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA聚合酶（DNA polymerase）",
+        "images": []
+      },
+      {
+        "text": "B 反轉錄酶（reverse transcriptase）",
+        "images": []
+      },
+      {
+        "text": "C RNA聚合酶（RNA polymerase）",
+        "images": []
+      },
+      {
+        "text": "D 限制酶（restriction enzyme）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列有關流行性感冒病毒分類的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 根據病毒蛋白質外鞘（capsid protein）成分的不同，可區分為A、B、C三型",
+        "images": []
+      },
+      {
+        "text": "B A型流感病毒會感染人類、鳥類以及其他哺乳動物",
+        "images": []
+      },
+      {
+        "text": "C 根據病毒外套膜（envelope）上蛋白質hemagglutinin(H)和neuraminidase(N)的不同可區分為不同的品系（strain），例如A型（H1N1）、A型（H5N1）...等",
+        "images": []
+      },
+      {
+        "text": "D B型和C型流感病毒只會感染鳥類以及其他哺乳動物，不會感染人類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 狂牛症（Mad cow disease，又稱prion disease）的學名是Bovine Spongiform Encephalopathy (BSE)，意思是「牛的海綿樣腦病變」，目前已知狂牛症的成因是因為腦部發生________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病毒感染",
+        "images": []
+      },
+      {
+        "text": "B 細菌感染",
+        "images": []
+      },
+      {
+        "text": "C 遺傳性疾病",
+        "images": []
+      },
+      {
+        "text": "D 某個特定基因發生點突變（point mutation）",
+        "images": []
+      },
+      {
+        "text": "E 某種特定蛋白質的構形改變（alteration in protein conformation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 人體遭受不同病原體感染時誘發出的免疫反應會有所不同，下列有效對抗一特定疾病的主要免疫反應，何者正確？甲、瘧疾：抗體免疫乙、登革熱：細胞免疫丙、帶狀疱疹：抗體免疫丁、A型流行性感冒：細胞免疫",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甲、丙",
+        "images": []
+      },
+      {
+        "text": "B 乙、丁",
+        "images": []
+      },
+      {
+        "text": "C 甲、乙、丙",
+        "images": []
+      },
+      {
+        "text": "D 甲、乙、丙、丁",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何者不屬於RNA病毒？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人類乳突狀病毒（Papilloma virus）",
+        "images": []
+      },
+      {
+        "text": "B 麻疹病毒（Measles virus）",
+        "images": []
+      },
+      {
+        "text": "C C型肝炎病毒（Hepatitis C virus）",
+        "images": []
+      },
+      {
+        "text": "D 伊波拉病毒（Ebola virus）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 下列有關普恩蛋白（prion）研究的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人類的枯魯症（kuru）多因分食人腦而傳播",
+        "images": []
+      },
+      {
+        "text": "B 在動物多因餵食含病原體的肉骨粉而傳播",
+        "images": []
+      },
+      {
+        "text": "C 突變的普恩蛋白（PrPSC）比正常的PrPC更容易被蛋白酶分解",
+        "images": []
+      },
+      {
+        "text": "D 普恩蛋白主要藉改變蛋白質的折疊使其他蛋白質轉變為具有病原性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. Biologists have discovered how to put together a bacteriophage with the protein coat of phage T2 and the DNA of phage lambda. If this composite phage was allowed to infect a bacterium, the phages produced in the host cell would have",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a mixture of the DNA and proteins of both phages.",
+        "images": []
+      },
+      {
+        "text": "B the protein and DNA of phage lambda.",
+        "images": []
+      },
+      {
+        "text": "C the protein of phage T2 and the DNA of phage lambda.",
+        "images": []
+      },
+      {
+        "text": "D the protein of phage lambda and the DNA of phage T2.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列何種病毒所擁有的基因體為單股RNA，且此單股RNA可作為合成DNA之模版？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 反轉錄病毒（retrovirus）",
+        "images": []
+      },
+      {
+        "text": "B 噬菌體（bacteriophage）",
+        "images": []
+      },
+      {
+        "text": "C 類病毒（viroid）",
+        "images": []
+      },
+      {
+        "text": "D 原病毒（provirus）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列有關病毒（viruses）的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 噬菌體進入細菌後，只能進行分裂期（lytic cycle）",
+        "images": []
+      },
+      {
+        "text": "B 反轉錄病毒（retrovirus）是一種DNA病毒",
+        "images": []
+      },
+      {
+        "text": "C 病毒有其基因體，但是只能在宿主細胞內複製",
+        "images": []
+      },
+      {
+        "text": "D RNA病毒在宿主細胞內不需要反轉錄酶（reverse transcriptase）將RNA轉成DNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. Which of the following statement is True for a virulent phage?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A phage replicates without destroying host cell",
+        "images": []
+      },
+      {
+        "text": "B phage genome integrates in the chromosome of bacteria",
+        "images": []
+      },
+      {
+        "text": "C a large number of phages are released",
+        "images": []
+      },
+      {
+        "text": "D bacterial cell contains phage DNA",
+        "images": []
+      },
+      {
+        "text": "E all statements are true",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. Which of the following series best reflects what we know about how the flu virus moves between species?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A An avian flu virus undergoes several mutations and rearrangements such that it is able to be transmitted to other birds and then to humans.",
+        "images": []
+      },
+      {
+        "text": "B The flu virus in a pig is mutated and replicated in alternate arrangements so that humans who eat the pig products can be infected.",
+        "images": []
+      },
+      {
+        "text": "C A flu virus from a human epidemic or pandemic infects birds; the birds replicate the virus differently and then pass it back to humans.",
+        "images": []
+      },
+      {
+        "text": "D An animal such as a pig is infected with more than one virus, genetic recombination occurs, the new virus mutates and is passed to a new species such as a bird, the virus mutates and can be transmitted to humans.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列何者無法利用polymerase chain reaction (PCR)複製DNA？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A fossils",
+        "images": []
+      },
+      {
+        "text": "B viruses",
+        "images": []
+      },
+      {
+        "text": "C prion",
+        "images": []
+      },
+      {
+        "text": "D bacteria",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 為什麼RNA病毒（如HIV病毒）有較高的突變率？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A RNA核苷酸比DNA核苷酸較不穩定",
+        "images": []
+      },
+      {
+        "text": "B 其基因體在複製時沒有校正",
+        "images": []
+      },
+      {
+        "text": "C RNA病毒對突變劑較為敏感",
+        "images": []
+      },
+      {
+        "text": "D RNA病毒複製速度較快",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

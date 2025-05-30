@@ -1,0 +1,1489 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 關於無脊椎動物的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 棘皮動物有外骨骼",
+        "images": []
+      },
+      {
+        "text": "B 沒有寄生性甲殼類動物",
+        "images": []
+      },
+      {
+        "text": "C 馬陸（millipedes）有一千對腿，蜈蚣（centipedes）有一百對腿",
+        "images": []
+      },
+      {
+        "text": "D 蝎子（scorpions）繁殖方式為卵生，需數周孵化",
+        "images": []
+      },
+      {
+        "text": "E 多具有自殘的能力，失去身體的一部分後可再生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 有關生物及其分類的敘述，下列何者最不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 水蛭（leech）－環節動物（Annelids）",
+        "images": []
+      },
+      {
+        "text": "B 旋毛虫（Trichinella spiralis）－昆蟲綱（Insecta）",
+        "images": []
+      },
+      {
+        "text": "C 蚊子（mosquitoes）－昆蟲綱的雙翅目（Diptera）",
+        "images": []
+      },
+      {
+        "text": "D 蜜蜂－昆蟲綱的膜翅目（Hymenoptera）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. Which one is the correct description of the invertebrates?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The two body forms of some Radiata is an example of alternation of generations.",
+        "images": []
+      },
+      {
+        "text": "B The nervous system of a cnidarian consists of a central ganglion leading into a nerve net.",
+        "images": []
+      },
+      {
+        "text": "C Scorpions do not lay eggs but rather give birth to live young.",
+        "images": []
+      },
+      {
+        "text": "D All Platyhelminthes are parasitic.",
+        "images": []
+      },
+      {
+        "text": "E Millipedes have a thousand legs whereas centipedes have only a hundred legs.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which of the following is NOT a defining trait of the phylum Chordata?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A notochord",
+        "images": []
+      },
+      {
+        "text": "B dorsal hollow nerve cord",
+        "images": []
+      },
+      {
+        "text": "C pharyngeal slits",
+        "images": []
+      },
+      {
+        "text": "D post anal tail",
+        "images": []
+      },
+      {
+        "text": "E protostome development",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 人類具有尾巴的證據，主要是因為具有下列哪一退化構造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A coccyx",
+        "images": []
+      },
+      {
+        "text": "B sacrum",
+        "images": []
+      },
+      {
+        "text": "C lumbar",
+        "images": []
+      },
+      {
+        "text": "D spina bifida",
+        "images": []
+      },
+      {
+        "text": "E fundus",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 當古人類（hominin）由其他靈長類（primate）演化而來時，以下選項何者最先出現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 顎骨（jawbone）的縮小",
+        "images": []
+      },
+      {
+        "text": "B 語言（language）",
+        "images": []
+      },
+      {
+        "text": "C 利用雙足移動（bipedal locomotion）",
+        "images": []
+      },
+      {
+        "text": "D 製造石製工具（stone tools）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 馬陸（millipedes）在生態上所扮演的角色與下列何者最相近？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 螳螂",
+        "images": []
+      },
+      {
+        "text": "B 蜈蚣",
+        "images": []
+      },
+      {
+        "text": "C 螃蟹",
+        "images": []
+      },
+      {
+        "text": "D 蚜蟲",
+        "images": []
+      },
+      {
+        "text": "E 枯草桿菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 章魚、蚵以及陸地上的蝸牛都有以下何種構造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 套膜（mantle）",
+        "images": []
+      },
+      {
+        "text": "B 齒舌（radula）",
+        "images": []
+      },
+      {
+        "text": "C 鰓（gill）",
+        "images": []
+      },
+      {
+        "text": "D 胚胎的扭轉（embryonic torsion）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 關於動物的描述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 幹細胞具有determinate cleavage",
+        "images": []
+      },
+      {
+        "text": "B “背（dorsal）”和“口（oral）”同義詞",
+        "images": []
+      },
+      {
+        "text": "C 演化上而言，動物為單系群（monophyletic）",
+        "images": []
+      },
+      {
+        "text": "D 假體腔（pseudocoelom）是指胚胎發育過程所形成的一空腔（cavity）進入至體腔（coelom）",
+        "images": []
+      },
+      {
+        "text": "E hydrostatic skeleton具有骨頭或軟骨",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列哪一種動物早期胚胎發育之卵裂是屬於輻射及非決定性卵裂（spiral and determinate cleavage）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人類Homo sapiens",
+        "images": []
+      },
+      {
+        "text": "B 海棉Sponges",
+        "images": []
+      },
+      {
+        "text": "C 渦蟲planarians",
+        "images": []
+      },
+      {
+        "text": "D 海扇scallop",
+        "images": []
+      },
+      {
+        "text": "E 章魚octopuses",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 在演化過程中，下列何者與哺乳類的親緣關係最遠？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 合弓類（synapsids）",
+        "images": []
+      },
+      {
+        "text": "B 爬蟲類（reptiles）",
+        "images": []
+      },
+      {
+        "text": "C 獸弓類（therapsids）",
+        "images": []
+      },
+      {
+        "text": "D 犬齒類（cynodonts）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 關於hominin的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 樹棲靈長類（arboreal primates）",
+        "images": []
+      },
+      {
+        "text": "B 包含滅絕和現存的所有形式的人類",
+        "images": []
+      },
+      {
+        "text": "C 黑猩猩和大猩猩",
+        "images": []
+      },
+      {
+        "text": "D 小猿類（lesser apes）",
+        "images": []
+      },
+      {
+        "text": "E 古猿（australopithecines）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. Which of these statements about human evolution is CORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Different species of the genus Homo have coexisted at various times throughout hominin evolution.",
+        "images": []
+      },
+      {
+        "text": "B Mitochondrial DNA analysis indicates that modern humans are genetically very similar to Neanderthals.",
+        "images": []
+      },
+      {
+        "text": "C The evolution of upright posture and enlarged brain occurred simultaneously.",
+        "images": []
+      },
+      {
+        "text": "D Human evolution has proceeded in an orderly fashion from an ancestral anthropoid to Homo sapiens.",
+        "images": []
+      },
+      {
+        "text": "E The ancestors of Homo sapiens were chimpanzees.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 關於靈長類的演化，下列描述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大猩猩（gorillas）、黑猩猩（chimpanzees）和猩猩（orangutans）以knuckle-walk方式行走，人類不是",
+        "images": []
+      },
+      {
+        "text": "B 南方古猿（Australopithecines）具有靈活的腕關節功能與knuckle-walk方式行走",
+        "images": []
+      },
+      {
+        "text": "C 人類可能是由knuckle-walk方式行走祖先物種演化而來的後代",
+        "images": []
+      },
+      {
+        "text": "D 在人類演化研究結果顯示，由knuckle-walk方式行走的形態證據和分子證據不一致",
+        "images": []
+      },
+      {
+        "text": "E 人類不是由knuckle-walk方式行走的祖先物種演化而來的後代",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. In biodiversity, which one is the correct description of ecosystem diversity?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The amount of genetic variation that occurs within and between populations.",
+        "images": []
+      },
+      {
+        "text": "B Only the amount of genetic variation that occurs between species.",
+        "images": []
+      },
+      {
+        "text": "C Includes trophic diversity and process diversity.",
+        "images": []
+      },
+      {
+        "text": "D Defines the species diversity and morphology of an ecosystem.",
+        "images": []
+      },
+      {
+        "text": "E Refers to the structure and function within an ecosystem.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 以現今的知識，下列哪一動物門的物種種類最多？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脊索動物（Chordata）",
+        "images": []
+      },
+      {
+        "text": "B 環節動物（Annelida）",
+        "images": []
+      },
+      {
+        "text": "C 節肢動物（Arthropoda）",
+        "images": []
+      },
+      {
+        "text": "D 軟體動物（Mollusca）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. When observing the skeleton of a snake, you see the remains of hip and hind leg bones associated with four legged animals. These bones are called",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A convergent traits.",
+        "images": []
+      },
+      {
+        "text": "B vestigial structures.",
+        "images": []
+      },
+      {
+        "text": "C homologous structures.",
+        "images": []
+      },
+      {
+        "text": "D analogous structures.",
+        "images": []
+      },
+      {
+        "text": "E both homologous and analogous structures.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列何者不是環節動物門（Annelida）的特徵？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 分節現象",
+        "images": []
+      },
+      {
+        "text": "B 後腎",
+        "images": []
+      },
+      {
+        "text": "C 假體腔",
+        "images": []
+      },
+      {
+        "text": "D 閉鎖式循環系統",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. The group of protists to which humans are most closely related is:",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Rhizaria.",
+        "images": []
+      },
+      {
+        "text": "B the choanoflagellates.",
+        "images": []
+      },
+      {
+        "text": "C slime molds.",
+        "images": []
+      },
+      {
+        "text": "D Foraminifera.",
+        "images": []
+      },
+      {
+        "text": "E Stramenopila.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 在三域（Three domains）分類系統中，下列何者具有膜性胞器（Membrane-enclosed organelles）?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Eukarya.",
+        "images": []
+      },
+      {
+        "text": "B Bacteria.",
+        "images": []
+      },
+      {
+        "text": "C Cyanobacteria.",
+        "images": []
+      },
+      {
+        "text": "D Chlamydias.",
+        "images": []
+      },
+      {
+        "text": "E Archaea.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列何者在分類學上屬於無脊椎動物的海棉類？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 海葵",
+        "images": []
+      },
+      {
+        "text": "B 水姪",
+        "images": []
+      },
+      {
+        "text": "C 珊瑚",
+        "images": []
+      },
+      {
+        "text": "D 偕老同穴",
+        "images": []
+      },
+      {
+        "text": "E 海星",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Arthropods invaded land about 100 million years before vertebrates did so. This most clearly implies that",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A extant terrestrial arthropods are better adapted to terrestrial life than are extant terrestrial vertebrates.",
+        "images": []
+      },
+      {
+        "text": "B arthropods evolved before vertebrates did.",
+        "images": []
+      },
+      {
+        "text": "C vertebrates evolved from arthropods.",
+        "images": []
+      },
+      {
+        "text": "D arthropods have had more time to co-evolve with land plants than have vertebrates.",
+        "images": []
+      },
+      {
+        "text": "E ancestral arthropods must have been poorly adapted to aquatic life, thus experienced a selective pressure to invade land.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列有關動物門的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 海百合（crinoids）屬於棘皮動物（Phylum Echinodermata）",
+        "images": []
+      },
+      {
+        "text": "B 海鞘（sea squirts）屬於脊索動物（Phylum Chordata）",
+        "images": []
+      },
+      {
+        "text": "C 海筆（sea pens）屬於刺胞動物（Phylum Cnidaria）",
+        "images": []
+      },
+      {
+        "text": "D 海蛞蝓（nudibranch）屬於扁蟲動物（Phylum Platyhelminthes）",
+        "images": []
+      },
+      {
+        "text": "E 石鱉（chitons）屬於軟體動物（Phylum Mollusca）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 棘皮動物（echinoderms）的水管系統：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 功能相當於循環系統，負責將養份送至體細胞",
+        "images": []
+      },
+      {
+        "text": "B 功能為運動、攝食與氣體交換",
+        "images": []
+      },
+      {
+        "text": "C 和環節動物之液壓型骨骼相似",
+        "images": []
+      },
+      {
+        "text": "D 為兩側對稱之組織結構，雖然成體為輻射對稱",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列何者並非脊索動物（Chordate）的共同特徵？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脊索（Notochord）",
+        "images": []
+      },
+      {
+        "text": "B 咽裂（Pharyngeal slit）",
+        "images": []
+      },
+      {
+        "text": "C 背神經索（Dorsal nerve cord）",
+        "images": []
+      },
+      {
+        "text": "D 肛後尾（post-anal tail）",
+        "images": []
+      },
+      {
+        "text": "E 頭部（Head）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 下列哪一種生物不是濾食性動物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 招潮蟹",
+        "images": []
+      },
+      {
+        "text": "B 海綿",
+        "images": []
+      },
+      {
+        "text": "C 牡蠣",
+        "images": []
+      },
+      {
+        "text": "D 藤壺",
+        "images": []
+      },
+      {
+        "text": "E 孔雀蛤",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. All of the followings belong to the Eumetazoa, EXCEPT",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Porifera",
+        "images": []
+      },
+      {
+        "text": "B Platyhelminthes",
+        "images": []
+      },
+      {
+        "text": "C Mollusca",
+        "images": []
+      },
+      {
+        "text": "D Annelida",
+        "images": []
+      },
+      {
+        "text": "E Nematoda",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 沙蠶（ragworm）屬於節肢動物",
+        "images": []
+      },
+      {
+        "text": "B 蝸牛屬於假體腔動物（pseudocoelom）",
+        "images": []
+      },
+      {
+        "text": "C 螯蝦（Cambarus）具有開放式的循環系統",
+        "images": []
+      },
+      {
+        "text": "D 蟎（mite）屬於節肢動物門甲殼類動物（Crustaceans）",
+        "images": []
+      },
+      {
+        "text": "E 渦蟲（planarian）其排泄系統襟細胞（collar cells）的擺動，促使水分流向排泄孔（excretory pore）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 有關脊椎動物的描述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 盲鰻（hagfish）是有頭動物（craniates）但不是脊椎動物（vertebrates）",
+        "images": []
+      },
+      {
+        "text": "B 七鰓鰻（lamprey）主要身體的支撐是脊索（notochord）而不是脊柱（vertebral column）",
+        "images": []
+      },
+      {
+        "text": "C 部分恐龍具有羽毛特徵",
+        "images": []
+      },
+      {
+        "text": "D 在演化歷史，鳥類和飛龍目動物（pterosaurs）是在不同地質歷史年代出現",
+        "images": []
+      },
+      {
+        "text": "E 真正的二足的靈長類是南方古猿（australopithecines）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列何者與鱷魚的親緣關係最接近？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鳥類",
+        "images": []
+      },
+      {
+        "text": "B 龜鱉類",
+        "images": []
+      },
+      {
+        "text": "C 蛇類",
+        "images": []
+      },
+      {
+        "text": "D 蜥蜴類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 下列何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 二胚層動物一定有體腔（Body cavity）",
+        "images": []
+      },
+      {
+        "text": "B 肛門是由胚孔（Blastopore）發育而來的",
+        "images": []
+      },
+      {
+        "text": "C 後口動物（Deuterostome）在受精卵分裂成八細胞階段（Eight-cell stage）時，是成放線狀（Radial）排列",
+        "images": []
+      },
+      {
+        "text": "D 囊胚（Blastula）的出現是在原腸胚形成（Gastrulation）之後",
+        "images": []
+      },
+      {
+        "text": "E 海綿動物（Sponge）有最簡單的組織（Tissue）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 有關動物的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 等張性骨架（hydrostatic skeleton）由骨頭或軟骨構成",
+        "images": []
+      },
+      {
+        "text": "B 幹細胞具有定型卵裂（determinate cleavage）",
+        "images": []
+      },
+      {
+        "text": "C 原腸胚形成（Gastrulation）是指原腸胚（gastrula）發育形成胚胎",
+        "images": []
+      },
+      {
+        "text": "D 所有真後生動物（eumetazoans）有細胞連接（cell junctions）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列何種動物不屬於節肢動物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 螃蟹",
+        "images": []
+      },
+      {
+        "text": "B 鸚鵡螺",
+        "images": []
+      },
+      {
+        "text": "C 蟎",
+        "images": []
+      },
+      {
+        "text": "D 三葉蟲",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 關於動物可能的共同祖先，推測與下列何者親緣最接近？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 領鞭毛蟲（choanoflagellates）",
+        "images": []
+      },
+      {
+        "text": "B 壺菌（chytrids）",
+        "images": []
+      },
+      {
+        "text": "C 買麻藤（gnetophytes）",
+        "images": []
+      },
+      {
+        "text": "D 不等鞭毛類（stramenopiles）",
+        "images": []
+      },
+      {
+        "text": "E 眼蟲（euglenozoa）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 就演化的先後順序而言，魟魚（skates）早於八目鰻（lamprey）出現",
+        "images": []
+      },
+      {
+        "text": "B 爬蟲類卵內的羊膜，主要的功能是協助氣體交換",
+        "images": []
+      },
+      {
+        "text": "C 文昌魚（lancelet）的成體具有分節現象，背部的脊椎也有分支現象",
+        "images": []
+      },
+      {
+        "text": "D 兩生類具有分隔的心房，魚類則無",
+        "images": []
+      },
+      {
+        "text": "E 鳥類的分類，主要是依據其喙和羽毛",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列有關海綿動物的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 不具對稱體制，也無器官",
+        "images": []
+      },
+      {
+        "text": "B 也有生活在淡水水域的物種",
+        "images": []
+      },
+      {
+        "text": "C 都具有骨針以及海綿絲",
+        "images": []
+      },
+      {
+        "text": "D 位於身體內側的襟細胞與其攝食有關",
+        "images": []
+      },
+      {
+        "text": "E 可以進行有性生殖，也可以進行無性生殖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 有關前口動物（protostome）以及後口動物（deuterostome）的比較，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 體腔的形成皆開始於原腸期（gastrula）",
+        "images": []
+      },
+      {
+        "text": "B 體腔的形成係由中胚層衍生而成",
+        "images": []
+      },
+      {
+        "text": "C 皆具有八細胞時期",
+        "images": []
+      },
+      {
+        "text": "D 囊胚孔（blastopore）皆形成口腔",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 關於脊椎動物的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 部分恐龍具有羽毛",
+        "images": []
+      },
+      {
+        "text": "B 第一個真正的雙足靈長類是古猿（australopithecines）",
+        "images": []
+      },
+      {
+        "text": "C 八目鰻（lampreys）主要身體支撐是脊索，而不是脊柱",
+        "images": []
+      },
+      {
+        "text": "D 依據化石證據，不同人類物種曾經生存在相同的時間與地點",
+        "images": []
+      },
+      {
+        "text": "E 魚鰾（swim bladder）是原始魚類由陸棲脊椎動物的肺發展而來的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列何者不是四足類（tetrapod）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛙類（frog）",
+        "images": []
+      },
+      {
+        "text": "B 鳥類（bird）",
+        "images": []
+      },
+      {
+        "text": "C 鴨嘴獸（platypus）",
+        "images": []
+      },
+      {
+        "text": "D 蛇類（snake）",
+        "images": []
+      },
+      {
+        "text": "E 肺魚（lungfish）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列何者不屬於四足類動物（tetrapod）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛇（snake）",
+        "images": []
+      },
+      {
+        "text": "B 鯨魚（whale）",
+        "images": []
+      },
+      {
+        "text": "C 肺魚（lungfish）",
+        "images": []
+      },
+      {
+        "text": "D 翼手龍（Pterodactylus）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "複選題",
+    "question": "41. 下列寄生蟲的生活史中，何者是以軟體動物作為中間宿主？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 旋毛蟲（Trichinella spiralis）",
+        "images": []
+      },
+      {
+        "text": "B 槍形吸蟲（Dicrocoelium dendriticum）",
+        "images": []
+      },
+      {
+        "text": "C 馬來血絲蟲（Brugia malayi）",
+        "images": []
+      },
+      {
+        "text": "D 廣東住血線蟲（Angiostrongylus cantonensis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列有關人類演化的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 尼安德塔人（Neandertal）是現代歐洲人的祖先",
+        "images": []
+      },
+      {
+        "text": "B 尼安德塔人不曾與現代人（Homo sapiens）同時生存在同一地區過",
+        "images": []
+      },
+      {
+        "text": "C 尼安德塔人本身粒線體DNA控制區域（control region）的遺傳變異遠大過於現代人日本人與希臘人之間",
+        "images": []
+      },
+      {
+        "text": "D 尼安德塔人與現代人在粒線體DNA控制區域（control region）的遺傳變異差異不大，僅有6 個不同",
+        "images": []
+      },
+      {
+        "text": "E 尼安德塔人的粒線體DNA研究不支持人類演化的單一物種假說（singlespeciation hypothesis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 以下何者是動物才有的特徵？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 原腸胚形成（gastrulation）",
+        "images": []
+      },
+      {
+        "text": "B 多細胞（multicellularity）",
+        "images": []
+      },
+      {
+        "text": "C 有性生殖（sexual reproduction）",
+        "images": []
+      },
+      {
+        "text": "D 有鞭毛的精子（flagellated sperm）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 有關動物的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血吸蟲病（schistosomiasis）是由寄生吸蟲（trematode）所引起",
+        "images": []
+      },
+      {
+        "text": "B 沒有寄生性的甲殼類動物",
+        "images": []
+      },
+      {
+        "text": "C 扁形動物（Platyhelminthes）皆為寄生",
+        "images": []
+      },
+      {
+        "text": "D 棘皮動物有外骨骼",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列有關動物門的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 線蟲動物－圓蟲、假體腔動物",
+        "images": []
+      },
+      {
+        "text": "B 刺胞動物－輻射對稱，具水螅體與水母體兩種體型",
+        "images": []
+      },
+      {
+        "text": "C 扁形動物－扁蟲、消化循環腔、無體腔動物",
+        "images": []
+      },
+      {
+        "text": "D 環節動物－分節現象、假體腔動物",
+        "images": []
+      },
+      {
+        "text": "E 海綿動物－著生性動物，缺乏真正組織和器官的分化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. By definition, a clade is __________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A parsimonious",
+        "images": []
+      },
+      {
+        "text": "B polyphyletic",
+        "images": []
+      },
+      {
+        "text": "C monophyletic",
+        "images": []
+      },
+      {
+        "text": "D paraphyletic",
+        "images": []
+      },
+      {
+        "text": "E analogous",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 請問下列何種特徵之有無，可用來區分兩棲綱（Amphibia，例如青蛙）跟爬行綱動物（Reptilia，例如蛇）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 卵生還是卵胎生",
+        "images": []
+      },
+      {
+        "text": "B 有沒有四肢",
+        "images": []
+      },
+      {
+        "text": "C 有沒有肺臟",
+        "images": []
+      },
+      {
+        "text": "D 是否產生羊膜蛋（Amniotic egg）",
+        "images": []
+      },
+      {
+        "text": "E 能否在水中生活",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 脊索動物門（Phylum Chordata）具有下列哪些共同特徵？a.脊索b.背部中空神經索c.頭化現象d.咽裂e.肛門後的尾部",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A abcd",
+        "images": []
+      },
+      {
+        "text": "B abde",
+        "images": []
+      },
+      {
+        "text": "C abce",
+        "images": []
+      },
+      {
+        "text": "D acde",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 和黑猩猩（chimpanzees）、倭黑猩猩（bonobos）和大猩猩（gorillas）相較，下列哪一特徵為所有古人類的共同衍徵（智人（Homo）、南方古猿（Australopithecus）和類人（Paranthropus）等）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Stone tools",
+        "images": []
+      },
+      {
+        "text": "B 增大的腦部（enlarged brain）",
+        "images": []
+      },
+      {
+        "text": "C 無尾部",
+        "images": []
+      },
+      {
+        "text": "D 增大的Broca’s area",
+        "images": []
+      },
+      {
+        "text": "E Bipedality",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 請問在動物分類系統中，二胚層（Diploblastic）動物跟三胚層（Triploblastic）動物的差別之一是在於下列何者的有無？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Mesoderm.",
+        "images": []
+      },
+      {
+        "text": "B Endoderm.",
+        "images": []
+      },
+      {
+        "text": "C Amphoderm.",
+        "images": []
+      },
+      {
+        "text": "D Epiderm.",
+        "images": []
+      },
+      {
+        "text": "E Ectoderm.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  }
+]

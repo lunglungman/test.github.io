@@ -1,0 +1,1446 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. Which of the following statements about cell junctions is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Actin filaments anchor desmosomes in the cytoplasm.",
+        "images": []
+      },
+      {
+        "text": "B Hemidesmosomes connect cells to extracellular matrix (ECM) via integrins.",
+        "images": []
+      },
+      {
+        "text": "C Integrin is a transmembrane protein with two nonidentical subunits.",
+        "images": []
+      },
+      {
+        "text": "D Cadherins are Ca2+-dependent molecules to create cell-to-cell junctions.",
+        "images": []
+      },
+      {
+        "text": "E The connexons of gap junctions allow the passage of ions.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. Compare to the function of plasmodesmata in plant cells, which structure serve the same function in animal cells?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Gap junctions",
+        "images": []
+      },
+      {
+        "text": "B Middle lamella",
+        "images": []
+      },
+      {
+        "text": "C Hemidesmosomes",
+        "images": []
+      },
+      {
+        "text": "D Tight junctions",
+        "images": []
+      },
+      {
+        "text": "E Basal lamina",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列胞器何者具有雙層膜？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 粒線體（mitochondrion）",
+        "images": []
+      },
+      {
+        "text": "B 高基氏體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "C 過氧化體（peroxisome）",
+        "images": []
+      },
+      {
+        "text": "D 醣氧化體（glyoxysome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. The components of the endomembrane system of cells don’t include ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A nuclear envelope",
+        "images": []
+      },
+      {
+        "text": "B endoplasmic reticulum",
+        "images": []
+      },
+      {
+        "text": "C vacuoles",
+        "images": []
+      },
+      {
+        "text": "D plasma membrane",
+        "images": []
+      },
+      {
+        "text": "E mitochondrion",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Plant cells and animal cells both evolve specialized conduits that directly connect the cytoplasm of two cells. What are they?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A plasmodesmata in plant cells, desmotubules in animal cells",
+        "images": []
+      },
+      {
+        "text": "B desmotubules in plant cells, plasmodesmata in animal cells",
+        "images": []
+      },
+      {
+        "text": "C gap junctions in plants cells, plasmodesmata in animal cells",
+        "images": []
+      },
+      {
+        "text": "D plasmodesmata in plant cells, gap junctions in animal cells",
+        "images": []
+      },
+      {
+        "text": "E gap junctions in plant cells, desmotubule in animal cells",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 有關粒線體（mitochondria）的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 通常一個細胞會只有一個粒線體",
+        "images": []
+      },
+      {
+        "text": "B 是一種存在於大多數真核細胞中，由兩層膜包被的胞器",
+        "images": []
+      },
+      {
+        "text": "C 這種胞器擁有自身的遺傳物質和遺傳體系",
+        "images": []
+      },
+      {
+        "text": "D 這種胞器和細胞內ATP的製造有關",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. Which of the following statements about intermediate filaments is NOT TRUE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A They are cytoskeletal fibers with a diameter of 8-12 nm.",
+        "images": []
+      },
+      {
+        "text": "B Their constituent proteins are highly heterogeneous and express in a cell type specific manner.",
+        "images": []
+      },
+      {
+        "text": "C Their main function is to maintain cell shape and anchor organelles such as mitochondria.",
+        "images": []
+      },
+      {
+        "text": "D They also express in nucleus and form nuclear lamina.",
+        "images": []
+      },
+      {
+        "text": "E Vesicle can travel along intermediate filaments through interaction with motor proteins.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 人類的腸道內襯細胞之間並不會有液體從腸道洩漏到體內的主要原因是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞藉由隙型連結（gap junction）結合在一起",
+        "images": []
+      },
+      {
+        "text": "B 細胞藉由細胞外基質（extracellular matrix）結合在一起",
+        "images": []
+      },
+      {
+        "text": "C 細胞藉由緊密型連結（tight junction）結合在一起",
+        "images": []
+      },
+      {
+        "text": "D 細胞藉由原生質絲（plasmodesmata）結合在一起",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 植物細胞缺乏間隙連接（gap junction），因此以下列何者作為細胞間的聯繫？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A integrin",
+        "images": []
+      },
+      {
+        "text": "B plasmodesmata",
+        "images": []
+      },
+      {
+        "text": "C desmosome",
+        "images": []
+      },
+      {
+        "text": "D hemidesmosome",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. If the smooth endoplasmic reticulum was removed from the cell, which of the following processes would be mostly affected?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A protein synthesis",
+        "images": []
+      },
+      {
+        "text": "B packaging proteins",
+        "images": []
+      },
+      {
+        "text": "C secreting proteins",
+        "images": []
+      },
+      {
+        "text": "D lipid synthesis",
+        "images": []
+      },
+      {
+        "text": "E transporting proteins",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 細胞自噬作用（autophagy）為細胞在飢餓時（如缺乏營養），透過吞噬胞器來產生能量而存活，此作用主要在下列何種胞器中進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 過氧化體（peroxisome）",
+        "images": []
+      },
+      {
+        "text": "B 醣氧化體（glyoxysome）",
+        "images": []
+      },
+      {
+        "text": "C 高基氏體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "D 溶體（lysosome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. Which of the following characteristics best describes specialized cell junction?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Adherens junctions but not desmosomes are the main types of anchoring junctions.",
+        "images": []
+      },
+      {
+        "text": "B Gap junctions prevent the movement of molecules across cell layers.",
+        "images": []
+      },
+      {
+        "text": "C Tight junctions allow direct electrical and chemical communication between cells.",
+        "images": []
+      },
+      {
+        "text": "D Plasmodesmata permit direct cell-cell communication between plant cells.",
+        "images": []
+      },
+      {
+        "text": "E Tight junctions are the main types of communicating junctions between cardiac muscle cells.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 有關細胞骨架蛋白（cytoskeleton）的種類與其功能的配對，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微管蛋白（microtubules）：細胞分裂時染色體的移動",
+        "images": []
+      },
+      {
+        "text": "B 微絲蛋白（microfilaments）：肌肉收縮",
+        "images": []
+      },
+      {
+        "text": "C 中間絲蛋白（intermediate filaments）：引導細胞內濾泡（vesicles）的運行",
+        "images": []
+      },
+      {
+        "text": "D 微絲蛋白（microfilaments）：細胞爬行",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列何種胞器具雙層膜？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溶小體",
+        "images": []
+      },
+      {
+        "text": "B 高基氏體",
+        "images": []
+      },
+      {
+        "text": "C 粒線體",
+        "images": []
+      },
+      {
+        "text": "D 內質網",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列哪一個真核生物細胞中的胞器中含有RNA分子的機率最低？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉綠體",
+        "images": []
+      },
+      {
+        "text": "B 粒線體",
+        "images": []
+      },
+      {
+        "text": "C 細胞核",
+        "images": []
+      },
+      {
+        "text": "D 過氧化體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 動物細胞的部分蛋白質會依其功能而進行添加多醣修飾，來提高其生物活性或是產生新的生物活性，在動物細胞階層篩選突變時，有一突變細胞株呈現蛋白質添加多醣修飾能力喪失的現象，依據細胞構造的功能，推測此突變細胞株可能會導致某些細胞構造功能的缺陷，下列何者是最可能發生缺陷的細胞構造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核蛋白片層（nuclear lamina）和核基質（nuclear matrix）",
+        "images": []
+      },
+      {
+        "text": "B 核基質（nuclear matrix）和細胞間基質（extracellular matrix）",
+        "images": []
+      },
+      {
+        "text": "C 粒線體（mitochondria）和高爾基氏體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "D 高爾基氏體（Golgi apparatus）和細胞間基質（extracellular matrix）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. Which of the following about chloroplasts and mitochondria is incorrect?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A They are of the appropriate size to be the descendants of bacteria.",
+        "images": []
+      },
+      {
+        "text": "B They contain circular DNA not associated with histones.",
+        "images": []
+      },
+      {
+        "text": "C They contain their own genome and produce all proteins they need.",
+        "images": []
+      },
+      {
+        "text": "D Their ribosomes are more similar to those of bacteria than to those of eukaryotes.",
+        "images": []
+      },
+      {
+        "text": "E Their membranes have enzymes and transport systems that resemble those in the plasma membrane of prokaryotes.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 當動物細胞中產生無法將多醣（polysaccharide）修飾到蛋白質上的突變時，下列何者的功能最可能受到影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核基質（nuclear matrix）及胞外基質（extracellular matrix）",
+        "images": []
+      },
+      {
+        "text": "B 粒線體（mitochondria）及高基氏體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "C 高基氏體及胞外基質",
+        "images": []
+      },
+      {
+        "text": "D 核孔（nuclear pore）及分泌囊泡（secretory vesicle）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. In ________, a cell engulfs a particle by wrapping pseudopodia.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A receptor-mediated endocytosis",
+        "images": []
+      },
+      {
+        "text": "B phagocytosis",
+        "images": []
+      },
+      {
+        "text": "C pinocytosis",
+        "images": []
+      },
+      {
+        "text": "D exocytosis",
+        "images": []
+      },
+      {
+        "text": "E osmosis",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. Which one of the following organelle is not included in the endomembrane system?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Golgi apparatus",
+        "images": []
+      },
+      {
+        "text": "B Endoplasmic reticulum",
+        "images": []
+      },
+      {
+        "text": "C Proteasome",
+        "images": []
+      },
+      {
+        "text": "D Lysosome",
+        "images": []
+      },
+      {
+        "text": "E Nuclear envelope",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 顯微鏡約可觀察到0.2μm以上大小的物質，請問以解析度而言，下列何者最不適合在光學顯微鏡下觀察？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉綠體",
+        "images": []
+      },
+      {
+        "text": "B 核醣體",
+        "images": []
+      },
+      {
+        "text": "C 細胞核",
+        "images": []
+      },
+      {
+        "text": "D 大腸桿菌",
+        "images": []
+      },
+      {
+        "text": "E 粒線體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 有關結構與功能的配對，下列何者是錯誤的組合？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紡錘絲（spindle）：染色體分離",
+        "images": []
+      },
+      {
+        "text": "B 核仁（nucleolus）：製造核醣體",
+        "images": []
+      },
+      {
+        "text": "C 粒線體（mitochondria）：細胞呼吸",
+        "images": []
+      },
+      {
+        "text": "D 微管（microtubule）：肌肉收縮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列那一種結構不是內膜系統（endomembrane system）的一部份？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內質網（endoplasmic reticulum）",
+        "images": []
+      },
+      {
+        "text": "B 高基氏體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "C 核膜（nuclear envelope）",
+        "images": []
+      },
+      {
+        "text": "D 粒線體（mitochondria）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列有關自噬作用（autophagy）的描述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是一種細胞清理損壞胞器的方式",
+        "images": []
+      },
+      {
+        "text": "B 可回收有機巨分子以供細胞再使用",
+        "images": []
+      },
+      {
+        "text": "C 分解損壞胞器的酵素是由蛋白酶體（proteasome）所提供",
+        "images": []
+      },
+      {
+        "text": "D 人體肝臟細胞利用自噬作用每週約可回收一半的有機巨分子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. Which of the following statements about the extracellular matrix (ECM) is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Collagens are assembled into triple helix in the ER lumen.",
+        "images": []
+      },
+      {
+        "text": "B Glycosaminoglycans (GAGs) contain positively charged carbohydrates.",
+        "images": []
+      },
+      {
+        "text": "C Chondroitin sulfate is a GAG to be part of proteoglycan.",
+        "images": []
+      },
+      {
+        "text": "D Elastin is a protein capable of changing conformation.",
+        "images": []
+      },
+      {
+        "text": "E Fibronectin can directly bind with integrin.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. Which of the following structures is primarily involved in the detoxification of many poisons and drugs in liver and therefore abundant in liver cells?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Golgi apparatus",
+        "images": []
+      },
+      {
+        "text": "B smooth ER",
+        "images": []
+      },
+      {
+        "text": "C chemical",
+        "images": []
+      },
+      {
+        "text": "D rough ER",
+        "images": []
+      },
+      {
+        "text": "E transport vesicles",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 在細胞構造的研究結果顯示，溶酶體（lysosomes）被認為是屬於內膜系統（endomembrane system）一部分的原因，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在內質網中沉積消化的終產物",
+        "images": []
+      },
+      {
+        "text": "B 由內質網合成並經高爾基氏體加工的產物所形成",
+        "images": []
+      },
+      {
+        "text": "C 促進高爾基氏體之間的移動",
+        "images": []
+      },
+      {
+        "text": "D 可以儲存作為蛋白質合成抑製劑的鈣離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 在粒線體進行轉錄而生成的訊息RNA，會在下列何處進行轉譯？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞膜",
+        "images": []
+      },
+      {
+        "text": "B 葉綠體",
+        "images": []
+      },
+      {
+        "text": "C 細胞質",
+        "images": []
+      },
+      {
+        "text": "D 細胞核",
+        "images": []
+      },
+      {
+        "text": "E 粒線體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 細胞鬆弛素（cytochalasin）是一種會干擾肌動蛋白（actin）聚合的藥物，使之無法形成微絲（microfilament），若在培養中的哺乳類細胞添加此藥物，可能會對細胞分裂週期產生下列何種影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞死亡",
+        "images": []
+      },
+      {
+        "text": "B 細胞質分裂停止",
+        "images": []
+      },
+      {
+        "text": "C 停止在有絲分裂的前期",
+        "images": []
+      },
+      {
+        "text": "D 停止在有絲分裂的中期",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 龐貝症（Pumpe’s disease）是因下列何者所造成的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞表面缺乏膽固醇的受體",
+        "images": []
+      },
+      {
+        "text": "B 細胞缺乏分解神經中堆積的蛋白質酵素",
+        "images": []
+      },
+      {
+        "text": "C 溶小體缺乏分解肝糖的分解酵素",
+        "images": []
+      },
+      {
+        "text": "D 細胞缺乏分解脂肪酵素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 長青花鹼（vinblastin）是治療癌症之藥物，可干擾微管（microtubule）之組裝，其作用最可能是下列何者受到抑制？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA之合成",
+        "images": []
+      },
+      {
+        "text": "B 週期素（cyclins）之生成",
+        "images": []
+      },
+      {
+        "text": "C 有絲分裂紡錘體（mitotic spindle）之形成",
+        "images": []
+      },
+      {
+        "text": "D 調節型蛋白（regulatory protein）之磷酸化（phosphorylation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 大部分動、植物細胞的直徑在哪一個範圍？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 10－100nm",
+        "images": []
+      },
+      {
+        "text": "B 100nm－1μm",
+        "images": []
+      },
+      {
+        "text": "C ～1μm",
+        "images": []
+      },
+      {
+        "text": "D 100μm－1mm",
+        "images": []
+      },
+      {
+        "text": "E 10－100μm",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列何種細胞構造主要參與肝臟解毒作用，而在肝細胞中含量豐富？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溶體（lysosome）",
+        "images": []
+      },
+      {
+        "text": "B 高爾基體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "C 核膜（nuclear envelope）",
+        "images": []
+      },
+      {
+        "text": "D 粗糙內質網（rough ER）",
+        "images": []
+      },
+      {
+        "text": "E 平滑內質網（smooth ER）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 下列何者不是動物細胞內平滑型內質網（smooth endoplasmic reticulum）的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 製造ATP",
+        "images": []
+      },
+      {
+        "text": "B 製造類固醇",
+        "images": []
+      },
+      {
+        "text": "C 合成脂肪",
+        "images": []
+      },
+      {
+        "text": "D 儲存鈣離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列何種細胞中具有較高量的平滑內質網（smooth endoplasmic reticulum）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 漿細胞（plasma cells）",
+        "images": []
+      },
+      {
+        "text": "B 肝細胞（livercells）",
+        "images": []
+      },
+      {
+        "text": "C 平滑肌細胞（smooth muscle cells）",
+        "images": []
+      },
+      {
+        "text": "D 神經膠質細胞（glial cells）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 胰臟細胞會將標有放射性元素的胺基酸嵌入蛋白質中，這種新生成蛋白質之「標籤化」可供研究人員追蹤這些蛋白質在細胞中的位置。假使我們正在追蹤一種由胰臟細胞所分泌的酵素，下列何者最有可能是該蛋白質在細胞內運輸（transport）的路徑？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內質網 → 高基氏體 → 細胞核",
+        "images": []
+      },
+      {
+        "text": "B 高基氏體 → 內質網 → 溶體",
+        "images": []
+      },
+      {
+        "text": "C 細胞核 → 內質網 → 高基氏體",
+        "images": []
+      },
+      {
+        "text": "D 內質網 → 高基氏體 → 會和細胞膜融合的囊泡",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. ________ are membrane protrusions that facilitate the absorption of nutrients. What is the name of these protrusions and what cytoskeletal element forms their internal skeleton?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Microvilli, microtubules",
+        "images": []
+      },
+      {
+        "text": "B Microvilli, actin filaments",
+        "images": []
+      },
+      {
+        "text": "C Microvilli, intermediate filaments",
+        "images": []
+      },
+      {
+        "text": "D Villi, microtubules",
+        "images": []
+      },
+      {
+        "text": "E Villi, actin filaments",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 細胞內主要負責合成及儲存分泌物的重要胞器為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 高基氏體",
+        "images": []
+      },
+      {
+        "text": "B 細胞核",
+        "images": []
+      },
+      {
+        "text": "C 粒線體",
+        "images": []
+      },
+      {
+        "text": "D 核糖體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. Endomembrane system includes following organelles, except ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A nuclear envelope",
+        "images": []
+      },
+      {
+        "text": "B endoplasmic reticulum (ER)",
+        "images": []
+      },
+      {
+        "text": "C Golgi apparatus",
+        "images": []
+      },
+      {
+        "text": "D mitochondria",
+        "images": []
+      },
+      {
+        "text": "E lysosome",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列有關細胞骨架（cytoskeleton）的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是指細胞內脂質所構成的細絲構造",
+        "images": []
+      },
+      {
+        "text": "B 細胞骨架的改變與細胞的遷移（migration）無關",
+        "images": []
+      },
+      {
+        "text": "C 細胞骨架容易受機械式應力改變而影響",
+        "images": []
+      },
+      {
+        "text": "D 細胞骨架主要是由醣類排列而成的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. Asbestos is a material that was once used extensively in construction. One risk from working in a building that contains asbestos is the development of asbestosis caused by the inhalation of asbestos fibers. Cells will take up asbestos by phagocytosis, but are not able to degrade it. As a result, asbestos fibers accumulate in ________.",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/001.png"
+    ],
+    "options": [
+      {
+        "text": "A rough ER",
+        "images": []
+      },
+      {
+        "text": "B lysosomes",
+        "images": []
+      },
+      {
+        "text": "C Golgi apparatus",
+        "images": []
+      },
+      {
+        "text": "D nuclear",
+        "images": []
+      },
+      {
+        "text": "E peroxisomes",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 一個化學藥物（如vinblastine）會破壞微管（microtubules）的形成，則此藥物會干預________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因的切割",
+        "images": []
+      },
+      {
+        "text": "B 基因轉換",
+        "images": []
+      },
+      {
+        "text": "C DNA複製",
+        "images": []
+      },
+      {
+        "text": "D 分裂紡錘體的形成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. Which of the following statements about the extracellular matrix (ECM) is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Collagens are the major structure fiber of ECM in animal cells.",
+        "images": []
+      },
+      {
+        "text": "B Mucoproteins are the components of hydrated matrix of ECM in animal cells.",
+        "images": []
+      },
+      {
+        "text": "C Cellulose are adhesive molecules of ECM in plant cells.",
+        "images": []
+      },
+      {
+        "text": "D Fibronectins and laminins are adhesive molecules of ECM in animal cells.",
+        "images": []
+      },
+      {
+        "text": "E Hemicellulose and extensins are the components of hydrated matrix of ECM in plant cells.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. Which organelle contains single membrane?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ribosome",
+        "images": []
+      },
+      {
+        "text": "B chloroplast",
+        "images": []
+      },
+      {
+        "text": "C mitochondrion",
+        "images": []
+      },
+      {
+        "text": "D nucleus",
+        "images": []
+      },
+      {
+        "text": "E peroxisome",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 人體的肝臟參與許多毒物和藥物的解毒作用，能夠保護個體免受潛在的有毒化學物質傷害，主要是它能夠將親脂性物質轉化為水溶性的代謝物質，此類代謝物可以經由尿液有效地從體內排出，主要可能的解毒機制是由下列何種細胞構造主要參與，而在肝細胞中具有高度的數量？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 粗糙內質網（rough ER）",
+        "images": []
+      },
+      {
+        "text": "B 平滑內質網（smooth ER）",
+        "images": []
+      },
+      {
+        "text": "C 高爾基氏體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "D 運輸囊泡（transport vesicles）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 有關細胞的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肌凝蛋白（myosin）是沿著中間絲（intermediate filament）移動的運動蛋白",
+        "images": []
+      },
+      {
+        "text": "B 真核細胞的鞭毛（flagellum）結構為由9＋1排列的軸絲（axoneme）組成",
+        "images": []
+      },
+      {
+        "text": "C 物質經由胞飲作用（endocytosis）和胞吐作用（exocytosis）進出細胞核（nucleus）",
+        "images": []
+      },
+      {
+        "text": "D 溶酶體（lysosomes）和過氧化體（peroxisomes）兩種胞器皆可進行細胞中有害物質的解毒",
+        "images": []
+      },
+      {
+        "text": "E 醣質包被（glycocalyx）對於細菌是一種保護性塗層，可避免細菌脫水和被宿主生物體破壞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. How many of the following is/are NOT found in extracellular matrix (ECM) of animal?I. Fibronectins　　II. Collagens　　III. Laminins　　IV. Proteoglycans　　V. Pectin",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0",
+        "images": []
+      },
+      {
+        "text": "B 1",
+        "images": []
+      },
+      {
+        "text": "C 2",
+        "images": []
+      },
+      {
+        "text": "D 3",
+        "images": []
+      },
+      {
+        "text": "E 4",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 細胞外基質（extracellular matrix）能透過________傳遞胞外訊號影響胞內基因的表現。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 膠原蛋白（collagen）",
+        "images": []
+      },
+      {
+        "text": "B 原生質絲（plasmodesmata）",
+        "images": []
+      },
+      {
+        "text": "C 整合素（integrin）",
+        "images": []
+      },
+      {
+        "text": "D 間隙連結（gap junction）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列有關病毒的敘述，何者最為恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病毒的封套（envelope）蛋白可幫助病毒DNA進入寄主細胞基因組內",
+        "images": []
+      },
+      {
+        "text": "B 人類免疫缺乏病毒與皰疹病毒（herpesviruses）皆屬於RNA病毒",
+        "images": []
+      },
+      {
+        "text": "C 植物病毒可經由原生質絲（plasmodesmata）在細胞間傳播",
+        "images": []
+      },
+      {
+        "text": "D 目前已有許多成功的方式可去除受感染植物的病毒",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 下列何種胞器具雙層膜構造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內質網",
+        "images": []
+      },
+      {
+        "text": "B 粒線體",
+        "images": []
+      },
+      {
+        "text": "C 高基氏體",
+        "images": []
+      },
+      {
+        "text": "D 細胞膜",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

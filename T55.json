@@ -1,0 +1,1460 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 珍稀瀕危植物族群通常呈現族群內個體少和分散族群的問題，此現象會因為下列何種作用為主要因素，導致遺傳多樣性喪失？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 遺傳漂變（genetic drift）",
+        "images": []
+      },
+      {
+        "text": "B 遷移（migration）",
+        "images": []
+      },
+      {
+        "text": "C 天擇（natural selection）",
+        "images": []
+      },
+      {
+        "text": "D 突變（mutation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. What is NOT a criterion for evolution to happen in a natural population?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Natural selection occurs",
+        "images": []
+      },
+      {
+        "text": "B Traits are inheritable",
+        "images": []
+      },
+      {
+        "text": "C Random mating happens",
+        "images": []
+      },
+      {
+        "text": "D Phenotypic difference exists",
+        "images": []
+      },
+      {
+        "text": "E Organisms produce more offspring than the environment can support",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. A biologist doing a long-term study on a wild spider population observes increased variation in silk thickness. Which of the following could the spider population be experiencing?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A directional selection",
+        "images": []
+      },
+      {
+        "text": "B genetic drift",
+        "images": []
+      },
+      {
+        "text": "C disruptive selection",
+        "images": []
+      },
+      {
+        "text": "D stabilizing selection",
+        "images": []
+      },
+      {
+        "text": "E founder effect",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. The emigration or immigration of fertile individuals from or to a small population may alter the gene pool of the population. This example of a change in allele frequency is best characterized as ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A natural selection",
+        "images": []
+      },
+      {
+        "text": "B population bottleneck",
+        "images": []
+      },
+      {
+        "text": "C founder effect",
+        "images": []
+      },
+      {
+        "text": "D gene flow",
+        "images": []
+      },
+      {
+        "text": "E convergent evolution",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 常見於達爾文的時代（Darwin's time），關於遺傳（inheritance）的假設下列那個學說主要是在闡述天擇（natural selection）中族群的適應問題？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微粒假說（particulate hypothesis）",
+        "images": []
+      },
+      {
+        "text": "B 混合假說（blending hypothesis）",
+        "images": []
+      },
+      {
+        "text": "C 染色體假說（chromosomal hypothesis）",
+        "images": []
+      },
+      {
+        "text": "D 核酸假說（nucleic acid hypothesis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. Which of the following statements regarding balancing selection is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The balancing selection maintains genetic diversity in a population.",
+        "images": []
+      },
+      {
+        "text": "B The balancing selection can create a balanced polymorphism.",
+        "images": []
+      },
+      {
+        "text": "C Homozygote advantage is usually favored by the balancing selection.",
+        "images": []
+      },
+      {
+        "text": "D The balancing selection is a type of natural selection which does not always cause the elimination of weaker alleles.",
+        "images": []
+      },
+      {
+        "text": "E The balancing selection can occur through negative frequency-dependent selection.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 人類交通運輸的發達與便利性，對下列那一種微演化（microevolution）的機轉影響最大？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Natural selection",
+        "images": []
+      },
+      {
+        "text": "B Genetic mutation",
+        "images": []
+      },
+      {
+        "text": "C Genetic drift",
+        "images": []
+      },
+      {
+        "text": "D Gene flow",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 下列有關天擇的觀察及推論，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 個體間有可遺傳的變異",
+        "images": []
+      },
+      {
+        "text": "B 適應較差的個體留下的後代較少",
+        "images": []
+      },
+      {
+        "text": "C 對環境適應較佳的個體留下的後代較多",
+        "images": []
+      },
+      {
+        "text": "D 因為僅少部分後代能存活，所以對有限資源不會產生競爭",
+        "images": []
+      },
+      {
+        "text": "E 差異性生殖成功率會造成適應的差異",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 當一族群中發生遺傳漂變（genetic drift）後，最可能導致哪種現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在族群內失去遺傳變異",
+        "images": []
+      },
+      {
+        "text": "B 在許多基因座增加異合度（heterozygosity）",
+        "images": []
+      },
+      {
+        "text": "C 在族群間遺傳分化降低",
+        "images": []
+      },
+      {
+        "text": "D 在特定的基因中突變率降低",
+        "images": []
+      },
+      {
+        "text": "E 呈現Hardy-Weinberg平衡",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 在加拉巴哥群島因為乾旱導致植物種子變大而堅硬，取食種子的中型地雀（medium ground-finch）鳥喙大小在隨後的幾年亦加大，這現象可符合下列哪種天擇？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 分歧性天擇（disruptive selection）",
+        "images": []
+      },
+      {
+        "text": "B 方向性天擇（directional selection）",
+        "images": []
+      },
+      {
+        "text": "C 穩定性天擇（stabilizing selection）",
+        "images": []
+      },
+      {
+        "text": "D 平衡性天擇（balancing selection）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 因拓殖族群小而產生與原來族群不相同基因體的新族群，這種情況下所產生的遺傳漂變（genetic drift），稱為甚麼？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 瓶頸效應（bottleneck effect）",
+        "images": []
+      },
+      {
+        "text": "B 祖先效應（founder effect）",
+        "images": []
+      },
+      {
+        "text": "C 溫室效應",
+        "images": []
+      },
+      {
+        "text": "D 族群效應",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. The frequency of heterozygosity for the sickle cell anemia allele is unusually high, presumably because this reduces the frequency of malaria. Such a relationship is related to which of the following?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Mendel's law of independent assortment",
+        "images": []
+      },
+      {
+        "text": "B Mendel's law of segregation",
+        "images": []
+      },
+      {
+        "text": "C Darwin's explanation of natural selection",
+        "images": []
+      },
+      {
+        "text": "D Darwin's observations of competition",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 美國伊利諾州草原松雞（Illinois greater prairie chicken）因棲地減少而導致族群快速下降，經棲地保育後此草原松雞的族群仍持續變小，下列何者是此現象最主要的原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 獵食者增加",
+        "images": []
+      },
+      {
+        "text": "B 食物鏈中斷",
+        "images": []
+      },
+      {
+        "text": "C 遺傳變異下降",
+        "images": []
+      },
+      {
+        "text": "D 氣候改變",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. Which of these is the smallest unit upon which natural selection directly acts?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a species’ gene frequency",
+        "images": []
+      },
+      {
+        "text": "B a population's gene frequency",
+        "images": []
+      },
+      {
+        "text": "C an individual's genome",
+        "images": []
+      },
+      {
+        "text": "D an individual's genotype",
+        "images": []
+      },
+      {
+        "text": "E an individual's phenotype",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Which of the following is true of microevolution?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A it is the kind of evolution that can change the relative abundance of a particular allele in a gene pool over the course of generations",
+        "images": []
+      },
+      {
+        "text": "B it is evolution that influences only a small subset of the populations that comprise a species",
+        "images": []
+      },
+      {
+        "text": "C it is evolution that is restricted to individual organisms",
+        "images": []
+      },
+      {
+        "text": "D it is evolution that involves only tiny changes to DNA, such as point mutations, producing only small (if any) changes to phenotype",
+        "images": []
+      },
+      {
+        "text": "E it is evolution that results in the origin of small numbers of new species",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 天擇有時候也被描述成”適者生存”，下列何者最能測量出生物體適不適合生存？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它的突變速率",
+        "images": []
+      },
+      {
+        "text": "B 它能產生多少具繁殖力的後代",
+        "images": []
+      },
+      {
+        "text": "C 它能吃或得到多少食物",
+        "images": []
+      },
+      {
+        "text": "D 它抵抗環境變化的能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 在物種演化上，下面哪一項因素是造成族群內所有遺傳變異最初的來源？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 重組（recombination）",
+        "images": []
+      },
+      {
+        "text": "B 天擇（selection）",
+        "images": []
+      },
+      {
+        "text": "C 突變（mutation）",
+        "images": []
+      },
+      {
+        "text": "D 複製（replication）",
+        "images": []
+      },
+      {
+        "text": "E 移位（translocation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. The frequency of antibiotic resistance increases in human populations which is the result of:",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A balancing selection.",
+        "images": []
+      },
+      {
+        "text": "B disruptive selection.",
+        "images": []
+      },
+      {
+        "text": "C directional selection.",
+        "images": []
+      },
+      {
+        "text": "D sexual selection.",
+        "images": []
+      },
+      {
+        "text": "E stabilizing selection.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. The largest unit within which gene flow can readily occur is a",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A population.",
+        "images": []
+      },
+      {
+        "text": "B species.",
+        "images": []
+      },
+      {
+        "text": "C genus.",
+        "images": []
+      },
+      {
+        "text": "D hybrid.",
+        "images": []
+      },
+      {
+        "text": "E phylum.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. How does the occurrence of self-fertilization relative to cross-fertilization affect the fixation of an advantageous and recessive allele that newly arose in population by mutation?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The relative occurrence of self-fertilization does not affect the fixation of the allele.",
+        "images": []
+      },
+      {
+        "text": "B The relative occurrence of self-fertilization affects the fixation of the allele only when the population is very small.",
+        "images": []
+      },
+      {
+        "text": "C The allele will be fixed more quickly when the occurrence of self-fertilization is higher.",
+        "images": []
+      },
+      {
+        "text": "D The allele will be fixed more quickly when the occurrence of self-fertilization is lower.",
+        "images": []
+      },
+      {
+        "text": "E The allele will be fixed more quickly when the occurrence of cross-fertilization is higher.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 綠色革命（green revolution）至今，人類大量使用雜種優勢（heterosis）作物進行糧食生產，主要原理為利用異基因型合子優勢（heterozygote advantage），此現象與下面哪一種天擇最相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 隨機選汰（random selection）",
+        "images": []
+      },
+      {
+        "text": "B 穩定選汰（stabilizing selection）",
+        "images": []
+      },
+      {
+        "text": "C 定向選汰（directional selection）",
+        "images": []
+      },
+      {
+        "text": "D 分歧選汰（disruptive selection）",
+        "images": []
+      },
+      {
+        "text": "E 同性選汰（intrasexual selection）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. “天擇”有時候會以“適者生存”來描述，下列何者最能正確的測出此生物體適不適合生存下來？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它的突變率",
+        "images": []
+      },
+      {
+        "text": "B 它產生後代的數目",
+        "images": []
+      },
+      {
+        "text": "C 它獲取食物的能力",
+        "images": []
+      },
+      {
+        "text": "D 它忍受環境極限的能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 在生物演化中，小族群為什麼比較容易滅絕？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 容易受天擇的影響而被淘汰",
+        "images": []
+      },
+      {
+        "text": "B 容易受基因漂變（genetic drift）的影響",
+        "images": []
+      },
+      {
+        "text": "C 遺傳多樣性低，有適當基因應付環境變動的機會較小",
+        "images": []
+      },
+      {
+        "text": "D 環境變動造成的數量改變超過族群能承受的大小",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 所謂“最小程度的演化”發生在生態系統階層的哪一個層次？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 個體基因型",
+        "images": []
+      },
+      {
+        "text": "B 個體表現型",
+        "images": []
+      },
+      {
+        "text": "C 生態系",
+        "images": []
+      },
+      {
+        "text": "D 族群",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 脊椎動物的性別大多是由性染色體來決定，但許多種魚類的性別具可塑性，尤其是環境的因子會影響雌、雄魚性別的決定，例如水溫，有些種類魚的性別則是隨年齡與成長而改變，例如石斑先雌再變雄，小丑魚會由雄魚再變雌魚。另外有些魚採取特殊的孤雌生殖方式，須借助他種魚的精子進入卵質才能啟動細胞分裂，這些都是魚類在天擇壓力下，為了繁衍下一代演化出多樣化的生殖策略。下列何種方式不是這些生殖策略的一種？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雌核生殖",
+        "images": []
+      },
+      {
+        "text": "B 雜核生殖",
+        "images": []
+      },
+      {
+        "text": "C 有性生殖",
+        "images": []
+      },
+      {
+        "text": "D 雙重受精",
+        "images": []
+      },
+      {
+        "text": "E 精子寄生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 假設一物種有二族群，在基因座X，族群1的40個體之基因型皆為XaXa；族群2的25個體之基因型皆為XAXA。假設這兩個族群彼此距離遙遠，且它們的棲地環境條件極端相似。基於以上資訊，下列何者是造成此二族群遺傳變異情形最有可能的原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 遺傳漂變（genetic drift）",
+        "images": []
+      },
+      {
+        "text": "B 基因交流（gene flow）",
+        "images": []
+      },
+      {
+        "text": "C 分歧型天擇（disruptive selection）",
+        "images": []
+      },
+      {
+        "text": "D 定向型天擇（directional selection）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 化石證據顯示，歐洲黑熊在嚴寒的冰河時期平均體型會增大，在較溫暖的冰河間期則會變小，此現象與下列何種天擇最為相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 頻率依存型天擇（frequency-dependent selection）",
+        "images": []
+      },
+      {
+        "text": "B 穩定型天擇（stabilizing selection）",
+        "images": []
+      },
+      {
+        "text": "C 分歧型天擇（disruptive selection）",
+        "images": []
+      },
+      {
+        "text": "D 方向型天擇（directional selection）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 具有最長尾羽的雄燕較其他尾羽較短的雄燕可以吸引更多雌燕交配，顯示：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雌燕傾向選擇有長尾羽的雄燕，此為性擇（sexual selection）",
+        "images": []
+      },
+      {
+        "text": "B 燕尾增長是因為遺傳漂變（genetic drift），即小型族群所致",
+        "images": []
+      },
+      {
+        "text": "C 具最長尾羽可使雄燕在戰鬥時更加靈活",
+        "images": []
+      },
+      {
+        "text": "D 較長的尾羽可增加雄燕飛行能力以利獲得食物",
+        "images": []
+      },
+      {
+        "text": "E 具有最長尾羽較能適應環境",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. As discussed in the text, the fruit fly Drosophila melanogaster has an allele that confers resistance to DDT and similar insecticides. Laboratory strains of D. melanogaster have been established from flies collected in the wild in the 1930s (before the widespread use of insecticides) and the 1960s (after 20 years of DDT use). Lab strains established in the 1930s have no alleles for DDT resistance. In lab strains established in the 1960s, the frequency of the DDT-resistance allele is 37%. Which statement below is true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Some fruit flies evolved resistance to DDT in order to survive.",
+        "images": []
+      },
+      {
+        "text": "B The heritable trait of DDT resistance cannot change even DDT use became widespread.",
+        "images": []
+      },
+      {
+        "text": "C Fruit flies became more resistant to DDT over time.",
+        "images": []
+      },
+      {
+        "text": "D When DDT was widely used, fruit flies with DDT resistance had greater evolutionary fitness than fruit flies lacking DDT resistance.",
+        "images": []
+      },
+      {
+        "text": "E Alleles for DDT resistance arose by mutation during the period of DDT use because of selection for pesticide resistance.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 關於加拉巴哥群島上的芬雀（finch），下列敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 芬雀的喙越深，可啄開的種子就越大越硬",
+        "images": []
+      },
+      {
+        "text": "B 經過兩年的乾旱，所有的芬雀啄都變大了",
+        "images": []
+      },
+      {
+        "text": "C 當雨季回來後，大啄型的芬雀依然佔有優勢",
+        "images": []
+      },
+      {
+        "text": "D 乾旱的天氣是主要的淘汰機制",
+        "images": []
+      },
+      {
+        "text": "E 芬雀啄的大小是可以遺傳的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. Isolated populations will lose a percentage of their original diversity over time, approximately at the rate of 1/(2N) per generation, where N＝population size. After 20 generations, the original population of 500 will lose ________ of its original genetic variation.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 20%",
+        "images": []
+      },
+      {
+        "text": "B 2%",
+        "images": []
+      },
+      {
+        "text": "C 4%",
+        "images": []
+      },
+      {
+        "text": "D 8%",
+        "images": []
+      },
+      {
+        "text": "E 16%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 一個小且隔離的族群比大族群易進行物種演變是因為小族群：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 含有較多的基因多樣性",
+        "images": []
+      },
+      {
+        "text": "B 在減數分裂時較易出錯",
+        "images": []
+      },
+      {
+        "text": "C 較易受genetic drift之影響",
+        "images": []
+      },
+      {
+        "text": "D 較易有gene flow產生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 就族群建立在新棲地的過程中很容易產生微演化，這是因為創始者族群的哪種特性所致？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因流動增加",
+        "images": []
+      },
+      {
+        "text": "B 新環境中較容易產生基因突變",
+        "images": []
+      },
+      {
+        "text": "C 小族群的成員較具有遷移的特性",
+        "images": []
+      },
+      {
+        "text": "D 小的創始者族群容易受到從基因庫取樣錯誤的影響",
+        "images": []
+      },
+      {
+        "text": "E 新環境較易產生分歧型天擇",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 在演化過程中，姬緣蝽象（soapberry bugs）族群的嘴喙（beak）平均長度受取食種子在果實中的深度而影響，下列何者是此現象最主要原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 天擇",
+        "images": []
+      },
+      {
+        "text": "B 突變（mutation）",
+        "images": []
+      },
+      {
+        "text": "C 遷移（migration）",
+        "images": []
+      },
+      {
+        "text": "D 遺傳漂變",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列結構的配對何者最不能代表異體同型（homology）：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鳥類的翅膀及昆蟲的翅膀",
+        "images": []
+      },
+      {
+        "text": "B 蝙蝠的翅膀及人類的手臂",
+        "images": []
+      },
+      {
+        "text": "C 貓及狗的腦部",
+        "images": []
+      },
+      {
+        "text": "D 植物及動物的粒線體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列何者可作為生物適存的最佳衡量？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 產生具繁殖能力子代的數量",
+        "images": []
+      },
+      {
+        "text": "B 獲得或製造食物的量",
+        "images": []
+      },
+      {
+        "text": "C 多倍染色體產生的機率",
+        "images": []
+      },
+      {
+        "text": "D 突變的速率",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 在族群間僅存在遷移作用（migration），而不受到其他演化作用影響，其結果將是下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在族群間的對偶基因（allele）頻度呈現均質化",
+        "images": []
+      },
+      {
+        "text": "B 在族群間的遺傳變異（genetic diversity）增高",
+        "images": []
+      },
+      {
+        "text": "C 增加所有族群的個體之同型合子（homozygote）頻度",
+        "images": []
+      },
+      {
+        "text": "D 在一或多個族群呈現失去一或是數個對偶基因（allele）的現象",
+        "images": []
+      },
+      {
+        "text": "E 在族群內的遺傳變異會降低",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. Gene flow is a concept best used to describe an exchange between ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A species",
+        "images": []
+      },
+      {
+        "text": "B males and females",
+        "images": []
+      },
+      {
+        "text": "C populations",
+        "images": []
+      },
+      {
+        "text": "D individuals",
+        "images": []
+      },
+      {
+        "text": "E habitats",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 在物種演化上，下面那一項因素是造成族群內所有遺傳變異最初的來源？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 重組（recombination）",
+        "images": []
+      },
+      {
+        "text": "B 天擇（natural selection）",
+        "images": []
+      },
+      {
+        "text": "C 突變（mutation）",
+        "images": []
+      },
+      {
+        "text": "D 複製（replication）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列有關生物演化的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生物演化就是指親代與子代的基因頻率發生變化",
+        "images": []
+      },
+      {
+        "text": "B 天擇是一種靜態的作用過程，依時間、環境而有所不同",
+        "images": []
+      },
+      {
+        "text": "C 在寒武紀時，地球上最繁盛的生物為藻類和兩生類",
+        "images": []
+      },
+      {
+        "text": "D 奇異鳥退化的翼骨（翼骨的痕跡），是生物演化在生物地理學上的證據之一",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. An African butterfly species exists in two strikingly different color patterns. This is an example of ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A directional selection",
+        "images": []
+      },
+      {
+        "text": "B stabilizing selection",
+        "images": []
+      },
+      {
+        "text": "C disruptive selection",
+        "images": []
+      },
+      {
+        "text": "D sexual selection",
+        "images": []
+      },
+      {
+        "text": "E linkage disequilibrium",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 已知族群在環境中會進行宏觀演化（macroevolution）及微觀演化（microevolution）。下列何者並非微觀演化的成因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因突變（gene mutation）",
+        "images": []
+      },
+      {
+        "text": "B 基因流動（gene flow）",
+        "images": []
+      },
+      {
+        "text": "C 天擇（natural selection）",
+        "images": []
+      },
+      {
+        "text": "D 隨機交配（random mating）",
+        "images": []
+      },
+      {
+        "text": "E 遺傳浮動（genetic drift）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 具有適中長度翅膀的鳥比同一族群內長翅膀及短翅膀的鳥，更能在暴風雨的侵襲後存活，這說明：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the founder effect",
+        "images": []
+      },
+      {
+        "text": "B artificial selection",
+        "images": []
+      },
+      {
+        "text": "C stabilizing selection",
+        "images": []
+      },
+      {
+        "text": "D disruptive selection",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. The same gene that causes various coat patterns in wild and domesticated cats also causes the cross-eyed condition in these cats, the cross-eyed condition being slightly maladaptive. In a hypothetical environment, the coat pattern that is associated with crossed eyes is highly adaptive, with the result that both the coat pattern and the cross-eyed condition increase in a feline population over time. Which statement is supported by these observations?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Natural selection reduces the frequency of maladaptive genes in populations over the course of time.",
+        "images": []
+      },
+      {
+        "text": "B Polygenic inheritance is generally maladaptive, and should become less common in future generations.",
+        "images": []
+      },
+      {
+        "text": "C Phenotype is often the result of compromise.",
+        "images": []
+      },
+      {
+        "text": "D In all environments, coat pattern is a more important survival factor than is eye-muscle tone.",
+        "images": []
+      },
+      {
+        "text": "E Evolution is progressive and tends toward a more perfect population.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. The tails of UCSD campus male dark-eyed juncos were, on average, 36% white, whereas the tails of male juncos from the original colonizing population averaged 40－45% white. If this observed trait difference were due to a difference in the original colonizing population, it would most likely be due to ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a genetic bottleneck",
+        "images": []
+      },
+      {
+        "text": "B a founder effect",
+        "images": []
+      },
+      {
+        "text": "C gene flow between populations",
+        "images": []
+      },
+      {
+        "text": "D mutations in the UCSD population",
+        "images": []
+      },
+      {
+        "text": "E stabilizing selection",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列何者造成微演化（microevolution）？(1) 大陸漂移（continental drift）(2) 天擇（natural selection）(3) 遺傳漂變（genetic drift）(4) 基因漂流（gene flow）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(4)",
+        "images": []
+      },
+      {
+        "text": "B (3)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 基因型變異與總外表型變異的比率被定義為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 廣義遺傳率（Broad-sense heritability）",
+        "images": []
+      },
+      {
+        "text": "B 遺傳分化（genetic differentiation）",
+        "images": []
+      },
+      {
+        "text": "C 近親繁殖係數（inbreeding coefficient）",
+        "images": []
+      },
+      {
+        "text": "D 狹義遺傳率（Narrow-sense heritability）",
+        "images": []
+      },
+      {
+        "text": "E 天擇係數（selection coefficient）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 請問能夠隨著時間演變的最小之生物單元（biological unit）為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一顆細胞（cell）",
+        "images": []
+      },
+      {
+        "text": "B 一個單獨個體（individual organism）",
+        "images": []
+      },
+      {
+        "text": "C 一種族群（population）",
+        "images": []
+      },
+      {
+        "text": "D 一個物種（species）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. What is NOT an effect of genetic drift?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Genetic drift is more significant in small populations.",
+        "images": []
+      },
+      {
+        "text": "B Genetic drift causes allele frequency to change and to fix in a population randomly.",
+        "images": []
+      },
+      {
+        "text": "C Genetic drift prefers advantageous alleles to fix in a population.",
+        "images": []
+      },
+      {
+        "text": "D Genetic drift could cause the loss of genetic variation in a population.",
+        "images": []
+      },
+      {
+        "text": "E Genetic drift may be one of the reasons that a harmful allele becoming fix in a population.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 在蛋白質編碼基因中同義替換（synonymous substitution）比非同義（nonsynonymous）替換有較高的比率，此為________的結果。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A stabilizing selection",
+        "images": []
+      },
+      {
+        "text": "B positive selection",
+        "images": []
+      },
+      {
+        "text": "C neutral evolution",
+        "images": []
+      },
+      {
+        "text": "D concerted evolution",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  }
+]

@@ -1,0 +1,1406 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 如果一個二氧化碳分子從你的右小腿肌肉組織釋放到血液中，然後從鼻子呼出，它所經過的路徑中，不包括下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺靜脈",
+        "images": []
+      },
+      {
+        "text": "B 肺泡",
+        "images": []
+      },
+      {
+        "text": "C 支氣管",
+        "images": []
+      },
+      {
+        "text": "D 右心房",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 新生兒發生呼吸窘迫症（respiratory distress syndrome）是因肺臟中的肺泡缺乏表面活性劑（surfactant）之故，而造成：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺泡塌陷",
+        "images": []
+      },
+      {
+        "text": "B 肺泡易讓細菌侵入而被感染",
+        "images": []
+      },
+      {
+        "text": "C 肺泡因離子運輸的缺陷而充滿了液體",
+        "images": []
+      },
+      {
+        "text": "D 因微血管的表皮組織增厚，氧氣交換被阻斷",
+        "images": []
+      },
+      {
+        "text": "E 因碳酸酐酶（carbonic anhydrase）被抑制，血液的二氧化碳交換被阻斷",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 一個血紅素分子最多可攜帶多少個氧分子？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一",
+        "images": []
+      },
+      {
+        "text": "B 二",
+        "images": []
+      },
+      {
+        "text": "C 四",
+        "images": []
+      },
+      {
+        "text": "D 六",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 鱟的血液為藍色，因其呼吸色素（hemocyanin）帶有下列哪一種金屬？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 銅",
+        "images": []
+      },
+      {
+        "text": "B 鋅",
+        "images": []
+      },
+      {
+        "text": "C 鐵",
+        "images": []
+      },
+      {
+        "text": "D 金",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 一氧化碳致死的原因是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 降低CO2及減慢呼吸",
+        "images": []
+      },
+      {
+        "text": "B 增加CO2及導致癲癇發作（seizures）",
+        "images": []
+      },
+      {
+        "text": "C CO接合血紅素後使氧無法與血紅素接合",
+        "images": []
+      },
+      {
+        "text": "D 使氧氣無法在細胞作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 哺乳動物呼吸氣體（respiratory gases）的濃度差異在下列哪一對血管中是最大的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺靜脈（pulmonary vein）和上腔靜脈（superior vena cava）",
+        "images": []
+      },
+      {
+        "text": "B 肺動脈（pulmonary artery）和下腔靜脈（inferior vena cava）",
+        "images": []
+      },
+      {
+        "text": "C 肺靜脈和主動脈（aorta）",
+        "images": []
+      },
+      {
+        "text": "D 右腿和左腿的靜脈（veins）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 在動物體中，肺或腸等器官之內層，在演化中其進行物質交換的表面，曾發生何種具重要意義的改變？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 表面積的增加",
+        "images": []
+      },
+      {
+        "text": "B 增加個體厚度",
+        "images": []
+      },
+      {
+        "text": "C 增加細胞層數",
+        "images": []
+      },
+      {
+        "text": "D 增加內部細胞的代謝速率",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 有關於CO2在血液中之運送，下列何者正確：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 20%由血漿運送",
+        "images": []
+      },
+      {
+        "text": "B 70%與hemoglobin結合",
+        "images": []
+      },
+      {
+        "text": "C 大部分的CO2與H2O反應形成HCO3-",
+        "images": []
+      },
+      {
+        "text": "D 5% CO2與hemoglobin結合",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列何者會導致氧氣與血紅素的解離曲線（oxygen dissociation curve）右移？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 二磷酸甘油（2,3-DPG）增加",
+        "images": []
+      },
+      {
+        "text": "B 體溫下降",
+        "images": []
+      },
+      {
+        "text": "C 氫離子（H+）濃度減少",
+        "images": []
+      },
+      {
+        "text": "D 血中二氧化碳分壓（PaCO2）減少",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. Total Lung Capacity等於什麼？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 吸氣量加呼氣儲備容積",
+        "images": []
+      },
+      {
+        "text": "B 肺活量加肺餘容積",
+        "images": []
+      },
+      {
+        "text": "C 吸氣儲備容積加潮氣容積",
+        "images": []
+      },
+      {
+        "text": "D 功能肺餘量加潮氣容積",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. What part of the human brain contains control centers that establish a breathing rhythm?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A midbrain",
+        "images": []
+      },
+      {
+        "text": "B cerebellum",
+        "images": []
+      },
+      {
+        "text": "C pituitary",
+        "images": []
+      },
+      {
+        "text": "D thalamus",
+        "images": []
+      },
+      {
+        "text": "E medulla oblongata",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. In respiring tissues, a rise in blood Pco2causes all of the following except",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a rise in the concentration of carbaminohemoglobin.",
+        "images": []
+      },
+      {
+        "text": "B an increase in the affinity of hemoglobin for oxygen.",
+        "images": []
+      },
+      {
+        "text": "C an increase in the hydrogen ion concentration.",
+        "images": []
+      },
+      {
+        "text": "D a rise in bicarbonate concentration.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 有關肺表面活性素（surfactant）之敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由第一型肺泡細胞（type I alveolar cells）分泌",
+        "images": []
+      },
+      {
+        "text": "B 它增加肺泡表面張力（surface tension）",
+        "images": []
+      },
+      {
+        "text": "C 它能將小肺泡的表面張力增加的比大肺泡高，穩定肺泡",
+        "images": []
+      },
+      {
+        "text": "D 深呼吸能刺激它的分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 當人體吸氣時，下列哪一敘述是正確的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胸腔擴大，肺內的壓力上升",
+        "images": []
+      },
+      {
+        "text": "B 橫膈上的肌肉舒張",
+        "images": []
+      },
+      {
+        "text": "C 肌肉收縮，肋骨下降",
+        "images": []
+      },
+      {
+        "text": "D 肺內的壓力小於大氣壓力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 肺活量（vital capacity）不包括：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺餘容積（residual volume）",
+        "images": []
+      },
+      {
+        "text": "B 呼氣儲備容積（expiratory reserve volume）",
+        "images": []
+      },
+      {
+        "text": "C 潮氣容積（tidal volume）",
+        "images": []
+      },
+      {
+        "text": "D 以上皆非",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 二氧化碳在血液中以三種情形被攜帶。於靜脈血中，若轉化成重碳酸氫根離子（HCO2-）的量為A，CO2溶於血漿及紅血球細胞內液形式的量為B，形成碳醯胺基化合物（carbamino compounds）的量為C，則A, B, C三者之大小依序為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A＞B＞C",
+        "images": []
+      },
+      {
+        "text": "B A＞C＞B",
+        "images": []
+      },
+      {
+        "text": "C C＞A＞B",
+        "images": []
+      },
+      {
+        "text": "D C＞B＞A",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下列何者與hemoglobin的親和力最強？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一氧化碳",
+        "images": []
+      },
+      {
+        "text": "B 二氧化碳",
+        "images": []
+      },
+      {
+        "text": "C 氧",
+        "images": []
+      },
+      {
+        "text": "D 氮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. Which of the following statements about gas exchange is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Breathing control centers are located in parts of the brain called the cerebellum and medulla oblongata.",
+        "images": []
+      },
+      {
+        "text": "B The control center regulates breathing rate in response to changes in the CO2level of the blood.",
+        "images": []
+      },
+      {
+        "text": "C Gills are unsuitable for animals living on land because the large surface area of gills would allow dehydration of the animal.",
+        "images": []
+      },
+      {
+        "text": "D Unlike the tracheal system of insects, vertebrate lungs are restricted to one location in the body.",
+        "images": []
+      },
+      {
+        "text": "E Medullary breathing centers directly sense and respond to blood pH and CO2concentration.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 一個血紅素分子可攜帶多少個氧分子（oxygen molecules）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1",
+        "images": []
+      },
+      {
+        "text": "B 2",
+        "images": []
+      },
+      {
+        "text": "C 3",
+        "images": []
+      },
+      {
+        "text": "D 4",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 保羅的血壓為150/90，“150”及“90”分別指的是________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 動脈血壓，心跳",
+        "images": []
+      },
+      {
+        "text": "B 體循環壓力，肺循環壓力",
+        "images": []
+      },
+      {
+        "text": "C 左心室的壓力，右心室的壓力",
+        "images": []
+      },
+      {
+        "text": "D 心室收縮的壓力，心臟舒張的壓力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 血液運送二氧化碳的主要形式是下列何種？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溶解的二氧化碳",
+        "images": []
+      },
+      {
+        "text": "B 碳酸氫根（bicarbonate）",
+        "images": []
+      },
+      {
+        "text": "C 碳胺基化合物（carbamino hemoglobin）",
+        "images": []
+      },
+      {
+        "text": "D 乳酸（lactic acid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何者在吸氣動作時最先發生改變？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Intrapleural Pressure",
+        "images": []
+      },
+      {
+        "text": "B Heart rate",
+        "images": []
+      },
+      {
+        "text": "C Blood volume",
+        "images": []
+      },
+      {
+        "text": "D Intraabdominal Pressure",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. Blood carbon dioxide levels determine the pH of other body fluids as well as blood, including the pH of cerebrospinal fluid. How does this enable the organism to control breathing?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The brain alters the pH of the cerebrospinal fluid to force the animal to retain more or less carbon dioxide.",
+        "images": []
+      },
+      {
+        "text": "B The medulla is able to control the concentration of bicarbonate ions in the blood.",
+        "images": []
+      },
+      {
+        "text": "C The brain directly measures and monitors carbon dioxide and causes breathing changes accordingly.",
+        "images": []
+      },
+      {
+        "text": "D Stretch receptors in the lungs cause the medulla to speed up or slow breathing.",
+        "images": []
+      },
+      {
+        "text": "E The medulla, which is in contact with cerebrospinal fluid, monitors pH and uses this measure to control breathing.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 血液在人體內循環時，能將代謝作用所產生的CO2運走。下列有關人體排出CO2過程的敘述，哪一項是正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 代謝生成的CO2藉主動運輸進入血液",
+        "images": []
+      },
+      {
+        "text": "B 血液中有酵素催化CO2與血紅素結合",
+        "images": []
+      },
+      {
+        "text": "C 大部分的CO2以碳酸氫根離子的形式在血液中運送",
+        "images": []
+      },
+      {
+        "text": "D 大部分的CO2以與血紅素結合的方式在血液中運送",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 某一病人潮汐容積為450 cc，肺活量為4000 cc，滯餘容積為1000 cc，其整個肺的容量為________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1450 ml",
+        "images": []
+      },
+      {
+        "text": "B 4000 ml",
+        "images": []
+      },
+      {
+        "text": "C 4450ml",
+        "images": []
+      },
+      {
+        "text": "D 5000 ml",
+        "images": []
+      },
+      {
+        "text": "E 5450 ml",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 健康人在正常呼氣終止時，胸膜內壓（intrapleural pressure）的值為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 負壓",
+        "images": []
+      },
+      {
+        "text": "B 正壓",
+        "images": []
+      },
+      {
+        "text": "C 壓力為0",
+        "images": []
+      },
+      {
+        "text": "D 視呼氣方式而不一定",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 波爾氏效應（Bohr effect）能夠促使血紅素釋出攜帶的氧氣，供代謝旺盛的組織使用。造成此效應的主要原因為________，影響血紅素的結構，以利釋出更多氧氣。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pH值下降",
+        "images": []
+      },
+      {
+        "text": "B 溶氧分壓（Po2）上升",
+        "images": []
+      },
+      {
+        "text": "C 二氧化碳分壓（Pco2）下降",
+        "images": []
+      },
+      {
+        "text": "D 細胞分泌調節性激素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列有關血氧解離曲線（Oxygen dissociation curve）和波爾效應（Bohr shift）的敘述何者為非？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在不同氧分壓下，紅血球中血紅素對氧的飽和度，會因血液酸鹼度而改變",
+        "images": []
+      },
+      {
+        "text": "B 血液變酸時，曲線往右移，代表血紅素對氧的親和力上升",
+        "images": []
+      },
+      {
+        "text": "C 在氧分壓104 mmHg.，肺的組織中血紅素對氧的飽和度可高達98%",
+        "images": []
+      },
+      {
+        "text": "D 組織在休息時，氧分壓大約40 mmHg仍可維持血紅素對氧的飽和度大約70%",
+        "images": []
+      },
+      {
+        "text": "E 在劇烈運動時，血紅素會釋出50%以上結合的氧氣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 由肺靜脈回流的血會進入何處：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 下腔靜脈",
+        "images": []
+      },
+      {
+        "text": "B 左心房",
+        "images": []
+      },
+      {
+        "text": "C 右心房",
+        "images": []
+      },
+      {
+        "text": "D 左心室",
+        "images": []
+      },
+      {
+        "text": "E 右心室",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 關於呼吸與氣體運送，下列敍述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人類吸氣原理是增加胸腔體積產生負壓，讓外界氣體自然流入",
+        "images": []
+      },
+      {
+        "text": "B 血液pH值如果由正常值7.4下降到7.2，會使得大量氧氣從血紅素裡釋出",
+        "images": []
+      },
+      {
+        "text": "C 魚類鰓裡的血流方向與水流方向垂直，可以達到最好的氣體交換效果",
+        "images": []
+      },
+      {
+        "text": "D 鳥類在吸氣和吐氣時，肺臟都可以有效率地在進行氣體交換得到氧氣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 血紅素不可以與下列哪些物質結合？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A CO",
+        "images": []
+      },
+      {
+        "text": "B CO2",
+        "images": []
+      },
+      {
+        "text": "C O2",
+        "images": []
+      },
+      {
+        "text": "D 葡萄糖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. Breathing rate increases because of",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A insufficient oxygen in the blood",
+        "images": []
+      },
+      {
+        "text": "B excess carbon dioxide in the blood",
+        "images": []
+      },
+      {
+        "text": "C the accumulation of metabolites in the blood",
+        "images": []
+      },
+      {
+        "text": "D both A and B",
+        "images": []
+      },
+      {
+        "text": "E all of A, B, and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 某一病人潮汐容積為350 cc，肺活量為3500 cc，滯餘容積為800 cc，其整個肺的容量為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1150 ml",
+        "images": []
+      },
+      {
+        "text": "B 3850 ml",
+        "images": []
+      },
+      {
+        "text": "C 4300 ml",
+        "images": []
+      },
+      {
+        "text": "D 4650 ml",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 在正常呼氣後，還留在肺臟裡的空氣量為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 功能肺餘容積（function residual capacity; FRC）",
+        "images": []
+      },
+      {
+        "text": "B 呼氣儲備容積（expiratory reserve volume; ERV）",
+        "images": []
+      },
+      {
+        "text": "C 吸氣儲備容積（inspiratory reserve volume; IRV）",
+        "images": []
+      },
+      {
+        "text": "D 肺餘容積（residual volume）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 人體氧合血紅素解離曲線（oxyhemoglobin dissociation curve）移向左側原因可能是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pH值增加",
+        "images": []
+      },
+      {
+        "text": "B 二氧化碳增加",
+        "images": []
+      },
+      {
+        "text": "C 溫度上升",
+        "images": []
+      },
+      {
+        "text": "D 2,3-diphophoglycerate (DPG)量增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 某人有450毫升的潮氣量（tidal volume），4000毫升的肺活量（vital capacity），和1000毫升的殘留量（residual volume）其潛在的肺總容量（total lung capacity）為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 4000毫升",
+        "images": []
+      },
+      {
+        "text": "B 4450毫升",
+        "images": []
+      },
+      {
+        "text": "C 5000毫升",
+        "images": []
+      },
+      {
+        "text": "D 5450毫升",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 下列那一種因素會使得氧氣與血紅素之間的親和力變小？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溫度下降",
+        "images": []
+      },
+      {
+        "text": "B 二氧化碳分壓下降",
+        "images": []
+      },
+      {
+        "text": "C pH值變大",
+        "images": []
+      },
+      {
+        "text": "D 以上皆非",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. Which of the following is an example of countercurrent exchange?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The flow of water across the gills of a fish and that of blood within those gills.",
+        "images": []
+      },
+      {
+        "text": "B The flow of air within the primary bronchi of a human and that of blood within the pulmonary veins.",
+        "images": []
+      },
+      {
+        "text": "C The flow of blood in the dorsal vessel of an insect and that of air within its tracheae.",
+        "images": []
+      },
+      {
+        "text": "D The flow of fluid out of the arterial end of a capillary and that of fluid back into the venous end of the same capillary.",
+        "images": []
+      },
+      {
+        "text": "E The flow of water across the skin of a frog and that of blood within the ventricle of its heart.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 鳥類的呼吸系統可以比人類的呼吸系統做更有效率的氣體交換，其原因是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鳥類的氧氣消耗率和二氧化碳生成率比人高，和大氣中的氣體分壓差異大，因此交換率高",
+        "images": []
+      },
+      {
+        "text": "B 鳥類的肺泡密度比人類大",
+        "images": []
+      },
+      {
+        "text": "C 人類的肺泡在呼氣時沒有淨空，吸進的氣體會被留在肺中的氣體稀釋；鳥類肺中的氣體流向單一，可維持較大的氣體分壓差異",
+        "images": []
+      },
+      {
+        "text": "D 鳥類的血紅素帶氧率比人類的高",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列關於波爾效應（Bohr effect）之敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血液酸度增加，導致血紅素與氧之親合力降低",
+        "images": []
+      },
+      {
+        "text": "B 溫度下降，導致血紅素與氧之親合力降低",
+        "images": []
+      },
+      {
+        "text": "C 氧分壓（PO2）減少，導致血紅素與氧之親合力增加",
+        "images": []
+      },
+      {
+        "text": "D 二氧化碳分壓（PCO2）上升，導致血紅素與氧之親合力增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 運動導致血液pH值下降後會有何現象產生：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 呼吸速率下降",
+        "images": []
+      },
+      {
+        "text": "B 增加心跳速率",
+        "images": []
+      },
+      {
+        "text": "C O2與血紅素分開速率下降",
+        "images": []
+      },
+      {
+        "text": "D 心輸出總量（cardiac output）下降",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 波爾氏移轉作用（Bohr shift）在氧氣-血紅素（oxygen-hemoglobin）分離曲線的偏移是因為下列何者之改變？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氧氣的分壓",
+        "images": []
+      },
+      {
+        "text": "B pH值",
+        "images": []
+      },
+      {
+        "text": "C 一氧化氮分壓",
+        "images": []
+      },
+      {
+        "text": "D 血紅素濃度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 下列那一種狀況，呼吸系統受到的刺激最大，呼吸頻率增加最多？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血氧從100 mmHg降到80 mmHg",
+        "images": []
+      },
+      {
+        "text": "B 血中二氧化碳從40 mmHg降到30 mmHg",
+        "images": []
+      },
+      {
+        "text": "C 血液pH值從7.35增加到7.45",
+        "images": []
+      },
+      {
+        "text": "D 血中二氧化碳從40 mmHg增加到50 mmHg",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 大仁正常呼吸是：潮氣容積500 ml，肺活量4700 ml，肺餘容積1200 ml，呼吸速率14次/分鐘，則大仁每分鐘換氣量應是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 9.8 L/min",
+        "images": []
+      },
+      {
+        "text": "B 65.8 L/min",
+        "images": []
+      },
+      {
+        "text": "C 7.0 L/min",
+        "images": []
+      },
+      {
+        "text": "D 16.8 L/min",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列何者會因為運動時增加組織耗氧量而發生顯著的變化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺泡氧分壓",
+        "images": []
+      },
+      {
+        "text": "B 肺泡二氧化碳分壓",
+        "images": []
+      },
+      {
+        "text": "C 肺泡通氣量",
+        "images": []
+      },
+      {
+        "text": "D 動脈氧分壓",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列那種動物中，肺的容積在呼吸換氣的所有階段都相對恆定？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 昆蟲",
+        "images": []
+      },
+      {
+        "text": "B 兩棲類",
+        "images": []
+      },
+      {
+        "text": "C 爬蟲類",
+        "images": []
+      },
+      {
+        "text": "D 鳥類",
+        "images": []
+      },
+      {
+        "text": "E 哺乳類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 人體在正常生理狀況下，體內氧分壓的高低順序，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺泡＞體動脈＞組織細胞",
+        "images": []
+      },
+      {
+        "text": "B 肺泡＞組織細胞＞體動脈",
+        "images": []
+      },
+      {
+        "text": "C 體動脈＞肺泡＞組織細胞",
+        "images": []
+      },
+      {
+        "text": "D 體動脈＞組織細胞＞肺泡",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 當一個人憋住氣時，下列血液中的何種現象會迫使人呼吸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A O2下降",
+        "images": []
+      },
+      {
+        "text": "B CO2下降",
+        "images": []
+      },
+      {
+        "text": "C CO2上升",
+        "images": []
+      },
+      {
+        "text": "D pH上升",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "複選題",
+    "question": "49. 下列有關肺泡構造與功能的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺泡的表面積大，能增進氣體交換速率",
+        "images": []
+      },
+      {
+        "text": "B 肺泡壁極薄，有利於氣體擴散",
+        "images": []
+      },
+      {
+        "text": "C 肺泡表面是溼潤的，有利於氣體溶解",
+        "images": []
+      },
+      {
+        "text": "D 肺泡壁上密佈微血管，有利於氣體運輸",
+        "images": []
+      },
+      {
+        "text": "E 肺泡壁有平滑肌以利收縮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 下列哪些動物無特化呼吸器官，僅靠細胞直接與外界交換氣體？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 變形蟲",
+        "images": []
+      },
+      {
+        "text": "B 海綿",
+        "images": []
+      },
+      {
+        "text": "C 水螅",
+        "images": []
+      },
+      {
+        "text": "D 蝸牛",
+        "images": []
+      },
+      {
+        "text": "E 渦蟲",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ]
+  }
+]

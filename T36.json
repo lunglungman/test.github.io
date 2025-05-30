@@ -1,0 +1,1482 @@
+[
+  {
+    "id": 1,
+    "type": "單選題多答",
+    "question": "1. 有關基因轉殖技術的應用，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 將基因導入生物體內，藉改變生物性狀來提高經濟價值",
+        "images": []
+      },
+      {
+        "text": "B 目前人工合成的胰島素是將胰島素基因轉殖入動物體內，以動物為分子牧場來製作",
+        "images": []
+      },
+      {
+        "text": "C 可利用基因轉殖技術進行遺傳疾病的治療",
+        "images": []
+      },
+      {
+        "text": "D 目前可利用改變性狀的細菌清除油汙，避免因使用化學藥劑而造成二次汙染",
+        "images": []
+      },
+      {
+        "text": "E 人類轉殖出來的生物，若無法有效管理可能會造成生態環境的破壞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 關於限制酶的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 限制酶的發現是來自於細菌，可用來切除外來DNA片段",
+        "images": []
+      },
+      {
+        "text": "B 限制酶具有高度的專一性，只會辨認偶數且對稱回文的核苷酸序列",
+        "images": []
+      },
+      {
+        "text": "C 細菌為了防止自己的DNA也被限制酶切除，通常其本身的DNA會被甲基化保護",
+        "images": []
+      },
+      {
+        "text": "D DNA fingerprints即經限制酶切割的DNA樣本，再利用電泳分出不同大小的DNA片段圖譜",
+        "images": []
+      },
+      {
+        "text": "E 限制酶可用來進行基因選殖（gene cloning）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列哪一項不是植物基因轉殖所需要的基本步驟？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 目標基因的選殖",
+        "images": []
+      },
+      {
+        "text": "B 電子顯微鏡技術",
+        "images": []
+      },
+      {
+        "text": "C 重組DNA技術",
+        "images": []
+      },
+      {
+        "text": "D 轉殖後產物的篩選",
+        "images": []
+      },
+      {
+        "text": "E 轉殖植株的確認與測試",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 下列有關聚合連鎖反應（PCR）的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A PCR是一種能在試管中快速且大量地進行基因放大的技術",
+        "images": []
+      },
+      {
+        "text": "B 將DNA模板、DNA聚合酶、一個引子及四種去氧核糖核酸混合於試管中，可在幾小時內得到數億個複本",
+        "images": []
+      },
+      {
+        "text": "C 其中的DNA聚合需能耐高溫",
+        "images": []
+      },
+      {
+        "text": "D 每一個循環包括：加熱分離、冷卻使引子黏附、DNA聚合使引子延伸，重複約20～30循環即可得大量且特定的DNA序列",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Which one of modifications is likely to alter the rate at which a DNA fragment moves through a gel during electrophoresis?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Altering the charges of the DNA fragment.",
+        "images": []
+      },
+      {
+        "text": "B Increasing or decreasing the length of the DNA fragment.",
+        "images": []
+      },
+      {
+        "text": "C Increasing the concentration of a gel.",
+        "images": []
+      },
+      {
+        "text": "D Methylating the cytosine base within the DNA fragment.",
+        "images": []
+      },
+      {
+        "text": "E All of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 做重組DNA時，用來攜帶特定基因的環狀DNA，稱為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核糖體",
+        "images": []
+      },
+      {
+        "text": "B 質體（plasmids）",
+        "images": []
+      },
+      {
+        "text": "C 限制片段",
+        "images": []
+      },
+      {
+        "text": "D 類病毒（viroids）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. A geneticist introduces a transgene into human cells and isolates five independent cell lines in which the transgene has integrated into the human genome. In four of the lines, the transgene is expressed strongly, but in the fifth there is no expression at all. Which is a likely explanation for the lack of transgene expression in the fifth cell line?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The transgene was mutated during the process of integration into the host cell genome.",
+        "images": []
+      },
+      {
+        "text": "B A transgene integrated into a euchromatic region of the genome.",
+        "images": []
+      },
+      {
+        "text": "C A transgene integrated into a heterochromatic region of the genome.",
+        "images": []
+      },
+      {
+        "text": "D The host cell lacks the enzymes necessary to express the transgene.",
+        "images": []
+      },
+      {
+        "text": "E A transgene integrated into a region of the genome characterized by high histone acetylation.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. DNA重組技術所生產的蛋白質中，下列何者不適合以大腸桿菌生產？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人類胰島素",
+        "images": []
+      },
+      {
+        "text": "B 人類生長激素",
+        "images": []
+      },
+      {
+        "text": "C B型肝炎疫苗",
+        "images": []
+      },
+      {
+        "text": "D 紫杉醇（Taxol）",
+        "images": []
+      },
+      {
+        "text": "E 豬的生長賀爾蒙",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 重組DNA時，常會使用下列哪些載體將DNA植入細胞內？甲、嗜菌體的DNA乙、細菌的質體丙、細菌的染色體丁、RNA病毒",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甲乙丙丁",
+        "images": []
+      },
+      {
+        "text": "B 甲乙丁",
+        "images": []
+      },
+      {
+        "text": "C 甲乙",
+        "images": []
+      },
+      {
+        "text": "D 丙丁",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 利用基因轉殖（genetic transformation）技術育成基因改造生物（genetic modification organism）的操作，植物較動物更容易成功的原因，下列哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物基因不含有內含子（intron）",
+        "images": []
+      },
+      {
+        "text": "B 有較多種類的載體（vector）可提供植物基因進行DNA重組，將目標基因導入植物細胞中",
+        "images": []
+      },
+      {
+        "text": "C 植物具有分化全能性（totipotency），其單一細胞即可經組織培養技術使其再生成一株完整的植物",
+        "images": []
+      },
+      {
+        "text": "D 使用顯微注射（microinjection）技術進行植物細胞的基因轉殖較動物細胞容易",
+        "images": []
+      },
+      {
+        "text": "E 一般植物細胞具有較大的細胞核",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 欲檢測剛出生的男嬰是否為柯林菲特氏症（Klinefelter syndrome），下列何種檢測方法較為經濟且快速？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 利用核型分析（karyotyping）檢測",
+        "images": []
+      },
+      {
+        "text": "B 利用北方墨點法（Northern blotting）檢測rb1基因",
+        "images": []
+      },
+      {
+        "text": "C 利用DAPI染色進行細胞核染色",
+        "images": []
+      },
+      {
+        "text": "D 利用西方墨點法（Western blotting）檢測",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列哪一個不是目前世界主要的基因改良作物（genetically modified crops）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 玉米",
+        "images": []
+      },
+      {
+        "text": "B 棉花",
+        "images": []
+      },
+      {
+        "text": "C 大豆",
+        "images": []
+      },
+      {
+        "text": "D 油菜",
+        "images": []
+      },
+      {
+        "text": "E 地瓜",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 分子生物學的發展，已成功在試管中（in vitro）複製DNA，下列哪一項是在此複製DNA方法中不可或缺？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 模板DNA、引子、DNA聚合酶、去氧核苷三磷酸（dNTP）、鎂離子",
+        "images": []
+      },
+      {
+        "text": "B 模板DNA、去氧核苷三磷酸（dNTP）、鎂離子",
+        "images": []
+      },
+      {
+        "text": "C 模板DNA、引子、去氧核苷三磷酸（dNTP）、鎂離子",
+        "images": []
+      },
+      {
+        "text": "D 岡崎片段（Okazaki fragments）、解螺旋酶（helicase）、DNA聚合酶",
+        "images": []
+      },
+      {
+        "text": "E 模板RNA、解螺旋酶（helicase）、DNA聚合酶",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 在RNA聚合酶使用DNA其中的一股作模板做出互補的RNA股，如果該模板某段DNA的鹼基序列為A-G-C-C-A-T，則合成的RNA鹼基序列為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A-G-C-C-A-T",
+        "images": []
+      },
+      {
+        "text": "B T-C-G-G-T-A",
+        "images": []
+      },
+      {
+        "text": "C U-C-G-G-U-A",
+        "images": []
+      },
+      {
+        "text": "D A-G-C-C-A-U",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 5’-ACGT________-3’是假設的具有迴紋結構（palindromic）之限制酶切割位點一半的序列，則此完整的限制酶切割位點序列，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 5’-ACGTTCGT-3’",
+        "images": []
+      },
+      {
+        "text": "B 5’-ACGTACGT-3’",
+        "images": []
+      },
+      {
+        "text": "C 5’-ACGTTGCA-3’",
+        "images": []
+      },
+      {
+        "text": "D 5’-ACGATTGC-3’",
+        "images": []
+      },
+      {
+        "text": "E 5’-ACGUACAG-3’",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 下列何者不是將外源基因轉殖入動物染色體的方法？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 原核顯微注射法",
+        "images": []
+      },
+      {
+        "text": "B 胚幹細胞載體法",
+        "images": []
+      },
+      {
+        "text": "C 精子載體法",
+        "images": []
+      },
+      {
+        "text": "D 反轉錄病毒感染法",
+        "images": []
+      },
+      {
+        "text": "E 農桿菌感染法",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下列有關基因轉殖作物的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 木瓜是國內第一個基因轉殖作物",
+        "images": []
+      },
+      {
+        "text": "B 科學家已公認轉殖作物具有致敏素及毒素，有食用安全上的顧慮，因此有些國家禁止栽種",
+        "images": []
+      },
+      {
+        "text": "C 基因轉殖作物可能使插入的轉殖基因流出至同類作物或野生種植物",
+        "images": []
+      },
+      {
+        "text": "D 植物基因轉殖常利用農桿菌將特定的基因嵌入植物基因組",
+        "images": []
+      },
+      {
+        "text": "E 研究基因轉殖作物，主要目的是增強作物之抗蟲及抗病等能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 若一DNA突變可以用來區分染色體或基因的外表型，則可稱為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 連鎖群（linkage group）分析",
+        "images": []
+      },
+      {
+        "text": "B 親本型態（parental type）",
+        "images": []
+      },
+      {
+        "text": "C 遺傳標記（genetic marker）",
+        "images": []
+      },
+      {
+        "text": "D 致死突變（lethal mutation）",
+        "images": []
+      },
+      {
+        "text": "E 隱性等位基因（recessive allele）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 現今的生物技術已可利用細菌大量製備我們有興趣的蛋白，當我們要利用此系統表現真核生物的基因產物，下列哪一項敘述錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細菌的核糖體結構與真核的核糖體結構不同，但可轉譯出序列相同的蛋白",
+        "images": []
+      },
+      {
+        "text": "B 細菌的醣基修飾系統與真核的醣基修飾系統不同，故細菌所轉譯出的蛋白可能活性較差",
+        "images": []
+      },
+      {
+        "text": "C 因細菌已有可誘導（inducible）的啟動子（promoter）可供使用，其轉錄效率會比真核的轉錄效率為佳",
+        "images": []
+      },
+      {
+        "text": "D 細菌所生產的蛋白可能有毒素污染的疑慮",
+        "images": []
+      },
+      {
+        "text": "E 細菌所生產的蛋白可能會不可溶，增加純化的難度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 考古學家在以色列發現一古老墓葬群，皆屬於家族墓，學者欲釐清其中一座墓室中兩具骨棺的血緣關係，但因年代久遠，發現時骸骨已遺失，只留下少數骨頭的碎片，請問可以考慮進行下列何項檢測以達成目的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 直接取樣進行DNA電泳分析",
+        "images": []
+      },
+      {
+        "text": "B 可利用粒線體所含DNA放大後進行分析",
+        "images": []
+      },
+      {
+        "text": "C 取樣進行Western Blotting",
+        "images": []
+      },
+      {
+        "text": "D 利用細胞核染色體作核型分析",
+        "images": []
+      },
+      {
+        "text": "E 取樣進行RNA電泳分析",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 請問以下何者最不適合偵測核酸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 墨點法（Dot blot analysis）",
+        "images": []
+      },
+      {
+        "text": "B 聚合酶鏈鎖反應（Polymerase Chain Reaction）",
+        "images": []
+      },
+      {
+        "text": "C 北方墨點法（Northern blot analysis）",
+        "images": []
+      },
+      {
+        "text": "D 南方墨點法（Southern blot analysis）",
+        "images": []
+      },
+      {
+        "text": "E 西方墨點法（Western blot analysis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何種方法可以用來偵測特定RNA：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 南方墨點法",
+        "images": []
+      },
+      {
+        "text": "B 北方墨點法",
+        "images": []
+      },
+      {
+        "text": "C 西方墨點法",
+        "images": []
+      },
+      {
+        "text": "D 東方墨點法",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. As genetic technology makes testing for a wide variety of genotypes possible, which of the following is likely to be an increasingly troublesome issue?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A using technology to identify genes that cause criminal behaviors.",
+        "images": []
+      },
+      {
+        "text": "B discrimination against certain racial groups because of major genetic differences.",
+        "images": []
+      },
+      {
+        "text": "C alteration of human phenotypes to prevent early disease.",
+        "images": []
+      },
+      {
+        "text": "D the need to legislate for the protection of the privacy of genetic information.",
+        "images": []
+      },
+      {
+        "text": "E use of genotype information to provide positive identification of criminals.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列哪種限制性核酸內切酵素切割DNA後呈現盲端（blunt ends）？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/016.png"
+    ],
+    "options": [
+      {
+        "text": "A BamH I",
+        "images": []
+      },
+      {
+        "text": "B Sma I",
+        "images": []
+      },
+      {
+        "text": "C Hae II",
+        "images": []
+      },
+      {
+        "text": "D EcoR I",
+        "images": []
+      },
+      {
+        "text": "E Hind III",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 關於現代生物科技所使用選殖載體（cloning vector），下列何者在自然環境中可存在與發現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A plasmids和BACs",
+        "images": []
+      },
+      {
+        "text": "B bacteriophages和cosmids",
+        "images": []
+      },
+      {
+        "text": "C plamids和cosmids",
+        "images": []
+      },
+      {
+        "text": "D YACs和BACs",
+        "images": []
+      },
+      {
+        "text": "E plamids和bacteriophages",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 請問下列有關質體的敘述，何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由RNA所組成",
+        "images": []
+      },
+      {
+        "text": "B 為染色體外的環狀構造",
+        "images": []
+      },
+      {
+        "text": "C 與細菌正常生理作用無關",
+        "images": []
+      },
+      {
+        "text": "D 可做為重組DNA的載體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 在動物中，胚胎幹細胞（embryonic stem cell）與成人幹細胞（adult stem cell）之相異處為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胚胎幹細胞為全潛能性（totipotent）；成人幹細胞為豐富潛能性（pluripotent）",
+        "images": []
+      },
+      {
+        "text": "B 胚胎幹細胞為豐富潛能性（pluripotent）；成人幹細胞為全潛能性（totipotent）",
+        "images": []
+      },
+      {
+        "text": "C 胚胎幹細胞比成人幹細胞具有較多的基因",
+        "images": []
+      },
+      {
+        "text": "D 胚胎幹細胞比成人幹細胞具有較少的基因",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. Sequencing an entire genome, such as that of Caenorhabditis elegans, a nematode, is most important because",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A it allows researchers to use the sequence to build a \"better\" nematode, resistant to disease.",
+        "images": []
+      },
+      {
+        "text": "B it allows research on a group of organisms we do not usually care much about.",
+        "images": []
+      },
+      {
+        "text": "C the nematode is a good animal model for trying out cures for viral illness.",
+        "images": []
+      },
+      {
+        "text": "D a sequence that is found to have a particular function in the nematode is likely to have a closely related function in vertebrates.",
+        "images": []
+      },
+      {
+        "text": "E a sequence that is found to have no introns in the nematode genome is likely to have acquired the introns from higher organisms.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列何種酵素可依照愛滋病病毒（HIV）的RNA模版來合成DNA？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 連接酶（ligase）",
+        "images": []
+      },
+      {
+        "text": "B RNA聚合酶（RNA polymerase）",
+        "images": []
+      },
+      {
+        "text": "C 拓樸異構酶（topoisomerase）",
+        "images": []
+      },
+      {
+        "text": "D 逆轉錄酶（reverse transcriptase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 研究人員採取肌萎縮性偏側硬化症（ALS）患者的皮膚，分離樣品中特化纖維母細胞，接著進行基因調整，新加入的調控基因可將纖維母細胞重設為誘導多功能性幹細胞（induced pluripotent stem cell， iPS細胞），iPS細胞群聚成為類胚胎體後，加入訊號分子，類胚胎體即發育成運動神經元，因為新的神經元源自ALS患者，因此會表現出該疾病的特徵，利用這種培養皿裡的疾病模式，可以用來篩選藥物，除了ALS外，目前尚有哪些疾病利用iPS技術建立疾病模型？I. 幼年型糖尿病II. 帕金森氏症III. 皮膚癌",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 僅有I",
+        "images": []
+      },
+      {
+        "text": "B 僅有II",
+        "images": []
+      },
+      {
+        "text": "C 僅有III",
+        "images": []
+      },
+      {
+        "text": "D I，II皆是",
+        "images": []
+      },
+      {
+        "text": "E I，III皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. In 1997, Dolly the sheep was cloned. Which of the following processes was used?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A use of mitochondrial DNA from adult female cells of another ewe.",
+        "images": []
+      },
+      {
+        "text": "B fusion of an adult cell's nucleus with an enucleated sheep egg, followed by incubation in a surrogate.",
+        "images": []
+      },
+      {
+        "text": "C separation of an early stage sheep blastula into separate cells, one of which was incubated in a surrogate ewe.",
+        "images": []
+      },
+      {
+        "text": "D isolation of stem cells from a lamb embryo and production of a zygote equivalent.",
+        "images": []
+      },
+      {
+        "text": "E replication and dedifferentiation of adult stem cells from sheep bone marrow.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 台灣近年發展的「螢光魚」，為我國贏得「螢光魚王國」的美譽。請問螢光魚是如何產生的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在魚體中培養發螢光細菌",
+        "images": []
+      },
+      {
+        "text": "B 將發螢光基因植入魚體內",
+        "images": []
+      },
+      {
+        "text": "C 此種科技稱為「基因解碼」",
+        "images": []
+      },
+      {
+        "text": "D 是利用魚的突變種育種產生",
+        "images": []
+      },
+      {
+        "text": "E 此螢光魚是經由雜交育種產生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列何種技術主要使用於分離DNA片段？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 聚合酶連鎖反應（Polymerase chain reaction）",
+        "images": []
+      },
+      {
+        "text": "B DNA定序技術（DNA sequencing）",
+        "images": []
+      },
+      {
+        "text": "C 洋菜膠體電泳法（Agarose gel electrophoresis）",
+        "images": []
+      },
+      {
+        "text": "D 北方墨點法（Northern blotting）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 下列那一個方法可以製造大量相同的基因片段？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 聚合酶連鎖反應（polymerase chain reaction）",
+        "images": []
+      },
+      {
+        "text": "B 基因雜交",
+        "images": []
+      },
+      {
+        "text": "C 基因電泳",
+        "images": []
+      },
+      {
+        "text": "D DNA微陣列（DNA microarray）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 限制酶（restriction enzymes）的主要來自：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A parietal cells",
+        "images": []
+      },
+      {
+        "text": "B chief cells",
+        "images": []
+      },
+      {
+        "text": "C bacteria",
+        "images": []
+      },
+      {
+        "text": "D archaea",
+        "images": []
+      },
+      {
+        "text": "E plant cells",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. One successful form of gene therapy has involved delivery of an allele for the enzyme adenosine deaminase (ADA) to bone marrow cells of a child with SCID, and delivery of these engineered cells back to the bone marrow of the affected child. What is one major reason for the success of this procedure as opposed to many other efforts at gene therapy?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The ADA introduced allele causes all other ADA-negative cells to die.",
+        "images": []
+      },
+      {
+        "text": "B The engineered cells, when reintroduced into the patient, find their way back to the bone marrow.",
+        "images": []
+      },
+      {
+        "text": "C No vector is required to introduce the allele into ADA-negative cells.",
+        "images": []
+      },
+      {
+        "text": "D The immune system fails to recognize cells with the variant gene.",
+        "images": []
+      },
+      {
+        "text": "E The engineered bone marrow cells from this patient can be used for any other SCID patient.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 下列何者無法利用polymerase chain reaction (PCR)複製DNA？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A fossils",
+        "images": []
+      },
+      {
+        "text": "B viruses",
+        "images": []
+      },
+      {
+        "text": "C prion",
+        "images": []
+      },
+      {
+        "text": "D bacteria",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 在刑事鑑定案件，如毛髮、血跡、體液等微證據已成為可信任的證據，主要為下面何種分子生物技術的運用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 聚合酶連鎖反應（polymerase chain reaction）",
+        "images": []
+      },
+      {
+        "text": "B DNA 重組技術（DNA recombination）",
+        "images": []
+      },
+      {
+        "text": "C 細胞融合（cell fusion）",
+        "images": []
+      },
+      {
+        "text": "D 單鏈構形多型性（single strand conformation polymorphism）",
+        "images": []
+      },
+      {
+        "text": "E 基因轉殖技術（gene transformation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 以膠體電泳來分離DNA，主要根據哪一特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA在水中的溶解度",
+        "images": []
+      },
+      {
+        "text": "B DNA中的核酸排列序列",
+        "images": []
+      },
+      {
+        "text": "C 不同DNA在凝膠中的溶解度",
+        "images": []
+      },
+      {
+        "text": "D DNA的片段大小",
+        "images": []
+      },
+      {
+        "text": "E 與RNA結合的能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 哪種酵素可從mRNA製造cDNA？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A restriction endonuclease",
+        "images": []
+      },
+      {
+        "text": "B reverse transcriptase",
+        "images": []
+      },
+      {
+        "text": "C DNA ligase",
+        "images": []
+      },
+      {
+        "text": "D RNA polymerase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. Why would a scientist choose to use DNA analysis rather than isozyme analysis when investigating genetic variations?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Smaller sample size can be used for DNA analysis.",
+        "images": []
+      },
+      {
+        "text": "B Repeat sampling over a period of time is possible.",
+        "images": []
+      },
+      {
+        "text": "C Non-injurious to the organism.",
+        "images": []
+      },
+      {
+        "text": "D Non-lethal.",
+        "images": []
+      },
+      {
+        "text": "E All of the choices are correct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 欲使一個被選殖到具有產業價值的植物基因，能在大腸桿菌中表現是有困難的。下列哪一種問題是必須最先解決的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 後轉錄加工（post-transcriptional processing）",
+        "images": []
+      },
+      {
+        "text": "B 核酸雜核反應（nucleic acid hybridization）",
+        "images": []
+      },
+      {
+        "text": "C 後轉譯加工（post-translational processing）",
+        "images": []
+      },
+      {
+        "text": "D 電穿孔技術（electroporation）",
+        "images": []
+      },
+      {
+        "text": "E 限制酶切割片段之黏合",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "複選題",
+    "question": "43. 下列何者為“cloning vector”的典型特徵？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細菌在特定環境下，如果沒有它則無法生存",
+        "images": []
+      },
+      {
+        "text": "B 它含有restriction sites可讓其他DNA插入",
+        "images": []
+      },
+      {
+        "text": "C 它可以在細菌內複製",
+        "images": []
+      },
+      {
+        "text": "D 它具有啟動子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 某豆科植物之外形展現顯性特徵（dominant trait），但無法得知其基因型為同型接合（homozygous）或異型接合（heterozygous），若要知道它的基因型（genotype）可採用何種方法進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 試交（test cross）",
+        "images": []
+      },
+      {
+        "text": "B 南方墨點法（Southern blotting）",
+        "images": []
+      },
+      {
+        "text": "C 互交（reciprocal cross）",
+        "images": []
+      },
+      {
+        "text": "D 北方墨點法（Northern blotting）",
+        "images": []
+      },
+      {
+        "text": "E 西方墨點法（Western blotting）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 有關基因工程工具配對何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA連結酶（ligase）-將DNA切成平整端",
+        "images": []
+      },
+      {
+        "text": "B DNA聚合酶（polymerase）-用於PCR反應以放大基因片段",
+        "images": []
+      },
+      {
+        "text": "C 限制酶（restriction enzymes）-產生限制片段長度多形性（restriction fragment length polymorphism , RFLP）",
+        "images": []
+      },
+      {
+        "text": "D 反轉錄酶（reverse transcriptase）-將mRNA變成cDNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 進行遺傳工程（genetic engineering）實驗時，植物通常較動物容易操作，原因為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物細胞具有大型液泡",
+        "images": []
+      },
+      {
+        "text": "B 可利用顯微注射將重組基因送入細胞",
+        "images": []
+      },
+      {
+        "text": "C 有更多的vector可用來把重組基因送入植物細胞中",
+        "images": []
+      },
+      {
+        "text": "D 單一植物的體細胞（somatic cell）可經誘導發育為完整植株",
+        "images": []
+      },
+      {
+        "text": "E 植物基因沒有intron段",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. DNA微陣列（DNA microarray）對於基因體學（genomic）具有極大影響性，下列何者為主要之原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可排除基因庫（genome）中各基因（gene）的功能",
+        "images": []
+      },
+      {
+        "text": "B 可將整個基因庫（genome）導入細菌細胞中",
+        "images": []
+      },
+      {
+        "text": "C 可用來探測基因庫（genome）中多個或所有基因（genes）的表現（expression）並加以比較",
+        "images": []
+      },
+      {
+        "text": "D 可在極短時間之內建立基因庫（genome）的物理性圖譜（physical map）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 下列何者是轉殖動物（transgenic animal）的最好定義？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 使用重組DNA治療有遺傳缺失的動物",
+        "images": []
+      },
+      {
+        "text": "B 含有來自雙親以外（可以是其他物種）的基因之動物",
+        "images": []
+      },
+      {
+        "text": "C 含有來自雙親的基因的動物",
+        "images": []
+      },
+      {
+        "text": "D 與許多動物交配過的動物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 多功能幹細胞（multipotent stem cell）為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 吞噬細菌的細胞",
+        "images": []
+      },
+      {
+        "text": "B 是血液凝固的重要成份",
+        "images": []
+      },
+      {
+        "text": "C 從成人血液中分離得到",
+        "images": []
+      },
+      {
+        "text": "D 可以分化成所有血球細胞和血小板",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 有關DNA重組技術之工具配對何者錯誤：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA ligase -將DNA切成sticky end",
+        "images": []
+      },
+      {
+        "text": "B DNA polymerase-用於PC反應以放大基因片段",
+        "images": []
+      },
+      {
+        "text": "C restriction enzymes-產生RFLP",
+        "images": []
+      },
+      {
+        "text": "D reverse transcriptase-將mRNA變成cDNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  }
+]

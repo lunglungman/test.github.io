@@ -1,0 +1,1460 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 壺菌（chytrids）被認為自真菌演化的極早期分歧而來，最主要的證據為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 酵素代謝途徑方式",
+        "images": []
+      },
+      {
+        "text": "B 能形成菌絲",
+        "images": []
+      },
+      {
+        "text": "C 具有寄生性的生活史",
+        "images": []
+      },
+      {
+        "text": "D 具有鞭毛的孢子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 真菌在生態上最不可被取代的重要功能是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 分解木質素",
+        "images": []
+      },
+      {
+        "text": "B 產生食用菇",
+        "images": []
+      },
+      {
+        "text": "C 分解動物屍體",
+        "images": []
+      },
+      {
+        "text": "D 行光合作用",
+        "images": []
+      },
+      {
+        "text": "E 與藍綠藻共生進行固氮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 有關地衣的敘述下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 地衣是一種苔蘚類",
+        "images": []
+      },
+      {
+        "text": "B 地衣是由綠藻或藍綠藻與絲狀菌類共生的生物",
+        "images": []
+      },
+      {
+        "text": "C 地衣常被當作空氣品質的指標",
+        "images": []
+      },
+      {
+        "text": "D 松蘿是地衣的一種",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 關於真核生物的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 原生生物屬於真核生物，大部分為單細胞生物，其生殖與生命週期有相當大的變異，有的甚至沒有有性生殖",
+        "images": []
+      },
+      {
+        "text": "B 原生生物依照其共有的特徵，在四個上群（supergroups）的假說中很容易與其他的真核生物分開",
+        "images": []
+      },
+      {
+        "text": "C 依據四個上群的假說，真菌的親緣關係離植物較近，離動物較遠",
+        "images": []
+      },
+      {
+        "text": "D 依據四個上群的假說，有色素體的原生生物與植物同屬於古色素體生物（archeaplastida）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. You enjoy learning about history by traveling throughout North America studying gravestones. You notice that gravestones from 1900 and earlier usually host many types of lichens. But in one cemetery, lichens are entirely absent, even from old gravestones. Given what is known about lichens, the cemetery without lichens probably ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A has an unusually dry climate",
+        "images": []
+      },
+      {
+        "text": "B is subject to extremely cold winter temperatures",
+        "images": []
+      },
+      {
+        "text": "C gets a great deal of rain, which favors the growth of competing bacteria",
+        "images": []
+      },
+      {
+        "text": "D has a high population of fungi that parasitize lichens",
+        "images": []
+      },
+      {
+        "text": "E is close to a source of air pollution",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 有關真菌的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 真菌的所有物質在兩個菌絲細胞間，須經由擴散（diffuse）通過中隔（septum）",
+        "images": []
+      },
+      {
+        "text": "B 分生孢子（conidia）是蕈菇類產生的有性孢子",
+        "images": []
+      },
+      {
+        "text": "C 地衣（lichens）是單系群的（monophyletic）生物",
+        "images": []
+      },
+      {
+        "text": "D 地衣中的真菌和其共生藻類（symbiotic algae）具高度共同演化（coevolution）",
+        "images": []
+      },
+      {
+        "text": "E 許多子囊菌（ascomycetes）和擔子菌（basidiomycetes）失去有性生殖的能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列何者是菌根（mycorrhizae）對植物細胞的貢獻：(1) 分泌抗生素以抵抗病原菌的危害(2) 增加水分的吸收(3) 分泌生長因子刺激植物細胞生長(4) 增加有機物的合成",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "C (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(2)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. Which of the following groups is most threatened by global extinctions?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A amphibians",
+        "images": []
+      },
+      {
+        "text": "B birds",
+        "images": []
+      },
+      {
+        "text": "C plants",
+        "images": []
+      },
+      {
+        "text": "D mammals",
+        "images": []
+      },
+      {
+        "text": "E fish",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 有關釀酒酵母菌（Saccharomyces cerevisiae）的敘述，下列何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在實驗室環境下容易培養，且因其生活史中不具雙倍體時期，可維持基因體穩定性",
+        "images": []
+      },
+      {
+        "text": "B 1996 年成為第一個完成全基因體定序的真核生物，且目前已有上千株品系皆完成基因體定序",
+        "images": []
+      },
+      {
+        "text": "C 具部份人類同源基因，因此染色體中的基因有些可被人類同源基因取代並維持功能",
+        "images": []
+      },
+      {
+        "text": "D 是一種單細胞生物，繁殖速度快，在無氧環境下可進行發酵作用產生酒精，行異營方式生活",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 有關地衣的描述，下列哪一項錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是光合性微生物與真菌類的互利共生體",
+        "images": []
+      },
+      {
+        "text": "B 對空氣污染很敏感，可作為空氣是否遭受污染的生物指標",
+        "images": []
+      },
+      {
+        "text": "C 地衣中的光合性微生物為專一物種（單胞藻），而真菌類則非常多樣化",
+        "images": []
+      },
+      {
+        "text": "D 生活環境很廣泛，可出現於極區凍原、沙漠、岩石表面、樹皮上⋯等",
+        "images": []
+      },
+      {
+        "text": "E 通常以共生的真菌類特徵作為分類的依據",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列何者是地衣內共生的光合性原核生物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 藍菌（cyanobacteria）",
+        "images": []
+      },
+      {
+        "text": "B 綠藻（green alage）",
+        "images": []
+      },
+      {
+        "text": "C 擔子菌（basidiomycete）",
+        "images": []
+      },
+      {
+        "text": "D 囊子菌（ascomycete）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 利用dihydrofolate reductase (DHFR)及thymidylate synthase (TS)基因，進行親緣樹（phylogenetic tree）分析，下列何者與動物界最接近？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 古細菌界",
+        "images": []
+      },
+      {
+        "text": "B 細菌界",
+        "images": []
+      },
+      {
+        "text": "C 植物界",
+        "images": []
+      },
+      {
+        "text": "D 真菌界",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列何種生物在演化上與動物最接近？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 苔蘚（mosses）",
+        "images": []
+      },
+      {
+        "text": "B 壺菌（chytrids）",
+        "images": []
+      },
+      {
+        "text": "C 百合花（lily）",
+        "images": []
+      },
+      {
+        "text": "D 綠藻（green algae）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 根據化學與分子證據，真菌界在生物演化樹（tree of life）中最接近下列那一類生物類群？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 動物",
+        "images": []
+      },
+      {
+        "text": "B 植物",
+        "images": []
+      },
+      {
+        "text": "C 古細菌",
+        "images": []
+      },
+      {
+        "text": "D 原生生物",
+        "images": []
+      },
+      {
+        "text": "E 真細菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. The heterokaryotic phase of a fungal life cycle is ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a stage in which the hyphae contain only one type of haploid nucleus",
+        "images": []
+      },
+      {
+        "text": "B a stage in which hyphae contain two, genetically different, haploid nuclei",
+        "images": []
+      },
+      {
+        "text": "C a stage in which hyphae contain two, genetically different, diploid nuclei",
+        "images": []
+      },
+      {
+        "text": "D a stage that is diploid but functions as a gametophyte (like the body of an animal)",
+        "images": []
+      },
+      {
+        "text": "E a triploid stage formed by the fusion of a diploid nucleus with the haploid nucleus of a compatible hypha",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 蛙壺菌（Batrachochytrium spp.）的擴散推測是因為氣候變遷和人為污染與棲地破壞，是近年來造成兩棲動物族群個體快速下降的元兇之一，下列何者對蛙壺菌的敘述最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 其成熟的孢子囊釋放出泳動孢子（zoospore），此孢子有鞭毛（flagella）具有運動性",
+        "images": []
+      },
+      {
+        "text": "B 可生存在水中，行腐生或寄生在動物或是植物體內",
+        "images": []
+      },
+      {
+        "text": "C 孢子具有化學趨向性，會向兩棲類表面的分子（如糖、蛋白質及胺基酸）移動",
+        "images": []
+      },
+      {
+        "text": "D 蛙壺菌無法在實驗室以活體外（in vitro）培養，增加了研究者對其感染機制的研究困難",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 一酵母菌的粒線體DNA發生突變導致粒線體不分裂，將此酵母菌塗在含葡萄糖的培養基上培養，會有何種結果？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 粒線體DNA很重要，沒有菌落形成",
+        "images": []
+      },
+      {
+        "text": "B 粒線體DNA不重要，有正常菌落形成",
+        "images": []
+      },
+      {
+        "text": "C 核中還有DNA，會有一半數目的菌落形成",
+        "images": []
+      },
+      {
+        "text": "D 醣解作用可提供能量，會有比較小的菌落形成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 有關真菌的共有特徵，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 共生作用",
+        "images": []
+      },
+      {
+        "text": "B 具有鞭毛",
+        "images": []
+      },
+      {
+        "text": "C 異營式營養",
+        "images": []
+      },
+      {
+        "text": "D 有致病性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 真菌種類多，分布廣，下列有關真菌的敘述何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 真菌大多為多細胞，少數為單細胞，是異營生物",
+        "images": []
+      },
+      {
+        "text": "B 真菌可以是致病菌、有益菌，但不能為分解者",
+        "images": []
+      },
+      {
+        "text": "C 真菌的細胞壁成分和細菌不一樣",
+        "images": []
+      },
+      {
+        "text": "D 真菌可藉由無性生殖和有性生殖繁衍後代",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 比較真菌和植物的生活史，下列何者的單套體（haploid）階段較雙套體（diploid）階段為長？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 真菌和苔蘚",
+        "images": []
+      },
+      {
+        "text": "B 苔蘚和蕨類",
+        "images": []
+      },
+      {
+        "text": "C 蕨類和被子植物",
+        "images": []
+      },
+      {
+        "text": "D 真菌和蕨類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列何者在生態系中所扮演的角色與牛樟芝最為相近？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 瘧原蟲",
+        "images": []
+      },
+      {
+        "text": "B 變形蟲",
+        "images": []
+      },
+      {
+        "text": "C 矽藻",
+        "images": []
+      },
+      {
+        "text": "D 水黴",
+        "images": []
+      },
+      {
+        "text": "E 黏菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何種物質可幫助強化真菌細胞壁？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 纖維素（cellulose）",
+        "images": []
+      },
+      {
+        "text": "B 木質素（lignin）",
+        "images": []
+      },
+      {
+        "text": "C 幾丁質（chitin）",
+        "images": []
+      },
+      {
+        "text": "D 肽聚醣（peptidoglycan）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. ________ is also as club fungus.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ascomycetes",
+        "images": []
+      },
+      {
+        "text": "B Basidiomycetes",
+        "images": []
+      },
+      {
+        "text": "C Mucoromycetes",
+        "images": []
+      },
+      {
+        "text": "D Chytrids",
+        "images": []
+      },
+      {
+        "text": "E Zoopagomycetes",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 真菌種類眾多，以古生物學及分子系統分類學的數據資料為依據，下列何種生物與真菌的親緣關係可能最為密切？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蘚類",
+        "images": []
+      },
+      {
+        "text": "B 蕨類",
+        "images": []
+      },
+      {
+        "text": "C 藻類",
+        "images": []
+      },
+      {
+        "text": "D 黏菌",
+        "images": []
+      },
+      {
+        "text": "E 動物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 真菌和光合生物常會形成共生現象，下列何者不是真菌給予光合生物的有利或好處的條件或物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 水分和礦物質（minerals）",
+        "images": []
+      },
+      {
+        "text": "B 化學防禦物質",
+        "images": []
+      },
+      {
+        "text": "C 防止過量光線的防護",
+        "images": []
+      },
+      {
+        "text": "D 氧氣（oxygen）",
+        "images": []
+      },
+      {
+        "text": "E 二氧化碳（carbon dioxide）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. Most familiar types of fungi including mushrooms, puffballs, and shelf fungi are examples of",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A chytrids.",
+        "images": []
+      },
+      {
+        "text": "B ascomycetes.",
+        "images": []
+      },
+      {
+        "text": "C zygomycetes.",
+        "images": []
+      },
+      {
+        "text": "D basidiomycetes.",
+        "images": []
+      },
+      {
+        "text": "E streptomyces.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. Which one of the statements in the fact that some fungi are NOT beneficial to agriculture?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A They recycle nutrients that are linked to dead organic matter.",
+        "images": []
+      },
+      {
+        "text": "B They form mycoses on plants.",
+        "images": []
+      },
+      {
+        "text": "C They contribute to the initial stages of soil formation from rock.",
+        "images": []
+      },
+      {
+        "text": "D They may harbor photosynthetic partners that add nitrogenous compounds to the soils.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 有關真菌孢子的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 有性孢子和無性孢子都是單倍體",
+        "images": []
+      },
+      {
+        "text": "B 有性孢子和無性孢子都是二倍體",
+        "images": []
+      },
+      {
+        "text": "C 有性孢子是單倍體，無性孢子是二倍體",
+        "images": []
+      },
+      {
+        "text": "D 有性孢子是二倍體，無性孢子是單倍體",
+        "images": []
+      },
+      {
+        "text": "E 單倍體無性孢子融合形成二倍體有性孢子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列何者因在生長過程中可於體內累積許多酸性代謝產物，以分解生長處的基質，包括岩石或樹皮，加速這些基質的風化，使岩石變成砂粒，樹皮則成為腐植質，二者互相混合，逐漸增厚，形成可供其它植物生長的土壤，因此被生物學家稱為原始生態系的生物先鋒？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 地衣（lichen）",
+        "images": []
+      },
+      {
+        "text": "B 放射茵（actinomycete）",
+        "images": []
+      },
+      {
+        "text": "C 沙鼠（gerbil）",
+        "images": []
+      },
+      {
+        "text": "D 甲蟲（beetle）",
+        "images": []
+      },
+      {
+        "text": "E 盲鰻（hagfish）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. What are the sporangia of bread molds?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A asexual structures that produce haploid spores",
+        "images": []
+      },
+      {
+        "text": "B asexual structures that produce diploid spores",
+        "images": []
+      },
+      {
+        "text": "C sexual structures that produce haploid spores",
+        "images": []
+      },
+      {
+        "text": "D sexual structures that produce diploid spores",
+        "images": []
+      },
+      {
+        "text": "E asexual structures that produce sporophytes",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. Which of the following is an example of an opportunistic pathogen that can cause a mycosis?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Claviceps pururea, which produces ergots on rye that can cause serious symptoms in humans if milled into flour",
+        "images": []
+      },
+      {
+        "text": "B Ophiostoma ulmi, which causes Dutch elin disease",
+        "images": []
+      },
+      {
+        "text": "C the ascomycetes that causes ringworm",
+        "images": []
+      },
+      {
+        "text": "D Candida albicans, which causes vaginal yeast infections",
+        "images": []
+      },
+      {
+        "text": "E the mold Penicillium, an ascomycete that is now grown in liquid culture to produce antibiotics",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. Which of the following cells or structures are associated with asexual reproduction in fungi?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ascospores",
+        "images": []
+      },
+      {
+        "text": "B basidiospores",
+        "images": []
+      },
+      {
+        "text": "C zygosporangia",
+        "images": []
+      },
+      {
+        "text": "D conidiophores",
+        "images": []
+      },
+      {
+        "text": "E ascocarps",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列何種植物激素（hormone）和菌根（mycorrhiza）的形成有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 獨角金萌發內酯（strigolactone）",
+        "images": []
+      },
+      {
+        "text": "B 乙烯（ethylene）",
+        "images": []
+      },
+      {
+        "text": "C 離層酸（abscisic acid）",
+        "images": []
+      },
+      {
+        "text": "D 油菜固醇（brassinosteroid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. Lichens are symbiotic associations of fungi and ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A mosses",
+        "images": []
+      },
+      {
+        "text": "B cyanobacteria+ mosses",
+        "images": []
+      },
+      {
+        "text": "C green algae+ mosses",
+        "images": []
+      },
+      {
+        "text": "D cyanobacteria+ green algae",
+        "images": []
+      },
+      {
+        "text": "E all of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 真菌界物種繁多，下列何種成份最不可能屬於其菌絲細胞壁結構的物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "Aβ-1-3-葡萄聚醣（β-1-3-glucan）",
+        "images": []
+      },
+      {
+        "text": "B 甘露醣蛋白（mannoprotein）",
+        "images": []
+      },
+      {
+        "text": "C 幾丁質（chitin）",
+        "images": []
+      },
+      {
+        "text": "D 脂多醣（lipopolysaccharide）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 有關叢枝菌根菌（arbuscular mycorrhizal fungi, AMF）的敘述，下列何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 菌絲因在植物根部皮層細胞內形成細小雙叉分支的叢枝體（arbuscule）而得名",
+        "images": []
+      },
+      {
+        "text": "B 依分子生物親緣性之分類，目前將叢枝菌根菌分類在球囊菌門（Glomeromycota）",
+        "images": []
+      },
+      {
+        "text": "C 藉由感染在寄主根部所伸出的根外菌絲，協助寄主直接吸收土壤中水分及無機養分",
+        "images": []
+      },
+      {
+        "text": "D 因為容易用肉眼判斷植物是否具叢枝菌根菌共生，增加其在林業育苗與復育森林上應用性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 下列有關黴菌的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黴菌的細胞壁主要由纖維素（cellulose）所組成",
+        "images": []
+      },
+      {
+        "text": "B 黴菌主要是自營性（autotrophic）生物",
+        "images": []
+      },
+      {
+        "text": "C 黴菌可以藉著產生孢子行無性生殖（asexual reproduction）",
+        "images": []
+      },
+      {
+        "text": "D 黴菌不會產生有性生殖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 若在環境中執行分解（decomposition）功能的真菌（fungi）忽然都消失了，下列哪一群生物會因為競爭對手消失，而得到最大的益處？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物（plants）",
+        "images": []
+      },
+      {
+        "text": "B 動物（animals）",
+        "images": []
+      },
+      {
+        "text": "C 原生生物（protists）",
+        "images": []
+      },
+      {
+        "text": "D 原核生物（prokaryotes）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 真菌不僅種類豐富，在世界上分佈也很廣，下列對於其特徵的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 真菌可以藉由無性生殖也可產生有性生殖的孢子",
+        "images": []
+      },
+      {
+        "text": "B 真菌的細胞壁成分與細菌一樣",
+        "images": []
+      },
+      {
+        "text": "C 真菌不具有世代交替",
+        "images": []
+      },
+      {
+        "text": "D 真菌可以為致病原，但不能當做分解者",
+        "images": []
+      },
+      {
+        "text": "E 真菌大多為多細胞，少數為單細胞，是自營性生物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. Which is the WRONG description about sexual reproduction of fungi?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Fungi release pheromones to find the correction mating type.",
+        "images": []
+      },
+      {
+        "text": "B After plasmogamy, nuclei of two mycelia fuse immediately.",
+        "images": []
+      },
+      {
+        "text": "C A zygote is formatted after karyogamy.",
+        "images": []
+      },
+      {
+        "text": "D A heterokaryon contains two coexisting, genetically different nuclei.",
+        "images": []
+      },
+      {
+        "text": "E A heterokaryon can be extended hours, days, or even years.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 現在所知道世界上曾經出現的最大的生物體為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 真菌（fungus）",
+        "images": []
+      },
+      {
+        "text": "B 恐龍（dinosaur）",
+        "images": []
+      },
+      {
+        "text": "C 世界爺（giant sequoia）",
+        "images": []
+      },
+      {
+        "text": "D 象（elephant）",
+        "images": []
+      },
+      {
+        "text": "E 鯨魚（whale）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. In fungi, which one is the correct description?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Wildlife benefit from endophytes because the endophytes cause more luxuriant plant growth.",
+        "images": []
+      },
+      {
+        "text": "B All materials passing from one hyphal cell to another must diffuse across the septal wall.",
+        "images": []
+      },
+      {
+        "text": "C Lichens are monophyletic.",
+        "images": []
+      },
+      {
+        "text": "D Many kinds of ascomycetes and basidiomycetes have lost the ability to reproduce sexually.",
+        "images": []
+      },
+      {
+        "text": "E Conidia are sexual spores produced by mushrooms.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 所有的真菌都具有下列哪一項共同特徵？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 異營性",
+        "images": []
+      },
+      {
+        "text": "B 腐生性",
+        "images": []
+      },
+      {
+        "text": "C 致病性",
+        "images": []
+      },
+      {
+        "text": "D 共生性",
+        "images": []
+      },
+      {
+        "text": "E 具鞭毛",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 豆類植物（Legume）可以跟細菌共生來固定環境中的磷",
+        "images": []
+      },
+      {
+        "text": "B 開花植物跟外菌根（Ectomycorrhizae）共生來幫助對養份的吸收",
+        "images": []
+      },
+      {
+        "text": "C 牛消化系統中的共生菌幫忙分解脂肪",
+        "images": []
+      },
+      {
+        "text": "D 白蟻體內的共生菌幫忙分解蛋白質",
+        "images": []
+      },
+      {
+        "text": "E 螞蟻馴養共生蚜蟲做為食物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. Lichens sometimes reproduce asexually using:",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A soredia.",
+        "images": []
+      },
+      {
+        "text": "B ascocarps.",
+        "images": []
+      },
+      {
+        "text": "C basidiocarps.",
+        "images": []
+      },
+      {
+        "text": "D conidophores.",
+        "images": []
+      },
+      {
+        "text": "E aseptate fugal hyphae.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 在下列哪種情況下，無性生殖比有性生殖更有可能獲得更大的生殖成功率？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 當病原體迅速多樣化時",
+        "images": []
+      },
+      {
+        "text": "B 潛在的快速人口過剩",
+        "images": []
+      },
+      {
+        "text": "C 當該物種擴展到不同的地理環境時",
+        "images": []
+      },
+      {
+        "text": "D 當該物種處於穩定和有利的環境中時",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 如果你被要求設計一種可以在光禿禿的潮濕地區成功生長的苔蘚植物，你會設計以下哪種可能的適應性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 與產生毒素的藻類共生關係",
+        "images": []
+      },
+      {
+        "text": "B 與吸收鐵的藻類共生關係",
+        "images": []
+      },
+      {
+        "text": "C 與固氮藍藻的共生關係",
+        "images": []
+      },
+      {
+        "text": "D 與吸收磷的菌根真菌共生關係",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 依據分子證據，下列那一類的生物被認為在親緣關係上最靠近真菌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 動物",
+        "images": []
+      },
+      {
+        "text": "B 植物",
+        "images": []
+      },
+      {
+        "text": "C 黏菌",
+        "images": []
+      },
+      {
+        "text": "D 細菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列有關真菌（fungi）的敘述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 真菌在生態系中為一重要分解者",
+        "images": []
+      },
+      {
+        "text": "B 就演化的角度而言，真菌與植物的關聯性高於真菌與動物",
+        "images": []
+      },
+      {
+        "text": "C 第一個抗生素產自於真菌",
+        "images": []
+      },
+      {
+        "text": "D 某些起司的獨特味道可能來自真菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 下列何者對真菌（fungi）的敘述不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是一種多細胞真核生物",
+        "images": []
+      },
+      {
+        "text": "B 除了接合孢子，其餘生活史均為單倍體",
+        "images": []
+      },
+      {
+        "text": "C 真菌（mycelium）菌絲僅被用來獲取養分",
+        "images": []
+      },
+      {
+        "text": "D 真菌細胞壁由幾丁質所組成",
+        "images": []
+      },
+      {
+        "text": "E 大部分的真菌是屬於腐生性（saprotrophs）的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

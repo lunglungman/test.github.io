@@ -1,0 +1,1472 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列有關中樞神經系統細胞結構與功能的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 許旺氏細胞（Schwann cell）包覆神經軸突形成髓鞘",
+        "images": []
+      },
+      {
+        "text": "B 寡突細胞（oligodendrocyte）包覆神經樹突形成髓鞘",
+        "images": []
+      },
+      {
+        "text": "C 星狀細胞（astrocyte）與血腦障壁（blood-brain barrier）的形成有關",
+        "images": []
+      },
+      {
+        "text": "D 神經傳遞物質GABA打開突觸後神經細胞膜上的電壓敏感型鉀離子通道而造成抑制性突觸後膜電位（inhibitory postsynaptic potential）的產生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 有關神經元或肌肉細胞的靜止膜電位（resting membrane potential），下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 等於K+的平衡電位",
+        "images": []
+      },
+      {
+        "text": "B 等於Na+的平衡電位",
+        "images": []
+      },
+      {
+        "text": "C 比K+的平衡電位更偏向正",
+        "images": []
+      },
+      {
+        "text": "D 高於Na+的平衡電位",
+        "images": []
+      },
+      {
+        "text": "E 刺激不會改變靜止膜電位",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. An inhibitory postsynaptic potential (IPSP) occurs in a membrane made more permeable to ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A potassium ions",
+        "images": []
+      },
+      {
+        "text": "B sodium ions",
+        "images": []
+      },
+      {
+        "text": "C calcium ions",
+        "images": []
+      },
+      {
+        "text": "D ATP",
+        "images": []
+      },
+      {
+        "text": "E all neurotransmitter molecules",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 最近台灣地區發生數次肉毒桿菌的食物中毒病例，下列有關肉毒桿菌食物中毒的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肉毒桿菌釋放之毒素稱之為肉毒桿菌素（botulinum toxin）",
+        "images": []
+      },
+      {
+        "text": "B 此毒素乃侵入運動神經元中止其釋出乙醯膽鹼（acetylcholine, ACh）",
+        "images": []
+      },
+      {
+        "text": "C 缺乏ACh則使骨骼肌強力收縮不止",
+        "images": []
+      },
+      {
+        "text": "D 因此肌肉逐漸變得軟弱而癱瘓",
+        "images": []
+      },
+      {
+        "text": "E 患者必須在36小時內施以抗毒素治療",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Which of the following amino acid and the derivative is not proved to be a neurotransmitter?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Glycine",
+        "images": []
+      },
+      {
+        "text": "B Glutamic acid",
+        "images": []
+      },
+      {
+        "text": "C Aspartic acid",
+        "images": []
+      },
+      {
+        "text": "D Gamma-aminobutyric acid",
+        "images": []
+      },
+      {
+        "text": "E Histamine",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 有髓鞘包裹的神經元軸突（myelinated axon）上，其離子通道的分佈為何種型式？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 集中於無髓鞘的蘭氏結（Ranvier node）部份",
+        "images": []
+      },
+      {
+        "text": "B 完全沒有離子通道",
+        "images": []
+      },
+      {
+        "text": "C 集中於髓鞘部份",
+        "images": []
+      },
+      {
+        "text": "D 平均分佈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 重症肌無力（myasthenia gravis）是下列哪一個神經傳導物（neurotransmitter）的受體被破壞了？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙醯膽鹼（acetylcholine）",
+        "images": []
+      },
+      {
+        "text": "B 正腎上腺素（norepinephrine）",
+        "images": []
+      },
+      {
+        "text": "C γ-胺基丁酸（GABA）",
+        "images": []
+      },
+      {
+        "text": "D 多巴胺（dopamine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 在多發性硬化症（multiple sclerosis）中，大腦和脊髓軸突周圍的髓鞘受到損傷，導致脫髓鞘。這種疾病對動作電位的影響，下列何者最佳？(I) 動作電位在軸突的相反方向上移動(II) 動作電位沿著軸突移動得更慢(III) 不傳遞動作電位",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 只有I",
+        "images": []
+      },
+      {
+        "text": "B 只有II",
+        "images": []
+      },
+      {
+        "text": "C 只有III",
+        "images": []
+      },
+      {
+        "text": "D 只有II和III",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 有關血腦屏障（blood brain barrier）的成因，下列敘述何者最佳？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由緊密連接（tight junction）形成",
+        "images": []
+      },
+      {
+        "text": "B 由寡突膠質細胞（oligodendrocyte）形成",
+        "images": []
+      },
+      {
+        "text": "C 緊密調節中樞神經系統（central nervous system）的細胞內環境",
+        "images": []
+      },
+      {
+        "text": "D 使用化學訊號與脊髓（spinal cord）溝通",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 一氧化氮（nitric oxide, NO）的作用主要是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 使血管的平滑肌放鬆",
+        "images": []
+      },
+      {
+        "text": "B 直接使心室收縮力增加",
+        "images": []
+      },
+      {
+        "text": "C 使平滑肌細胞內的環單磷酸腺苷（cyclic AMP）增加",
+        "images": []
+      },
+      {
+        "text": "D 使平滑肌細胞內的環單磷酸鳥苷（cyclic GMP）下降",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 有關動物細胞細胞膜靜止膜電位（resting membrane potential）的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 正常動物細胞的靜止膜電位約為0 mV",
+        "images": []
+      },
+      {
+        "text": "B 當細胞膜電位從0 mV變成–80 mV，稱之為細胞去極化的現象",
+        "images": []
+      },
+      {
+        "text": "C 當細胞外鉀離子上升但細胞內鉀離子濃度不變時，該細胞會產生過極化的現象",
+        "images": []
+      },
+      {
+        "text": "D 當細胞膜電位從–80 mV變成–60 mV，則可稱之為細胞去極化的現象",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列有關腦部膠細胞的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 膠細胞約占中樞神經系統的10%的細胞",
+        "images": []
+      },
+      {
+        "text": "B 寡突膠細胞（oligodendrocytes）會在周邊神經產生髓鞘（myelin sheath）",
+        "images": []
+      },
+      {
+        "text": "C 星狀膠細胞（astrocyte）會和微血管形成血腦障壁（blood-brain barrier）",
+        "images": []
+      },
+      {
+        "text": "D 膠質細胞的細胞膜表面沒有離子通道存在",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. The steps below refer to various stages in transmission at a chemical synapse:(1) The synaptic vesicles release neurotransmitter into the synaptic cleft.(2) The ligand-gated ion channels open.(3) An action potential depolarizes the membrane of the axon terminal.(4) Calcium ions rush into neuron's cytoplasm.(5) Neurotransmitter binds with receptors associated with the postsynaptic membrane.Which sequence of events is CORRECT?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1 → 2 → 3 → 4 → 5",
+        "images": []
+      },
+      {
+        "text": "B 3 → 4 → 1 → 5 → 2",
+        "images": []
+      },
+      {
+        "text": "C 3 → 1 → 5 → 4 → 2",
+        "images": []
+      },
+      {
+        "text": "D 4 → 3 → 1 → 2 → 5",
+        "images": []
+      },
+      {
+        "text": "E 5 → 1 → 2 → 4 → 3",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 關於動作電位（action potential）之描述，下列何者正確？(1)其為全有全無反應(2)在去極化的過程中K+channel最先打開(3)在再極化的過程中Na+channel關閉(4)過極化是因為Na+channel關閉較慢所致",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (1)(3)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Which of the following about neuron is incorrect?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A It is a polarized cell.",
+        "images": []
+      },
+      {
+        "text": "B Peripheral nervous system includes autonomic and somatic nervous systems.",
+        "images": []
+      },
+      {
+        "text": "C The generation of action potential is related to the electrochemical gradient across the plasma membrane.",
+        "images": []
+      },
+      {
+        "text": "D Myelin sheath is a protein-rich substance that surrounds the axon of some neurons, forming an electrically insulating layer.",
+        "images": []
+      },
+      {
+        "text": "E Neurofilaments are intermediate filaments found in neurons.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Which of the followings is NOT a neurotransmitter?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A nitric oxide",
+        "images": []
+      },
+      {
+        "text": "B substance P",
+        "images": []
+      },
+      {
+        "text": "C cAMP",
+        "images": []
+      },
+      {
+        "text": "D serotonin",
+        "images": []
+      },
+      {
+        "text": "E carbon monoxide",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 有關神經膠細胞（glial cells）類型和功能的敘述，下列何者最佳？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 星狀膠細胞（astrocyte）代謝神經傳導物質（neurotransmitter）並調節突觸反應（synaptic reaction）",
+        "images": []
+      },
+      {
+        "text": "B 寡突膠質細胞（oligodendrocyte）產生周邊神經系統（peripheral nervous system）中有髓鞘神經元（myelinated neuron）的髓鞘（myelin sheath）",
+        "images": []
+      },
+      {
+        "text": "C 小神經膠質細胞（microglia）產生中樞神經系統（central nervous system）中有髓神經元的髓鞘（myelin sheath）",
+        "images": []
+      },
+      {
+        "text": "D 許旺細胞（Schwann cell）為無髓鞘神經元（unmyelinated neuron）提供營養支持",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 有關動作電位（action potential）與分級電位（graded potential）的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 分級電位不會有過極化的現象",
+        "images": []
+      },
+      {
+        "text": "B 動作電位不會存在有不反應期（refractory period）發生",
+        "images": []
+      },
+      {
+        "text": "C 分級電位的時間長度往往是一定的",
+        "images": []
+      },
+      {
+        "text": "D 動作電位的振幅往往是一定的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. What kind of neurotransmitter is used in the vertebrate neuromuscular junction?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Glutamate",
+        "images": []
+      },
+      {
+        "text": "B Dopamine",
+        "images": []
+      },
+      {
+        "text": "C Acetylcholine",
+        "images": []
+      },
+      {
+        "text": "D Serotonin",
+        "images": []
+      },
+      {
+        "text": "E GABA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 吸毒容易上癮的原因與下列何種神經傳導物質（neurotransmitter）的關係最為密切？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血清素（serotonin）",
+        "images": []
+      },
+      {
+        "text": "B 多巴胺（dopamine）",
+        "images": []
+      },
+      {
+        "text": "C 腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "D 正腎上腺素（norepinephrine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. Most of the neurons in the human brain are ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sensory neurons",
+        "images": []
+      },
+      {
+        "text": "B motor neurons",
+        "images": []
+      },
+      {
+        "text": "C interneurons",
+        "images": []
+      },
+      {
+        "text": "D auditory neurons",
+        "images": []
+      },
+      {
+        "text": "E olfactory neurons",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Which of the following statements about neurotransmitter is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Dopamine is derived from tyrosine and released by ventral tegmental area (VTA) neuron.",
+        "images": []
+      },
+      {
+        "text": "B Epinephrine derived from tryptophan is important for fight-or-flight reactions.",
+        "images": []
+      },
+      {
+        "text": "C Serotonin derived from tryptophan affect sleep and mood.",
+        "images": []
+      },
+      {
+        "text": "D Endorphin is a neuropeptide to mediate pain perception.",
+        "images": []
+      },
+      {
+        "text": "E Substance P is a neuropeptide to mediate pain perception.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. How many of the following neurotransmitters is/are neuropeptide(s)?I. AcetylcholineII. Gamma-aminobutyric acid (GABA)III. NorepinephrineIV. DopamineV. SerotoninVI. Endorphin",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0",
+        "images": []
+      },
+      {
+        "text": "B 1",
+        "images": []
+      },
+      {
+        "text": "C 2",
+        "images": []
+      },
+      {
+        "text": "D 3",
+        "images": []
+      },
+      {
+        "text": "E 4",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Which of the following is a local regulator responsible for activating an enzyme that relaxes smooth muscle cells?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A nitric oxide",
+        "images": []
+      },
+      {
+        "text": "B prostaglandin F",
+        "images": []
+      },
+      {
+        "text": "C epinephrine",
+        "images": []
+      },
+      {
+        "text": "D A and B",
+        "images": []
+      },
+      {
+        "text": "E A, B, and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 有關人類的學習除了和突觸（synapse）變化相關外，另有許多細胞分子機制參與其中，例如灰質（gray matter）負責大部分知識和記憶的儲存，白質（white matter）亦是學習的關鍵。目前有研究發現神經系統中有一類提供支持和保護的細胞可調控白質，促進記憶與學習，此類細胞為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 錐細胞（cone cell）",
+        "images": []
+      },
+      {
+        "text": "B 桿狀細胞（rod cell）",
+        "images": []
+      },
+      {
+        "text": "C 神經膠細胞（glial cell）",
+        "images": []
+      },
+      {
+        "text": "D 萊氏細胞（Leydig cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 常用的抗憂鬱症藥物百憂解（Prozac），在中樞神經系統的突觸傳遞（synaptic transmission）過程中之主要作用機制為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 促進多巴胺（dopamine）的釋放",
+        "images": []
+      },
+      {
+        "text": "B 抑制多巴胺的釋放（release）",
+        "images": []
+      },
+      {
+        "text": "C 促進血清素（serotonin）的釋放",
+        "images": []
+      },
+      {
+        "text": "D 抑制血清素的回收（reuptake）",
+        "images": []
+      },
+      {
+        "text": "E 促進血清素的合成（synthesis）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 當肉毒桿菌毒素（Botulinum toxin）影響運動神經元時，會阻礙其軸突（axon）釋放何種神經傳導物質（neurotransmitter），使肌肉無法有效的接受到訊號，進而影響肌肉的收縮？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 迦瑪–胺基丁酸（Gamma-aminobutyric acid，GABA）",
+        "images": []
+      },
+      {
+        "text": "B 多巴胺（Dopamine）",
+        "images": []
+      },
+      {
+        "text": "C 正腎上腺素（Norepinephrine）",
+        "images": []
+      },
+      {
+        "text": "D 乙醯膽鹼（Acetylcholine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 血清張力素（serotonin）可能是睡眠中心神經元的主要神經傳遞物質，所以睡前喝牛奶有鎮定、催眠的作用，是因牛奶中富含何種合成血清張力素所必需之胺基酸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 組織胺酸（histidine）",
+        "images": []
+      },
+      {
+        "text": "B 甘胺酸（glycine）",
+        "images": []
+      },
+      {
+        "text": "C 丙胺酸（alanine）",
+        "images": []
+      },
+      {
+        "text": "D 色氨酸（trytophan）",
+        "images": []
+      },
+      {
+        "text": "E 苯丙胺酸（phenylalanine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列有關神經訊息傳遞的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一個完整的動作電位由靜止膜電位產生的變化依順序：去極化、極化、過極化、再極化",
+        "images": []
+      },
+      {
+        "text": "B 看到前面有人快跌倒了，立刻跑上前扶他一把，這是單純的反射現象",
+        "images": []
+      },
+      {
+        "text": "C 神經樹突上通常有許旺細胞（Schawnn cell）包覆，電位傳遞成跳躍式而更迅速",
+        "images": []
+      },
+      {
+        "text": "D 當動作電位傳遞至突觸，鈣離子大量流入突觸，促使釋放神經傳導物質至下個神經元",
+        "images": []
+      },
+      {
+        "text": "E 訊號在神經元間的遞過程皆以電位變化傳導",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. In the cells of the nervous system, which one is the correct description?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ionotropic receptors act by activating G proteins in target cells.",
+        "images": []
+      },
+      {
+        "text": "B Metabotropic receptors act by initiating changes in second messenger systems in target cells.",
+        "images": []
+      },
+      {
+        "text": "C Action potentials are typically also graded potentials.",
+        "images": []
+      },
+      {
+        "text": "D Electrical synapses transmit signals using neurotransmitters.",
+        "images": []
+      },
+      {
+        "text": "E Most of the cells in your brain are neurons.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. An action potential of neuron is characterized by the following, except ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A it is initiated by opening of voltage-gated potassium channels",
+        "images": []
+      },
+      {
+        "text": "B it is regarded as a regenerative response",
+        "images": []
+      },
+      {
+        "text": "C it is regarded as a all-or-none response",
+        "images": []
+      },
+      {
+        "text": "D it does not degrade in magnitute with space or time",
+        "images": []
+      },
+      {
+        "text": "E it is transmembrane potential changes that occur in most axons",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. Assume that excessive consumption of ethanol increases the influx of negative chloride ions into \"common sense\" neurons whose action potentials are needed for you to act appropriately and not harm yourself or others. Thus, any resulting poor decisions associated with ethanol ingestion are likely due to",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A increased membrane depolarization of \"common sense\" neurons.",
+        "images": []
+      },
+      {
+        "text": "B more action potentials in your \"common sense\" neurons.",
+        "images": []
+      },
+      {
+        "text": "C decreased membrane depolarization of \"common sense\" neurons.",
+        "images": []
+      },
+      {
+        "text": "D fewer IPSPs in your \"common sense\" neurons.",
+        "images": []
+      },
+      {
+        "text": "E more EPSPs in your \"common sense\" neurons.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. The blood-brain barrier ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A is formed by tight junctions",
+        "images": []
+      },
+      {
+        "text": "B is formed by oligodendrocytes",
+        "images": []
+      },
+      {
+        "text": "C tightly regulates the intracellular environment of the CNS",
+        "images": []
+      },
+      {
+        "text": "D uses chemical signals to communicate with the spinal cord",
+        "images": []
+      },
+      {
+        "text": "E provides support to the brain tissue",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 下列哪一種細胞對於血腦障壁（blood-brain barrier）的形成最重要？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微膠細胞（microglia）",
+        "images": []
+      },
+      {
+        "text": "B 神經細胞（neuron）",
+        "images": []
+      },
+      {
+        "text": "C 星狀細胞（astrocyte）",
+        "images": []
+      },
+      {
+        "text": "D 室管膜細胞（ependymal）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. Choose the correct match of glial cell type and function.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Oligodendrocytes produce the myelin sheaths of myelinated neurons in the peripheral nervous system.",
+        "images": []
+      },
+      {
+        "text": "B Schwann cells provide nutritional support to non-myelinated neurons.",
+        "images": []
+      },
+      {
+        "text": "C Radial glia is the source of immunoprotection against pathogens.",
+        "images": []
+      },
+      {
+        "text": "D Astrocytes metabolize neurotransmitters and modulate synaptic effectiveness.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列有關神經細胞的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 神經細胞沒有細胞核",
+        "images": []
+      },
+      {
+        "text": "B 神經細胞接受訊號的位置為終端結（terminal knobs）",
+        "images": []
+      },
+      {
+        "text": "C 引發衝動傳出的位置位於樹突（dendrites）",
+        "images": []
+      },
+      {
+        "text": "D 大部分脊椎動物的神經元軸突外圍包有髓鞘",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 有關星狀膠細胞（astrocyte）的說明，下列敘述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 能夠從突觸系統（synapse）中擷獲神經傳遞物質",
+        "images": []
+      },
+      {
+        "text": "B 能夠對神經元產生刺激型或是抑制型的反應",
+        "images": []
+      },
+      {
+        "text": "C 具備在中樞神經系統中，進行吞噬外來入侵物質的防禦機制",
+        "images": []
+      },
+      {
+        "text": "D 形成血腦障蔽（blood-brain barrier）",
+        "images": []
+      },
+      {
+        "text": "E 具備儲存肝醣的功能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. Which statement about hyperpolarization of a neuron is true? When hyperpolarization occurs,",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A membrane potential is more negative than during resting potential.",
+        "images": []
+      },
+      {
+        "text": "B membrane potential is closer to Na+ equilibrium potential (ENa) than it is to EK.",
+        "images": []
+      },
+      {
+        "text": "C Na+and/or Cl–channels are open.",
+        "images": []
+      },
+      {
+        "text": "D if it occurs in a downstream neuron, exciting postsynaptic potentials (EPSPs) are more likely to be generated than are inhibitory PSPs (IPSPs).",
+        "images": []
+      },
+      {
+        "text": "E generation of action potentials is likely to occur.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 神經傳導物質（neurotransmitter）的受器位於：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核膜",
+        "images": []
+      },
+      {
+        "text": "B 蘭氏結（the nodes of Ranvier）",
+        "images": []
+      },
+      {
+        "text": "C 突觸後（postsynaptic）細胞膜",
+        "images": []
+      },
+      {
+        "text": "D 突觸小泡膜",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列何種細胞的損傷將降低周邊神經系統動作電位的傳導？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 星狀膠細胞（astrocyte）",
+        "images": []
+      },
+      {
+        "text": "B 微膠細胞（microglia）",
+        "images": []
+      },
+      {
+        "text": "C 寡樹突膠細胞（oligodendrocyte）",
+        "images": []
+      },
+      {
+        "text": "D 許旺氏細胞（Schwann cell）",
+        "images": []
+      },
+      {
+        "text": "E 室膜細胞（ependymal cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. The following compounds function as neurotransmitters except ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A acetylcholine",
+        "images": []
+      },
+      {
+        "text": "B creatine",
+        "images": []
+      },
+      {
+        "text": "Cγ-aminobutyrate",
+        "images": []
+      },
+      {
+        "text": "D 3,4-dihydroxyphenylalanine (DOPA)",
+        "images": []
+      },
+      {
+        "text": "E glutamic acid",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. In a neuron at rest, which of the following is true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Leakage of sodium ions into the neuron is greater than leakage of potassium ions out of the neuron.",
+        "images": []
+      },
+      {
+        "text": "B Leakage of sodium ions out of the neuron is greater than leakage of potassium ions into the neuron.",
+        "images": []
+      },
+      {
+        "text": "C Leakage of potassium ions into the neuron is greater than leakage of sodium ions out of the neuron.",
+        "images": []
+      },
+      {
+        "text": "D Leakage of potassium ions out of the neuron is greater than leakage of sodium ions into the neuron.",
+        "images": []
+      },
+      {
+        "text": "E Leakage of potassium ions out of the neuron is equivalent to leakage of sodium ions into the neuron.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 有關動作電位的傳導說明，下列敘述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在軸突上一個位置的動作電位，會作為下一段位置產生動作電位的去極化刺激",
+        "images": []
+      },
+      {
+        "text": "B 在一段有髓鞘（myelin sheath）的軸突中，動作電位僅在蘭氏結（Ranvier’s nodes）產生",
+        "images": []
+      },
+      {
+        "text": "C 在一段無髓鞘的軸突中，動作電位沿著軸突產生",
+        "images": []
+      },
+      {
+        "text": "D 是由與神經元接壤的軸丘（axon hillock）處所啟動",
+        "images": []
+      },
+      {
+        "text": "E 無髓鞘的軸突比有髓鞘的軸突傳導動作電位速度快",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 脊椎動物常見的兩種氣體神經傳導物質（neurotransmitters）為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一氧化碳（CO），一氧化二氮（N2O）",
+        "images": []
+      },
+      {
+        "text": "B 一氧化氮（NO），乙烷（ethane）",
+        "images": []
+      },
+      {
+        "text": "C 一氧化氮，二氧化碳（CO2）",
+        "images": []
+      },
+      {
+        "text": "D 一氧化氮，一氧化碳",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. Which of the following statements regarding the nervous system is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Schwann cell is also a kind of nerve cell and found in the peripheral nervous system (PNS).",
+        "images": []
+      },
+      {
+        "text": "B The functional unit of the nervous system is the neuron.",
+        "images": []
+      },
+      {
+        "text": "C Sensory neurons convey signal from sensory receptors into the central nervous system (CNS).",
+        "images": []
+      },
+      {
+        "text": "D Motor neurons convey signals from the CNS to effector cells.",
+        "images": []
+      },
+      {
+        "text": "E PNS has ganglia, clusters of neuron cell bodies.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 沙林（Sarin）是一種神經毒劑，主要是抑制下列何種酵素，進而造成呼吸肌麻痺而窒息？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙醯膽鹼酯化酶（acetylcholinesterase）",
+        "images": []
+      },
+      {
+        "text": "B 酪胺酸羥化酶（tyrosine hydroxylase）",
+        "images": []
+      },
+      {
+        "text": "C 色胺酸羥化酶（tryptophan hydroxylase）",
+        "images": []
+      },
+      {
+        "text": "D 麩胺酸去羧酶（glutamic acid decarboxylase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. The following events are steps of neural transmission at a chemical synapse. Please choose the correct sequence of events.(1) Neurotransmitter binds with receptors associated with the postsynaptic membrane.(2) Calcium ions rush into neuron’s cytoplasm.(3) The ligand-gated ion channels open.(4) An action potential depolarizes the membrane of the axon terminal.(5) The synaptic vesicles release neurotransmitter into the synaptic cleft.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1 → 2 → 3 → 4 → 5",
+        "images": []
+      },
+      {
+        "text": "B 2 → 3 → 5 → 4 → 1",
+        "images": []
+      },
+      {
+        "text": "C 3 → 2 → 5 → 1 → 4",
+        "images": []
+      },
+      {
+        "text": "D 4 → 2 → 5 → 1 → 3",
+        "images": []
+      },
+      {
+        "text": "E 5 → 1 → 2 → 3 → 4",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. Which of the following ion channel causes the reflectory period when neuron cannot response to another stimulus shortly after an action potential?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sodium ion channel",
+        "images": []
+      },
+      {
+        "text": "B potassium ion channel",
+        "images": []
+      },
+      {
+        "text": "C proton channel",
+        "images": []
+      },
+      {
+        "text": "D chloride channel",
+        "images": []
+      },
+      {
+        "text": "E calcium ion channel",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列哪一個神經傳遞物分子（Neurotransmitter）目前被認為和麻醉藥物的作用最有關係？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 麩胺酸（Glutamate）",
+        "images": []
+      },
+      {
+        "text": "B 血清張力素（Serotonin）",
+        "images": []
+      },
+      {
+        "text": "C 乙醯膽鹼（Acetylcholine）",
+        "images": []
+      },
+      {
+        "text": "D 正腎上腺素（Norepinephrine）",
+        "images": []
+      },
+      {
+        "text": "Eγ胺基丁酸（GABA）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 抑制性突觸後電位（inhibitory postsynaptic potential; IPSP）發生在膜上使________更易通透。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 所有神經傳導物質",
+        "images": []
+      },
+      {
+        "text": "B ATP",
+        "images": []
+      },
+      {
+        "text": "C 鉀離子",
+        "images": []
+      },
+      {
+        "text": "D 鈉離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

@@ -1,0 +1,1432 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. The fact that the outer membrane of the nuclear envelope has bound ribosomes allows one to most reliably conclude that",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the nuclear envelope is physically continuous with the endoplasmic reticulum.",
+        "images": []
+      },
+      {
+        "text": "B the nuclear envelope is not part of the endomembrane system.",
+        "images": []
+      },
+      {
+        "text": "C at least some of the proteins that function in the nuclear envelope are made by the ribosomes on the nuclear envelope.",
+        "images": []
+      },
+      {
+        "text": "D nuclear pore complexes contain proteins.",
+        "images": []
+      },
+      {
+        "text": "E small vesicles from the Golgi fuse with the nuclear envelope.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 氰化物（cyanide）至少會與產生ATP過程中的一個分子結合。請問當細胞暴露在氰化物中時，大多數的氰化物會在何處被發現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 粒線體（mitochondria）",
+        "images": []
+      },
+      {
+        "text": "B 核醣體（ribosome）",
+        "images": []
+      },
+      {
+        "text": "C 過氧化酶體（peroxisome）",
+        "images": []
+      },
+      {
+        "text": "D 溶酶體（lysosome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. Cytochalasin B可阻斷微絲（microfilament）形成，因此它主要可干擾",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 染色體的移動",
+        "images": []
+      },
+      {
+        "text": "B 卵裂溝（cleavage furrow）的形成",
+        "images": []
+      },
+      {
+        "text": "C 染色體的複製",
+        "images": []
+      },
+      {
+        "text": "D 紡錘絲（spindle fiber）的形成",
+        "images": []
+      },
+      {
+        "text": "E 細胞板（cell plate）的形成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 有一種突變可以破壞動物細胞中多醣修飾蛋白質的能力，其最有可能導致以下何種胞器或結構的缺陷？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核基質和細胞外基質",
+        "images": []
+      },
+      {
+        "text": "B 高基氏體和細胞外基質",
+        "images": []
+      },
+      {
+        "text": "C 核孔和分泌囊泡",
+        "images": []
+      },
+      {
+        "text": "D 粒線體和高基氏體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 在研究細胞的內部超微結構時，下列何種顯微鏡可以獲得最好解析度？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 相位差光學顯微鏡",
+        "images": []
+      },
+      {
+        "text": "B 共軛焦螢光顯微鏡",
+        "images": []
+      },
+      {
+        "text": "C 掃描式電子顯微鏡",
+        "images": []
+      },
+      {
+        "text": "D 穿透式電子顯微鏡",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 真核細胞有絲分裂時，紡錘體（mitotic spindle）主要是由下列何者所形成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微管（microtubule）",
+        "images": []
+      },
+      {
+        "text": "B 中間絲（intermediate filament）",
+        "images": []
+      },
+      {
+        "text": "C 微絲（microfilament）",
+        "images": []
+      },
+      {
+        "text": "D 中心體（centrosome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列哪一種胞器不具膜狀構造，且參與蛋白質合成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 粒線體",
+        "images": []
+      },
+      {
+        "text": "B 高基氏體",
+        "images": []
+      },
+      {
+        "text": "C 平滑內質網",
+        "images": []
+      },
+      {
+        "text": "D 核醣體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. DNA存在於",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞膜",
+        "images": []
+      },
+      {
+        "text": "B 內質網",
+        "images": []
+      },
+      {
+        "text": "C 液泡",
+        "images": []
+      },
+      {
+        "text": "D 細胞核",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. What type of specialized junction connects epithelial cells lining the renal tubules?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A tight junctions",
+        "images": []
+      },
+      {
+        "text": "B desmosomes",
+        "images": []
+      },
+      {
+        "text": "C gap junctions",
+        "images": []
+      },
+      {
+        "text": "D intercalated disks",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. Which of the following proteins is NOT a component of focal adhesions?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A cadherins",
+        "images": []
+      },
+      {
+        "text": "B integrins",
+        "images": []
+      },
+      {
+        "text": "C actin filaments",
+        "images": []
+      },
+      {
+        "text": "D linker protein",
+        "images": []
+      },
+      {
+        "text": "E fibronectin/collagen",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 在胚胎發育時期，細胞外基質與細胞膜上的特定蛋白質作用，可以誘使胚胎發育時期特定基因的表現，下列何者最有可能為此特定蛋白質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A fibronectin",
+        "images": []
+      },
+      {
+        "text": "B collagen",
+        "images": []
+      },
+      {
+        "text": "C integrin",
+        "images": []
+      },
+      {
+        "text": "D microtubule",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 關於細胞內胞器（organelles）的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞核內具有由微管（microtubule）構成的核纖層（nuclear lamina），用以提供核膜與染色質的組織性",
+        "images": []
+      },
+      {
+        "text": "B 細胞內脂質的合成位於平滑內質網（smooth endoplasmic reticulum）",
+        "images": []
+      },
+      {
+        "text": "C 溶酶體（lysosome）含有水解酶",
+        "images": []
+      },
+      {
+        "text": "D 粒線體具有環狀DNA，被認為是來自於原核細胞共生的結果",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列何者為皮膚細胞附著於細胞外基質（ECM）的結構？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 緊密連接（tight junctions）",
+        "images": []
+      },
+      {
+        "text": "B 固著連接（anchoring junctions）",
+        "images": []
+      },
+      {
+        "text": "C 胞間連絲（plasmodesmata）",
+        "images": []
+      },
+      {
+        "text": "D 通信連接（communicating junctions）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 有關小腸內襯部位其細胞與細胞之間的液體不會滲漏的主要原因，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞間具有gap junctions",
+        "images": []
+      },
+      {
+        "text": "B 細胞間具有extracellular matrix",
+        "images": []
+      },
+      {
+        "text": "C 細胞間具有tight junctions",
+        "images": []
+      },
+      {
+        "text": "D 細胞間具有plasmodesmata",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 藉由光學顯微鏡及電子顯微鏡的觀察，科學家發現細胞內存在所謂細胞骨架（cytoskeleton）。細胞骨架的組成包括微絲（microfilament）、中間絲（intermediatefilament）及微管（microtubule）等。下列的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微管是由稱為微管蛋白（tubulin）的球狀蛋白（globular proteins）組合而成，負責細胞核位置的固定",
+        "images": []
+      },
+      {
+        "text": "B 中間絲是由幾種不同的纖維蛋白（fibrous proteins）組成，可幫助細胞形狀的維持",
+        "images": []
+      },
+      {
+        "text": "C 微絲是由肌動蛋白（actin）次單元組合而成，可決定細胞形狀並幫助細胞的移動",
+        "images": []
+      },
+      {
+        "text": "D 細胞分裂時，引導染色體移動的是微管",
+        "images": []
+      },
+      {
+        "text": "E 引導運輸液泡（transport vesicle）從高基氏體（Golgi）到細胞膜的是微管",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Movement of integral membrane proteins between the apical and basolateral domains of an epithelial cell membrane is restricted by the presence of",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A lipid rafts.",
+        "images": []
+      },
+      {
+        "text": "B basal lamina.",
+        "images": []
+      },
+      {
+        "text": "C desmosomes.",
+        "images": []
+      },
+      {
+        "text": "D tight junctions.",
+        "images": []
+      },
+      {
+        "text": "E gap juncitions.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下列何者以光學顯微鏡無法清楚看到？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞",
+        "images": []
+      },
+      {
+        "text": "B 葉綠體",
+        "images": []
+      },
+      {
+        "text": "C 細菌",
+        "images": []
+      },
+      {
+        "text": "D 蛋白質分子",
+        "images": []
+      },
+      {
+        "text": "E 魚卵",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 在肝臟細胞，粒線體內膜面積約為外膜的五倍，下列何者為最可能目的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 加快檸檬酸循環（citric acid cycle）之速率",
+        "images": []
+      },
+      {
+        "text": "B 加快糖解作用（glycolysis）之速率",
+        "images": []
+      },
+      {
+        "text": "C 加快表面之受質磷酸化速率",
+        "images": []
+      },
+      {
+        "text": "D 加快表面氧化磷酸化速率",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 下列何者為平滑內質網的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脂質合成，類固醇合成，蛋白質合成，藥物解毒",
+        "images": []
+      },
+      {
+        "text": "B 類固醇合成，蛋白質合成，藥物解毒",
+        "images": []
+      },
+      {
+        "text": "C 脂質合成，蛋白質合成，藥物解毒",
+        "images": []
+      },
+      {
+        "text": "D 脂質合成，類固醇合成，藥物解毒",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 均質化細胞時，當離心速率漸增，下列細胞胞器在沉澱物中出現的順序為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉綠體、核醣體、細胞核",
+        "images": []
+      },
+      {
+        "text": "B 核醣體、細胞核、粒線體",
+        "images": []
+      },
+      {
+        "text": "C 細胞核、核醣體、葉綠體",
+        "images": []
+      },
+      {
+        "text": "D 細胞核、粒線體、核醣體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 產生頭髮的細胞含有大量的________，而產生油脂包住頭髮的細胞含有大量的________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 平滑內質網；溶酶體（lysosome）",
+        "images": []
+      },
+      {
+        "text": "B 粗內質網；平滑內質網（smooth endoplasmic reticulum）",
+        "images": []
+      },
+      {
+        "text": "C 平滑內質網；粗內質網",
+        "images": []
+      },
+      {
+        "text": "D 微體（microbody）；溶酶體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 有關胞器參與細胞內物質的分解與更新，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 高基氏體",
+        "images": []
+      },
+      {
+        "text": "B 粒線體",
+        "images": []
+      },
+      {
+        "text": "C 內質網",
+        "images": []
+      },
+      {
+        "text": "D 溶體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 關於細胞內膜系統（endomembrane system）的功能，包含下列哪些項目：Ⅰ.磷脂質和類固醇的合成、藥物和其他毒物的解毒作用（detoxification）Ⅱ.所有蛋白質需經過內膜系統作用後才具有功能Ⅲ.高爾基氏體（Golgi apparatus）的各種酵素會修飾由內質網（endoplasmic reticulum）轉送來的醣蛋白之寡糖部分Ⅳ.溶體（lysosome）由高爾基氏體（olgi apparatus）擠壓而形成Ⅴ.內膜系統僅高爾基氏體可產生運輸囊胞（transport vesicle）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ⅱ, Ⅳ, Ⅴ",
+        "images": []
+      },
+      {
+        "text": "B Ⅱ, Ⅲ, Ⅴ",
+        "images": []
+      },
+      {
+        "text": "C Ⅰ, Ⅲ, Ⅳ",
+        "images": []
+      },
+      {
+        "text": "D Ⅰ, Ⅳ, Ⅴ",
+        "images": []
+      },
+      {
+        "text": "E Ⅰ, Ⅱ, Ⅲ",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 細胞自噬作用（autophagy）的異常會導致某些神經退化性疾病；自噬作用會先利用細胞內自噬體（autophagosome）包覆老化胞器，再藉由與下列何種胞器結合，始將老化胞器分解成基礎的有機分子，供細胞重新利用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A peroxisome",
+        "images": []
+      },
+      {
+        "text": "B mitochondria",
+        "images": []
+      },
+      {
+        "text": "C lysosome",
+        "images": []
+      },
+      {
+        "text": "D endoplasmic reticulum",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 2016年諾貝爾生理醫學獎得主大隅良典（Yoshinori Ohsumi）發現細胞自噬（autophagy）機制，細胞可以經由下列何者將老化或受損的胞器、錯誤折疊的蛋白及其他巨分子複合體降解並且再利用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溶酶體（lysosome）",
+        "images": []
+      },
+      {
+        "text": "B 胞內體（endosome）",
+        "images": []
+      },
+      {
+        "text": "C 微粒體（microsome）",
+        "images": []
+      },
+      {
+        "text": "D 過氧化小體（peroxisome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 下列關於動物細胞間聯結（junctions）的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 緊密聯結（tight junctions）存在於消化道及膀胱等器官內腔的表皮細胞層，是一種能防止物質進入細胞間隙（intercellular space）的聯結",
+        "images": []
+      },
+      {
+        "text": "B 緊密聯結（tight junctions）是由位於相鄰細胞的細胞膜上的多醣體纖維互相交織結合而形成",
+        "images": []
+      },
+      {
+        "text": "C 橋粒（desmosomes）含有結構緊密的細胞質板（cytoplasmic plate），細胞質板之間有細胞骨架細絲（cytoskeleton filaments）連接",
+        "images": []
+      },
+      {
+        "text": "D 橋粒（desmosomes）提供表皮組織力學上很大的穩定性（mechanical stability）",
+        "images": []
+      },
+      {
+        "text": "E 縫隙聯結（gap junctions）可促進細胞之間的交流，但只容許離子及小分子通過",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 大部分動物相鄰兩個細胞藉由何種方式溝通？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A plasmodesmata",
+        "images": []
+      },
+      {
+        "text": "B gap junctions",
+        "images": []
+      },
+      {
+        "text": "C G protein",
+        "images": []
+      },
+      {
+        "text": "D Desmotubule",
+        "images": []
+      },
+      {
+        "text": "E Protein kinase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. Which is the most common route through which a protein is secreted from a eukaryotic cell?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A plasmid → plasma membrane → nuclear envelope → smooth endoplasmic reticulum (ER)",
+        "images": []
+      },
+      {
+        "text": "B Golgi apparatus → lysosome → vesicles → plasma membrane",
+        "images": []
+      },
+      {
+        "text": "C nuclear envelope → vesicles → Golgi apparatus → plasma membrane",
+        "images": []
+      },
+      {
+        "text": "D rough endoplasmic reticulum → Golgi apparatus → vesicles → plasma membrane",
+        "images": []
+      },
+      {
+        "text": "E rough endoplasmic reticulum → lysosomes → vesicles → cell membrane",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列對平滑內質網（Smooth ER）的描述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 合成脂類（synthesizes lipids）",
+        "images": []
+      },
+      {
+        "text": "B 分類和包裝各種分子進入輸送囊泡（transport vesicles）",
+        "images": []
+      },
+      {
+        "text": "C 代謝碳水化合物（metabolizes carbohydrate）",
+        "images": []
+      },
+      {
+        "text": "D 排毒（detoxifies drugs and poisons）",
+        "images": []
+      },
+      {
+        "text": "E 儲存鈣離子（stores calcium ions）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 餐桌上美味的杏鮑菇、花園中綻放的杜鵑花和草地上追逐中的小狗，他們共同的特徵是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 都具有葉綠體",
+        "images": []
+      },
+      {
+        "text": "B 都是哺乳動物",
+        "images": []
+      },
+      {
+        "text": "C 都由細胞組成",
+        "images": []
+      },
+      {
+        "text": "D 細胞壁由醣類構成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 下列何者在細胞自嗜作用（autophage）中扮演降解受損胞器的角色？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核小體（nucleosome）",
+        "images": []
+      },
+      {
+        "text": "B 核醣體（ribosome）",
+        "images": []
+      },
+      {
+        "text": "C 葉綠體（choloroplast）",
+        "images": []
+      },
+      {
+        "text": "D 溶酶體（lysosome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 動植物細胞不一定具有下列那一種胞器（organelle）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內質網（Endoplasmic Reticulum）",
+        "images": []
+      },
+      {
+        "text": "B 中心體（Centrosome）",
+        "images": []
+      },
+      {
+        "text": "C 高基氏體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "D 粒線體（Mitochondrion）",
+        "images": []
+      },
+      {
+        "text": "E 核醣體（Ribosome）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 植物的胞質間連絲（plasmodesmata）其功能相當於動物細胞的何種構造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 過氧化體（peroxisomes）",
+        "images": []
+      },
+      {
+        "text": "B 胞橋體（desmosomes）",
+        "images": []
+      },
+      {
+        "text": "C 縫隙連接（gap junctions）",
+        "images": []
+      },
+      {
+        "text": "D 細胞外基質（extracellular matrix）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 細胞分裂時的紡錘絲（spindle fiber）的主要的組成為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA",
+        "images": []
+      },
+      {
+        "text": "B 肌動蛋白（actin）",
+        "images": []
+      },
+      {
+        "text": "C 中間絲（intermediate filament）",
+        "images": []
+      },
+      {
+        "text": "D 微管（microtubule）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列何者之細胞骨架（cytoskeleton）具有固著細胞核及其它胞器之作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微管（microtubules）",
+        "images": []
+      },
+      {
+        "text": "B 微絲（microfilaments）",
+        "images": []
+      },
+      {
+        "text": "C 中間絲（intermediate filaments）",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 胰島素（insulin）自胰臟β細胞合成與分泌至細胞外的過程中，下列何種構造最不可能參與？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核糖體（ribosome）",
+        "images": []
+      },
+      {
+        "text": "B 胞內體（endosome）",
+        "images": []
+      },
+      {
+        "text": "C 高基氏體（Golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "D 運輸囊泡（transport vesicle）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 內膜系統（endomembrane system）是真核生物的一項特徵，請問下列有關內膜系統的描述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 粒線體膜亦屬於內膜系統之一，負責細胞內能量的生成",
+        "images": []
+      },
+      {
+        "text": "B 顆粒性內質網（rough endoplasmic reticulum）是細胞內蛋白質合成的場所",
+        "images": []
+      },
+      {
+        "text": "C 平滑性內質網（smooth endoplasmic reticulum）是細胞內鈣離子儲存處",
+        "images": []
+      },
+      {
+        "text": "D 液泡（vacuoles）是由內質網及高基氏體（Golgiapparatus）衍生的細胞內大型囊泡（vesicles）構造，其中收縮液泡（contractile vacuoles）具有維持細胞內離子濃度的功能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 在動物或植物細胞內可見許多膜狀區隔（如：粒線體及細胞核），這些區隔具有哪些特色？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 所有細胞包括細菌及真菌都是常見的構造",
+        "images": []
+      },
+      {
+        "text": "B 便於細胞分裂時將細胞內成份平均分配到兩個細胞中",
+        "images": []
+      },
+      {
+        "text": "C 可作為支撐細胞的骨架",
+        "images": []
+      },
+      {
+        "text": "D 便於儲存生化代謝物",
+        "images": []
+      },
+      {
+        "text": "E 有利於各種不同代謝反應的進行",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列何者為促進肌肉收縮與胞質循動（cytoplasmic streaming）的成分？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微管（microtubules）",
+        "images": []
+      },
+      {
+        "text": "B 微絲（microfilaments）",
+        "images": []
+      },
+      {
+        "text": "C 中間絲（intermediate filaments）",
+        "images": []
+      },
+      {
+        "text": "D 主纖毛（primary cilia）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列有關於胞器的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞核及粒線體都含有DNA",
+        "images": []
+      },
+      {
+        "text": "B 葉綠體中含有DNA，也是細胞中進行光合作用的場所",
+        "images": []
+      },
+      {
+        "text": "C 核醣體是細胞中主要進行蛋白質合成的場所，真核細胞及原核細胞皆有此種胞器",
+        "images": []
+      },
+      {
+        "text": "D 內質網（endoplasmic reticulum）和粒線體都可以製造能量並且進行能量轉換",
+        "images": []
+      },
+      {
+        "text": "E 溶酶體（lysosome）由高基氏體（Golgi apparatus）衍生出來，內含酵素負責分解細胞內分子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. Which is NOT a microtubule-organizing center (MTOC)?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A centrosome",
+        "images": []
+      },
+      {
+        "text": "B basal body of cilia",
+        "images": []
+      },
+      {
+        "text": "C mitotic spindle pole",
+        "images": []
+      },
+      {
+        "text": "D kinetochore",
+        "images": []
+      },
+      {
+        "text": "E all of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 細胞構造中，具有儲存色素和其他分子並維持細胞的體積的構造為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 液胞（vacuoles）",
+        "images": []
+      },
+      {
+        "text": "B 過氧化體（peroxisomes）",
+        "images": []
+      },
+      {
+        "text": "C 粒線體（mitochondria）",
+        "images": []
+      },
+      {
+        "text": "D 高爾基體（Golgi apparatus）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 鞭毛（flagella）和纖毛（cilia）有何不同？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鞭毛通常較長，數量較少；纖毛通常較短，數量較多",
+        "images": []
+      },
+      {
+        "text": "B 鞭毛是原核生物特有的構造，真核細胞不具有這個構造；纖毛則在許多原核細胞和真核細胞上都具有",
+        "images": []
+      },
+      {
+        "text": "C 鞭毛的骨幹是由微管（microtubes）構成的；纖毛的骨幹是由微絲（microfilaments）構成的",
+        "images": []
+      },
+      {
+        "text": "D 鞭毛的運動有肌凝蛋白（myosin）的參與；纖毛的運動有動力蛋白（dynein）的參與",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列何選項，在原核細胞發現的機率最高？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 高基氏體、細胞壁",
+        "images": []
+      },
+      {
+        "text": "B 粗內質網、粒線體",
+        "images": []
+      },
+      {
+        "text": "C 葉綠體、溶小體",
+        "images": []
+      },
+      {
+        "text": "D 細胞壁、核糖體",
+        "images": []
+      },
+      {
+        "text": "E 過氧化體、液泡",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 細胞內一些受損之胞器被雙層膜構造包覆後，與lysosome融合成vesicle，使這些受損之胞器能被酵素分解，此現象稱為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Apoptosis",
+        "images": []
+      },
+      {
+        "text": "B Autophagy",
+        "images": []
+      },
+      {
+        "text": "C Autocatalysis",
+        "images": []
+      },
+      {
+        "text": "D Exocytosis",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. Which of the following statements regarding cytoskeleton is true?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The subunit of microfilaments is tubulin.",
+        "images": []
+      },
+      {
+        "text": "B The subunit of intermediate filaments can be dyneins.",
+        "images": []
+      },
+      {
+        "text": "C The subunit of intermediate filaments can be keratin.",
+        "images": []
+      },
+      {
+        "text": "D The subunit of intermediate filaments can be kinesins.",
+        "images": []
+      },
+      {
+        "text": "E Microtubules are polymers of alpha and beta actin.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. Which structure is NOT part of the endomembrane system?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A nuclear envelope",
+        "images": []
+      },
+      {
+        "text": "B chloroplast",
+        "images": []
+      },
+      {
+        "text": "C Golgi apparatus",
+        "images": []
+      },
+      {
+        "text": "D plasma membrane",
+        "images": []
+      },
+      {
+        "text": "E ER",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 腺苷酸環化酶（adenylyl cyclase）的活性，與下列何種酶的活性相反？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷酸化酶（phosphorylase）",
+        "images": []
+      },
+      {
+        "text": "B 蛋白質激酶（protein kinase）",
+        "images": []
+      },
+      {
+        "text": "C 磷酸二酯酶（phosphodiesterase）",
+        "images": []
+      },
+      {
+        "text": "D 蛋白質磷酸酶（protein phosphatase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 關於單一細胞，下列何種胞器構造可控制細胞內各種代謝作用之進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內質網（ER）",
+        "images": []
+      },
+      {
+        "text": "B 微粒體（microbody）",
+        "images": []
+      },
+      {
+        "text": "C 高基氏體（golgi apparatus）",
+        "images": []
+      },
+      {
+        "text": "D 細胞核（nucleus）",
+        "images": []
+      },
+      {
+        "text": "E 粒線體（mitochondria）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 細胞外間質（Extracellular Matrix）的組成蛋白中，不包含下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 膠原蛋白（collagen）",
+        "images": []
+      },
+      {
+        "text": "B 肌動蛋白（actin）",
+        "images": []
+      },
+      {
+        "text": "C 基膜黏連蛋白（laminin）",
+        "images": []
+      },
+      {
+        "text": "D 彈力蛋白（elastin）",
+        "images": []
+      },
+      {
+        "text": "E 纖維醣蛋白（fibronectin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

@@ -1,0 +1,1417 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列有關小腦損傷的常見症狀敘述中，哪一個答案是最好的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 休止性振顫（resting tremor）",
+        "images": []
+      },
+      {
+        "text": "B 軟癱（flaccid paralysis）",
+        "images": []
+      },
+      {
+        "text": "C 心搏過慢（bradykinesia）",
+        "images": []
+      },
+      {
+        "text": "D 意志性振顫（intention tremor）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 當你聽到悲傷的音樂時，下列那一腦區將會被活化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 布羅卡區（Broca's area）",
+        "images": []
+      },
+      {
+        "text": "B 韋尼克區（Wernicke's area）",
+        "images": []
+      },
+      {
+        "text": "C 伏隔核（Accumbens）",
+        "images": []
+      },
+      {
+        "text": "D 杏仁核（Amygdala）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 哪一區腦葉是將短期記憶轉變成長期記憶？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 下顳葉",
+        "images": []
+      },
+      {
+        "text": "B 枕葉",
+        "images": []
+      },
+      {
+        "text": "C 前額葉",
+        "images": []
+      },
+      {
+        "text": "D 中顳葉",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 邊緣系統（limbic system）和何種功能有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 控制呼吸",
+        "images": []
+      },
+      {
+        "text": "B 協調肌肉活性",
+        "images": []
+      },
+      {
+        "text": "C 調控情緒⾏為",
+        "images": []
+      },
+      {
+        "text": "D 維持清醒",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Melatonin can participate in which one of the following items?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Skin pigmentation.",
+        "images": []
+      },
+      {
+        "text": "B Monitoring day length.",
+        "images": []
+      },
+      {
+        "text": "C Biological rhythms.",
+        "images": []
+      },
+      {
+        "text": "D Reproduction.",
+        "images": []
+      },
+      {
+        "text": "E All of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 親眼目睹美國紐約911恐怖攻擊慘狀的目擊者，事後持續接受心理治療，同時也接受腦神 經醫學的功能性核磁共振（functional MRI, fMRI）造影診斷。fMRI的結果顯示目擊者回想目睹 911 事發經過的悲傷記憶時，下列哪一個大腦部位活動力的訊號最顯著？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 下視丘（hypothalamus）",
+        "images": []
+      },
+      {
+        "text": "B 杏仁核（amygdala）",
+        "images": []
+      },
+      {
+        "text": "C 基底核（basal nuclei）",
+        "images": []
+      },
+      {
+        "text": "D 依核（nucleus accumbens）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 關於大腦結構與其主要功能的配對，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 頂葉（parietal lobe）— 聽覺（hearing）、產生語言（speech production）",
+        "images": []
+      },
+      {
+        "text": "B 額葉（frontal lobe）— 決策的制定（decision making）",
+        "images": []
+      },
+      {
+        "text": "C 枕葉（occipital lobe）— 對骨骼肌肉的控制（control of skeletal muscles）",
+        "images": []
+      },
+      {
+        "text": "D 顳葉（temporal lobe）— 視覺處理（visual processing）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 下列何者是人類的體溫調節中樞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 小腦",
+        "images": []
+      },
+      {
+        "text": "B 下視丘",
+        "images": []
+      },
+      {
+        "text": "C 延腦",
+        "images": []
+      },
+      {
+        "text": "D 大腦",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列腦的那一構造主要與情感記憶的貯存功用有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 上交叉核（Suprachiasmatic nucleus）",
+        "images": []
+      },
+      {
+        "text": "B 杏仁核（Amygdala）",
+        "images": []
+      },
+      {
+        "text": "C 小腦",
+        "images": []
+      },
+      {
+        "text": "D 視丘",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 腎上腺素（epinephrine）對於肝細胞、心肌細胞以及平滑肌細胞會引發不同的細胞生理效應的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 不同細胞具有不同的活化因子（activators），受到腎上腺素刺激時會引發不同的基因表達（gene expression）",
+        "images": []
+      },
+      {
+        "text": "B 不同細胞的腎上腺素受體蛋白類型（receptor subtype）不同，引發不同的細胞訊息傳遞路徑",
+        "images": []
+      },
+      {
+        "text": "C 不同細胞受到腎上腺素刺激時會引發不同的基因重排（gene rearrangement）",
+        "images": []
+      },
+      {
+        "text": "D 不同細胞的腎上腺素細胞訊息傳遞路徑相同，但是最終活化的標的蛋白（target proteins）不同",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 腦葉中，下列何者負責視覺？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 前葉（frontal lobe）",
+        "images": []
+      },
+      {
+        "text": "B 頂葉（parietal lobe）",
+        "images": []
+      },
+      {
+        "text": "C 顳葉（temporal lobe）",
+        "images": []
+      },
+      {
+        "text": "D 枕葉（occipital lobe）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 腦部各結構的功能配對下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A corpus callosum — 兩大腦半球的聯繫",
+        "images": []
+      },
+      {
+        "text": "B amygdale — 學習記憶",
+        "images": []
+      },
+      {
+        "text": "C hippocampus — 睡眠中心",
+        "images": []
+      },
+      {
+        "text": "D cerebellum — 身體運動協調",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 藉由韋尼克氏區（Wernicke's area）受損的病人會產生下列何種障礙？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 協調肢體動作",
+        "images": []
+      },
+      {
+        "text": "B 產生言語",
+        "images": []
+      },
+      {
+        "text": "C 臉的辨認",
+        "images": []
+      },
+      {
+        "text": "D 理解語言",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 人類身體應付突發狀況，是由自律神經（Autonomic nerves）的那一部份負責？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 副交感神經（Parasympathetic nerves）",
+        "images": []
+      },
+      {
+        "text": "B 交感神經（Sympathetic nerves）",
+        "images": []
+      },
+      {
+        "text": "C 中樞神經系統（Central nervous system）",
+        "images": []
+      },
+      {
+        "text": "D 周圍神經系統（Peripheral nervous system）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 中樞神經系統中負責製造髓鞘（Myelin sheath）的細胞是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 星形細胞（Astrocytes）",
+        "images": []
+      },
+      {
+        "text": "B 寡樹突細胞（Oligodendrocytes）",
+        "images": []
+      },
+      {
+        "text": "C 腦室膜細胞（Ependymal cells）",
+        "images": []
+      },
+      {
+        "text": "D 許旺氏細胞（Schwann cells）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Which of the following statements regarding the nervous system is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Schwann cell is also a kind of nerve cell and found in the peripheral nervous system (PNS).",
+        "images": []
+      },
+      {
+        "text": "B The functional unit of the nervous system is the neuron.",
+        "images": []
+      },
+      {
+        "text": "C Sensory neurons convey signal from sensory receptors into the central nervous system (CNS).",
+        "images": []
+      },
+      {
+        "text": "D Motor neurons convey signals from the CNS to effector cells.",
+        "images": []
+      },
+      {
+        "text": "E PNS has ganglia, clusters of neuron cell bodies.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下列何者最能呈現脊椎動物的中樞神經系統？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 神經節（ganglia）",
+        "images": []
+      },
+      {
+        "text": "B 脊神經（spinal nerve）",
+        "images": []
+      },
+      {
+        "text": "C 在體內所有的神經",
+        "images": []
+      },
+      {
+        "text": "D 由感受器起源的神經",
+        "images": []
+      },
+      {
+        "text": "E 大腦（brain）和脊髓（spinal cord）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 神經網是一種神經系統的類型，下列哪種生物的神經傳遞以此類型為主？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 水母",
+        "images": []
+      },
+      {
+        "text": "B 蝗蟲",
+        "images": []
+      },
+      {
+        "text": "C 蚯蚓",
+        "images": []
+      },
+      {
+        "text": "D 招潮蟹",
+        "images": []
+      },
+      {
+        "text": "E 蜥蜴",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 下列那一種支持細胞，會在中樞神經覆蓋腦微血管並形成血腦障壁？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 小神經膠細胞",
+        "images": []
+      },
+      {
+        "text": "B 室管膜細胞",
+        "images": []
+      },
+      {
+        "text": "C 寡樹突細胞",
+        "images": []
+      },
+      {
+        "text": "D 星狀細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 語言是人類智慧和文化的一個重要部分。慣用右手個人的語言主要大腦區域最可能於下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 右半球海馬（hippocampus）附近",
+        "images": []
+      },
+      {
+        "text": "B 右半球外側裂（lateral cerebral sulcus）附近",
+        "images": []
+      },
+      {
+        "text": "C 左半球基底核（basal ganglia）附近",
+        "images": []
+      },
+      {
+        "text": "D 左半球外側裂（lateral cerebral sulcus）附近",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列何者不是兩側對稱動物（bilaterally symmetrical animals）在演化過程中神經系統發育之趨勢？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A cephalization",
+        "images": []
+      },
+      {
+        "text": "B specialization of function",
+        "images": []
+      },
+      {
+        "text": "C concentration of neurons",
+        "images": []
+      },
+      {
+        "text": "D an increased number of neurons",
+        "images": []
+      },
+      {
+        "text": "E simplistic synaptic contacts allowing integration",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 人體內的神經系統由哪兩大部分所組成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大腦及腦幹（cerebrum and brain stem）",
+        "images": []
+      },
+      {
+        "text": "B 感覺神經系統與動作神經系統（sensory and motor neurons）",
+        "images": []
+      },
+      {
+        "text": "C 交感神經系統與副交感神經系統（sympathetic and parasympathetic nervous system）",
+        "images": []
+      },
+      {
+        "text": "D 自主神經系統與非自主神經系統（autonomic and nonautonomic nervous system）",
+        "images": []
+      },
+      {
+        "text": "E 中樞神經系統及周邊神經系統（central and peripheral nervous system）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列何者是把短期記憶轉換成長期記憶的主要腦區？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 下視丘",
+        "images": []
+      },
+      {
+        "text": "B 視丘（thalamus）",
+        "images": []
+      },
+      {
+        "text": "C 海馬（hippocampus）",
+        "images": []
+      },
+      {
+        "text": "D 黑質（substantia nigra）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Melatonin is a hormone produced in the pineal gland. It can be used to treat symptoms of sleep disorders and seasonal affective disorder because",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A it decreases production of serotonin.",
+        "images": []
+      },
+      {
+        "text": "B it increases production of serotonin.",
+        "images": []
+      },
+      {
+        "text": "C it increases production of tryptophan.",
+        "images": []
+      },
+      {
+        "text": "D it activates the brainstem.",
+        "images": []
+      },
+      {
+        "text": "E its peak production is normally at night.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. What part of the human brain contains control centers that establish a breathing rhythm?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A midbrain",
+        "images": []
+      },
+      {
+        "text": "B cerebellum",
+        "images": []
+      },
+      {
+        "text": "C pituitary",
+        "images": []
+      },
+      {
+        "text": "D thalamus",
+        "images": []
+      },
+      {
+        "text": "E medulla oblongata",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 關於胚胎發育時，腦部的端腦（telencephalon）將來會發育為什麼構造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 中腦（midbrain）",
+        "images": []
+      },
+      {
+        "text": "B 大腦（cerebrum）",
+        "images": []
+      },
+      {
+        "text": "C 小腦（cerebellum）",
+        "images": []
+      },
+      {
+        "text": "D 延腦（medulla）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 生物體內生物時鐘主要是管理睡眠與清醒極重要機制，此調控區位於人體的哪個位置？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 下視丘（hypothalamus）",
+        "images": []
+      },
+      {
+        "text": "B 小腦（cerebellum）",
+        "images": []
+      },
+      {
+        "text": "C 中腦（mesencephalon）",
+        "images": []
+      },
+      {
+        "text": "D 大腦（cerebrum）",
+        "images": []
+      },
+      {
+        "text": "E 腦幹（brain stem）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 形成和建立情緒與下列哪些腦區有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 額葉（frontal Lobes）與邊緣系統（Limbic System）",
+        "images": []
+      },
+      {
+        "text": "B 額葉（frontal Lobes）與頂葉（parietal lobes）",
+        "images": []
+      },
+      {
+        "text": "C 頂葉（parietal lobes）與邊緣系統.（Limbic System）",
+        "images": []
+      },
+      {
+        "text": "D 額葉（frontal Lobes）與枕葉（Occipital Lobes）",
+        "images": []
+      },
+      {
+        "text": "E 枕葉（Occipital Lobes）與顳葉（Temporal Lobe）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 大腦的控制中心，主要負責調控專注力、計畫、決策、判斷及提取記憶的區域為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 前額葉皮質（prefrontal cortex）",
+        "images": []
+      },
+      {
+        "text": "B 杏仁體（amygdala）",
+        "images": []
+      },
+      {
+        "text": "C 海馬迴（hippocampus gyrus）",
+        "images": []
+      },
+      {
+        "text": "D 紋狀體（striatum）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 動物有其晝夜週期的節奏，他們與日夜環境中的光週期同步。在大多數情況下，此同步過程最重要是依賴於下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 視交叉上核",
+        "images": []
+      },
+      {
+        "text": "B 基底核",
+        "images": []
+      },
+      {
+        "text": "C 小腦",
+        "images": []
+      },
+      {
+        "text": "D 海馬",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 下列哪個區域受損會造成表達性失語症，說話緩慢不清晰，患者可以理解句子但無法複誦？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 海馬回",
+        "images": []
+      },
+      {
+        "text": "B 視丘",
+        "images": []
+      },
+      {
+        "text": "C 布洛卡氏區（Broca’s area）",
+        "images": []
+      },
+      {
+        "text": "D 魏尼凱氏區（Wernicke’s area）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. Cephalization is primarily associated with",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A adaptation to dark environments.",
+        "images": []
+      },
+      {
+        "text": "B method of reproduction.",
+        "images": []
+      },
+      {
+        "text": "C fate of the blastopore.",
+        "images": []
+      },
+      {
+        "text": "D type of digestive system.",
+        "images": []
+      },
+      {
+        "text": "E bilateral symmetry.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列何種感覺不經視丘可直接傳送至大腦皮質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 味覺（Taste）",
+        "images": []
+      },
+      {
+        "text": "B 視覺（vision）",
+        "images": []
+      },
+      {
+        "text": "C 嗅覺（Olfaction）",
+        "images": []
+      },
+      {
+        "text": "D 聽覺（hearing）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 有關褪黑激素（melatonin）的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 於夜晚分泌最旺盛",
+        "images": []
+      },
+      {
+        "text": "B 由松果體分泌，可調控生理節律",
+        "images": []
+      },
+      {
+        "text": "C 與黑色素（melanin）的化學結構類似",
+        "images": []
+      },
+      {
+        "text": "D 可影響某些脊椎動物皮膚色素沉著（skin pigmentation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 上運動神經元起自大腦皮質運動區而終止於何處？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 視丘",
+        "images": []
+      },
+      {
+        "text": "B 延腦",
+        "images": []
+      },
+      {
+        "text": "C 脊髓的前角",
+        "images": []
+      },
+      {
+        "text": "D 脊髓的後角",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 生物時鐘可以調節睡眠與清醒之週期，此生物時鐘是位於下列何者中？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 中腦（midbrain）",
+        "images": []
+      },
+      {
+        "text": "B 下視丘（hypothalamus）",
+        "images": []
+      },
+      {
+        "text": "C 大腦（cerebrum）",
+        "images": []
+      },
+      {
+        "text": "D 小腦（cerebellum）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 下列哪一選項不是大腦皮質（cortex）的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 短期記憶（short-term memory）",
+        "images": []
+      },
+      {
+        "text": "B 長期記憶（long-term memory）",
+        "images": []
+      },
+      {
+        "text": "C 晝夜節律（circadian rhythm）",
+        "images": []
+      },
+      {
+        "text": "D 步伐節奏（foot-tapping rhythm）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. Which area of the brain contains neural stem cells that are apparently important in learning and memory?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A arcuate fasciculus",
+        "images": []
+      },
+      {
+        "text": "B hippocampus",
+        "images": []
+      },
+      {
+        "text": "C temporal lobe",
+        "images": []
+      },
+      {
+        "text": "D cerebral cortex",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. Short-term memory information processing usually causes changes in the ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A brainstem",
+        "images": []
+      },
+      {
+        "text": "B medulla",
+        "images": []
+      },
+      {
+        "text": "C hypothalamus",
+        "images": []
+      },
+      {
+        "text": "D hippocampus",
+        "images": []
+      },
+      {
+        "text": "E cranial nerves",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 有關人體周邊神經系統（peripheral nervous system）敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 包含感覺神經系統（sensory nervous system）",
+        "images": []
+      },
+      {
+        "text": "B 包含自律神經系統（autonomic nervous system）",
+        "images": []
+      },
+      {
+        "text": "C 包含全部連絡神經元（interneuron）",
+        "images": []
+      },
+      {
+        "text": "D 包含體神經系統（somatic nervous system）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. One neurotransmitter associated with sleep, mood, attention, and learning is",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A acetylcholine.",
+        "images": []
+      },
+      {
+        "text": "B nitric oxide.",
+        "images": []
+      },
+      {
+        "text": "C epinephrine.",
+        "images": []
+      },
+      {
+        "text": "D serotonin.",
+        "images": []
+      },
+      {
+        "text": "E melatonin.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何者最有可能為記憶和學習的基礎？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 記憶固化（memory consolidation）",
+        "images": []
+      },
+      {
+        "text": "B 全有全無律（all-or-none principle）",
+        "images": []
+      },
+      {
+        "text": "C 神經可塑性（neuronal plasticity）",
+        "images": []
+      },
+      {
+        "text": "D 條件反射（conditioning reflex）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 下列何項是星狀細胞（Astrocytes）的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 製造腦脊髓液",
+        "images": []
+      },
+      {
+        "text": "B 作用與巨噬細胞類似",
+        "images": []
+      },
+      {
+        "text": "C 維持細胞外液中適當的鉀離子濃度",
+        "images": []
+      },
+      {
+        "text": "D 產生動作電位",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. Which endocrine gland synthesizes melatonin?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pineal",
+        "images": []
+      },
+      {
+        "text": "B adrenal cortex",
+        "images": []
+      },
+      {
+        "text": "C thyroid",
+        "images": []
+      },
+      {
+        "text": "D parathyroid",
+        "images": []
+      },
+      {
+        "text": "E pituitary",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 若一人類患者的腦幹（brainstem）受損，下列何種情況會最為明顯？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 無法調節體溫",
+        "images": []
+      },
+      {
+        "text": "B 無法調節心臟功能",
+        "images": []
+      },
+      {
+        "text": "C 出現幻聽",
+        "images": []
+      },
+      {
+        "text": "D 出現視幻覺",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 長期增益（long-term potentiation）及長期抑制（long-term depression）皆需要哪個離子自突觸後神經元細胞膜釋出？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Cl-",
+        "images": []
+      },
+      {
+        "text": "B K+",
+        "images": []
+      },
+      {
+        "text": "C Ca2+",
+        "images": []
+      },
+      {
+        "text": "D Mg2+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. The blood-brain barrier ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A is formed by tight junctions",
+        "images": []
+      },
+      {
+        "text": "B is formed by oligodendrocytes",
+        "images": []
+      },
+      {
+        "text": "C tightly regulates the intracellular environment of the CNS",
+        "images": []
+      },
+      {
+        "text": "D uses chemical signals to communicate with the spinal cord",
+        "images": []
+      },
+      {
+        "text": "E provides support to the brain tissue",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. Wernicke’s area受損時，身體哪部分的功能受影響最大？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 對口語或書面文字理解的能力",
+        "images": []
+      },
+      {
+        "text": "B 說話能力",
+        "images": []
+      },
+      {
+        "text": "C 聽力",
+        "images": []
+      },
+      {
+        "text": "D 視力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列為人類腦部構造與功能的配對，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 邊緣系統（limbic system）— 情緒反應和記憶功能",
+        "images": []
+      },
+      {
+        "text": "B 胼胝體（corpus callosum）— 製造激素並調節體溫",
+        "images": []
+      },
+      {
+        "text": "C 延腦（medulla oblongata）— 恆定性的調控",
+        "images": []
+      },
+      {
+        "text": "D 小腦（cerebellum）— 運動與平衡的協調",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 身體中的那些系統與調控身體運作有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 循環系統",
+        "images": []
+      },
+      {
+        "text": "B 淋巴系統",
+        "images": []
+      },
+      {
+        "text": "C 神經系統",
+        "images": []
+      },
+      {
+        "text": "D 肌肉系統",
+        "images": []
+      },
+      {
+        "text": "E 內分泌系統",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C",
+      "E"
+    ]
+  }
+]

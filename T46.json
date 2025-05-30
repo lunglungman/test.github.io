@@ -1,0 +1,1473 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 決定礦物質在植物的生理角色，下列哪個方法比較可行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氣體層析質譜儀（gas chromatograph mass spectrometry）",
+        "images": []
+      },
+      {
+        "text": "B 水耕（hydroponic culture）",
+        "images": []
+      },
+      {
+        "text": "C 病原感染",
+        "images": []
+      },
+      {
+        "text": "D 肥料施用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. The most immediate potential benefits of introducing genetically modified crops include ________.I. creating crops that can grow on land previously unsuitable for agricultureII. creating crops with better potential for biofuel productionIII. creating crops with better nutritional attributesIV. increasing crop yieldV. decreasing the mutation rate of certain genes",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A III, IV, and V",
+        "images": []
+      },
+      {
+        "text": "B II, III, and IV",
+        "images": []
+      },
+      {
+        "text": "C I, II, and III",
+        "images": []
+      },
+      {
+        "text": "D I, II, III, and IV",
+        "images": []
+      },
+      {
+        "text": "E I, II, III, IV, and V",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 植物缺乏礦物質時會出現病癥，當缺乏某種礦物質時，病癥最容易出現於老葉而非嫩葉，請問最可能的原因是什麼？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 此礦物質為植物巨量養分（macronutrients）",
+        "images": []
+      },
+      {
+        "text": "B 此礦物質在植物體內具有良好的移動性",
+        "images": []
+      },
+      {
+        "text": "C 此礦物質影響植物氣孔開閉",
+        "images": []
+      },
+      {
+        "text": "D 此礦物質來自於大氣",
+        "images": []
+      },
+      {
+        "text": "E 此礦物質為葉綠素合成時所需",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 下列哪一種形態的氮是植物的根可以直接吸收？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A N2",
+        "images": []
+      },
+      {
+        "text": "B NH3",
+        "images": []
+      },
+      {
+        "text": "C NO3-",
+        "images": []
+      },
+      {
+        "text": "D NO",
+        "images": []
+      },
+      {
+        "text": "E NO2",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Which of the following is a correct statement about nitrogen fixation in root nodules?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The plant contributes the nitrogenase enzyme.",
+        "images": []
+      },
+      {
+        "text": "B The process is relatively inexpensive in terms of ATP costs.",
+        "images": []
+      },
+      {
+        "text": "C Leghemoglobin helps maintain a low O2concentration within the nodule.",
+        "images": []
+      },
+      {
+        "text": "D The bacteria of the nodule are autotrophic.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. Most of the dry weight of a plant is the result of uptake of ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A carbohydrates in the root hairs and concentration in the root cortex",
+        "images": []
+      },
+      {
+        "text": "B water and minerals through root hairs",
+        "images": []
+      },
+      {
+        "text": "C water and minerals through mycorrhizae",
+        "images": []
+      },
+      {
+        "text": "D CO2through stoma",
+        "images": []
+      },
+      {
+        "text": "E CO2and O2through stomata in leaves",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. To be useful to plants soil nitrogen must usually occur as:",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A N2and NH3",
+        "images": []
+      },
+      {
+        "text": "B NH3and NO3-",
+        "images": []
+      },
+      {
+        "text": "C NO3-and N2",
+        "images": []
+      },
+      {
+        "text": "D N2and NO2",
+        "images": []
+      },
+      {
+        "text": "E NO2and NO3-",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. Why is nitrogen fixation needed for the growth of some plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Nitrogen fixers are sometimes symbiotic with legumes.",
+        "images": []
+      },
+      {
+        "text": "B Nitrogen fixation can only be done by certain prokaryotes.",
+        "images": []
+      },
+      {
+        "text": "C Nitrogen fixation can produce metabolic energy for plants’ growth.",
+        "images": []
+      },
+      {
+        "text": "D Fixed nitrogen is a limiting factor for plant growth.",
+        "images": []
+      },
+      {
+        "text": "E Nitrogen-fixing capacity is varied in many different plants.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "複選題",
+    "question": "9. 有關下列元素在植物體所扮演之主要功能的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷（P）是核酸、磷脂、ATP和許多酵素的組成物",
+        "images": []
+      },
+      {
+        "text": "B 鐵（Fe）包含在葉綠素的產物中",
+        "images": []
+      },
+      {
+        "text": "C 鎂（Mg）是葉綠素不可或缺元素",
+        "images": []
+      },
+      {
+        "text": "D 硫（S）是蛋白質的基本成份之一",
+        "images": []
+      },
+      {
+        "text": "E 氮（N）是有機物質的基本成份",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "E"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. Mycorrhizal fungi (directly) help their plant partners acquire",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sugars.",
+        "images": []
+      },
+      {
+        "text": "B sunlight.",
+        "images": []
+      },
+      {
+        "text": "C seed dispersal.",
+        "images": []
+      },
+      {
+        "text": "D soil nutrients.",
+        "images": []
+      },
+      {
+        "text": "E pollination.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. Which one of the statements is INCORRECT for the major difference between ectomycorrhizae and endomycorrhizae?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Endomycorrhizae but not ectomycorrhizae form a dense sheath over the surface of the root.",
+        "images": []
+      },
+      {
+        "text": "B Ectomycorrhizae are found in about 90% of plant families.",
+        "images": []
+      },
+      {
+        "text": "C Ectomycorrhizae do not penetrate root cells, whereas endomycorrhiza grow into the invaginations of the root cell membranes.",
+        "images": []
+      },
+      {
+        "text": "D A and B only.",
+        "images": []
+      },
+      {
+        "text": "E A, B and C.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 植物寄生者可以自行進行光合作用獲得碳水化合物，但由植物宿主獲得水分和養分，下列何者最可能為此類生物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 菌根（mycorrhizae）",
+        "images": []
+      },
+      {
+        "text": "B 病媒（vector）",
+        "images": []
+      },
+      {
+        "text": "C 寄生物（parasite）",
+        "images": []
+      },
+      {
+        "text": "D 半寄生物（hemiparasite）",
+        "images": []
+      },
+      {
+        "text": "E 地衣（lichen）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 豆科植物的根瘤是豆科植物的根和下列何者共生而成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 真菌",
+        "images": []
+      },
+      {
+        "text": "B 細菌",
+        "images": []
+      },
+      {
+        "text": "C 藻類",
+        "images": []
+      },
+      {
+        "text": "D 原生動物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列何者不是菌根（mycorrhizae）對植物細胞的貢獻？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 分泌抗生素以抵抗病原菌的危害",
+        "images": []
+      },
+      {
+        "text": "B 增加水分的吸收",
+        "images": []
+      },
+      {
+        "text": "C 分泌生長因子刺激植物細胞生長",
+        "images": []
+      },
+      {
+        "text": "D 增加有機物的合成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列何者是菌根（mycorrhizae）對植物細胞的貢獻：(1) 分泌抗生素以抵抗病原菌的危害(2) 增加水分的吸收(3) 分泌生長因子刺激植物細胞生長(4) 增加有機物的合成",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "C (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(2)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 豆科下列與根瘤菌固氮作用相關的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 豆科植物與其共生之根瘤菌間會有物種專一性",
+        "images": []
+      },
+      {
+        "text": "B 細菌提供植物可利用的氮，植物提供細菌碳水化合物及其他有機化合物",
+        "images": []
+      },
+      {
+        "text": "C 豆血紅蛋白（leghemoglobin）由根瘤菌形成，含有鐵質，可與氧結合",
+        "images": []
+      },
+      {
+        "text": "D 豆血紅蛋白有利於維持根瘤內的低氧濃度，以維持固氮酶的作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下列哪一類原核生物對人類來說不具致病性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 披衣菌",
+        "images": []
+      },
+      {
+        "text": "B 根瘤菌",
+        "images": []
+      },
+      {
+        "text": "C 炭疽菌",
+        "images": []
+      },
+      {
+        "text": "D 鏈球菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列選項中所包含的生物，其交互作用，何者與其他四種最不相同？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 根瘤",
+        "images": []
+      },
+      {
+        "text": "B 菌根",
+        "images": []
+      },
+      {
+        "text": "C 地衣",
+        "images": []
+      },
+      {
+        "text": "D 滿江紅",
+        "images": []
+      },
+      {
+        "text": "E 髮菜",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. ________ absorb products of photosynthesis from living host plants.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Epiphytes",
+        "images": []
+      },
+      {
+        "text": "B Carnivorous plants",
+        "images": []
+      },
+      {
+        "text": "C Xerophytes",
+        "images": []
+      },
+      {
+        "text": "D Halophytes",
+        "images": []
+      },
+      {
+        "text": "E Parasitic plants",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 當土壤中缺乏磷時會使得植物最困難製造",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA",
+        "images": []
+      },
+      {
+        "text": "B 蛋白質",
+        "images": []
+      },
+      {
+        "text": "C 脂肪酸",
+        "images": []
+      },
+      {
+        "text": "D 纖維素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 利用基因轉殖（genetic transformation）技術育成基因改造生物（genetic modification organism）的操作，植物較動物更容易成功的原因，下列哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 植物基因不含有內含子（intron）",
+        "images": []
+      },
+      {
+        "text": "B 有較多種類的載體（vector）可提供植物基因進行DNA重組，將目標基因導入植物細胞中",
+        "images": []
+      },
+      {
+        "text": "C 植物具有分化全能性（totipotency），其單一細胞即可經組織培養技術使其再生成一株完整的植物",
+        "images": []
+      },
+      {
+        "text": "D 使用顯微注射（microinjection）技術進行植物細胞的基因轉殖較動物細胞容易",
+        "images": []
+      },
+      {
+        "text": "E 一般植物細胞具有較大的細胞核",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何種開花植物為全寄生植物（Holoparasite）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 桑寄生Loranthusparasitica",
+        "images": []
+      },
+      {
+        "text": "B 槲寄生Viscum sp",
+        "images": []
+      },
+      {
+        "text": "C 蛇菰（Balannophora）",
+        "images": []
+      },
+      {
+        "text": "D 地黃（Rehmannia glutinosa）",
+        "images": []
+      },
+      {
+        "text": "E 文心蘭（Oncidium）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 有關固氮作用（nitrogen fixation）的反應，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 將ammonia轉換成nitrite",
+        "images": []
+      },
+      {
+        "text": "B 將nitrate轉換成ammonia",
+        "images": []
+      },
+      {
+        "text": "C 將nitrite轉換成nitrogen gas",
+        "images": []
+      },
+      {
+        "text": "D 將nitrogen gas轉換成ammonia",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Which one is true of micronutrients in plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Overdoses of them can not be toxic.",
+        "images": []
+      },
+      {
+        "text": "B They generally help in catalytic functions in the plants.",
+        "images": []
+      },
+      {
+        "text": "C They are not required for a plant to grow from seed.",
+        "images": []
+      },
+      {
+        "text": "D They are essential elements of small size and molecular weight.",
+        "images": []
+      },
+      {
+        "text": "E They are the elements required in relatively big amounts.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. Iron deficiency is often indicated by yellowing in newly formed leaves. This suggests that iron ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A is a relatively immobile nutrient in plants",
+        "images": []
+      },
+      {
+        "text": "B is concentrated in the xylem of older leaves",
+        "images": []
+      },
+      {
+        "text": "C is tied up in formed chlorophyll molecules",
+        "images": []
+      },
+      {
+        "text": "D is concentrated in the phloem of older leaves",
+        "images": []
+      },
+      {
+        "text": "E is found in leghemoglobin and reduces the amount available to new plant parts",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. A plant with high levels of tolerance to heavy metals was applied for mining minerals in potential profitable areas. Such an application of this plant is an example of",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A bioremediation.",
+        "images": []
+      },
+      {
+        "text": "B nitrogen fixation.",
+        "images": []
+      },
+      {
+        "text": "C helping locate suitable sites for toxic waste storage.",
+        "images": []
+      },
+      {
+        "text": "D minimizing the erosion of soil in arid lands.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 就環境中氮的循環而言需要那些微生物參與：(1) nitrogen-fixing bacteria(2) nitrifying bacteria(3) denitrifying bacteria(4) ammonifying bacteria",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "B (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 所有的生命都具備某些一致的特性，下列何者最不符合均具備的特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 能對環境變化做出反應",
+        "images": []
+      },
+      {
+        "text": "B 具備維持恆定的機制",
+        "images": []
+      },
+      {
+        "text": "C 生長與發育",
+        "images": []
+      },
+      {
+        "text": "D 需透過食物取得能量",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列何種營養素在植物中的功能是錯誤的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氮─核酸的成分",
+        "images": []
+      },
+      {
+        "text": "B 磷─核酸的成分",
+        "images": []
+      },
+      {
+        "text": "C 鈣─形成細胞壁",
+        "images": []
+      },
+      {
+        "text": "D 鎂─葉綠素的重要成分",
+        "images": []
+      },
+      {
+        "text": "E 鉀─葉綠素的重要成分",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 有關根瘤菌的敘述，下列何者最不可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 根瘤菌主要與豆類植物根部共生形成根瘤進行固氮作用",
+        "images": []
+      },
+      {
+        "text": "B 根瘤菌侵入寄主根內形成根瘤，導致植物死亡",
+        "images": []
+      },
+      {
+        "text": "C 共生的根瘤菌可固定大氣中的氮氣，為植物提供可利用的氮源",
+        "images": []
+      },
+      {
+        "text": "D 根瘤菌為革蘭氏陰性菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 有關固氮作用的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 行共生固氮的微生物不具獨立生活的能力",
+        "images": []
+      },
+      {
+        "text": "B 根瘤菌可控制豆科植物固氮基因的表現",
+        "images": []
+      },
+      {
+        "text": "C 氧濃度升高可增加固氮酶的活性",
+        "images": []
+      },
+      {
+        "text": "D 共生後的根瘤菌部分性質會與共生前不同",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. Which of the following is NOT a function of rhizobacteria?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A produce hormones that stimulate plant growth",
+        "images": []
+      },
+      {
+        "text": "B produce antibiotics that protect roots from disease",
+        "images": []
+      },
+      {
+        "text": "C absorb toxic metals",
+        "images": []
+      },
+      {
+        "text": "D carry out nitrogen fixation",
+        "images": []
+      },
+      {
+        "text": "E supply growing roots with glucose",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. Epiphytes are ________",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A fungi that attack plants.",
+        "images": []
+      },
+      {
+        "text": "B plants that have a symbiotic relationship with fungi.",
+        "images": []
+      },
+      {
+        "text": "C nonphotosynthetic parasitic plants.",
+        "images": []
+      },
+      {
+        "text": "D plants that live in poor soil and digest insects to obtain nitrogen.",
+        "images": []
+      },
+      {
+        "text": "E plants that grow on other plants but do not obtain nutrients from their hosts.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 我們食用的「松露」是一種真菌的球狀子實體，其菌絲會包覆松樹的樹根，協助松樹吸收水分與礦物質，松樹則提供其生長所需的養分。下列哪一組生物的關係，和「松露」與「松樹」最相似？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 「跳蚤」與「田鼠」",
+        "images": []
+      },
+      {
+        "text": "B 「山蘇」與「樟樹」",
+        "images": []
+      },
+      {
+        "text": "C 「牛樟芝」與「牛樟」",
+        "images": []
+      },
+      {
+        "text": "D 「根瘤菌」與「大豆」",
+        "images": []
+      },
+      {
+        "text": "E 「小花蔓澤蘭」與「榕樹」",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 植物生長發育需要許多營養元素，下列何者對於鈣元素（Calcium）在植物體中的作用敘述最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈣元素佔植物體乾重量的極少部分，屬於微量營養素（Micronutrient）",
+        "images": []
+      },
+      {
+        "text": "B 鈣元素在植物體中為合成核酸（Nucleic acid）之主要成分",
+        "images": []
+      },
+      {
+        "text": "C 鈣元素調控細胞對刺激（Stimuli）之反應",
+        "images": []
+      },
+      {
+        "text": "D 鈣元素為葉綠素之成分之一，所以缺鈣時葉片會有黃化現象",
+        "images": []
+      },
+      {
+        "text": "E 鈣元素與植物酵素作用無關",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 在生物碎屑中所含有的氮，需要經過下列哪種作用後，始可讓植物吸收使用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 固氮作用（nitrogen fixation）",
+        "images": []
+      },
+      {
+        "text": "B 脫硝作用（denitrification）",
+        "images": []
+      },
+      {
+        "text": "C 去礦化作用（demineralization）",
+        "images": []
+      },
+      {
+        "text": "D 分解作用（decomposition）",
+        "images": []
+      },
+      {
+        "text": "E 化學風化作用（chemical weathering）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. Identify which one is FALSE.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Nitrogen-fixing microbes provide energy for carbon fixation.",
+        "images": []
+      },
+      {
+        "text": "B Both eukaryotes and prokaryotes can assimilate nitrogen into organic compounds.",
+        "images": []
+      },
+      {
+        "text": "C Nitrogen may be a limiting plant nutrient, although the atmosphere is 80% nitrogen gas (N2).",
+        "images": []
+      },
+      {
+        "text": "D Bacteria obtain energy from nitrification.",
+        "images": []
+      },
+      {
+        "text": "E Denitrifying bacteria obtain oxygen gas (O2) from nitrogenous compounds.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 黃金米（golden rice）是蘇黎世瑞士聯邦理工學院的包崔克斯（Ingo Potrykus）和德國佛萊堡大學的貝爾（Peter Beyer）於2000年研發出來的基因轉殖水稻（Oryza sativa）。他們研發黃金米的主要目的是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 讓水稻原本無法合成β-胡蘿蔔素（β-carotene）的組織具有合成的能力",
+        "images": []
+      },
+      {
+        "text": "B 提高水稻的產量，增加產值",
+        "images": []
+      },
+      {
+        "text": "C 提高水稻的抗鹽性，擴增可耕種水稻的區域",
+        "images": []
+      },
+      {
+        "text": "D 提高水稻的抗寒性，擴增可耕種水稻的季節",
+        "images": []
+      },
+      {
+        "text": "E 提高水稻的抗旱性，減少耕種水稻的耗水量",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列何者為植物生長發育需求量較多的巨量營養素（macronutrient）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Na",
+        "images": []
+      },
+      {
+        "text": "B Fe",
+        "images": []
+      },
+      {
+        "text": "C Zn",
+        "images": []
+      },
+      {
+        "text": "D Cu",
+        "images": []
+      },
+      {
+        "text": "E K",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. Which of the following elements is NOT macronutrients for plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A potassium",
+        "images": []
+      },
+      {
+        "text": "B phosphorus",
+        "images": []
+      },
+      {
+        "text": "C calcium",
+        "images": []
+      },
+      {
+        "text": "D manganese",
+        "images": []
+      },
+      {
+        "text": "E sulfur",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 土壤淋溶作用（soil leaching）會造成土壤養分流失（nutrient deficiencies），下列何者是植物因土壤養分流失所造成之現象？I. 萎黃病（chlorosis）II. 分生組織之死亡（death of meristems）III. 葉綠素儲存過多（excess storage of chlorophyll）IV. 減少節間長度（reduced internode length）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A I, II, and IV",
+        "images": []
+      },
+      {
+        "text": "B II, III, and IV",
+        "images": []
+      },
+      {
+        "text": "C I, II, III, and IV",
+        "images": []
+      },
+      {
+        "text": "D I, II, and III",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. What major benefits do plants and mycorrhizal fungi receive from their symbiotic relationship?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Fungi receive photosynthetic products in exchange for living in plant root nodules.",
+        "images": []
+      },
+      {
+        "text": "B Plants receive nitrogen and phosphorus, and fungi receive photosynthetic products.",
+        "images": []
+      },
+      {
+        "text": "C Plants receive enzymes, and fungi receive nitrogen and phosphorus.",
+        "images": []
+      },
+      {
+        "text": "D Plants receive increased root surface area, and fungi receive digestive enzymes.",
+        "images": []
+      },
+      {
+        "text": "E All of the above are false.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 豆科植物根部的根瘤（Root nodules），其主要的功能為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 讓共生菌（Symbiotic bacteria）生活",
+        "images": []
+      },
+      {
+        "text": "B 儲存醣類",
+        "images": []
+      },
+      {
+        "text": "C 吸收水分",
+        "images": []
+      },
+      {
+        "text": "D 根部的生長點（Meristem）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 關於植物根細胞與固氮細菌（nitrogen-fixing bacteria）之關係，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 後者可幫助前者吸收水分",
+        "images": []
+      },
+      {
+        "text": "B 前者會放出不具專一性的類黃酮（flavonoid）吸引後者",
+        "images": []
+      },
+      {
+        "text": "C 後者通常含nitrogenase，且在固定氮時不需耗費ATP",
+        "images": []
+      },
+      {
+        "text": "D 後者在接受到類黃酮刺激後會放出Nod factor刺激前者產生感染線（infection thread）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 土壤中①分解腐植質中有機化合物而產生氨（NH3），而於厭氧土壤中②將硝酸根（NO3-）轉變為氮氣（N2）擴散至大氣中。下列組合何者為正確答案？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ① nitrifying bacteria；② ammonifying bacteria",
+        "images": []
+      },
+      {
+        "text": "B ① nitrogen-fixing bacteria；② denitrifying bacteria",
+        "images": []
+      },
+      {
+        "text": "C ① ammonifying bacteria；② denitrifying bacteria",
+        "images": []
+      },
+      {
+        "text": "D ① denitrifying bacteria；② nitrogen-fixing bacteria",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 植物菌根（mycorrhizae）為下列何者與植物的根共生：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 固氮細菌（nitrogen-fixing bacteria）",
+        "images": []
+      },
+      {
+        "text": "B 氨化細菌（ammonifying bacteria）",
+        "images": []
+      },
+      {
+        "text": "C 真菌（fungi）",
+        "images": []
+      },
+      {
+        "text": "D 線蟲（nematodes）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. Which of the following is the least possible growth limitation factor for a plant community?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A nitrogen source",
+        "images": []
+      },
+      {
+        "text": "B carbon source",
+        "images": []
+      },
+      {
+        "text": "C phosphorus source",
+        "images": []
+      },
+      {
+        "text": "D potassium source",
+        "images": []
+      },
+      {
+        "text": "E water source",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 植物生長發育需要一些微量營養素（micronutrient）如錳，鉬等元素，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是形成植物細胞膜需要使用的營養素",
+        "images": []
+      },
+      {
+        "text": "B 此類營養素大多是在細胞壁被發現",
+        "images": []
+      },
+      {
+        "text": "C 在某些細胞反應中作為輔助因子（cofactors）",
+        "images": []
+      },
+      {
+        "text": "D 與巨量營養素（macronutrient）產生鍵合的營養素",
+        "images": []
+      },
+      {
+        "text": "E 為構成植物體的有機成分和形成基本架構",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 土壤中負責將NH3轉變成植物可吸收的NO3-之細菌為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Nitrogen-fixing bacteria",
+        "images": []
+      },
+      {
+        "text": "B Ammonifying bacteria",
+        "images": []
+      },
+      {
+        "text": "C Nitrifying bacteria",
+        "images": []
+      },
+      {
+        "text": "D Denitrifying bacteria",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 有關水生植物滿江紅成為最佳水田作物綠肥的原因，是滿江紅與有固氮能力的生物形成共生關係，下列何者是最可能的共生生物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 有異細胞（heterocyst）的念珠藻",
+        "images": []
+      },
+      {
+        "text": "B 有藻紅素（phycoerythrin）的紅藻",
+        "images": []
+      },
+      {
+        "text": "C 有具磷吸收能力的菌根",
+        "images": []
+      },
+      {
+        "text": "D 有固氮能力的根瘤菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  }
+]

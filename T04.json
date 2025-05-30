@@ -1,0 +1,1448 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 訊息分子（signal molecule）和下列何種受體（receptor）的結合最容易導致膜電位（membrane potential）之改變？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 酪胺酸激酶受體（tyrosine-kinase receptor）",
+        "images": []
+      },
+      {
+        "text": "B G蛋白連結型受體（G-protein-linked receptor）",
+        "images": []
+      },
+      {
+        "text": "C 磷酸化之酪胺酸激酶二聚體（phosphorylated tyrosine-kinase dimer）",
+        "images": []
+      },
+      {
+        "text": "D 配體閘式離子通道（ligand-gated ion channel）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 當腎上腺素與受體結合後，會催化肝醣分解成葡萄糖，以下①～④為其訊息傳遞反應事件，下列何者為最可能的排序？①活化磷酸化激酶（phosphorylase kinase）②活化肝醣磷酸化酶（glycogen phosphorylase）③cAMP造成蛋白質激酶（protein kinase）活化④cAMP產生",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ③④②①",
+        "images": []
+      },
+      {
+        "text": "B ①②④③",
+        "images": []
+      },
+      {
+        "text": "C ④③①②",
+        "images": []
+      },
+      {
+        "text": "D ③①②④",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列何者不是細胞內的次級傳遞者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙醯膽鹼（acetylcholine）",
+        "images": []
+      },
+      {
+        "text": "B 環化腺苷單磷酸（cyclic AMP, cAMP）",
+        "images": []
+      },
+      {
+        "text": "C Ca2+",
+        "images": []
+      },
+      {
+        "text": "D 肌醇三磷酸（inositol triphosphate, IP3）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 受體與配體的相互作用是細胞反應的開始，此受體配體的相互作用引發細胞內的繼發反應。下列何者為胰島素與受體及表皮生長因子（EGF）與受體的主要細胞內繼發反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加葡萄糖通道活性",
+        "images": []
+      },
+      {
+        "text": "B 增加鉀離子通道活性",
+        "images": []
+      },
+      {
+        "text": "C 增加酪氨酸激酶（tyrosine kinase）活性",
+        "images": []
+      },
+      {
+        "text": "D 增加絲氨酸或蘇氨酸激酶（serine or threonine kinase）活性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Which of the followings is NOT true of G protein-coupled receptors (GPCRs)?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A GPCRs are cell-surface transmembrane receptors that work with the help of monomer G proteins.",
+        "images": []
+      },
+      {
+        "text": "B GPCRs have similar structure in which a single polypeptide has seven transmembrane helices.",
+        "images": []
+      },
+      {
+        "text": "C Epinephrine can target the same type of GPCR in liver cell and skeletal muscle blood vessel.",
+        "images": []
+      },
+      {
+        "text": "D G protein systems are involved in cholera and pertussis diseases.",
+        "images": []
+      },
+      {
+        "text": "E G protein functions as a molecular switch that is either on or off depending on GTP or GDP is attached.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 胰島素接受器（Insulin receptor）的蛋白質結構上除了與胰島素結合的部位外，還包含何種功能結構？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 酪胺酸激酶（tyrosine kinase）",
+        "images": []
+      },
+      {
+        "text": "B 氧化酶（oxidase）",
+        "images": []
+      },
+      {
+        "text": "C 去磷酸酶（phosphatase）",
+        "images": []
+      },
+      {
+        "text": "D 磷酸二酯酶（phosphodiesterase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 當細胞經由訊息傳遞路徑（signal transduction pathway）進而改變細胞內反應或基因表達，此路徑中通常需要多重步驟的傳遞，下列何者最不可能是多重步驟的傳遞特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 放大訊號",
+        "images": []
+      },
+      {
+        "text": "B 增快傳遞速度",
+        "images": []
+      },
+      {
+        "text": "C 增加調控的機會",
+        "images": []
+      },
+      {
+        "text": "D 提供不同訊息整合的機制",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 咖啡因（caffeine）是磷酸二酯酶（phosphodiesterase）的抑制劑，因此在一個人剛喝完咖啡後，其細胞中何種成分會增加？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷酸化的蛋白質（phosphorylated protein）",
+        "images": []
+      },
+      {
+        "text": "B GTP",
+        "images": []
+      },
+      {
+        "text": "C cAMP",
+        "images": []
+      },
+      {
+        "text": "D 腺苷酸環化酶（adenylyl cyclase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. Paracrine signaling ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A involves secreting cells acting on nearby target cells by discharging a local regulator into the extracellular fluid",
+        "images": []
+      },
+      {
+        "text": "B requires nerve cells to release a neurotransmitter into the synapse",
+        "images": []
+      },
+      {
+        "text": "C occurs only in paracrine yeast cells",
+        "images": []
+      },
+      {
+        "text": "D has been found in plants but not animals",
+        "images": []
+      },
+      {
+        "text": "E involves mating factors attaching to target cells and causing production of new paracrine cells",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 有高達60%現今使用之藥物經由影響細胞膜的哪一結構來達成其治療效果？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 膽固醇（cholesterol）",
+        "images": []
+      },
+      {
+        "text": "B 酪胺酸激酶受器（tyrosine-kinases receptors）",
+        "images": []
+      },
+      {
+        "text": "C 化學訊號管制型離子管道型受器（ligand-gated ion channel receptors）",
+        "images": []
+      },
+      {
+        "text": "D G蛋白質",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列何種酵素的活化可提高cAMP濃度？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A protein kinase A",
+        "images": []
+      },
+      {
+        "text": "B ATPase",
+        "images": []
+      },
+      {
+        "text": "C adenylate cyclase",
+        "images": []
+      },
+      {
+        "text": "D phospholipase C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 在探討細胞訊息傳遞（signal transduction）機制時，有部分的配體（ligand），可穿過細胞膜在細胞質內與其接受器（receptor）結合，引發後續之反應，請問下列何者屬於此類配體？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 類胰島素生長因子（insulin-like growth factor）",
+        "images": []
+      },
+      {
+        "text": "B 表皮生長因子（epidermal growth factor）",
+        "images": []
+      },
+      {
+        "text": "C 睪固酮（testosterone）",
+        "images": []
+      },
+      {
+        "text": "D 腎上腺素（epinephrine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. Which of following is NOT a second messenger in signal transduction?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A proton",
+        "images": []
+      },
+      {
+        "text": "B cAMP",
+        "images": []
+      },
+      {
+        "text": "C Ca2+",
+        "images": []
+      },
+      {
+        "text": "D inositol triphosphate (IP3)",
+        "images": []
+      },
+      {
+        "text": "E diacylglycerol (DAG)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. What substance(s) can affect the concentration of calcium ions inside the cell, an important secondary messenger?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Phosphatidylcholine and phospholipase A",
+        "images": []
+      },
+      {
+        "text": "B Phosphatidylcholine and phospholipase C",
+        "images": []
+      },
+      {
+        "text": "C Phosphatidylinositol and phospholipase A",
+        "images": []
+      },
+      {
+        "text": "D Phosphatidylinositol and phospholipase C",
+        "images": []
+      },
+      {
+        "text": "E Calmodulin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Which of the following statements about signal transduction is FALSE ?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Signal transduction only can start with a signal to a membrane receptor, and ends with a change in cell function.",
+        "images": []
+      },
+      {
+        "text": "B The signal must be amplified in a cascade manner within the cells.",
+        "images": []
+      },
+      {
+        "text": "C Signal transduction can link with all cellular responses respond to external stimuli.",
+        "images": []
+      },
+      {
+        "text": "D Signal transduction closely links with gene expression to alter metabolism.",
+        "images": []
+      },
+      {
+        "text": "E Signal transduction is largely carried out by second messenger molecules.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Phospholipase C hydrolyzes phosphatidylinositol 4,5-bisphosphate (PIP2) to form which signaling molecule that triggers Ca2+release from the endoplasmic reticulum?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Diacylglycerolphosphate (DAGP)",
+        "images": []
+      },
+      {
+        "text": "B Inositol 5-monophosphate (IP1)",
+        "images": []
+      },
+      {
+        "text": "C Diacylglycerol (DAG)",
+        "images": []
+      },
+      {
+        "text": "D Inositol 1,4,5-triphosphate (IP3)",
+        "images": []
+      },
+      {
+        "text": "E Inositol 4,5-bisphosphate (IP2)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 關於真核細胞中參與訊息傳遞（signal transduction）之G蛋白偶聯受體（G-protein coupled receptor, GPCR）的相關敘述，下列何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A G蛋白（G protein）的3個次單元都是細胞質中的水溶性（water-soluble）蛋白",
+        "images": []
+      },
+      {
+        "text": "B G蛋白結合ATP時會分解成3個獨立次單元",
+        "images": []
+      },
+      {
+        "text": "C GPCR位於細胞膜上，通常具有7個跨膜結構（transmembrane domains）",
+        "images": []
+      },
+      {
+        "text": "D GPCR存在於動物細胞，但不存在於植物細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 細胞可藉由受體（receptor）與配體（ligand）結合而傳遞訊息，然而受體的分布不僅在細胞表面存在，亦有在細胞質中分布，下列何種受體最主要分布於細胞質中？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鹽皮質激素受體（mineralocorticoid receptor）",
+        "images": []
+      },
+      {
+        "text": "B 類鐸受體四號（toll-like receptor 4）",
+        "images": []
+      },
+      {
+        "text": "C 配體閘控型離子通道受體（ligand-gated ion channel receptor）",
+        "images": []
+      },
+      {
+        "text": "D G蛋白偶聯受體（G protein-coupled receptor）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. The ion channel that opens in response to acetylcholine is an example of a ________ signal transduction system.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A G-protein",
+        "images": []
+      },
+      {
+        "text": "B ligand-gated",
+        "images": []
+      },
+      {
+        "text": "C receptor-enzyme",
+        "images": []
+      },
+      {
+        "text": "D serpentine receptor",
+        "images": []
+      },
+      {
+        "text": "E voltage-gated",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 下列何者能進入細胞核並調節基因表現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 皮質醇受體（cortisol receptor）",
+        "images": []
+      },
+      {
+        "text": "B 胰島素受體（insulin receptor）",
+        "images": []
+      },
+      {
+        "text": "C 磷脂酶C（phospholipase C）",
+        "images": []
+      },
+      {
+        "text": "D 腺苷酸環化酶（adenyl cyclase）",
+        "images": []
+      },
+      {
+        "text": "E 乙醯膽鹼受體（acetylcholine receptor）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 以下哪一類分子最可能扮演轉錄因子（transcription factor）角色？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 類固醇激素（steroid hormone）",
+        "images": []
+      },
+      {
+        "text": "B 胺類激素（amine hormone）",
+        "images": []
+      },
+      {
+        "text": "C 胞內激素受體（intracellular hormone receptor）",
+        "images": []
+      },
+      {
+        "text": "D 胞膜上激素受體（membrane -bound hormone receptor）",
+        "images": []
+      },
+      {
+        "text": "E 蛋白質激酶（protein kinase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 請依序排列下列有關訊息傳遞之步驟I. 訊息分子-受體結合之複合物活化了酵素並造成結構形狀改變II. 蛋白激酶被活化III. 訊息分子與受體蛋白結合IV. 標的蛋白磷酸化（phosphorylation）V. 釋放第二訊息分子",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A II, IV, V, III, I",
+        "images": []
+      },
+      {
+        "text": "B I, II, V, III, IV",
+        "images": []
+      },
+      {
+        "text": "C I, II, III, IV, V",
+        "images": []
+      },
+      {
+        "text": "D III, I, V, II, IV",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 關於細胞傳訊（cell signaling）的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞接收外來訊息可分為接收（reception）、傳導（transduction）及作出反應（response） 等三階段",
+        "images": []
+      },
+      {
+        "text": "B 傳訊分子（signaling molecules）種類繁多，傳遞途徑以及作用範圍也有極大差距",
+        "images": []
+      },
+      {
+        "text": "C 特定傳訊分子會刺激所有其受體（receptor）的細胞做出一致的反應",
+        "images": []
+      },
+      {
+        "text": "D 不同細胞內訊息傳遞的途徑（signal transduction pathways）因受體種類、傳遞分子的有無而可能相同、部分相同或不同",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. Phosphatidylinositol 4,5-bisphosphate (PIP2) is cleaved by phospholipase C into",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1,2-diacylglycerol (DAG)",
+        "images": []
+      },
+      {
+        "text": "B phosphatidylinositol (PI)",
+        "images": []
+      },
+      {
+        "text": "C inositol 1,4,5-trisphosphate (IP3)",
+        "images": []
+      },
+      {
+        "text": "D A and C",
+        "images": []
+      },
+      {
+        "text": "E B and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 腎上腺素（epinephrine）與G-protein-linked 受器（receptor）結合，使Adenylyl cyclase活化，轉化ATP成cAMP，cAMP則可活化其他蛋白產生細胞回應（Cellular response），如肝醣降解（Glycogen breakdown）。在此細胞訊息傳遞路徑中，下列敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 最終提高了肝醣降解酶的活性，而肝醣合成酶的活性則下降",
+        "images": []
+      },
+      {
+        "text": "B 腎上腺素主要作用於肝、脂肪組織和肌肉組織",
+        "images": []
+      },
+      {
+        "text": "C cAMP為第二訊息傳遞分子，可活化PKC（Protein kinase C）",
+        "images": []
+      },
+      {
+        "text": "D 腎上腺素是第一訊息傳遞分子為水溶性分子，無法穿過細胞膜",
+        "images": []
+      },
+      {
+        "text": "E 腎上腺素受器為穿越細胞膜七次的膜蛋白",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. Adenylyl cyclase is to cAMP as ________ is to AMP.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A protein kinase C",
+        "images": []
+      },
+      {
+        "text": "B phospholipase C",
+        "images": []
+      },
+      {
+        "text": "C phosphodiesterase",
+        "images": []
+      },
+      {
+        "text": "D phosphatase",
+        "images": []
+      },
+      {
+        "text": "E Ras",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. When a cell releases a signal molecule into the environment and a number of cells in the immediate vicinity respond, this type of signaling is",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A typical of hormones.",
+        "images": []
+      },
+      {
+        "text": "B autocrine signaling.",
+        "images": []
+      },
+      {
+        "text": "C paracrine signaling.",
+        "images": []
+      },
+      {
+        "text": "D endocrine signaling.",
+        "images": []
+      },
+      {
+        "text": "E synaptic signaling.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 傳訊分子與G蛋白偶聯受體結合，活化G蛋白產生第二傳訊者（second messenger），進而引起一連串的細胞回應。其中常見的G蛋白偶聯受體之第 二傳訊者不包括下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷脂酶C（phospholipase C）",
+        "images": []
+      },
+      {
+        "text": "B 環腺核苷單磷酸（cyclic AMP; cAMP）",
+        "images": []
+      },
+      {
+        "text": "C 肌醇三磷酸（inositol triphosphate; IP3）",
+        "images": []
+      },
+      {
+        "text": "D 鈣離子（Ca++）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 腎上腺素（Epinephrine）能刺激細胞訊息傳導，其傳導途徑如下圖，下列何者屬於第二傳訊者（Second messenger）？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/002.png"
+    ],
+    "options": [
+      {
+        "text": "A cAMP",
+        "images": []
+      },
+      {
+        "text": "B 腺核苷酸環化酶（Adenylyl cyclase）",
+        "images": []
+      },
+      {
+        "text": "C G蛋白（G protein）",
+        "images": []
+      },
+      {
+        "text": "D 腎上腺素（Epinephrine）",
+        "images": []
+      },
+      {
+        "text": "E G蛋白偶聯受體（G protein-coupled receptor）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. Hormone X produces its effect in its target cells via the cAMP second messenger system. Which of the following will produce the greatest effect in the cell?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A molecule of cAMP applied to the extracellular fluid surrounding the cell.",
+        "images": []
+      },
+      {
+        "text": "B A molecule of cAMP injected into the cytoplasm of the cell.",
+        "images": []
+      },
+      {
+        "text": "C A molecule of hormone X applied to the extracellular fluid surrounding the cell.",
+        "images": []
+      },
+      {
+        "text": "D A molecule of hormone X injected into the cytoplasm of the cell.",
+        "images": []
+      },
+      {
+        "text": "E A molecule of activated, cAMP-dependent protein kinase injected into the cytoplasm of the cell.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 以下哪一類分子最可能在細胞訊息傳遞機制（cellular mechanism of signal transduction）的角色？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胞膜上受體",
+        "images": []
+      },
+      {
+        "text": "B 胞內受體",
+        "images": []
+      },
+      {
+        "text": "C 胞內水溶性小分子或離子",
+        "images": []
+      },
+      {
+        "text": "D 受體拮抗劑（receptor antagonist）",
+        "images": []
+      },
+      {
+        "text": "E 受體興奮劑（receptor agonist）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 可以將ATP分子的磷酸基（phosphate groups）轉移到蛋白質上的酵素稱為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ATPase",
+        "images": []
+      },
+      {
+        "text": "B phosphorylase",
+        "images": []
+      },
+      {
+        "text": "C phosphatase",
+        "images": []
+      },
+      {
+        "text": "D protein kinase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. What is the correct sequence of events involving cyclic AMP as a second messenger of glucagon hormone?①The stimulation of the activity of adenylate cyclase.②The activation of G-proteins.③The conversion of ATP to cyclic AMP.④The activation of of protein kinase A.⑤The stimulation of lipid mobilization.⑥An increase in the activity of hormone-sensitive lipase.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ②①③⑥④⑤",
+        "images": []
+      },
+      {
+        "text": "B ②①③④⑤⑥",
+        "images": []
+      },
+      {
+        "text": "C ②①④③⑤⑥",
+        "images": []
+      },
+      {
+        "text": "D ②①③④⑥⑤",
+        "images": []
+      },
+      {
+        "text": "E ②①④③⑥⑤",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 咖啡因（caffeine）是一種磷酸二酯酶（phosphodiesterase）的抑制劑；故咖啡因可能會造成細胞內哪種分子的數量上升？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 環狀腺核苷單磷酸（cyclic AMP）",
+        "images": []
+      },
+      {
+        "text": "B 磷酸化的蛋白質（phosphorylated proteins）",
+        "images": []
+      },
+      {
+        "text": "C 腺核苷三磷酸（ATP）",
+        "images": []
+      },
+      {
+        "text": "D 活化的G蛋白",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列何者能進入細胞核並調節基因的表現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙醯膽鹼受體（acetylcholine receptor）",
+        "images": []
+      },
+      {
+        "text": "B 磷脂酶C（phospholipase C）",
+        "images": []
+      },
+      {
+        "text": "C 皮質醇受體（cortisol receptor）",
+        "images": []
+      },
+      {
+        "text": "D 腺苷酸環化酶（adenyl cyclase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列何者不是細胞訊息傳遞途徑上的次級訊息分子（secondary messenger）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A cyclic AMP (Camp)",
+        "images": []
+      },
+      {
+        "text": "B Ca2+",
+        "images": []
+      },
+      {
+        "text": "C diacylglycerol (DAG)",
+        "images": []
+      },
+      {
+        "text": "D GTP",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 細胞訊息傳遞放大主要是藉由酵素催化產生許多下列何種物質來引發下游反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一級傳訊者（first messenger）",
+        "images": []
+      },
+      {
+        "text": "B 二級傳訊者（second messenger）",
+        "images": []
+      },
+      {
+        "text": "C 三級傳訊者（third messenger）",
+        "images": []
+      },
+      {
+        "text": "D 四級傳訊者（fourth messenger）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 肌醇三磷酸（inositol triphosphate, IP3）在細胞內訊息傳遞路徑中扮演何種角色?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 接受者",
+        "images": []
+      },
+      {
+        "text": "B 傳遞者",
+        "images": []
+      },
+      {
+        "text": "C 一級訊息分子",
+        "images": []
+      },
+      {
+        "text": "D 二級訊息分子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 動物中有許多不同種類的激素，經訊息傳導途徑，由細胞內的次級傳訊者調節細胞內的酵素或蛋白質活性，下列何者是扮演此次級傳訊者的主要角色？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A AMP",
+        "images": []
+      },
+      {
+        "text": "B ATP",
+        "images": []
+      },
+      {
+        "text": "C oxytocin",
+        "images": []
+      },
+      {
+        "text": "D cAMP",
+        "images": []
+      },
+      {
+        "text": "E antidiuretic hormone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 在訊息傳遞過程中蛋白質的磷酸化（phosphorylation）很重要，下列何種胺基酸可以被磷酸化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 酪胺酸（tyrosine）",
+        "images": []
+      },
+      {
+        "text": "B 甘胺酸（glycine）",
+        "images": []
+      },
+      {
+        "text": "C 丙胺酸（alanine）",
+        "images": []
+      },
+      {
+        "text": "D 脯胺酸（proline）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 下列有關支架蛋白質（scaffold protein）功能的描述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可將細胞內訊息傳遞蛋白組織成群",
+        "images": []
+      },
+      {
+        "text": "B 可增進細胞內訊息傳遞的效率",
+        "images": []
+      },
+      {
+        "text": "C 支架蛋白質本身無法調節訊息傳遞蛋白的活性",
+        "images": []
+      },
+      {
+        "text": "D 有些支架蛋白質與微絲蛋白（microfilaments）有連結",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. Which of the following statements is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The presence of scaffolding proteins can increase the efficiency of signal transduction.",
+        "images": []
+      },
+      {
+        "text": "B Enzyme cascades amplify the cell’s response to a signal.",
+        "images": []
+      },
+      {
+        "text": "C Inositol triphosphate and diacylglycerol are produced by phospholipase A cleavage of certain kind of phospholipid.",
+        "images": []
+      },
+      {
+        "text": "D Phosphodiesterase converting cAMP to AMP is one of the ways to terminate the signal.",
+        "images": []
+      },
+      {
+        "text": "E The activation of cell surface receptors of growth factors may regulate the activity of a specific gene.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 藉由睪固酮（testosterone）在細胞內的作用，是以下列何種方式來達成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 先與受體蛋白結合，再進入細胞核活化特定基因",
+        "images": []
+      },
+      {
+        "text": "B 作為訊息受體，活化離子通道蛋白",
+        "images": []
+      },
+      {
+        "text": "C 作為類固醇訊息受體，活化離子通道蛋白",
+        "images": []
+      },
+      {
+        "text": "D 以「第二信使」的作用而抑制腺苷酸環化酶（adenylcyclase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 咖啡因是磷酸二酯酶（phosphodiesterase）的抑制劑，因此，最近常喝咖啡的人細胞中下列何種分子的含量會增加？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷酸化蛋白質",
+        "images": []
+      },
+      {
+        "text": "B cAMP",
+        "images": []
+      },
+      {
+        "text": "C 腺苷酸環化酶（adenylyl cyclase）",
+        "images": []
+      },
+      {
+        "text": "D 活化的G蛋白",
+        "images": []
+      },
+      {
+        "text": "E G蛋白偶聯受體（G protein-coupled receptor）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 有關訊息傳導途徑，下列何者屬於二級訊息分子（second messenger）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 系統素",
+        "images": []
+      },
+      {
+        "text": "B 受體（receptor）",
+        "images": []
+      },
+      {
+        "text": "C 激酶（kinase）",
+        "images": []
+      },
+      {
+        "text": "D 鈣離子",
+        "images": []
+      },
+      {
+        "text": "E 蛋白酶抑制蛋白",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列關於磷脂醯肌醇二磷酸酯（phosphatidyl inositol-biphosphate, PIP2）的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是一種膜蛋白（membrane protein）",
+        "images": []
+      },
+      {
+        "text": "B 是生物體內重要的二級訊息分子（second messenger）",
+        "images": []
+      },
+      {
+        "text": "C 可被降解產生cyclic AMP （cAMP）",
+        "images": []
+      },
+      {
+        "text": "D 是蛋白激酶C（protein kinase C, PKC）的受質",
+        "images": []
+      },
+      {
+        "text": "E 鋰離子（Li+）會抑制其降解反應",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. GTP在動物細胞中的訊息傳遞扮演重要角色，若某一動物因突變造成細胞無法產生GTP，則下列關於其訊息傳遞的敘述何者最可能發生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 無法使位於細胞膜上的G蛋白（G proteins）活化",
+        "images": []
+      },
+      {
+        "text": "B 受體酪胺酸激酶（receptor tyrosine kinase）無法被磷酸化",
+        "images": []
+      },
+      {
+        "text": "C 干擾鈣離子通道的專一性",
+        "images": []
+      },
+      {
+        "text": "D 促進cAMP的生合成以取代GTP的作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 下列有關受體酪胺酸激酶（receptor tyrosine kinase）的敘述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 酪胺酸激酶（tyrosine kinase）為受體的一部分",
+        "images": []
+      },
+      {
+        "text": "B 酪胺酸激酶區塊（domain）多位於細胞外可與配體（ligand）結合",
+        "images": []
+      },
+      {
+        "text": "C 酪胺酸激酶可催化磷酸根的去除",
+        "images": []
+      },
+      {
+        "text": "D 受體酪胺酸激酶與配體結合後多以單體（monomer）的型式向胞內傳遞訊息",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "複選題",
+    "question": "49. 關於G蛋白偶聯受體（G protein-coupled receptors; GPCR）的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是一群膜蛋白受體的通稱，在靜息狀態下，細胞膜上的GPCR是由α、β和γ三個次單元（subunits）組成的三聚體",
+        "images": []
+      },
+      {
+        "text": "B 激活狀態下，複合體解離成帶有ATP的α次單元與β-γ雙聚體。α次單元釋出磷酸根後與β-γ雙聚體結合，回復靜息狀態",
+        "images": []
+      },
+      {
+        "text": "C 只存在真核生物細胞，它們參與很多細胞訊息傳遞的過程",
+        "images": []
+      },
+      {
+        "text": "D 味覺和嗅覺等感覺訊息主要由GPCR傳遞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. G蛋白偶聯受體（G protein-linked receptor）是一種藉由細胞表面受體傳遞細胞訊息的方式，對它和它的作用機制，下列敘述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A G蛋白偶聯受體是一條7次跨膜的多肽鏈",
+        "images": []
+      },
+      {
+        "text": "B 胞外部分具有與訊息分子結合的結構，胞內部分有激活G蛋白的催化結構",
+        "images": []
+      },
+      {
+        "text": "C 它是由α、β和γ三個不同次單位組成的異三聚體蛋白",
+        "images": []
+      },
+      {
+        "text": "D 訊息分子（signaling molecule）結合於G蛋白偶聯受體後，誘導α次單位與GTP結合",
+        "images": []
+      },
+      {
+        "text": "E 活化的腺苷酸環化酶（adenylyl cyclase）催化細胞質中的AMP（adenosine monophosphate）轉變成為環腺苷酸（cAMP）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C",
+      "E"
+    ]
+  }
+]

@@ -1,0 +1,1408 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列那個器官不含內分泌（Endocrine）細胞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肝臟",
+        "images": []
+      },
+      {
+        "text": "B 腎臟",
+        "images": []
+      },
+      {
+        "text": "C 胃臟",
+        "images": []
+      },
+      {
+        "text": "D 胰臟",
+        "images": []
+      },
+      {
+        "text": "E 大腸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 關於腸道對葡萄糖吸收之順序，下列何者正確：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 空腸 → 微血管 → 肝門動脈 → 肝臟 → 下腔靜脈 → 體循環",
+        "images": []
+      },
+      {
+        "text": "B 空腸 → 乳糜管 → 肝門靜脈 → 肝臟 → 下腔靜脈 → 體循環",
+        "images": []
+      },
+      {
+        "text": "C 空腸 → 微血管 → 下腔靜脈 → 體循環 → 肝門動脈 → 肝臟",
+        "images": []
+      },
+      {
+        "text": "D 空腸 → 微血管 → 肝門靜脈 → 肝臟 → 下腔靜脈 → 體循環",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 缺少維他命B12會導致惡性貧血",
+        "images": []
+      },
+      {
+        "text": "B 人體的膽囊收縮素（cholecystokinin）是由十二指腸的腸壁細胞分泌",
+        "images": []
+      },
+      {
+        "text": "C 黃疸（jaundice）是因為血中膽紅素（bilirubin）過高",
+        "images": []
+      },
+      {
+        "text": "D 肝臟是人體最大的腺體，負責合成含氮廢物尿素",
+        "images": []
+      },
+      {
+        "text": "E 人體消化道的核酸水解酶（nuclease）主要是由小腸所合成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 吃等量的食物，為什麼脂肪含量比較高的食物，會使飽足感的時間持續較久？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脂肪進入小腸時，會刺激腸泌素（secretin）分泌，抑制胃酸分泌，使胃的排空時間延長",
+        "images": []
+      },
+      {
+        "text": "B 脂肪要一直到小腸才會被消化吸收，使胃中一直含有大量體積的物質而感到飽足",
+        "images": []
+      },
+      {
+        "text": "C 脂肪的疏水性可在食物和消化管壁間造成一層隔絕物質，消化液無法很完全地和食物混合，使消化速度變慢",
+        "images": []
+      },
+      {
+        "text": "D 脂肪需要等到肝臟分泌足夠的膽汁到達小腸才能被消化，在腸中停留的時間比較久，因而使飽足的感覺持續較久",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 有關瘦體素（leptin）的說明，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由肝臟細胞分泌",
+        "images": []
+      },
+      {
+        "text": "B 刺激下視丘神經胜肽Y（neuropeptide Y）的分泌",
+        "images": []
+      },
+      {
+        "text": "C 增加身體的能量消耗",
+        "images": []
+      },
+      {
+        "text": "D 減少飽食感，促進進食",
+        "images": []
+      },
+      {
+        "text": "E 作用在皮層額葉區域可抑制食慾，並可增加能量消耗",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 人類是屬於下列何種取食方式?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Fluid Feeders.",
+        "images": []
+      },
+      {
+        "text": "B Suspension Feeders.",
+        "images": []
+      },
+      {
+        "text": "C Bulk Feeders.",
+        "images": []
+      },
+      {
+        "text": "D Substrate Feeders.",
+        "images": []
+      },
+      {
+        "text": "E Filter Feeders.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 請問胰島素（insulin）降低血糖是藉由？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 促進細胞攝取葡萄糖（glucose）",
+        "images": []
+      },
+      {
+        "text": "B 降低肝臟中肝醣（glycogen）的分解",
+        "images": []
+      },
+      {
+        "text": "C 促進脂肪儲存",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 小明食用豬腳及漢堡後，他身體內與消化相關的荷爾蒙有何作用：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 十二指腸分泌secretin及CCK促進胃蠕動增快",
+        "images": []
+      },
+      {
+        "text": "B 十二指腸降低gastrin分泌",
+        "images": []
+      },
+      {
+        "text": "C 十二指腸分泌CCK促進胰臟分泌消化酵素",
+        "images": []
+      },
+      {
+        "text": "D 胃增加CCK分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列何種荷爾蒙在吃完炸雞後表現量會增多？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃泌素&小腸內泌素",
+        "images": []
+      },
+      {
+        "text": "B 胃泌素&膽囊收縮素",
+        "images": []
+      },
+      {
+        "text": "C 膽囊收縮素&腸抑胃素",
+        "images": []
+      },
+      {
+        "text": "D 膽囊收縮素&小腸內泌素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列關於胰臟之敘述，何者是正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "Aα細胞主司Glucagon之分泌",
+        "images": []
+      },
+      {
+        "text": "Bβ細胞主司Insulin之分泌",
+        "images": []
+      },
+      {
+        "text": "C 腺泡細胞主司消化酵素之分泌",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 葉酸（folic acid）的補充對孕婦非常重要，主要原因是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉酸不足會增加胎兒神經管缺陷（neural tube defect）的危險",
+        "images": []
+      },
+      {
+        "text": "B 因為孕婦血液中所儲存的葉酸常隨循環而流失",
+        "images": []
+      },
+      {
+        "text": "C 葉酸不足會增加新生兒心臟異常（heart abnormalities）的危險",
+        "images": []
+      },
+      {
+        "text": "D 因為胎兒需要大量的葉酸以維持生命",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 下列何者不是外分泌腺所分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃蛋白激素（Pepsin）",
+        "images": []
+      },
+      {
+        "text": "B 膽囊激素（Cholecystokinin; CCK）",
+        "images": []
+      },
+      {
+        "text": "C 羧肽激素（Carboxypeptidase）",
+        "images": []
+      },
+      {
+        "text": "D 核酸激素（Nuclease）",
+        "images": []
+      },
+      {
+        "text": "E 膽汁（bile）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列何種消化酶不是十二指腸所分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蔗糖分解酶（Sucrase）",
+        "images": []
+      },
+      {
+        "text": "B 雙肽酶（Dipeptidase）",
+        "images": []
+      },
+      {
+        "text": "C 脂肪酶（Lipase）",
+        "images": []
+      },
+      {
+        "text": "D 胺基胜酶（Aminopeptidase）",
+        "images": []
+      },
+      {
+        "text": "E 麥芽糖酶（Maltase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列何種分泌液內不含消化酵素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 唾液腺",
+        "images": []
+      },
+      {
+        "text": "B 胃",
+        "images": []
+      },
+      {
+        "text": "C 胰臟",
+        "images": []
+      },
+      {
+        "text": "D 大腸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Which hormone is produced by adipose cells and helps to control appetite?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A insulin",
+        "images": []
+      },
+      {
+        "text": "B bile",
+        "images": []
+      },
+      {
+        "text": "C gastrin",
+        "images": []
+      },
+      {
+        "text": "D leptin",
+        "images": []
+      },
+      {
+        "text": "E interferon",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 下列何者最能促進鈣離子在腸道之吸收？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A phosphate",
+        "images": []
+      },
+      {
+        "text": "B oxalate",
+        "images": []
+      },
+      {
+        "text": "C 1,25-dihydroxycholecalciferol",
+        "images": []
+      },
+      {
+        "text": "D parathyroid hormone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 膽汁（bile）在________產生且儲存於________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胰臟；膽囊",
+        "images": []
+      },
+      {
+        "text": "B 膽囊；肝臟",
+        "images": []
+      },
+      {
+        "text": "C 肝臟；膽囊",
+        "images": []
+      },
+      {
+        "text": "D 胰臟；肝臟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 澱粉（starch）、纖維素（cellulose）、肝醣（glycogen）三者有何共同的特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 都可被唾液分解",
+        "images": []
+      },
+      {
+        "text": "B 加入碘液都會呈現深藍色",
+        "images": []
+      },
+      {
+        "text": "C 可同時出現於動物細胞中",
+        "images": []
+      },
+      {
+        "text": "D 都是多醣類",
+        "images": []
+      },
+      {
+        "text": "E 可同時出現於植物細胞中",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 胃切除之病人，會引起下列何種維生素的缺乏？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 維生素B1",
+        "images": []
+      },
+      {
+        "text": "B 維生素B2",
+        "images": []
+      },
+      {
+        "text": "C 維生素B6",
+        "images": []
+      },
+      {
+        "text": "D 維生素B12",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 維生素B12是在消化道何段被吸收？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃",
+        "images": []
+      },
+      {
+        "text": "B 空腸",
+        "images": []
+      },
+      {
+        "text": "C 十二指腸",
+        "images": []
+      },
+      {
+        "text": "D 迴腸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列何種消化酵素不是由胰臟分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A trypsin",
+        "images": []
+      },
+      {
+        "text": "B chymotrypsin",
+        "images": []
+      },
+      {
+        "text": "C nuclease",
+        "images": []
+      },
+      {
+        "text": "D nucleotidase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何者與胃潰瘍無關：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃腺壁細胞被破壞",
+        "images": []
+      },
+      {
+        "text": "B 胃蛋白酶量增加",
+        "images": []
+      },
+      {
+        "text": "C 幽門螺旋桿菌感染",
+        "images": []
+      },
+      {
+        "text": "D 胃上皮細胞分裂變慢",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列關於幽門螺旋菌（Helicobacter pylori）的敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 幽門螺旋菌寄居在人類的胃中已有悠久的歷史，但由於抗生素的使用已大幅降低地幽門螺旋菌的普及率",
+        "images": []
+      },
+      {
+        "text": "B 研究人員可藉由研究幽門螺旋菌的遺傳變異來追蹤人類遷徙和定居的模式",
+        "images": []
+      },
+      {
+        "text": "C 帶有幽門螺旋菌的人罹患消化性潰瘍和胃癌的風險較高",
+        "images": []
+      },
+      {
+        "text": "D 胃中沒有了幽門螺旋菌，胃酸逆流的機會則大增",
+        "images": []
+      },
+      {
+        "text": "E 所有消化性潰瘍都是因幽門螺旋菌所引起的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 切除膽囊的病患宜儘量少吃：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 芒果",
+        "images": []
+      },
+      {
+        "text": "B 清蒸鱸魚",
+        "images": []
+      },
+      {
+        "text": "C 炸雞",
+        "images": []
+      },
+      {
+        "text": "D 米飯",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 水稻經基因改造生產出“黃金米”，下列有關黃金米的敘述何者是正確的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黃金米是稻米可表達金的成份",
+        "images": []
+      },
+      {
+        "text": "B 黃金米是一種較耐長期儲藏的稻米",
+        "images": []
+      },
+      {
+        "text": "C 黃金米是稻米含有少量的維他命A（vitamin A）",
+        "images": []
+      },
+      {
+        "text": "D 經基因改造的水稻具有產生β-胡蘿蔔素（β-carotene）的能力",
+        "images": []
+      },
+      {
+        "text": "E 經基因改造的水稻具有產生維他命A（vitamin A）的能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 關於三酸甘油酯（triacylglyceroles）在小腸吸收及運輸的描述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 先分解為甘油與脂肪酸後，通過小腸上皮細胞，由小腸絨毛微血管運輸",
+        "images": []
+      },
+      {
+        "text": "B 三酸甘油酯通過小腸上皮細胞由小腸絨毛乳糜管運輸",
+        "images": []
+      },
+      {
+        "text": "C 經分解為甘油與脂肪酸後，通過小腸上皮細胞，到達小腸絨毛乳糜管後，結合為三酸甘油酯並以此形式運輸",
+        "images": []
+      },
+      {
+        "text": "D 經分解為甘油與脂肪酸後，通過小腸上皮細胞，到達小腸絨毛乳糜管後，以甘油與脂肪酸的形式運輸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 台灣黃牛體內有許多共生性的微生物，使它可以攝取更多的養分，這些微生物主要棲息在哪一個區域？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 咽",
+        "images": []
+      },
+      {
+        "text": "B 大腸",
+        "images": []
+      },
+      {
+        "text": "C 胃",
+        "images": []
+      },
+      {
+        "text": "D 小腸",
+        "images": []
+      },
+      {
+        "text": "E 肝臟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 牛的共生菌大都位於：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大腸",
+        "images": []
+      },
+      {
+        "text": "B 肝臟",
+        "images": []
+      },
+      {
+        "text": "C 小腸",
+        "images": []
+      },
+      {
+        "text": "D 胃",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列何種主要大分子營養物質的消化是在人類胃部開始進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛋白質",
+        "images": []
+      },
+      {
+        "text": "B 脂質",
+        "images": []
+      },
+      {
+        "text": "C 多糖類",
+        "images": []
+      },
+      {
+        "text": "D 維生素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列何者為肝細胞及肌肉細胞中碳水化合物主要之儲存形式？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Glucose",
+        "images": []
+      },
+      {
+        "text": "B Starch",
+        "images": []
+      },
+      {
+        "text": "C Glycogen",
+        "images": []
+      },
+      {
+        "text": "D Triglycerides",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 下列何種水溶性維生素和紅血球的成熟有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Vitamin D",
+        "images": []
+      },
+      {
+        "text": "B 菸鹼酸（niacin）",
+        "images": []
+      },
+      {
+        "text": "C 泛酸（pantothenic acid）",
+        "images": []
+      },
+      {
+        "text": "D 葉酸（folic acid）",
+        "images": []
+      },
+      {
+        "text": "E Vitamin B12",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 饑餓素（Ghrelin）是由腦下垂體持續分泌，讓人們可以隨時進食",
+        "images": []
+      },
+      {
+        "text": "B 瘦體素（Leptin）由肝臟產生，用來抑制胃口",
+        "images": []
+      },
+      {
+        "text": "C 血糖低時，胰島素由胰臟產生，刺激食慾",
+        "images": []
+      },
+      {
+        "text": "D 體重下降者，其饑餓素（Ghrelin）的分泌量比較低",
+        "images": []
+      },
+      {
+        "text": "E 小腸會分泌PYY激素來抑制胃口",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 脂肪細胞（fat cells）可以合成下列何種荷爾蒙？其荷爾蒙會經由血液循環後，將訊號傳給下視丘而達到抑制食慾之功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 瘦體素（leptin）",
+        "images": []
+      },
+      {
+        "text": "B 抗利尿素（antidiuretic hormone）",
+        "images": []
+      },
+      {
+        "text": "C 胰泌素（secretin）",
+        "images": []
+      },
+      {
+        "text": "D 膽囊收縮素（cholecystokinin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 持續咀嚼一小塊麵包，會有甜味是因為哪種酵素的作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 澱粉酶（Amylase）",
+        "images": []
+      },
+      {
+        "text": "B 麥芽糖酶（Maltase）",
+        "images": []
+      },
+      {
+        "text": "C 蔗糖酶（Sucrase）",
+        "images": []
+      },
+      {
+        "text": "D 乳糖酶（Lactase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列有關腸道平滑肌運動的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 藉由slow waves產生自動性的收縮",
+        "images": []
+      },
+      {
+        "text": "B 包含分節運動（segmental movement）及蠕動（peristalsis）",
+        "images": []
+      },
+      {
+        "text": "C 受自主神經支配",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 人體的消化系統最先消化的成份：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛋白質",
+        "images": []
+      },
+      {
+        "text": "B 醣類",
+        "images": []
+      },
+      {
+        "text": "C 核酸",
+        "images": []
+      },
+      {
+        "text": "D 脂肪",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 除在長期飢餓外，下列何種人類組織或器官僅能使用葡萄糖作為能量來源？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心臟",
+        "images": []
+      },
+      {
+        "text": "B 骨骼肌",
+        "images": []
+      },
+      {
+        "text": "C 肝臟",
+        "images": []
+      },
+      {
+        "text": "D 大腦",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 下列有關維生素缺乏所導致的疾病配對，下列何者正確：(1) vitamin B1—口角炎(2) folic acid—貧血(3) vitamin B6—肌肉抽搐、貧血(4) vitamin K—凝血缺乏(5) vitamin C—壞血病",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "C (2)(3)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "D (2)(4)(5)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. The function of the sphincter between the stomach and small intestine is to",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A retain chyme in the stomach until pepsin digestion is complete.",
+        "images": []
+      },
+      {
+        "text": "B periodically release chyme into the small intestine in squirts.",
+        "images": []
+      },
+      {
+        "text": "C release bile into the duodenum when chyme is present.",
+        "images": []
+      },
+      {
+        "text": "D release pancreatic secretions into the duodenum when chyme is present.",
+        "images": []
+      },
+      {
+        "text": "E pancreatic secretions transiently into the duodenum when chyme is present.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 有關動物生理敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 相同體重的兔子和蜥蜴的總代謝速率相同",
+        "images": []
+      },
+      {
+        "text": "B 人體瘦素（leptin）濃度下降，則基礎代謝速率上升",
+        "images": []
+      },
+      {
+        "text": "C 胰島素刺激肝臟進行肝糖分解作用（glycogenolysis）和糖質新生作用（Gluconeogenesis）",
+        "images": []
+      },
+      {
+        "text": "D 動物具有可以從蛋白質轉換生合成葡萄糖的代謝路徑",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 膽固醇是下列何種維生素（Vitamin）合成的前驅物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A",
+        "images": []
+      },
+      {
+        "text": "B D",
+        "images": []
+      },
+      {
+        "text": "C E",
+        "images": []
+      },
+      {
+        "text": "D K",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何者可直接刺激胃腺的parietal cells分泌鹽酸：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A gastrin",
+        "images": []
+      },
+      {
+        "text": "B ACh",
+        "images": []
+      },
+      {
+        "text": "C secretin",
+        "images": []
+      },
+      {
+        "text": "D histamin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 脂質消化及吸收需要________及________共同作用。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鹽酸（hydrochloric acid）；胃蛋白酶（pepsin）",
+        "images": []
+      },
+      {
+        "text": "B 膽汁（bile）；碳酸氫鹽（bicarbonate）",
+        "images": []
+      },
+      {
+        "text": "C 脂肪酶（lipase）；膽汁（bile）",
+        "images": []
+      },
+      {
+        "text": "D 水；膽汁（bile）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列何種原因使得正常的胃壁不會潰瘍：(1) 胃上皮細胞更新速度慢(2) pepsinogen要在HCl作用下才會被活化(3) 胃壁表面有黏液保護(4) 在胃中不會有細菌存在，因此不會破壞胃壁",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "B (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 當人體發生陰囊皮炎、口角糜爛、脂溢性皮炎和結膜充血等症狀，是因為人體缺乏下列哪一種物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 硫胺素（thiamine）",
+        "images": []
+      },
+      {
+        "text": "B 核黃素（riboflavin）",
+        "images": []
+      },
+      {
+        "text": "C 維生素B12",
+        "images": []
+      },
+      {
+        "text": "D 視黃醇（retinol）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列哪一項礦物與功能的選擇是對的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈣＝用於氨基酸代謝",
+        "images": []
+      },
+      {
+        "text": "B 鈉＝維持細胞的滲透平衡",
+        "images": []
+      },
+      {
+        "text": "C 鐵＝組成部分核酸骨幹",
+        "images": []
+      },
+      {
+        "text": "D 磷＝保持水平衡",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 葡萄糖分子之於澱粉，如同：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 固醇類之於脂質",
+        "images": []
+      },
+      {
+        "text": "B 核酸之於多胜肽",
+        "images": []
+      },
+      {
+        "text": "C 蛋白質之於胺基酸",
+        "images": []
+      },
+      {
+        "text": "D 核苷酸之於核酸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 消化道所吸收之營養物質最後經由下列那一條血管進入肝臟？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腸繫膜上動脈",
+        "images": []
+      },
+      {
+        "text": "B 腸繫膜下動脈",
+        "images": []
+      },
+      {
+        "text": "C 肝動脈",
+        "images": []
+      },
+      {
+        "text": "D 肝門靜脈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 以下物質中何者是由腸絨毛內的乳糜管吸收：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 長鏈的脂肪酸",
+        "images": []
+      },
+      {
+        "text": "B 各種的維生素",
+        "images": []
+      },
+      {
+        "text": "C 胺基酸",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 當酸性食糜（pH＜3）進入十二指腸內產生之生理反應，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加胃酸分泌",
+        "images": []
+      },
+      {
+        "text": "B 降低膽汁的生成",
+        "images": []
+      },
+      {
+        "text": "C 增加富含碳酸氫根（bicarbonate）的胰液分泌",
+        "images": []
+      },
+      {
+        "text": "D 抑制富含酵素之胰液分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

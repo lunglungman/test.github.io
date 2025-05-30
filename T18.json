@@ -1,0 +1,1413 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 有關正常人體消化系統中，吸收水分最多的場所，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 盲腸（cecum）",
+        "images": []
+      },
+      {
+        "text": "B 結腸（colon）",
+        "images": []
+      },
+      {
+        "text": "C 十二指腸（duodenum）",
+        "images": []
+      },
+      {
+        "text": "D 直腸（rectum）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 下列哪些物質可刺激胃酸分泌？①組織胺（histamine）②膽囊收縮素（CCK）③胃泌素（gastrin）④乙醯膽鹼（acetylcholine）⑤正腎上腺素（norepinephrine）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①②③",
+        "images": []
+      },
+      {
+        "text": "B ③④⑤",
+        "images": []
+      },
+      {
+        "text": "C ①③④",
+        "images": []
+      },
+      {
+        "text": "D ②③⑤",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. Which of the following is true of members of the phylum Cnidaria?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A They are not capable of locomotion because they lack true muscle tissue.",
+        "images": []
+      },
+      {
+        "text": "B They are primarily filter feeders.",
+        "images": []
+      },
+      {
+        "text": "C They have either, or both, of two body forms: mobile polyps and sessile medusae.",
+        "images": []
+      },
+      {
+        "text": "D They may use a gastrovascular cavity as a hydrostatic skeleton.",
+        "images": []
+      },
+      {
+        "text": "E They are the simplest organisms with a complete alimentary canal (two openings).",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 有關人類消化作用的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 小腸壁的黏膜有許多皺褶及絨毛，可促進吸收",
+        "images": []
+      },
+      {
+        "text": "B 激素直接促進唾腺、胃腺、胰腺的分泌",
+        "images": []
+      },
+      {
+        "text": "C 胃會初步消化食物，但沒有吸收作用",
+        "images": []
+      },
+      {
+        "text": "D 膽汁可直接分解脂質為脂肪酸和甘油",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Membrane-bound enteropeptidase的作用是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 促進小腸分泌黏液",
+        "images": []
+      },
+      {
+        "text": "B 促進小腸平滑肌收縮",
+        "images": []
+      },
+      {
+        "text": "C 活化 pancreatic amylase",
+        "images": []
+      },
+      {
+        "text": "D 活化 trypsinogen",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 關於人類消化作用的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃部強酸性環境有助於蛋白質類的食物變性，使其容易被分解",
+        "images": []
+      },
+      {
+        "text": "B 小腸是食物消化與吸收的主要場所",
+        "images": []
+      },
+      {
+        "text": "C 膽汁含有脂肪分解酶，可消化脂肪",
+        "images": []
+      },
+      {
+        "text": "D 胃腺與胰腺的分泌都受到激素調節",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 下列有關胃蛋白酶（pepsin）的描述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃蛋白酶原（pepsinogen）可經由HCl作用後而產生胃蛋白酶",
+        "images": []
+      },
+      {
+        "text": "B 胃蛋白酶原可經由胃蛋白酶活化",
+        "images": []
+      },
+      {
+        "text": "C 胃蛋白酶在pH2的環境中其活性最強",
+        "images": []
+      },
+      {
+        "text": "D 胃蛋白酶原是由胃的parietal cells所分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 下列有關胃腸荷爾蒙的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 膽囊收縮素（cholecystokinin）抑制膽囊收縮",
+        "images": []
+      },
+      {
+        "text": "B 胰泌素（secretin）能夠刺激胰臟碳酸氫根的分泌增加",
+        "images": []
+      },
+      {
+        "text": "C 胃泌素（gastrin）抑制胃酸的分泌",
+        "images": []
+      },
+      {
+        "text": "D 膽囊收縮素會使Oddi括約肌（sphincter of Oddi）收縮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列何種腸道胜肽可以促進食慾？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "Aα-MSH",
+        "images": []
+      },
+      {
+        "text": "B NPY",
+        "images": []
+      },
+      {
+        "text": "C AgRP",
+        "images": []
+      },
+      {
+        "text": "D CCK",
+        "images": []
+      },
+      {
+        "text": "E ghrelin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. The acidity of the stomach contents triggers the small intestine to secrete a hormone known as",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A histones.",
+        "images": []
+      },
+      {
+        "text": "B secretin.",
+        "images": []
+      },
+      {
+        "text": "C TSH.",
+        "images": []
+      },
+      {
+        "text": "D pepsin.",
+        "images": []
+      },
+      {
+        "text": "E cholecystokinin, or CCK.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 關於控制消化之激素作用的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 食物刺激胃分泌胃泌素（gastrin），胃泌素刺激胃液分泌",
+        "images": []
+      },
+      {
+        "text": "B 食糜（chyme）刺激十二指腸分泌胰泌素（secretin），胰泌素刺激胰臟分泌HCO3－來中和食糜",
+        "images": []
+      },
+      {
+        "text": "C 食糜刺激十二指腸分泌CCK（cholecystokinin），CCK刺激胰臟分泌消化酵素以及膽囊釋出膽汁",
+        "images": []
+      },
+      {
+        "text": "D 高量胰泌素及CCK須經血液送達才能抑制胃蠕動及胃液分泌，但胃泌素直接作用於胃，故不須由血液運送",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 目前研究顯示，瘦身素（Leptin）可作用於何種構造，進而影響食慾及能量平衡？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 下視丘的弓狀核",
+        "images": []
+      },
+      {
+        "text": "B 下視丘的束狀核",
+        "images": []
+      },
+      {
+        "text": "C 腦垂體前葉",
+        "images": []
+      },
+      {
+        "text": "D 腦垂體後葉",
+        "images": []
+      },
+      {
+        "text": "E 視丘",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列何者可抑制胰臟β-細胞分泌胰島素（insulin）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 高血糖",
+        "images": []
+      },
+      {
+        "text": "B 血中胺基酸濃度升高",
+        "images": []
+      },
+      {
+        "text": "C 副交感神經興奮",
+        "images": []
+      },
+      {
+        "text": "D 血中腎上腺素（epinephrine）增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 有關胰臟分泌的酵素，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核苷酸酵素（nucleotidase）",
+        "images": []
+      },
+      {
+        "text": "B 核苷酵素（nucleosidase）",
+        "images": []
+      },
+      {
+        "text": "C 磷酸酶（phosphatase）",
+        "images": []
+      },
+      {
+        "text": "D 核酸酵素（nuclease）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列敍述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 瘦體素（leptin）會抑制食慾",
+        "images": []
+      },
+      {
+        "text": "B 饑餓素（ghrelin）會刺激食慾中樞",
+        "images": []
+      },
+      {
+        "text": "C 胃泌激素（gastrin）促進胃壁細胞分泌鹽酸及酵素",
+        "images": []
+      },
+      {
+        "text": "D 胰泌素（secretin）使胰臟分泌重碳酸鹽",
+        "images": []
+      },
+      {
+        "text": "E 膽囊收縮素（CCK）導致膽囊收縮並增加食慾",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 下列何種營養素，哺乳動物可自行合成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 白胺酸（leucine）",
+        "images": []
+      },
+      {
+        "text": "B 離胺酸（lysine）",
+        "images": []
+      },
+      {
+        "text": "C 半胱胺酸（cysteine）",
+        "images": []
+      },
+      {
+        "text": "D 亞麻油酸（linoleic acid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 有關膽鹽（bile salt）的敘述，下列何者最為正確?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它是酵素",
+        "images": []
+      },
+      {
+        "text": "B 它是由胰臟製造",
+        "images": []
+      },
+      {
+        "text": "C 它在十二指腸中乳化脂肪",
+        "images": []
+      },
+      {
+        "text": "D 它是胃液中的主要成分",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 有關動物體營養吸收的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蚱蜢具有包含食道和嗉囊的前腸、中腸、後腸等消化腔室",
+        "images": []
+      },
+      {
+        "text": "B 消化是將食物切割成小到足以被身體吸收之小分子的過程",
+        "images": []
+      },
+      {
+        "text": "C 蚱蜢的消化和吸收主要發生在中腸的胃盲囊（Gastric cecae）",
+        "images": []
+      },
+      {
+        "text": "D 動物對於食物處理步驟包含了：攝食、消化、吸收和排泄",
+        "images": []
+      },
+      {
+        "text": "E 人類的唾液含有唾液澱粉酶，能分解澱粉和肝醣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 組織胺（histamine）主要於下列何種胃腺的細胞分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 類腸嗜鉻細胞（enterochromaffin-like cell, ECL cell）",
+        "images": []
+      },
+      {
+        "text": "B 主細胞（chief cell）",
+        "images": []
+      },
+      {
+        "text": "C D細胞（D cell）",
+        "images": []
+      },
+      {
+        "text": "D 杯狀細胞（goblet cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 胃蛋白酶（pepsin）的分泌受到下列何種賀爾蒙的調控？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃抑胜肽（gastric inhibitory peptide）",
+        "images": []
+      },
+      {
+        "text": "B 胰泌素（secretin）",
+        "images": []
+      },
+      {
+        "text": "C 胃泌素（gastrin）",
+        "images": []
+      },
+      {
+        "text": "D 膽囊收縮素（cholecystokinin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列何者是主要幫助葡萄糖運送入小腸黏膜細胞的物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鉀離子",
+        "images": []
+      },
+      {
+        "text": "B 鈉離子",
+        "images": []
+      },
+      {
+        "text": "C 鎂離子",
+        "images": []
+      },
+      {
+        "text": "D 鈣離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列有關飢餓素（ghrelin）的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血中飢餓素過多會抑制食慾",
+        "images": []
+      },
+      {
+        "text": "B 由胃部細胞分泌",
+        "images": []
+      },
+      {
+        "text": "C 抑制生長激素分泌",
+        "images": []
+      },
+      {
+        "text": "D 進食可刺激飢餓素的分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 有關反芻類動物的消化系統具有四個胃，請問下列何種消化順序最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 口、網胃（reticulum）、瘤胃（rumen）、瓣胃（omasum）、皺胃（abomasum）、小腸",
+        "images": []
+      },
+      {
+        "text": "B 口、瘤胃、網胃、瓣胃、皺胃、小腸",
+        "images": []
+      },
+      {
+        "text": "C 口、網胃、瘤胃、皺胃、瓣胃、小腸",
+        "images": []
+      },
+      {
+        "text": "D 口、瘤胃、網胃、皺胃、瓣胃、小腸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 有些胰臟癌組織會分泌大量胃泌素（gastrin），易導致十二指腸潰瘍。此現象最有可能是胃泌素的何項作用?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加胃分泌胃液",
+        "images": []
+      },
+      {
+        "text": "B 增加胰臟分泌胰蛋白酶原",
+        "images": []
+      },
+      {
+        "text": "C 減少腸道黏液分泌量",
+        "images": []
+      },
+      {
+        "text": "D 減少胰臟分泌HCO3-",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 有關人體消化酵素之描述，下列哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胰澱粉酶（pancreatic amylase）能將多醣轉換為單醣",
+        "images": []
+      },
+      {
+        "text": "B 胃蛋白酶（pepsin）能將蛋白質轉換成胺基酸",
+        "images": []
+      },
+      {
+        "text": "C 胰核酸酶（pancreatic nuclease）能將核苷酸轉換成五碳糖",
+        "images": []
+      },
+      {
+        "text": "D 胰脂酶（pancreatic lipase）可將脂質乳化成脂肪小球",
+        "images": []
+      },
+      {
+        "text": "E 胰蛋白酶（pancreatic trypsin）可將蛋白質轉換成胜肽類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. In animal digestion and absorption, which one is the correct description?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The small intestine releases the hormone secretin in response to acid.",
+        "images": []
+      },
+      {
+        "text": "B Fats packaged in chylomicrons pass directly from epithelial cells to the bloodstream.",
+        "images": []
+      },
+      {
+        "text": "C In the stomach, proteins are cleaved into amino acids by aminopeptidases",
+        "images": []
+      },
+      {
+        "text": "D All sugars are absorbed via secondary active transport.",
+        "images": []
+      },
+      {
+        "text": "E In omnivores, including humans, the cecum is an important organ for digestion of cellulose.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何種食糜（chyme）可刺激人類腸道分泌胰泌素（secretin）及cholecystokinin (CCK)？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 富含纖維素（cellulose）之食糜",
+        "images": []
+      },
+      {
+        "text": "B 富含醣類（saccharide）之食糜",
+        "images": []
+      },
+      {
+        "text": "C 富含胜肽（peptide）之食糜",
+        "images": []
+      },
+      {
+        "text": "D 富含酸性（acid）之食糜",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 對於膽囊割除的患者，應特別限制下列哪一種成分攝食？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛋白質",
+        "images": []
+      },
+      {
+        "text": "B 脂肪",
+        "images": []
+      },
+      {
+        "text": "C 澱粉",
+        "images": []
+      },
+      {
+        "text": "D 鹽",
+        "images": []
+      },
+      {
+        "text": "E 糖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. Which of the following statements about the molecules of appetite regulation is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Hormone ghrelin is secreted by stomach to trigger feelings of hunger.",
+        "images": []
+      },
+      {
+        "text": "B Hormone insulin is secreted by pancreas to suppress appetite by brain.",
+        "images": []
+      },
+      {
+        "text": "C Hormone leptin is secreted by adipose to suppress appetite.",
+        "images": []
+      },
+      {
+        "text": "D Hormone PYY is secreted by small intestine to suppress appetite.",
+        "images": []
+      },
+      {
+        "text": "E Hormone syndecan is secreted by hypothalamus to trigger appetite.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 胎兒神經管的發育缺陷常肇因於母親懷孕時缺乏下列何者維生素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 維生素K",
+        "images": []
+      },
+      {
+        "text": "B 維生素B2（核黃素；riboflavin）",
+        "images": []
+      },
+      {
+        "text": "C 維生素B7（生物素；biotin）",
+        "images": []
+      },
+      {
+        "text": "D 維生素B9（葉酸；folic acid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 胰液進入十二指腸後，胰蛋白酶原（trypsinogen）最主要為下列何種消化酵素轉化為有活性的胰蛋白酶（trypsin）而進行蛋白質之消化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腸激酶（enterokinase）",
+        "images": []
+      },
+      {
+        "text": "B 胺肽酶（aminopeptidase）",
+        "images": []
+      },
+      {
+        "text": "C 羧肽酶（carboxypeptidase）",
+        "images": []
+      },
+      {
+        "text": "D 二肽酶（dipeptidase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列何者主負責壁細胞（parietal cells）分泌胃酸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Na+-K+ATPase",
+        "images": []
+      },
+      {
+        "text": "B H+-K+ATPase",
+        "images": []
+      },
+      {
+        "text": "C N++-H+exchanger",
+        "images": []
+      },
+      {
+        "text": "D Na+-K+co-transporter",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. DNA與RNA等核酸物質在下列何種消化器官進行分解？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃",
+        "images": []
+      },
+      {
+        "text": "B 小腸前段",
+        "images": []
+      },
+      {
+        "text": "C 大腸前段",
+        "images": []
+      },
+      {
+        "text": "D 直腸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 為什麼牛和白蟻可以靠吃草維生，但人卻不行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 因為牛和白蟻自己可以合成分解纖維素的酵素，但人沒有",
+        "images": []
+      },
+      {
+        "text": "B 因為牛和白蟻自己可以合成分解葉綠素的酵素，但人沒有",
+        "images": []
+      },
+      {
+        "text": "C 因為牛和白蟻體內有共生的細菌可以合成分解纖維素的酵素，但人沒有",
+        "images": []
+      },
+      {
+        "text": "D 因為牛和白蟻體內有共生的細菌可以合成分解葉綠素的酵素，但人沒有",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列有關人類食慾（appetite）調節的描述，何者最不恰當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 飢餓肽（ghrelin）由胃壁細胞產生",
+        "images": []
+      },
+      {
+        "text": "B 瘦素（leptin）由胰臟細胞產生",
+        "images": []
+      },
+      {
+        "text": "C 胜肽YY（PYY）由小腸細胞產生",
+        "images": []
+      },
+      {
+        "text": "D 上述分子皆會作用於下視丘的飽食中樞（satietycenter）來控制食慾",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列何種狀況易造成胃潰瘍？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃上皮細胞分裂變慢",
+        "images": []
+      },
+      {
+        "text": "B gastrin 的分泌量較正常值低",
+        "images": []
+      },
+      {
+        "text": "C 壁細胞（parietal cell）分泌H+及Cl-量變少",
+        "images": []
+      },
+      {
+        "text": "D 主細胞（chief cell）分泌胃蛋白酶原（pepsinogen）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. Which one of the statements is FALSE for digestion and absorption of fat?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The requirement of emulsification.",
+        "images": []
+      },
+      {
+        "text": "B The absorption of fat in the stomach.",
+        "images": []
+      },
+      {
+        "text": "C The entrance of lymphatic system of the absorbed fat.",
+        "images": []
+      },
+      {
+        "text": "D The hydrolysis of fat by lipase.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. Secretin 主要是受下列何者刺激而分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A amino acids",
+        "images": []
+      },
+      {
+        "text": "B fatty acids",
+        "images": []
+      },
+      {
+        "text": "C acid",
+        "images": []
+      },
+      {
+        "text": "D glucose",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. Which of these statements about fat digestion and absorption is false?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Triglycerides are resynthesized from monoglycerides and fatty acids in the intestinal epithelial cells.",
+        "images": []
+      },
+      {
+        "text": "B Triglycerides are hydrolyzed by the action of pancreatic lipase",
+        "images": []
+      },
+      {
+        "text": "C Triglycerides, as particles called chylomicrons, are absorbed into blood capillaries within the villi.",
+        "images": []
+      },
+      {
+        "text": "D Emulsification by bile salts increases the rate of fat digestion.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. Why are cattle able to survive on a diet consisting almost entirely of plant material?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A They are autotrophic.",
+        "images": []
+      },
+      {
+        "text": "B Cattle, like the rabbit, reingest their feces.",
+        "images": []
+      },
+      {
+        "text": "C They manufacture all 15 amino acids out of sugars in the liver.",
+        "images": []
+      },
+      {
+        "text": "D Cattle saliva has enzymes capable of digesting cellulose.",
+        "images": []
+      },
+      {
+        "text": "E They have cellulose-digesting, symbiotic microorganisms in chambers of their stomachs.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. Hypoglycemia, or low levels of glucose in the blood of a healthy human, is “corrected” by a(n) ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A increase in the secretion of insulin",
+        "images": []
+      },
+      {
+        "text": "B increase in the secretion of glucagon",
+        "images": []
+      },
+      {
+        "text": "C increase in the secretion of both insulin and glucagon",
+        "images": []
+      },
+      {
+        "text": "D decrease in the secretion of both insulin and glucagon",
+        "images": []
+      },
+      {
+        "text": "E increase in the secretion of thyroid hormones",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何者具有大量的頂端微絨毛（apical microvilli）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 外分泌腺體細胞（exocrine gland cell）",
+        "images": []
+      },
+      {
+        "text": "B 網狀內皮細胞（reticuloendothelial cell）",
+        "images": []
+      },
+      {
+        "text": "C 吸收性上皮細胞（absorptive epithelia cell）",
+        "images": []
+      },
+      {
+        "text": "D 神經樹突（neuronal dendrite）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 下列有關消化的酵素的描述何者是錯誤的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 澱粉酶喜歡在微鹼性的環境作用",
+        "images": []
+      },
+      {
+        "text": "B 胃蛋白酶喜歡在酸性的環境作用",
+        "images": []
+      },
+      {
+        "text": "C 分解核酸的酵素喜歡在鹼性的環境作用",
+        "images": []
+      },
+      {
+        "text": "D 分解酯質的酵素喜歡在酸性的環境作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 一個膽囊收縮素（cholecystokinin）分泌不足的人，當他食用富含油脂的食物後會造成下列何種反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃蠕動減少",
+        "images": []
+      },
+      {
+        "text": "B 胃酸分泌過多",
+        "images": []
+      },
+      {
+        "text": "C 酸性的食糜無法在腸道被中和",
+        "images": []
+      },
+      {
+        "text": "D 脂質無法被乳化（emulsified）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列有關大腸的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大腸的主要功能是吸收營養物",
+        "images": []
+      },
+      {
+        "text": "B 大腸內是不應該有細菌滋生的",
+        "images": []
+      },
+      {
+        "text": "C 如果大腸長期受病毒或細菌的刺激，很容易增加水分的吸收",
+        "images": []
+      },
+      {
+        "text": "D 潰瘍性大腸炎（ulcerative colitis）是大腸慢性發炎的疾病，病人會產生重度脫水",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. Which of the following statements concerning hormonal control of digestion is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Secretin stimulates the pancreas to release bicarbonate.",
+        "images": []
+      },
+      {
+        "text": "B Cholecystokinin (CCK) stimulates the release of digestive enzymes form the pancreas and of bile from the gallbladder.",
+        "images": []
+      },
+      {
+        "text": "C Both secretin and CCK act on the stomach to promote secretion of gastric juices.",
+        "images": []
+      },
+      {
+        "text": "D Secretin and CCK are released from duodenum.",
+        "images": []
+      },
+      {
+        "text": "E Gastrin is released from stomach and regulates production of gastric juices.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 以下何種選項的器官與其功能不符？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃 → 消化蛋白質",
+        "images": []
+      },
+      {
+        "text": "B 口腔 → 消化澱粉",
+        "images": []
+      },
+      {
+        "text": "C 大腸 → 產生膽汁",
+        "images": []
+      },
+      {
+        "text": "D 小腸 → 吸收營養",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 何種來自脂肪分泌的激素可降低能量攝取並加速代謝速率？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 瘦身素（leptin）",
+        "images": []
+      },
+      {
+        "text": "B 皮質醇（cortisol）",
+        "images": []
+      },
+      {
+        "text": "C 生長激素",
+        "images": []
+      },
+      {
+        "text": "D 濾泡促素（FSH）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列消化酵素，何者以無活性的酶原（Zymogens）形式由腺體細胞分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脂肪酶",
+        "images": []
+      },
+      {
+        "text": "B 核酸酶",
+        "images": []
+      },
+      {
+        "text": "C 澱粉酶",
+        "images": []
+      },
+      {
+        "text": "D 蛋白質消化酶",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 三酸甘油酯以下列哪種型態進入血液循環中？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脂蛋白（lipoproteins）",
+        "images": []
+      },
+      {
+        "text": "B 微脂粒（micelles）",
+        "images": []
+      },
+      {
+        "text": "C 乳糜微粒（chylomicrons）",
+        "images": []
+      },
+      {
+        "text": "D 脂質體（liposome）",
+        "images": []
+      },
+      {
+        "text": "E 脂肪球（fat globules）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "C"
+    ]
+  }
+]

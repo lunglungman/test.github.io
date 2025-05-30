@@ -1,0 +1,1420 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 健康成年人體內的紅血球生成素（erythropoietin）是由下列何種器官所製造？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 脾臟",
+        "images": []
+      },
+      {
+        "text": "B 骨髓",
+        "images": []
+      },
+      {
+        "text": "C 腎臟",
+        "images": []
+      },
+      {
+        "text": "D 肝臟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 下列的那一種因素會使氧與血紅素結合增加？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pH值增加",
+        "images": []
+      },
+      {
+        "text": "B pH值減少",
+        "images": []
+      },
+      {
+        "text": "C 溫度增加",
+        "images": []
+      },
+      {
+        "text": "D 二氧化碳增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. About high blood pressure, which of the following statement is NOT correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Blood pressure is always high.",
+        "images": []
+      },
+      {
+        "text": "B Systolic pressure above 144 mmHg and diastolic pressure over 90 mmHg.",
+        "images": []
+      },
+      {
+        "text": "C It is caused by long term raise of cardiac output.",
+        "images": []
+      },
+      {
+        "text": "D May be caused by kidney dysfunction.",
+        "images": []
+      },
+      {
+        "text": "E Can be treated with diuretic drug.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which of the following is required for synthesis of prothrombin and blood coagulation factors in hepatocyte?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A folic acid",
+        "images": []
+      },
+      {
+        "text": "B vitamin K",
+        "images": []
+      },
+      {
+        "text": "C vitamin B12",
+        "images": []
+      },
+      {
+        "text": "D vitamin A",
+        "images": []
+      },
+      {
+        "text": "E vitamin B1",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. The function of plasma proteins is NOT related to which one of the following?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Oxygen transport.",
+        "images": []
+      },
+      {
+        "text": "B Immune responses.",
+        "images": []
+      },
+      {
+        "text": "C Transport of water-insoluble lipids",
+        "images": []
+      },
+      {
+        "text": "D Maintenance of blood osmotic pressure.",
+        "images": []
+      },
+      {
+        "text": "E Blood clotting.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 假如血管舒張到原來半徑的2倍，而血壓為維持恆定，則經過這個血管的血流將如何改變？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 降低2倍",
+        "images": []
+      },
+      {
+        "text": "B 增加2倍",
+        "images": []
+      },
+      {
+        "text": "C 增加4倍",
+        "images": []
+      },
+      {
+        "text": "D 增加16倍",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. In octopus, what kind of respiratory pigment can be found?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Hemocyanin",
+        "images": []
+      },
+      {
+        "text": "B Hemoglobin",
+        "images": []
+      },
+      {
+        "text": "C Hemophilia",
+        "images": []
+      },
+      {
+        "text": "D Hemochromatosis",
+        "images": []
+      },
+      {
+        "text": "E Ferritin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. Which of the following structures does NOT belong to the human lymphatic system?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A tonsils",
+        "images": []
+      },
+      {
+        "text": "B thymus",
+        "images": []
+      },
+      {
+        "text": "C pancreas",
+        "images": []
+      },
+      {
+        "text": "D appendix",
+        "images": []
+      },
+      {
+        "text": "E bone marrow",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 下列何者使人體腦血管收縮最明顯？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加血液中二氧化碳（CO2）分壓",
+        "images": []
+      },
+      {
+        "text": "B 降低血液中二氧化碳分壓",
+        "images": []
+      },
+      {
+        "text": "C 增加血液中氧氣（O2）分壓",
+        "images": []
+      },
+      {
+        "text": "D 降低血液中氧氣分壓",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列何者為呼吸窘迫症候群（respiratory distress syndrome, RDS）產生的主要原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺缺乏足夠的表面作用劑（surfactant）",
+        "images": []
+      },
+      {
+        "text": "B 肺順應性（compliance）變差",
+        "images": []
+      },
+      {
+        "text": "C 肺失去彈性",
+        "images": []
+      },
+      {
+        "text": "D 肺粘液分泌過多",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列何者是心臟的法蘭克─史達林法則（Frank-Starling law）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 舒張末期的心室血容積增加，心搏量就會增加",
+        "images": []
+      },
+      {
+        "text": "B 交感神經刺激下，心搏量就會增加",
+        "images": []
+      },
+      {
+        "text": "C 舒張末期的心室血容積增加，心跳就會增加",
+        "images": []
+      },
+      {
+        "text": "D 交感神經刺激下，心跳就會增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 在心電圖紀錄中，一般紀錄不到下列哪一事件？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心房去極化（depolarization）",
+        "images": []
+      },
+      {
+        "text": "B 心房再極化（repolarization）",
+        "images": []
+      },
+      {
+        "text": "C 心室去極化",
+        "images": []
+      },
+      {
+        "text": "D 心室再極化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. A specialized function shared by the many cells lining the lungs and the lumen of the gut is ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A decreased oxygen demand due to the lack of oxygen in foods",
+        "images": []
+      },
+      {
+        "text": "B increased exchange surface provided by their membranes",
+        "images": []
+      },
+      {
+        "text": "C greater numbers of cell organelles contained within their cytoplasm",
+        "images": []
+      },
+      {
+        "text": "D greater protection due to increased cellular mass",
+        "images": []
+      },
+      {
+        "text": "E lowered basal metabolic rate due to cooperation between cell",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 當發生出血（hemorrhage）時，身體會產生甚麼代償現象來維持血壓？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 刺激血壓感受器（baroreceptors）的活性",
+        "images": []
+      },
+      {
+        "text": "B 刺激支配心臟的副交感神經（parasympathetic nerves）的活性",
+        "images": []
+      },
+      {
+        "text": "C 抑制支配靜脈（veins）的交感神經（sympathetic nerves）的活性",
+        "images": []
+      },
+      {
+        "text": "D 刺激支配小動脈（arterioles）的交感神經的活性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 哺乳動物的心臟具備特化的自我興奮（self-excitable）特性，最重要的一群自律性細胞（autorhythmic cells）稱為節律點（sinoatrial node, SA node）。心房的收縮是從心房上端的節律 點開始收縮；心室則是從心室底端的心尖開始收縮。在完成上述步驟的過程中，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心房上端的節律點自發性產生規律的去極化形成動作電位",
+        "images": []
+      },
+      {
+        "text": "B 從節律點將去極化電訊號向下傳遍左、右心房抵達房室竇（atrioventricular node, AV node）",
+        "images": []
+      },
+      {
+        "text": "C 房室竇發生去極化將電訊號經由房室束的運動神經元往下傳至心室底端的心尖（apex）",
+        "images": []
+      },
+      {
+        "text": "D 從心尖開始收縮，並且經由蒲金氏纖維（Purkinje fibers）將去極化電訊號向上傳遍左、右心室",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 人類竇房結（sinoatrial node）受損時會發生的現象，下列何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 直接影響大動脈血壓偵測",
+        "images": []
+      },
+      {
+        "text": "B 對周邊血管阻力會有負面影響",
+        "images": []
+      },
+      {
+        "text": "C 破壞心肌有效收縮的速率與時間",
+        "images": []
+      },
+      {
+        "text": "D 會阻斷束支（bundle branches）與浦金氏纖維（Purkinje fibers）之傳導率",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. Which of these statements about edema is false?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Edema may be caused by blockage of lymphatic vessels.",
+        "images": []
+      },
+      {
+        "text": "B Edema may be caused by high blood pressure.",
+        "images": []
+      },
+      {
+        "text": "C Edema may be caused by increased plasma protein.",
+        "images": []
+      },
+      {
+        "text": "D Edema may be caused by leakage of plasma protein into tissue fluid.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 關於血小板（platelets）的敍述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 缺乏細胞核",
+        "images": []
+      },
+      {
+        "text": "B 由淋巴球前驅細胞（lymphoid progenitor cells）分化而來",
+        "images": []
+      },
+      {
+        "text": "C 參與凝血反應",
+        "images": []
+      },
+      {
+        "text": "D 鳥類之血栓細胞（thrombocytes）為單核細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 下列哪一種情形最不易造成組織水腫（edema）的產生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 淋巴管阻塞",
+        "images": []
+      },
+      {
+        "text": "B 微血管靜脈端阻塞",
+        "images": []
+      },
+      {
+        "text": "C 血漿中蛋白質增加",
+        "images": []
+      },
+      {
+        "text": "D 微血管通透度（permeability）增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 人類四肢的靜脈血管中的瓣膜，其主要功能為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加肌肉收縮的能力",
+        "images": []
+      },
+      {
+        "text": "B 防止血液的逆流",
+        "images": []
+      },
+      {
+        "text": "C 保持血壓的穩定性",
+        "images": []
+      },
+      {
+        "text": "D 保持血液的流速穩定",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列有關高血壓之治療策略，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 降低心輸出量（cardiac output）",
+        "images": []
+      },
+      {
+        "text": "B 增加週邊阻力（peripheral resistance）",
+        "images": []
+      },
+      {
+        "text": "C 增加心博量（stroke volume）",
+        "images": []
+      },
+      {
+        "text": "D 減少鈉及水之排泄",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Which of the following statements about circulatory systems is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Arthropods and earthworms have open circulatory system.",
+        "images": []
+      },
+      {
+        "text": "B The pulmonary circuit carries blood between the heart and gas exchange tissues in the lungs.",
+        "images": []
+      },
+      {
+        "text": "C The systemic circuit carries blood between the heart and the rest of the body.",
+        "images": []
+      },
+      {
+        "text": "D Salmon has a single circuit of blood flow and two heart chambers.",
+        "images": []
+      },
+      {
+        "text": "E Mammals have two atria and two ventricles in their hearts.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. Which sequence of blood flow can be observed in either a reptile or a mammal?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A left ventricle → aorta → lungs → systemic circulation",
+        "images": []
+      },
+      {
+        "text": "B vena cava → right atrium → ventricle → pulmonary circuit",
+        "images": []
+      },
+      {
+        "text": "C right ventricle → pulmonary vein → pulmocutaneous circulatio",
+        "images": []
+      },
+      {
+        "text": "D pulmonary vein → left atrium → ventricle → pulmonary circuit",
+        "images": []
+      },
+      {
+        "text": "E right atrium → pulmonary artery → left atrium → ventricle",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 關於血液，下列何者是錯的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紅血球生成是受到細胞激素（cytokine）的刺激",
+        "images": []
+      },
+      {
+        "text": "B 胞漿素（plasmin）可將纖維素分解成片斷，因而促進血塊溶解",
+        "images": []
+      },
+      {
+        "text": "C 血小板生成素（thrombopoietin）可刺激巨核細胞增生及促進其成熟以形成血小板",
+        "images": []
+      },
+      {
+        "text": "D 凝血路徑中XIII因子可將纖維素（fibrin）聚合成纖維素聚合體（fibrin polymer）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 在生理情況下，血液中白血球的量由高至低的排序為下列何者？①monocyte②neutrophil③basophil④eosinophil",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①②③④",
+        "images": []
+      },
+      {
+        "text": "B ②①④③",
+        "images": []
+      },
+      {
+        "text": "C ③②①④",
+        "images": []
+      },
+      {
+        "text": "D ④③①②",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 有關人類紅血球的敍述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 有粒線體可進行有氧呼吸",
+        "images": []
+      },
+      {
+        "text": "B 雙凹型可增加氧氣擴散能力",
+        "images": []
+      },
+      {
+        "text": "C 是血液中數量最多的細胞",
+        "images": []
+      },
+      {
+        "text": "D 不具有細胞核",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 延腦內有一化學敏感區（chemosensitive area）對血液中何種物質的濃度極為敏感，藉以調節呼吸速率？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A O2",
+        "images": []
+      },
+      {
+        "text": "B CO2",
+        "images": []
+      },
+      {
+        "text": "C HCO3-",
+        "images": []
+      },
+      {
+        "text": "D H+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. Which of the following is most likely to cause a decrease in the stroke volume of the left ventricle?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A an increase in end-diastolic volume",
+        "images": []
+      },
+      {
+        "text": "B an increase in the activity of sympathetic nerves to the heart",
+        "images": []
+      },
+      {
+        "text": "C an increase in mean arterial pressure",
+        "images": []
+      },
+      {
+        "text": "D an increase in end-diastolic pressure",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 使用聽診器可聽到心臟跳動的聲音，有關心音產生的敍述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是血液衝開瓣膜所產生的聲音",
+        "images": []
+      },
+      {
+        "text": "B 是收縮壓與舒張壓的差異所產生的心音",
+        "images": []
+      },
+      {
+        "text": "C 第一個心音，來自心房收縮、心室舒張",
+        "images": []
+      },
+      {
+        "text": "D 第二個心音，來自心室的舒張",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列人類身體的血管種類中，何者為人體血量50%～60%的保留場所？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 靜脈",
+        "images": []
+      },
+      {
+        "text": "B 小靜脈",
+        "images": []
+      },
+      {
+        "text": "C 微血管",
+        "images": []
+      },
+      {
+        "text": "D 小動脈",
+        "images": []
+      },
+      {
+        "text": "E 動脈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. In which blood vessel is glucose concentration likely to vary the most?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A coronary arteries.",
+        "images": []
+      },
+      {
+        "text": "B abdominal artery.",
+        "images": []
+      },
+      {
+        "text": "C hepatic vein, which drains the liver.",
+        "images": []
+      },
+      {
+        "text": "D hepatic portal vessel.",
+        "images": []
+      },
+      {
+        "text": "E pulmonary veins.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. Lymphatic capillaries differ from blood capillaries in that",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A lymphatic capillaries are not connected to any other vessels.",
+        "images": []
+      },
+      {
+        "text": "B lymphatic capillaries have a lower permeability to water.",
+        "images": []
+      },
+      {
+        "text": "C lymphatic capillaries have a lower permeability to small solutes.",
+        "images": []
+      },
+      {
+        "text": "D lymphatic capillaries are blind ended.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列何者主要是使用開放式循環系統？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 扁型動物門（Platyhelminthes）的渦蟲（flatworm）",
+        "images": []
+      },
+      {
+        "text": "B 脊索動物門（Chordata）的海鞘（sea squirt）",
+        "images": []
+      },
+      {
+        "text": "C 節肢動物門（Arthropoda）的昆蟲（insect）",
+        "images": []
+      },
+      {
+        "text": "D 環節動物門（Annelida）的蚯蚓（earthworm）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 肺活量含有下列那些容積？(1)潮氣容積（tidal volume）(2)肺餘容積（residual volume）(3)吸氣儲備容積（inspiratory reserve volume）(4)呼氣儲備容積（expiratory reserve volume）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)＋(2)＋(3)",
+        "images": []
+      },
+      {
+        "text": "B (2)＋(3)＋(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)＋(3)＋(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)＋(2)＋(3)＋(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 你在健康檢查時量得血壓值為115/75，這組數字代表何者意義？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 當心室收縮時，動脈管壁壓力為115mm汞柱，而75mm汞柱代表為心室收縮之間的動脈管壁壓力",
+        "images": []
+      },
+      {
+        "text": "B 當心室收縮時，動脈管壁壓力為75mm汞柱，而115mm汞柱代表為心室收縮之間的動脈管壁壓力",
+        "images": []
+      },
+      {
+        "text": "C 當心房收縮時，動脈管壁壓力為115mm汞柱，而75mm汞柱代表為心房收縮之間的動脈管壁壓力",
+        "images": []
+      },
+      {
+        "text": "D 115mV代表竇房結（sinoatrial node）神經衝動的動作電位，而75mV代表房室結（atrioventricular node）的動作電位",
+        "images": []
+      },
+      {
+        "text": "E 75mV代表竇房結神經衝動的動作電位，而115mV代表房室結的動作電位",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 關於人類血液的組成與血管結構的描述，下列哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微血管僅由一層內皮細胞組成，為氧氣和物質交換的場所",
+        "images": []
+      },
+      {
+        "text": "B 血漿（plasma）中主要成份是血漿蛋白，其次是水",
+        "images": []
+      },
+      {
+        "text": "C 動脈中有瓣膜防止血液逆流",
+        "images": []
+      },
+      {
+        "text": "D 所有的血漿蛋白都是由肝臟合成",
+        "images": []
+      },
+      {
+        "text": "E 血液細胞部分（含細胞及細胞碎片）佔人類血液組成的55%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 下列何者並未直接參與血液凝固反應（blood clotting）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 白蛋白（albumin）",
+        "images": []
+      },
+      {
+        "text": "B 維生素K（vitamin K）",
+        "images": []
+      },
+      {
+        "text": "C 鈣離子（Ca++）",
+        "images": []
+      },
+      {
+        "text": "D 血纖蛋白（fibrin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. In the formation of a blood clot, damaged cells and platelets release substances which catalyze the conversion of",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A fibrinogen to fibrin",
+        "images": []
+      },
+      {
+        "text": "B fibrin to fibrinogen",
+        "images": []
+      },
+      {
+        "text": "C prothrombin to thrombin",
+        "images": []
+      },
+      {
+        "text": "D thrombin to prothrombin",
+        "images": []
+      },
+      {
+        "text": "E thrombin to fibrin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列何者與外在凝血途徑有關？①組織因子（tissue factor）②第十凝血因子③第十一凝血因子④第十二凝血因子",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ①②",
+        "images": []
+      },
+      {
+        "text": "B ②③",
+        "images": []
+      },
+      {
+        "text": "C ①③",
+        "images": []
+      },
+      {
+        "text": "D ②④",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 呼吸運動也稱為肺部換氣，可分為吸氣與呼氣二階段，此種胸腔體積節律性的增加或減少，是由吸氣與呼氣反覆進行造成，下列描述哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 外肋間肌收縮時把肋骨向下且朝內拉",
+        "images": []
+      },
+      {
+        "text": "B 一般呼吸氣體的容積約為300 mL",
+        "images": []
+      },
+      {
+        "text": "C 內肋間肌收縮時把肋骨向上且外張",
+        "images": []
+      },
+      {
+        "text": "D 吸氣時，橫膈肌肉收縮",
+        "images": []
+      },
+      {
+        "text": "E 咳嗽時，腹腔內壓力增加，胸腔擴大",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 在微血管路徑中，體液淨流出或淨流入微血管是取決於下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 視組織需求而定",
+        "images": []
+      },
+      {
+        "text": "B 血壓與滲透壓的淨效應",
+        "images": []
+      },
+      {
+        "text": "C 流出或流入的液體含養分或是代謝所產生的廢物",
+        "images": []
+      },
+      {
+        "text": "D 血液及組織間液的溶質含量",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. Moment-to-moment changes in total peripheral resistance are normally due to changes in",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the viscosity of blood.",
+        "images": []
+      },
+      {
+        "text": "B the radius of certain blood vessels in the systemic circuit.",
+        "images": []
+      },
+      {
+        "text": "C the lengths of blood vessels in the systemic circuit.",
+        "images": []
+      },
+      {
+        "text": "D the cardiac output.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 若新生兒心臟中膈未發育完全，導致無法將左右心分隔，造成嬰兒全身皮膚呈藍紫色，稱藍嬰（blue baby），下列何者為引起嬰兒全身藍紫色最可能的原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心室血液易逆流回心房，血液循環效率下降所致",
+        "images": []
+      },
+      {
+        "text": "B 靜脈血回流不易，導致心輸出量下降所致",
+        "images": []
+      },
+      {
+        "text": "C 左心的充氧血和右心的缺氧血混合所致",
+        "images": []
+      },
+      {
+        "text": "D 心室收縮時運送血液至動脈困難所致",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. The Bohr shift on the oxygen-hemoglobin dissociation curve is produced by changes in ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the partial pressure of oxygen",
+        "images": []
+      },
+      {
+        "text": "B the partial pressure of carbon monoxide",
+        "images": []
+      },
+      {
+        "text": "C hemoglobin concentration",
+        "images": []
+      },
+      {
+        "text": "D temperature",
+        "images": []
+      },
+      {
+        "text": "E pH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 激烈運動（strenuous exercise）時，血液主要流向哪一種系統？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心臟",
+        "images": []
+      },
+      {
+        "text": "B 肌肉",
+        "images": []
+      },
+      {
+        "text": "C 皮膚",
+        "images": []
+      },
+      {
+        "text": "D 腎臟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. What control the heart rate?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A medulla oblongata",
+        "images": []
+      },
+      {
+        "text": "B neocortex",
+        "images": []
+      },
+      {
+        "text": "C pituitary",
+        "images": []
+      },
+      {
+        "text": "D cerebellum",
+        "images": []
+      },
+      {
+        "text": "E thalamus",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 下列何種動物的紅血球（erythrocyte）成熟時，會缺乏細胞核（nucleus）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 莫瑞河龜（Emydura macquarii）",
+        "images": []
+      },
+      {
+        "text": "B 烏翅真鯊（Carcharhinus melanopterus）",
+        "images": []
+      },
+      {
+        "text": "C 斑點楔齒蜥（Sphenodon punctatus）",
+        "images": []
+      },
+      {
+        "text": "D 台灣長鬃山羊（Naemorhedus swinhoei）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 關於紅血球與血紅素的描述，下列何者是錯的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在相同氧分壓（PO2）下，胎兒血紅素（HbF）的氧合血紅素飽和百分比高於成人血紅素（adult hemoglobin, HbA）",
+        "images": []
+      },
+      {
+        "text": "B 貧血時，紅血球會產生過量的2,3-雙磷酸甘油酸（2,3-diphosphoglyceric acid, 2,3-DPG）",
+        "images": []
+      },
+      {
+        "text": "C 紅血球行有氧呼吸會產生2,3-雙磷酸甘油酸",
+        "images": []
+      },
+      {
+        "text": "D 肌球素（myoglobin）比血紅素對氧具有較高的親和力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 心室的肌肉收縮啟始於下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A P波",
+        "images": []
+      },
+      {
+        "text": "B QRS波",
+        "images": []
+      },
+      {
+        "text": "C PR間期",
+        "images": []
+      },
+      {
+        "text": "D T波",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. Hemoglobin is responsible for transporting oxygen from lung to tissues. Bohr shift is one of the most important properties of hemoglobin. Which of the following is NOT true about Bohr shift?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Additional oxygen is bound by hemoglobin in lung when pH decreases.",
+        "images": []
+      },
+      {
+        "text": "B Additional oxygen is released from hemoglobin at a lower pH.",
+        "images": []
+      },
+      {
+        "text": "C Carbon dioxide is involved in Bohr shift.",
+        "images": []
+      },
+      {
+        "text": "D Bohr shift helps tissues to obtain more oxygen in exercise.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  }
+]

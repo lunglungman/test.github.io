@@ -1,0 +1,1394 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 比較成體幹細胞（adult stem cells）和相同組織來源之成體細胞，下列敘述何者最為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 兩者之DNA甲基化形式（DNA methylation pattern）可能不同",
+        "images": []
+      },
+      {
+        "text": "B 成體幹細胞之DNA含量較多",
+        "images": []
+      },
+      {
+        "text": "C 兩者表現的基因完全相同",
+        "images": []
+      },
+      {
+        "text": "D 成體細胞中被抑制表現的基因數目較少",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 如果控制 inducible operon （lac operon）的regulatory gene （lacI）發生突變，會發生何事：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A operon’s genes 會持續進行轉錄",
+        "images": []
+      },
+      {
+        "text": "B operon’s genes 會降低轉錄",
+        "images": []
+      },
+      {
+        "text": "C repressor 會一直與promoter 結合",
+        "images": []
+      },
+      {
+        "text": "D 會產生過量的cAMP protein",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 有關真核細胞中，細胞核基因進行轉錄（transcription）時的第一層調控，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA組裝（DNA packing）及不組裝（DNA unpacking）",
+        "images": []
+      },
+      {
+        "text": "B 將RNA聚合酶（RNA polymerase）連接至啟動子（promoter）",
+        "images": []
+      },
+      {
+        "text": "C RNA進行剪接（RNA splicing）",
+        "images": []
+      },
+      {
+        "text": "D 將轉錄因子（transcription factors）結合或是不結合至增強子序列（enhancer sequence）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which of the following is NOT correct regarding homeotic genes?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Homeotic genes encode transcription factors.",
+        "images": []
+      },
+      {
+        "text": "B Homeotic genes are the only genes that contain the homeobox.",
+        "images": []
+      },
+      {
+        "text": "C Homeotic genes are found in clusters called complexes.",
+        "images": []
+      },
+      {
+        "text": "D The proteins encoded by homeotic genes contain DNA-binding domain.",
+        "images": []
+      },
+      {
+        "text": "E Homeotic genes activate other developmental genes.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 關於大腸桿菌乳糖操縱組（lac operon）的調控，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 主要在於調控轉錄的發生",
+        "images": []
+      },
+      {
+        "text": "B 調節基因（regulatory gene）轉譯出來的是活化的抑制蛋白（repressor），可負調控轉錄的發生",
+        "images": []
+      },
+      {
+        "text": "C 只要環境有乳糖存在，乳糖轉化成的異乳糖（allolactose）就可以造成抑制蛋白（repressor）的活化",
+        "images": []
+      },
+      {
+        "text": "D 異乳糖才是真正的誘導物（inducer）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. E.coli 的 lac operon 的表現，受到下列何者正向的調控？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A operator 的甲基化（methylation）",
+        "images": []
+      },
+      {
+        "text": "B lacZ 基因的產物",
+        "images": []
+      },
+      {
+        "text": "C polycistronic RNA 的差異剪接（splicing）",
+        "images": []
+      },
+      {
+        "text": "D cAMP-CAP 複合體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 在 E.coli 的 tryptophan 生合成路徑中，下列何者為此 trp operon 的輔助抑制子（corepressor）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A tRNATrp",
+        "images": []
+      },
+      {
+        "text": "B trpR 基因的產物",
+        "images": []
+      },
+      {
+        "text": "C aporepressor",
+        "images": []
+      },
+      {
+        "text": "D tryptophan",
+        "images": []
+      },
+      {
+        "text": "E 致弱子（attenuator）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 關於基因調控的方式，何者在真核細胞及原核細胞是相似的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在mRNA一端加cap",
+        "images": []
+      },
+      {
+        "text": "B lac 及 trp operons",
+        "images": []
+      },
+      {
+        "text": "C 活化蛋白（activator）及抑制蛋白（repressor）結合至DNA",
+        "images": []
+      },
+      {
+        "text": "D RNA接合",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 雙翅突變種果蠅是因為那一種基因缺陷，影響其胚胎發育過程而產生的變異？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 體節性基因（Segmentation gene）",
+        "images": []
+      },
+      {
+        "text": "B 卵極性基因（Egg polarity gene）",
+        "images": []
+      },
+      {
+        "text": "C 同源性基因（Homeotic gene）",
+        "images": []
+      },
+      {
+        "text": "D 配對法則基因（Pair-rule gene）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 昆蟲具有特別的防禦系統來抵抗病毒的感染，假設一病毒感染了昆蟲細胞後，其單股RNA會複製形成雙股RNA，而此寄主細胞則可用下列何種物質將病毒RNA切割成約21個核苷酸長的小片段，以利抑制病毒的蛋白質合成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Dicer-2",
+        "images": []
+      },
+      {
+        "text": "B argo complex",
+        "images": []
+      },
+      {
+        "text": "C lysozyme",
+        "images": []
+      },
+      {
+        "text": "D interferon",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列有關乳糖操縱組（lac operon）之敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 異化基因活化蛋白（Cataboliet gene activation protein, CAP）為lac operon之正向調節因子",
+        "images": []
+      },
+      {
+        "text": "B 在高濃度的葡萄糖培養溶液中，大腸桿菌之cAMP濃度變低，即使含高濃度的乳糖，lac operon還是無法表現",
+        "images": []
+      },
+      {
+        "text": "C 缺乏乳糖時，repressor gene經轉錄及轉譯後，製造 repressor protein與operator結合",
+        "images": []
+      },
+      {
+        "text": "D 細胞中的葡萄糖增加，cAMP濃度亦增加並和CAP結合，使CAP活性消失",
+        "images": []
+      },
+      {
+        "text": "E 當細胞中葡萄糖降低，cAMP增加可與CAP結合後bind在promoter之CAP binding site上",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 假設小鼠體型大小由Igf 2基因控制，若一公鼠其對偶基因型為Ii，其體型正常，另一母鼠其對偶基因型亦為Ii，但體型表現瘦小，推測可能原因是此母鼠Igf 2發生基因印痕（genomic imprinting），亦即其顯性對偶基因可能發生下列何種反應？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷酸化",
+        "images": []
+      },
+      {
+        "text": "B 甲基化",
+        "images": []
+      },
+      {
+        "text": "C 乙醯化",
+        "images": []
+      },
+      {
+        "text": "D 以上皆非",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 對於 Dicer 的敘述下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可切割單股DNA",
+        "images": []
+      },
+      {
+        "text": "B 可切割雙股RNA 並產生小片段 RNA 干擾轉譯的進行",
+        "images": []
+      },
+      {
+        "text": "C 可切割沒有poly（A）tail 的 mRNA",
+        "images": []
+      },
+      {
+        "text": "D 可切割單股mRNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 當一個甲基添加到何種核苷酸上通常是產生突變的熱點（Hot spot）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腺嘌呤（Adenine）",
+        "images": []
+      },
+      {
+        "text": "B 胸腺嘧啶（Thymine）",
+        "images": []
+      },
+      {
+        "text": "C 尿嘧啶（Uracil）",
+        "images": []
+      },
+      {
+        "text": "D 胞嘧啶（Cytosine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列何種人類特徵與FOXP2基因產物有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黑皮膚",
+        "images": []
+      },
+      {
+        "text": "B 手可精確抓取物體",
+        "images": []
+      },
+      {
+        "text": "C 腦部語言區之發展",
+        "images": []
+      },
+      {
+        "text": "D 具有照顧子女的能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 關於遺傳上的印痕現象（imprinting）之描述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 因為在不同基因產生突變，導致突變外表型的抑制作用",
+        "images": []
+      },
+      {
+        "text": "B DNA 在配子生成過程（gametogenesis）的修飾（modification），影響合子的基因表現",
+        "images": []
+      },
+      {
+        "text": "C 因為帶有密碼序列（coding sequence）的干擾，導致基因的不活化",
+        "images": []
+      },
+      {
+        "text": "D 生物因為細胞質的物質導致",
+        "images": []
+      },
+      {
+        "text": "E 因為啟動子（promoter）和enhancer 距離改變所導致",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. E.coli 的lac operon 的表現，受到下列何者正向的調控？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A operator 的甲基化（methylation）",
+        "images": []
+      },
+      {
+        "text": "B lacZ 基因的產物",
+        "images": []
+      },
+      {
+        "text": "C polycistronic RNA 的差異剪接（splicing）",
+        "images": []
+      },
+      {
+        "text": "D attenuation",
+        "images": []
+      },
+      {
+        "text": "E cAMP-CRP 複合體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 因紫外線輻射形成的DNA傷害會誘導下列何種分子的合成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A p53",
+        "images": []
+      },
+      {
+        "text": "B DNA",
+        "images": []
+      },
+      {
+        "text": "C p21",
+        "images": []
+      },
+      {
+        "text": "D cyclin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 小干擾核糖核酸（small interfering RNA or siRNA）最早由英國生物學家 David Baulcombe 發現，是長度 20-25 個核苷酸的雙股 RNA，請問 siRNA 在生物細胞的功能下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可轉譯成小分子蛋白",
+        "images": []
+      },
+      {
+        "text": "B 可以抑制特定基因的表現",
+        "images": []
+      },
+      {
+        "text": "C 可以協助基因體的修復",
+        "images": []
+      },
+      {
+        "text": "D 有類似於跳躍子（transposon）的功能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 若依核酸分子內含氮鹼基的百分比組成為：A＝20%、G＝20%、C＝30%、U＝30%，請問此核酸分子為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 單股RNA",
+        "images": []
+      },
+      {
+        "text": "B 雙股RNA",
+        "images": []
+      },
+      {
+        "text": "C 單股DNA",
+        "images": []
+      },
+      {
+        "text": "D 雙股DNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 有一類的基因在許多不同類型的細胞中都會表達成為蛋白質，並且持續恆定的表達以參與細胞中的基礎代謝，此種基因稱為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A enhancer",
+        "images": []
+      },
+      {
+        "text": "B housekeeping gene",
+        "images": []
+      },
+      {
+        "text": "C lac operon",
+        "images": []
+      },
+      {
+        "text": "D repressor gene",
+        "images": []
+      },
+      {
+        "text": "E promoter",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 原始致癌基因（proto-oncogenes）會轉變成致癌基因（oncogenes）而使細胞癌化，下列關於原始致癌基因在真核細胞之描述何者正確：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它們由正常基因突變產生",
+        "images": []
+      },
+      {
+        "text": "B 它們在細胞內正常幫忙調控細胞分裂",
+        "images": []
+      },
+      {
+        "text": "C 它們為不必要的基因",
+        "images": []
+      },
+      {
+        "text": "D 它們主要來自病毒感染",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 檢測癌症易罹患體質：APC gene 測試________；BRCA1 或 BRCA2 測試________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺癌；肝癌",
+        "images": []
+      },
+      {
+        "text": "B 攝護腺癌；肺癌",
+        "images": []
+      },
+      {
+        "text": "C 直腸癌；乳癌",
+        "images": []
+      },
+      {
+        "text": "D 胃癌；乳癌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列有關哺乳類動物基因表現的配對關係，何者最適當？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 促進基因表現：DNA 甲基化（DNA methylation）／組蛋白甲基化（histone methylation）",
+        "images": []
+      },
+      {
+        "text": "B 抑制基因表現：DNA 甲基化（DNA methylation）／組蛋白乙醯化（histone acetylation）",
+        "images": []
+      },
+      {
+        "text": "C 促進基因表現：DNA 去甲基化（DNA demethylation）／組蛋白乙醯化（histone acetylation）",
+        "images": []
+      },
+      {
+        "text": "D 抑制基因表現：DNA 去甲基化（DNA demethylation）／組蛋白去乙醯化（histone deacetylation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列何者不符合“ribozyme”的定義？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A microRNA  (miRNA)",
+        "images": []
+      },
+      {
+        "text": "B small nuclear RNA  (snRNA) in the spliceosome",
+        "images": []
+      },
+      {
+        "text": "C intron RNA",
+        "images": []
+      },
+      {
+        "text": "D ribosomal RNA (rRNA)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 好萊塢知名女星安潔莉娜裘莉，因為得知自己帶有BRCA1 基因變異，已接受預防性雙乳房切除手術；國內醫師表示，除了BRCA1 外，另一個基因BRCA2 的變異，也與乳癌發生具有高度相關。BRCA1 與BRCA2 原本都是抑癌基因，發生突變後，無論男女，罹患乳癌的風險都大幅增加。BRCA1 及BRCA2 被認為是抑癌基因是由於下列何項原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A DNA 受損時，兩者的產物會參與修復作用",
+        "images": []
+      },
+      {
+        "text": "B 兩者可抑制化學致癌物質侵犯乳房細胞",
+        "images": []
+      },
+      {
+        "text": "C 兩者正常基因可製造雌激素受體",
+        "images": []
+      },
+      {
+        "text": "D 兩者可預防反轉錄病毒感染引發癌症",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何種人類的演化特徵與 FOXP2 基因產物有相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黑皮膚",
+        "images": []
+      },
+      {
+        "text": "B 腦部語言中樞之發展",
+        "images": []
+      },
+      {
+        "text": "C 拇指能精確握取物體",
+        "images": []
+      },
+      {
+        "text": "D 親代對子女的照顧",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 細菌相關功能的基因放在一起由一組控制序列[包含啟動子（promoter）及操縱子（operator）] 同時調控這些基因表現，稱為_________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 活化蛋白質（activator）",
+        "images": []
+      },
+      {
+        "text": "B 外顯子（exon）",
+        "images": []
+      },
+      {
+        "text": "C 內含子（intron）",
+        "images": []
+      },
+      {
+        "text": "D 操縱組（operon）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列那些現象與基因 DNA 甲基化（methylation）有關？I.基因體印記（Genomic imprinting）II.染色體轉位（Chromosome translocation）III.X 染色體不活化（X chromosome inactivation）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 只有 III 有關",
+        "images": []
+      },
+      {
+        "text": "B I 和II",
+        "images": []
+      },
+      {
+        "text": "C I 和III",
+        "images": []
+      },
+      {
+        "text": "D II 和III",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 細胞可透過後轉譯作用（post-translation）調控特定蛋白質的壽命，其中短壽蛋白質會與下列何者結合後，送到蛋白酶體（proteasome）進行分解？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛋白激酶（protein kinase）",
+        "images": []
+      },
+      {
+        "text": "B 磷酸酶（phosphatase）",
+        "images": []
+      },
+      {
+        "text": "C 伴侶蛋白（chaperonin）",
+        "images": []
+      },
+      {
+        "text": "D 泛素（ubiquitin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 婦女帶有下列哪一個突變基因，其罹患乳癌的機率將由一般婦女的2%升高為60%？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A APC",
+        "images": []
+      },
+      {
+        "text": "B BRCA1",
+        "images": []
+      },
+      {
+        "text": "C myoD",
+        "images": []
+      },
+      {
+        "text": "D DCC",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列何者是在真核細胞中具有調節mRNA 轉譯的小片段核醣核酸？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 干擾素（interferon）",
+        "images": []
+      },
+      {
+        "text": "B 核醣體核糖核酸（ribosomal RNA）",
+        "images": []
+      },
+      {
+        "text": "C 小RNA（mini RNA）",
+        "images": []
+      },
+      {
+        "text": "D 微型核糖核酸（micro RNA）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下圖為真核基因表現過程的順序，請問 miRNA 或siRNA 可以作用在哪些步驟，而影響基因的表現？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/015.png"
+    ],
+    "options": [
+      {
+        "text": "A A 與B",
+        "images": []
+      },
+      {
+        "text": "B B 與D",
+        "images": []
+      },
+      {
+        "text": "C C 與D",
+        "images": []
+      },
+      {
+        "text": "D B 與C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 近來的研究證據顯示，下列何種基因與人類的演說、語言能力以及其他脊椎動物的發聲（vocalization）有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Foxp2基因",
+        "images": []
+      },
+      {
+        "text": "B Sry基因",
+        "images": []
+      },
+      {
+        "text": "C Sox9基因",
+        "images": []
+      },
+      {
+        "text": "D Fxyd1基因",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. Lac repressor可結合至特定的DNA序列上，以調控操縱組（operon）中基因的表現。此特定DNA序列稱之為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加子（enhancer）",
+        "images": []
+      },
+      {
+        "text": "B 操縱子（operator）",
+        "images": []
+      },
+      {
+        "text": "C 啟動子（promoter）",
+        "images": []
+      },
+      {
+        "text": "D 轉錄因子（transcription factor）",
+        "images": []
+      },
+      {
+        "text": "E 調控基因（regulatory gene）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 基因體印記（genomic imprinting），DNA甲基化（DNA methylation）與組蛋白乙醯化（histone acetylation）是屬於下列何者選項的例子？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 基因突變",
+        "images": []
+      },
+      {
+        "text": "B 染色體重組（rearrangements）",
+        "images": []
+      },
+      {
+        "text": "C 核型（karyotypes）",
+        "images": []
+      },
+      {
+        "text": "D 附基因的遺傳（epigenetic inheritance）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 「乳糖操縱組」是何種生物的基因表現調控系統？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 原核生物",
+        "images": []
+      },
+      {
+        "text": "B 真核生物",
+        "images": []
+      },
+      {
+        "text": "C 原核生物和真核生物都有",
+        "images": []
+      },
+      {
+        "text": "D 植物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 關於“operon（操控子）”之敘述何者錯誤：(1) 一般出現於真核細胞(2) 其為一個promoter控制一個基因的組合(3) 對細菌的生理代謝很重要(4) 在細菌中只有一種operon",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (1)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. Genomic imprinting、DNA methylation 及histone acetylation 皆屬於下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A epigenetics",
+        "images": []
+      },
+      {
+        "text": "B karyotypes",
+        "images": []
+      },
+      {
+        "text": "C chromosomal rearrangements",
+        "images": []
+      },
+      {
+        "text": "D genetic mutations",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列何者是癌症產生的原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腫瘤抑制基因（tumor suppressor gene）的遺失",
+        "images": []
+      },
+      {
+        "text": "B 原癌基因（proto-oncogene）的突變",
+        "images": []
+      },
+      {
+        "text": "C 原癌基因的過度表現",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 有關表觀遺傳學（epigenetics）的敘述，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可能藉由非編碼RNA（non-coding RNA）來調控基因",
+        "images": []
+      },
+      {
+        "text": "B 基因活性受組織蛋白修飾（histone modification）影響",
+        "images": []
+      },
+      {
+        "text": "C 基因活性受DNA甲基化（DNA methylation）影響而改變",
+        "images": []
+      },
+      {
+        "text": "D 研究在DNA序列調整（DNA sequence alterations）下，基因活性的調控機制",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 原致癌基因（proto-oncogenes）可藉由下列何者轉化為致癌基因（oncogenes）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 特定細菌之感染（bacterial infection）",
+        "images": []
+      },
+      {
+        "text": "B 生長因子（growth factors）",
+        "images": []
+      },
+      {
+        "text": "C 轉錄因子（transcription factors）",
+        "images": []
+      },
+      {
+        "text": "D 突變（mutation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 關於大腸桿菌（Escherichia coli）的乳糖操縱組（lac operon）正常的基因排列順序，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 3’-lacY-lacA-lacZ-5’",
+        "images": []
+      },
+      {
+        "text": "B 5’-lacA-lacY-lacZ-3’",
+        "images": []
+      },
+      {
+        "text": "C 5’-lacZ-lacY-lacA-3’",
+        "images": []
+      },
+      {
+        "text": "D 3’-lacZ-lacY-lacA-5’",
+        "images": []
+      },
+      {
+        "text": "E 5’-lacY-lacZ-lacA-3’",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 當 DNA 甲基化發生後，會有下列何種影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抑制轉錄作用發生",
+        "images": []
+      },
+      {
+        "text": "B 增加了互換（crossover）事件",
+        "images": []
+      },
+      {
+        "text": "C 促進轉譯後蛋白質的修飾作用",
+        "images": []
+      },
+      {
+        "text": "D 促進RNA 處理（RNA processing）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 動物形體主要由下列何種基因調控，發生突變時可使動物身體型態發生改變？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A BRCA1 gene",
+        "images": []
+      },
+      {
+        "text": "B Hox gene",
+        "images": []
+      },
+      {
+        "text": "C Cox gene",
+        "images": []
+      },
+      {
+        "text": "D Dox gene",
+        "images": []
+      },
+      {
+        "text": "E Tox gene",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 雙翅果蠅為一突變種，請問此現象與下列何種之基因缺陷有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 體節性基因（segmentation gene）",
+        "images": []
+      },
+      {
+        "text": "B 卵極性基因（egg polarity gene）",
+        "images": []
+      },
+      {
+        "text": "C 同源性基因（homeotic gene）",
+        "images": []
+      },
+      {
+        "text": "D 配對法則基因（pair rule gene）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 一個完整的閱讀框（open reading frame, ORF），不包括下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一段足夠長的 DNA 序列用以編碼（encode）一個蛋白質",
+        "images": []
+      },
+      {
+        "text": "B 一個終止密碼子（stop codon）",
+        "images": []
+      },
+      {
+        "text": "C 一段含有22個核苷酸（nucleotides）的DNA序列用以編碼一個微小RNA（micro RNA）",
+        "images": []
+      },
+      {
+        "text": "D 一個起始密碼子（start codon）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 下列何者與細胞內進行選擇性蛋白質降解有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 週期素（Cyclin）",
+        "images": []
+      },
+      {
+        "text": "B 蛋白酶體（Proteasome）",
+        "images": []
+      },
+      {
+        "text": "C 激酶（Kinase）",
+        "images": []
+      },
+      {
+        "text": "D 轉位酶（Transpoase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列何者是原致癌基因（proto-oncogene）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Ras",
+        "images": []
+      },
+      {
+        "text": "B Rb",
+        "images": []
+      },
+      {
+        "text": "C p53",
+        "images": []
+      },
+      {
+        "text": "D CdK",
+        "images": []
+      },
+      {
+        "text": "E Cylin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 在大腸桿菌（E.coli）中，當壓制者（repressor）結合到乳糖（lactose）時，lac operon會？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 活化",
+        "images": []
+      },
+      {
+        "text": "B 去活化",
+        "images": []
+      },
+      {
+        "text": "C 延長",
+        "images": []
+      },
+      {
+        "text": "D 不受影響",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  }
+]

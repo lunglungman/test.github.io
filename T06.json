@@ -1,0 +1,1384 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 若神經細胞處在靜止膜電位，乙醯膽鹼作用在尼古丁型的乙醯膽鹼通道時，其細胞膜電位會有何種變化？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞膜電位不會改變",
+        "images": []
+      },
+      {
+        "text": "B 產生興奮性突觸電位",
+        "images": []
+      },
+      {
+        "text": "C 產生抑制性突觸電位",
+        "images": []
+      },
+      {
+        "text": "D 同時產生興奮與抑制性的雙向電位",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. Gamma-aminobutyric acid (GABA) receptor屬於哪一種受體：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A G protein-coupled receptors",
+        "images": []
+      },
+      {
+        "text": "B ion channel receptors",
+        "images": []
+      },
+      {
+        "text": "C steroid hormone receptors",
+        "images": []
+      },
+      {
+        "text": "D receptor tyrosine kinases",
+        "images": []
+      },
+      {
+        "text": "E cell-surface hormone receptors",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 以下何者為抑制型神經傳遞物質（inhibitory neurotransmitter）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 麩胺酸（glutamate）",
+        "images": []
+      },
+      {
+        "text": "Bγ-胺基丁酸（gamma aminobutyric acid; GABA）",
+        "images": []
+      },
+      {
+        "text": "C P物質（substance P）",
+        "images": []
+      },
+      {
+        "text": "D 天門冬胺酸（aspartate）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 神經細胞動作電為之再極化主要為何種離子之流動所致？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈉",
+        "images": []
+      },
+      {
+        "text": "B 鎂",
+        "images": []
+      },
+      {
+        "text": "C 鉀",
+        "images": []
+      },
+      {
+        "text": "D 錳",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 有關神經細胞訊息傳遞，由突觸前纖維透過化學性突觸（chemical synapses）傳遞到突觸後神經細胞的傳遞順序，下列何者最正確？①神經傳遞物質結合至後突觸神經的膜上②鈣離子流入神經細胞的細胞質③脈衝去極化軸突末梢的細胞膜④化學性離子通道（ligand-gated ion channel）打開⑤突觸液泡釋放神經傳遞物質進入突觸間隙（synaptic cleft）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ① → ② → ③ → ④ → ⑤",
+        "images": []
+      },
+      {
+        "text": "B ② → ③ → ⑤ → ④ → ①",
+        "images": []
+      },
+      {
+        "text": "C ③ → ② → ⑤ → ① → ④",
+        "images": []
+      },
+      {
+        "text": "D ④ → ③ → ① → ② → ⑤",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列何者可以造成抑制性突觸後電位（IPSP）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 突觸後細胞膜上Na+離子通道打開造成去極化",
+        "images": []
+      },
+      {
+        "text": "B 突觸後細胞膜上K+離子通道打開造成去極化",
+        "images": []
+      },
+      {
+        "text": "C 突觸後細胞膜上Ca++離子通道打開造成過極化",
+        "images": []
+      },
+      {
+        "text": "D 突觸後細胞膜上Cl-離子通道打開造成過極化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 興奮性毒性（excitotoxicity）是由何者引起？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 突觸釋放麩胺酸（glutamate）不足",
+        "images": []
+      },
+      {
+        "text": "B 突觸釋放麩胺酸（glutamate）過多",
+        "images": []
+      },
+      {
+        "text": "C GABA抑制作用",
+        "images": []
+      },
+      {
+        "text": "D 突觸釋放乙醯膽鹼（ACh）不足",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 血腦障蔽（blood-brain-barrier）不包括以下那一結構或細胞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 星狀細胞（astrocyte）",
+        "images": []
+      },
+      {
+        "text": "B 緊密連接（tight junction）",
+        "images": []
+      },
+      {
+        "text": "C 微血管（capillary）",
+        "images": []
+      },
+      {
+        "text": "D 寡樹突膠細胞（oligodendrocyte）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 以下何者為抑制型神經傳遞物質（inhibitory neurotransmitter）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 麥酸酐（Glutamate）",
+        "images": []
+      },
+      {
+        "text": "B gamma-丁基氨酸（GABA; gamma aminobutyric acid）",
+        "images": []
+      },
+      {
+        "text": "C 甘胺酸（Glycine）",
+        "images": []
+      },
+      {
+        "text": "D 天冬氨酸（Aspartate）",
+        "images": []
+      },
+      {
+        "text": "E B and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 以下何者為興奮型神經傳遞物質（excitatory neurotransmitter）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血清素（serotonin）",
+        "images": []
+      },
+      {
+        "text": "B γ-丁基氨酸（GABA；gamma aminobutyric acid）",
+        "images": []
+      },
+      {
+        "text": "C 甘胺酸（glycine）",
+        "images": []
+      },
+      {
+        "text": "D P物質（substance P）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. Gamma-aminobutyric acid (GABA) receptor屬於那一種受體？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A G protein-coupled receptor",
+        "images": []
+      },
+      {
+        "text": "B ion channel receptor",
+        "images": []
+      },
+      {
+        "text": "C steroid hormone receptor",
+        "images": []
+      },
+      {
+        "text": "D receptor tyrosine kinase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 動作電位的上升期是因為下列何種離子通透性的增加所致？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鉀離子",
+        "images": []
+      },
+      {
+        "text": "B 鈉離子",
+        "images": []
+      },
+      {
+        "text": "C 鎂離子",
+        "images": []
+      },
+      {
+        "text": "D 氯離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 神經元在電性突觸（electrical synapses）的地方，藉由下列何者來溝通彼此？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 髓鞘（Myelin sheath）",
+        "images": []
+      },
+      {
+        "text": "B 間隙連接（Gap junction）",
+        "images": []
+      },
+      {
+        "text": "C 離子通道型受體（Ionotropic receptor）",
+        "images": []
+      },
+      {
+        "text": "D 促代謝型受體（Metabotropicreceptor）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 請依次序排列神經傳導的正確過程：①神經傳導物質與突觸後受體（post-synaptic receptor）接合②鈣離子進入神經元細胞質③動作電位去極化④突觸小泡釋放神經傳導物質",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ④①②③",
+        "images": []
+      },
+      {
+        "text": "B ③②④①",
+        "images": []
+      },
+      {
+        "text": "C ④①③②",
+        "images": []
+      },
+      {
+        "text": "D ②③④①",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 神經元的動作電位（action potential）過程中，有相對不反應期（relative refractory period），這主要是下列何者所造成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞內ATP消耗過度",
+        "images": []
+      },
+      {
+        "text": "B 鈉離子通道（Na+channel）去活化（inactivation）",
+        "images": []
+      },
+      {
+        "text": "C 更多鉀離子通道（K+channel）開啓",
+        "images": []
+      },
+      {
+        "text": "D 細胞耗能過多，暫時缺氧",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 下列哪一種神經膠細胞（neuroglia）的主要功能是在中樞神經系統中形成髓鞘？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 星狀膠細胞（astrocyte）",
+        "images": []
+      },
+      {
+        "text": "B 微膠細胞（microglia）",
+        "images": []
+      },
+      {
+        "text": "C 寡突膠細胞（oligodendrocyte）",
+        "images": []
+      },
+      {
+        "text": "D 室管膜細胞（ependymal cell）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 關於動作電位（action potential）之描述何者正確？(1)其為全有全無反應(2)在去極化的過程中K channel打開(3)在再極化的過程中Na channel關閉(4)過極化是因為Na channel關閉較慢所致",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (1)(3)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 化學性突觸（Chemical synapse）不包括下列何項敘述：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 具有囊泡（Vesicles）",
+        "images": []
+      },
+      {
+        "text": "B 具有神經傳遞物（Neurotransmitters）",
+        "images": []
+      },
+      {
+        "text": "C 具有神經調節物質（Neuromodulator）",
+        "images": []
+      },
+      {
+        "text": "D 核仁",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 神經系統突觸間隙（synaptic cleft）之間的傳輸，是透過下列哪一種化學信號物質來進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 激素（hormones）",
+        "images": []
+      },
+      {
+        "text": "B 外分泌物質（exocrine secretions）",
+        "images": []
+      },
+      {
+        "text": "C 酵素（enzymes）",
+        "images": []
+      },
+      {
+        "text": "D 興奮劑（stimulants）",
+        "images": []
+      },
+      {
+        "text": "E 神經傳遞物質（neurotransmitters）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 中樞神經系統中負責製造髓鞘（Myelin sheath）的細胞是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 星形細胞（Astrocytes）",
+        "images": []
+      },
+      {
+        "text": "B 寡樹突細胞（Oligodendrocytes）",
+        "images": []
+      },
+      {
+        "text": "C 腦室膜細胞（Ependymal cells）",
+        "images": []
+      },
+      {
+        "text": "D 許旺氏細胞（Schwann cells）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. The resting membrane potential is closest to the equilibrium potential for",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sodium ions",
+        "images": []
+      },
+      {
+        "text": "B chloride ions",
+        "images": []
+      },
+      {
+        "text": "C calcium ions",
+        "images": []
+      },
+      {
+        "text": "D potassium ions",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 動作電位發生時，軸突（axon）發生再極化（repolarization）是因為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈉離子擴散流入細胞",
+        "images": []
+      },
+      {
+        "text": "B 鉀離子擴散流出細胞",
+        "images": []
+      },
+      {
+        "text": "C 鈉離子主動運輸進入細胞",
+        "images": []
+      },
+      {
+        "text": "D 鉀離子主動運輸排出細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 何種細胞連接方式可加速細胞間之溝通，應用於電性突觸（electrical synapses）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A desmosome",
+        "images": []
+      },
+      {
+        "text": "B gap junction",
+        "images": []
+      },
+      {
+        "text": "C tight junction",
+        "images": []
+      },
+      {
+        "text": "D 以上皆非",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 興奮性突觸後電位（EPSP），有何特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是一種action potential",
+        "images": []
+      },
+      {
+        "text": "B 係突觸後細胞膜對鉀離子通透性增加所產生",
+        "images": []
+      },
+      {
+        "text": "C 可加成造成突觸後細胞膜depolarization",
+        "images": []
+      },
+      {
+        "text": "D 無法傳導，係因為形成hyperpolarization所致",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一個神經元細胞只有一條軸突（Axon），但可以有數條樹突（Dendrite）",
+        "images": []
+      },
+      {
+        "text": "B 軸突與樹突都可傳遞訊號，但只有樹突可以接收訊號",
+        "images": []
+      },
+      {
+        "text": "C 樹突的末端跟另一個神經元細胞相連，以便傳遞訊號",
+        "images": []
+      },
+      {
+        "text": "D 中樞神經（Central nervous system, CNS）的髓鞘（Myelin sheath）是由許旺細胞（Schwann cell）構成",
+        "images": []
+      },
+      {
+        "text": "E 學習與記憶主要是靠生成新的神經元取代原有的神經元",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 產生絕對乏興奮期（absolute refractory period）的原因是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 電壓管制型鈉離子通道（voltage-gated Na+channel）的不活化",
+        "images": []
+      },
+      {
+        "text": "B 電壓管制型鈉離子通道（voltage-gated Na+channel）的延長開啟",
+        "images": []
+      },
+      {
+        "text": "C 電壓管制型鉀離子通道（voltage-gated K+channel）的不活化",
+        "images": []
+      },
+      {
+        "text": "D 電壓管制型鉀離子通道（voltage-gated K+channel）的延長開啟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 下列何項是星狀細胞（Astrocytes）的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 製造腦脊髓液",
+        "images": []
+      },
+      {
+        "text": "B 作用與巨噬細胞類似",
+        "images": []
+      },
+      {
+        "text": "C 維持細胞外液中適當的鉀離子濃度",
+        "images": []
+      },
+      {
+        "text": "D 產生動作電位",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列何者屬於兒茶酚胺（catecholamines）並且參與腦中報償通路？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙醯膽鹼（acetylcholine）",
+        "images": []
+      },
+      {
+        "text": "B 多巴胺（dopamine）",
+        "images": []
+      },
+      {
+        "text": "C 腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "D 血清張力素（serotonin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 由於有下列何者存在突觸，可阻止乙醯膽鹼對突觸後神經細胞持續刺激？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Choline acetyltransferase",
+        "images": []
+      },
+      {
+        "text": "B Acetylcholinesterase",
+        "images": []
+      },
+      {
+        "text": "C Acetyl coenzyme A",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 位於突觸前末梢的自體受體（autoreceptors），其作用為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 促進膜癒合（membrane fusion）",
+        "images": []
+      },
+      {
+        "text": "B 幫助傳遞動作電位（action potential）",
+        "images": []
+      },
+      {
+        "text": "C 感應細胞外鈣離子濃度變化",
+        "images": []
+      },
+      {
+        "text": "D 提供神經元調節自身神經傳遞質（neurotransmitter）分泌的一個回饋機制",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 中樞神經系統神經元的髓鞘（myelin sheaths）是由下列何者構成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 許旺氏細胞（Schwann cells）",
+        "images": []
+      },
+      {
+        "text": "B 寡樹突膠細胞（oligodendrocytes）",
+        "images": []
+      },
+      {
+        "text": "C 室管膜細胞（ependymal cells）",
+        "images": []
+      },
+      {
+        "text": "D 白血球（leukocytes）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列那種神經電位變化具有全或無（all or none）的反應特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 啟動電位（generator potential）",
+        "images": []
+      },
+      {
+        "text": "B 動作電位（action potential）",
+        "images": []
+      },
+      {
+        "text": "C 興奮性突觸後電位（excitatory postsynaptic potential）",
+        "images": []
+      },
+      {
+        "text": "D 終板電位（end-plate potential）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 突觸囊泡（Synaptic vesicles）在下列哪一部位以細胞外分泌（exocytosis）釋放其內容物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 樹突（dendrite）",
+        "images": []
+      },
+      {
+        "text": "B 軸突丘（axon hillock）",
+        "images": []
+      },
+      {
+        "text": "C 蘭氏結（nodes of Ranvier）",
+        "images": []
+      },
+      {
+        "text": "D 突觸後膜（postsynaptic membrane）",
+        "images": []
+      },
+      {
+        "text": "E 突觸前膜（presynaptic membrane）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 下列何種神經元支持細胞（neuron-supportingcell）有助於促進腦脊液（cerebrospinal fluid）循流？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微神經膠細胞（microglia）",
+        "images": []
+      },
+      {
+        "text": "B 寡樹突細胞（oligodendrocytes）",
+        "images": []
+      },
+      {
+        "text": "C 室管膜細胞（ependymal cells）",
+        "images": []
+      },
+      {
+        "text": "D 血管內皮細胞（endothelial cells）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列那一種支持細胞，會在中樞神經覆蓋微血管並形成血腦障壁？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 小神經膠細胞",
+        "images": []
+      },
+      {
+        "text": "B 室管膜細胞",
+        "images": []
+      },
+      {
+        "text": "C 寡樹突細胞",
+        "images": []
+      },
+      {
+        "text": "D 星狀細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 當動作電位使突觸末端去極化後，突觸前神經元細胞膜上的離子通道打開，此時何種離子流入？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氫",
+        "images": []
+      },
+      {
+        "text": "B 鉀",
+        "images": []
+      },
+      {
+        "text": "C 鈉",
+        "images": []
+      },
+      {
+        "text": "D 氯",
+        "images": []
+      },
+      {
+        "text": "E 鈣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 血清素（serotonin）屬於下列何種神經傳導物質（neurotransmitter）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胺類（amine）",
+        "images": []
+      },
+      {
+        "text": "B 胺基酸（amino acid）",
+        "images": []
+      },
+      {
+        "text": "C 胜肽（peptide）",
+        "images": []
+      },
+      {
+        "text": "D 氣體（gas）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 若是NMDA受器（N-methyl-D-aspartate receptor）突變，會影響哪個物質調控神經的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙醯膽鹼（ACh）",
+        "images": []
+      },
+      {
+        "text": "B 腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "C 麩胺酸（glutamate）",
+        "images": []
+      },
+      {
+        "text": "D 一氧化氮（nitric oxide）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 由神經元的細胞體所紀錄得到的興奮性突觸電位（EPSP），下列敘述何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 其發生遵循全有或無定律",
+        "images": []
+      },
+      {
+        "text": "B 連續的突觸前刺激可使EPSP被加成",
+        "images": []
+      },
+      {
+        "text": "C EPSP必能啟動動作電位的發生",
+        "images": []
+      },
+      {
+        "text": "D EPSP可如動作電位般傳導",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 神經元（neurons）的構造而言，下列敘述何者錯誤：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 以產生動作電位的方式傳遞神經衝動",
+        "images": []
+      },
+      {
+        "text": "B 樹突（dentrites）有多條，可將神經衝動由突觸前神經元傳至突觸後神經元",
+        "images": []
+      },
+      {
+        "text": "C 軸突及其側枝之終端存有神經傳遞物質",
+        "images": []
+      },
+      {
+        "text": "D 有髓鞘的軸突，神經傳導的速度較快",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 肉毒桿菌毒素（botulinum toxin）可減少突觸前神經元細胞釋放下列那一物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙醯膽鹼（acetylcholine）",
+        "images": []
+      },
+      {
+        "text": "B 腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "C 內啡肽（endorphin）",
+        "images": []
+      },
+      {
+        "text": "D γ-胺基丁酸（GABA）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 唯一屬於脂質類的神經傳導物質為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A endophine",
+        "images": []
+      },
+      {
+        "text": "B cholecystokinin",
+        "images": []
+      },
+      {
+        "text": "C aspartic acid",
+        "images": []
+      },
+      {
+        "text": "D Endocannabinoids",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 興奮性突觸後電位（EPSP），有何特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是能主動傳導的電位",
+        "images": []
+      },
+      {
+        "text": "B 突觸後細胞膜增加對鉀離子通透性所產生",
+        "images": []
+      },
+      {
+        "text": "C 造成突觸後細胞膜去極化（depolarization）",
+        "images": []
+      },
+      {
+        "text": "D 因為形成hyperpolarization所以無法傳導",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列何種成份是神經傳導物質？(1) serotonin血清素(2) acetylcholine乙醯膽鹼(3) NO(4) CO",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "D (1)(2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 菸草中之尼古丁（nicotine）是屬於下列何種物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生物鹼（alkaloid）",
+        "images": []
+      },
+      {
+        "text": "B 類黃酮（flavonoid）",
+        "images": []
+      },
+      {
+        "text": "C 糖苷（glycoside）",
+        "images": []
+      },
+      {
+        "text": "D 類固醇（steroid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 人體內的神經系統由哪兩大部分所組成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大腦及腦幹（cerebrum and brain stem）",
+        "images": []
+      },
+      {
+        "text": "B 感覺神經系統與動作神經系統（sensory and motor neurons）",
+        "images": []
+      },
+      {
+        "text": "C 交感神經系統與副交感神經系統（sympathetic and parasympathetic nervous system）",
+        "images": []
+      },
+      {
+        "text": "D 自主神經系統與非自主神經系統（autonomic and nonautonomic nervous system）",
+        "images": []
+      },
+      {
+        "text": "E 中樞神經系統及周邊神經系統（central and peripheral nervous system）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. Which description about the status of action potential of voltage-gated Na+and K+channels is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A resting state: both Na+and K+channels close",
+        "images": []
+      },
+      {
+        "text": "B depolarization: some Na+channels open and K+channels close",
+        "images": []
+      },
+      {
+        "text": "C rising phase of action potential: both Na+and K+channels open",
+        "images": []
+      },
+      {
+        "text": "D falling phase of action potential: Na+channels close and K+channels open",
+        "images": []
+      },
+      {
+        "text": "E None of the above",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 中樞神經系統的神經元，其軸突的髓鞘是由下列那一細胞形成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 寡樹突膠細胞（oligodendrocyte）",
+        "images": []
+      },
+      {
+        "text": "B 許旺細胞（Schwann cell）",
+        "images": []
+      },
+      {
+        "text": "C 星狀細胞（astrocyte）",
+        "images": []
+      },
+      {
+        "text": "D 放射神經膠細胞（radial glia）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列何種神經纖維的動作電位傳導速度最快？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 神經纖維細，有髓鞘",
+        "images": []
+      },
+      {
+        "text": "B 神經纖維細，無髓鞘",
+        "images": []
+      },
+      {
+        "text": "C 神經纖維粗，有髓鞘",
+        "images": []
+      },
+      {
+        "text": "D 神經纖維粗，無髓鞘",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 神經細胞的靜止膜電位比較接近下列何種離子的平衡電位？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鉀離子",
+        "images": []
+      },
+      {
+        "text": "B 鈉離子",
+        "images": []
+      },
+      {
+        "text": "C 鈣離子",
+        "images": []
+      },
+      {
+        "text": "D 氯離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  }
+]

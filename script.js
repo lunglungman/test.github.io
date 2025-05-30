@@ -3,11 +3,6 @@ let questions = [];
 let answers = {};
 let marks = {};
 
-fetch('http://localhost:5000/load-json')
-   .then(response => response.json())
-   .then(data => console.log(data)) // 你可以在這裡處理 JSON 資料
-   .catch(error => console.error('錯誤:', error));
-
 async function loadSelectedQuiz() {
   try {
     const selector = document.getElementById("quizSelector");
@@ -16,7 +11,7 @@ async function loadSelectedQuiz() {
 
     document.getElementById("quizTitle").textContent = selectedText;
 
-    const res = await fetch(`./quiz_json/${selectedFile}`);
+    const res = await fetch(`./${selectedFile}`);
     if (!res.ok) throw new Error("載入題庫失敗");
     
     questions = await res.json();

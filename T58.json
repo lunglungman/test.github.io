@@ -1,0 +1,1514 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 允許一個基因可以做為分子時鐘（molecular clock）的最重要特徵是________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一個可信賴的突變平均速率",
+        "images": []
+      },
+      {
+        "text": "B 大量的鹼基對（base pairs）",
+        "images": []
+      },
+      {
+        "text": "C 不同基因演化速率相近",
+        "images": []
+      },
+      {
+        "text": "D 天擇造成的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. The correct sequence, from the most to the least comprehensive, of the taxonomic levels listed here is:",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A kingdom, domain, phylum, class, order, and family",
+        "images": []
+      },
+      {
+        "text": "B domain, kingdom, phylum, class, order, and family",
+        "images": []
+      },
+      {
+        "text": "C kingdom, domain, phylum, class, family, and order",
+        "images": []
+      },
+      {
+        "text": "D kingdom, phylum, domain, class, family, and order",
+        "images": []
+      },
+      {
+        "text": "E kingdom, phylum, domain, class, family, and order",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 有關paralogous genes在演化上的意義，下列敘述何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 提供了基因複製發生的絕對時間",
+        "images": []
+      },
+      {
+        "text": "B 提供了兩個物種分歧的絕對時間",
+        "images": []
+      },
+      {
+        "text": "C 證明兩個物種是不同的祖先來源",
+        "images": []
+      },
+      {
+        "text": "D 增加基因體的大小及基因的數量",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 蚱蜢、蟋蟀和蝗蟲具有像拉長的後翅和特定的翅膀結構等相似特徵，這些相似性主要是因為下列何者形成？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 適應性輻射（adaptive radiations）",
+        "images": []
+      },
+      {
+        "text": "B 趨同演化（convergency）",
+        "images": []
+      },
+      {
+        "text": "C 共同祖先（common ancestor）",
+        "images": []
+      },
+      {
+        "text": "D 協同演化（concerted evolution）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. Phylogenetic trees are best described as ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A true and inerrant statements about evolutionary relationships",
+        "images": []
+      },
+      {
+        "text": "B hypothetical portrayals of evolutionary relationships",
+        "images": []
+      },
+      {
+        "text": "C the closest things to absolute certainty that modern systematics can produce",
+        "images": []
+      },
+      {
+        "text": "D theories of evolution",
+        "images": []
+      },
+      {
+        "text": "E the most accurate representations possible of genetic relationships among taxa",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 中性突變（neutral mutation ）主要的支持證據來自DNA序列中，許多基因密碼（genetic code）產生突變的位置所在？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在第一鹼基上",
+        "images": []
+      },
+      {
+        "text": "B 在第二鹼基上",
+        "images": []
+      },
+      {
+        "text": "C 在第三鹼基上",
+        "images": []
+      },
+      {
+        "text": "D 在所有的鹼基位置上無特定性",
+        "images": []
+      },
+      {
+        "text": "E 突變與鹼基位置無相關",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 科學家常常利用分子時鐘（molecular clock）來研究整個基因組的變遷與演化。請問下列哪一種生物的現象，將會妨礙基因成為可信賴的分子時鐘？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 突變作用（mutation）",
+        "images": []
+      },
+      {
+        "text": "B 轉錄作用（transcription）",
+        "images": []
+      },
+      {
+        "text": "C 反轉錄作用（reverse transcription）",
+        "images": []
+      },
+      {
+        "text": "D 定向天擇作用（directional natural selection）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. In systematics and phylogeny, which one is the correct description?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A phylogenetic tree is actually a theory that depicts the evolutionary relationships among species.",
+        "images": []
+      },
+      {
+        "text": "B A paraphyletic group contains groups of species with different common ancestors.",
+        "images": []
+      },
+      {
+        "text": "C Morphology is a term that refers to similarities among various species that occur because the species are derived from a common ancestor.",
+        "images": []
+      },
+      {
+        "text": "D Where a branching point in a phylogenetic tree is called a clade.",
+        "images": []
+      },
+      {
+        "text": "E A phylotenetic tree is then being used as a cladogram.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. The eyes of mammalian and octopus are similar in structure and function. Which of following hypothesis accounts for most of this similarity?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Balanced polymorphism",
+        "images": []
+      },
+      {
+        "text": "B Convergent evolution",
+        "images": []
+      },
+      {
+        "text": "C Parallel evolution",
+        "images": []
+      },
+      {
+        "text": "D Cladogenesis",
+        "images": []
+      },
+      {
+        "text": "E Macroevolution",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. Some molecular data place the giant panda in the bear family (Ursidae) but place the lesser panda in the raccoon family (Procyonidae). The morphological similarities of these two species must therefore be due to ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A inheritance of acquired characteristics",
+        "images": []
+      },
+      {
+        "text": "B sexual selection",
+        "images": []
+      },
+      {
+        "text": "C inheritance of shared derived characters",
+        "images": []
+      },
+      {
+        "text": "D convergent evolution",
+        "images": []
+      },
+      {
+        "text": "E punctuated equilibrium",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. If organisms A, B, C belong to the same phylum, but to different classes and if organism D, E, and F belong to the same class but to different orders, which one of pairs of organisms would be expected to show the least degree of structural homology?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A and B",
+        "images": []
+      },
+      {
+        "text": "B C and F",
+        "images": []
+      },
+      {
+        "text": "C A and F",
+        "images": []
+      },
+      {
+        "text": "D B and D",
+        "images": []
+      },
+      {
+        "text": "E D and F",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. Sympatric species ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A are more likely than allopatric species to display character displacement",
+        "images": []
+      },
+      {
+        "text": "B always show character displacement",
+        "images": []
+      },
+      {
+        "text": "C are less likely than allopatric species to display character displacement",
+        "images": []
+      },
+      {
+        "text": "D are unlikely to be competing",
+        "images": []
+      },
+      {
+        "text": "E are more likely than allopatric species to display character displacement and likely to be competing",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 假設在地球上發現一新種的古細菌（Archaea），經由核醣體RNA序列比對，發現此古細菌與靈長類序列的相似程度高於靈長類與魚類序列的相似程度，對於此項發現，下面哪一個現象可以提供最好的解釋？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 皆具有共同的祖先",
+        "images": []
+      },
+      {
+        "text": "B 同源（homologous）",
+        "images": []
+      },
+      {
+        "text": "C 同塑（homoplasy）",
+        "images": []
+      },
+      {
+        "text": "D 平行系群（paraphyletic）",
+        "images": []
+      },
+      {
+        "text": "E 靈長類與此新種古細菌的共演化（coevolution）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 請回答以下兩題：假設四物種和一外群，共有5特徵，資料如上表，以最大簡約法（Maximum parsimony）進行親緣關係分析，0為祖徵（Plesiomorphy），1為衍徵（Apomorphy），建立最大簡約親緣關係樹所需最少步驟為何？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/045.png"
+    ],
+    "options": [
+      {
+        "text": "A 3",
+        "images": []
+      },
+      {
+        "text": "B 4",
+        "images": []
+      },
+      {
+        "text": "C 5",
+        "images": []
+      },
+      {
+        "text": "D 6",
+        "images": []
+      },
+      {
+        "text": "E 7",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 請回答以下兩題：承上題，所建構的最大簡約親緣關係樹，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/046.png"
+        ]
+      },
+      {
+        "text": "B",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/047.png"
+        ]
+      },
+      {
+        "text": "C",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/048.png"
+        ]
+      },
+      {
+        "text": "D",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/049.png"
+        ]
+      },
+      {
+        "text": "E",
+        "images": [
+          "https://www.ibrain.com.tw/file/quiz/404/050.png"
+        ]
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Which of the following definition is WRONG for molecular clock?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Paralogous genes are used.",
+        "images": []
+      },
+      {
+        "text": "B Constant mutation rate is supposed.",
+        "images": []
+      },
+      {
+        "text": "C Fossil record can be used to correct dating.",
+        "images": []
+      },
+      {
+        "text": "D Based on Neutral theory.",
+        "images": []
+      },
+      {
+        "text": "E The rate of molecular change should be regular like a clock.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. Phylogenetic trees are best described as",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A true and inerrant statements about evolutionary relationships.",
+        "images": []
+      },
+      {
+        "text": "B the most accurate representations possible of genetic relationships among taxa.",
+        "images": []
+      },
+      {
+        "text": "C theories of evolution.",
+        "images": []
+      },
+      {
+        "text": "D hypothetical portrayals of evolutionary relationships.",
+        "images": []
+      },
+      {
+        "text": "E the closest things to absolute certainty that modern systematics can produce.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. The following table compares the % sequence homology of four different parts (two introns and two exons) of a gene that is found in five different eukaryotic species. The data reported for species A were obtained by comparing DNA from one member of species A to another member of species A. Which of these four gene parts should allow the construction of the most accurate phylogenetic tree, assuming that this is the only part of the gene that has acted as a reliable molecular clock?",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/044.png"
+    ],
+    "options": [
+      {
+        "text": "A Exon I",
+        "images": []
+      },
+      {
+        "text": "B Exon V",
+        "images": []
+      },
+      {
+        "text": "C Intron I",
+        "images": []
+      },
+      {
+        "text": "D Intron VI",
+        "images": []
+      },
+      {
+        "text": "E Both Exon I and V",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 選出正確之共祖基因（orthologous genes）配對：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 老鼠胰島素基因與酵母菌交配型基因",
+        "images": []
+      },
+      {
+        "text": "B 真核細胞基因體中多重rRNA基因套數（multiple gene copies）",
+        "images": []
+      },
+      {
+        "text": "C 兩個不同之大鼠嗅覺接受器基因",
+        "images": []
+      },
+      {
+        "text": "D 人類與黑猩猩之α血紅素基因",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. Prezygotic isolating mechanisms act to limit hybridization and maintain the genetic identity of closely-related species. For sympatric corals that do synchronized spawning, what is the most likely isolation mechanism?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A behavioral isolation",
+        "images": []
+      },
+      {
+        "text": "B temporal isolation",
+        "images": []
+      },
+      {
+        "text": "C habitat isolation",
+        "images": []
+      },
+      {
+        "text": "D gametic isolation",
+        "images": []
+      },
+      {
+        "text": "E hybrid breakdown",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 依照目前的國際分類與命名系統，馬（Equus caballus）與驢（Equus assinus）在分類上是屬於：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 同屬不同種",
+        "images": []
+      },
+      {
+        "text": "B 不同屬同種",
+        "images": []
+      },
+      {
+        "text": "C 不同屬不同種",
+        "images": []
+      },
+      {
+        "text": "D 同屬不同綱",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何者為中性突變（neutral mutation）的最好例子？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛾翅膀上的花紋斑點讓其隱藏在叢花間不易被發現",
+        "images": []
+      },
+      {
+        "text": "B 長耳蝠的大耳殼特化讓其在黑暗中可敏銳辨識外界聲音",
+        "images": []
+      },
+      {
+        "text": "C 人類手指頭的螺旋皮紋差異讓其個體身份可以一一辨識",
+        "images": []
+      },
+      {
+        "text": "D 貓頭鷹的大眼睛讓其在微光黑夜仍可看得清清楚楚",
+        "images": []
+      },
+      {
+        "text": "E 達爾文芬雀的寬厚鳥喙讓其可啄破乾旱季節時的硬種子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列何者為研究生物多樣性和生物體之間演變關係的科學？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生態學（Ecology）",
+        "images": []
+      },
+      {
+        "text": "B 命名法（Nomenclature）",
+        "images": []
+      },
+      {
+        "text": "C 系統學（Systematics）",
+        "images": []
+      },
+      {
+        "text": "D 演化學（Evolution）",
+        "images": []
+      },
+      {
+        "text": "E 生物地理學（Biogeography）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 果蠅基因中有多少比例的同源性基因（homologous genes）可在人類上發現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 6%",
+        "images": []
+      },
+      {
+        "text": "B 12%",
+        "images": []
+      },
+      {
+        "text": "C 28%",
+        "images": []
+      },
+      {
+        "text": "D 30%",
+        "images": []
+      },
+      {
+        "text": "E 50%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 對於種化（speciation）機制，下列敘述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 地理隔離導致的異域性種化（allopatric speciation）",
+        "images": []
+      },
+      {
+        "text": "B 同域性種化（sympatric speciation）無須地理隔離",
+        "images": []
+      },
+      {
+        "text": "C 大部分動物物種的起源可以追溯至多倍體種化現象的發生",
+        "images": []
+      },
+      {
+        "text": "D 雜交區域提供研究生殖隔離（reproductive isolation）的機會",
+        "images": []
+      },
+      {
+        "text": "E 生殖隔離的演變造成族群分化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. The term homoplasy is most applicable to which of the following features?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the legless condition found in various lineages of extant lizards",
+        "images": []
+      },
+      {
+        "text": "B the five-digit condition of human hands and bat wings",
+        "images": []
+      },
+      {
+        "text": "C the β hemoglobin genes of mice and of humans",
+        "images": []
+      },
+      {
+        "text": "D the fur that covers Australian moles and North American moles",
+        "images": []
+      },
+      {
+        "text": "E the bones of bat forelimbs and the bones of bird forelimbs",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. Species that are not closely related and that do not share many anatomical similarities can still be placed together on the same phylogenetic tree by comparing their",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A plasmids.",
+        "images": []
+      },
+      {
+        "text": "B chloroplast genomes.",
+        "images": []
+      },
+      {
+        "text": "C mitochondrial genomes.",
+        "images": []
+      },
+      {
+        "text": "D homologous genes that are poorly conserved.",
+        "images": []
+      },
+      {
+        "text": "E homologous genes that are highly conserved.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 近代生物學家將生物分為五界，其中在地球上最早出現也最原始的為哪一界？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 原生生物界",
+        "images": []
+      },
+      {
+        "text": "B 菌物界",
+        "images": []
+      },
+      {
+        "text": "C 原核生物界",
+        "images": []
+      },
+      {
+        "text": "D 植物界",
+        "images": []
+      },
+      {
+        "text": "E 動物界",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列何者無法幫助決定物種在演化上的相關性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A rRNA序列",
+        "images": []
+      },
+      {
+        "text": "B 化石紀錄",
+        "images": []
+      },
+      {
+        "text": "C 同源構造（homologous structure）",
+        "images": []
+      },
+      {
+        "text": "D 生物地理學與物種分佈",
+        "images": []
+      },
+      {
+        "text": "E 同功構造（analogous structure）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. The process through which species not closely related may come to resemble one another if they live in a similar environment is known as",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A coevolution.",
+        "images": []
+      },
+      {
+        "text": "B homology.",
+        "images": []
+      },
+      {
+        "text": "C convergent evolution.",
+        "images": []
+      },
+      {
+        "text": "D paedomorphosis.",
+        "images": []
+      },
+      {
+        "text": "E diversified",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 利用傳統與分子的工具進行動物系統親緣關係研究，兩者並不相互吻合，是在：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Eumetazoa（true animals）是否為單一起源",
+        "images": []
+      },
+      {
+        "text": "B 兩側與輻射對稱的生物是否早期就各自分化成單一的支系",
+        "images": []
+      },
+      {
+        "text": "C Parazoa（no tissue animals）及Eumetazoa於很早期動物演化的階段就已分離",
+        "images": []
+      },
+      {
+        "text": "D 棘皮動物與脊索動物都屬於後口動物（deuterostomes）",
+        "images": []
+      },
+      {
+        "text": "E 有關不同體腔的型式與出現在親緣關係之重要性說明",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列何者是研究生命系統發生樹（phylogenetic tree）之最好的材料？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溶酶體（lysosome）",
+        "images": []
+      },
+      {
+        "text": "B 粒腺體DNA（mitochondria DNA）",
+        "images": []
+      },
+      {
+        "text": "C transfer RNA（tRNA）",
+        "images": []
+      },
+      {
+        "text": "D 肌紅蛋白（myoglobin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. Most causes of speciation are relatively slow, in that they may take many generations to see changes, with the exception of ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A colonization",
+        "images": []
+      },
+      {
+        "text": "B sexual selection",
+        "images": []
+      },
+      {
+        "text": "C reinforcement",
+        "images": []
+      },
+      {
+        "text": "D natural selection",
+        "images": []
+      },
+      {
+        "text": "E polyploidy",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 在人體中有兩大類球蛋白，分別為肌紅蛋白（myoglobin）和血紅蛋白（hemoglobin），此二類編碼蛋白質的基因皆來自共同的祖先基因，且存在於人體基因組，此肌紅蛋白和血紅蛋白基因關係的類型，下列何者最可能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 直系基因（orthologous genes）",
+        "images": []
+      },
+      {
+        "text": "B 同功基因（analogous genes）",
+        "images": []
+      },
+      {
+        "text": "C 旁系基因（paralogous genes）",
+        "images": []
+      },
+      {
+        "text": "D 同源異型基因（homeotic genes）",
+        "images": []
+      },
+      {
+        "text": "E 偽基因（pseudogenes）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 關於Ursus maritimus, Ursus arctos及Ursus americanus三者，下列描述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 三種熊的科名",
+        "images": []
+      },
+      {
+        "text": "B 均指北極熊",
+        "images": []
+      },
+      {
+        "text": "C 同一物種，三種不同的學名",
+        "images": []
+      },
+      {
+        "text": "D 為同屬的物種",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. If organisms a, b, and c belong to the same class but to different orders and if organisms c, d, and e belong to the same order but to different families, which of the following pairs of organisms would be expected to show the greatest degree of structural homology?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a and d",
+        "images": []
+      },
+      {
+        "text": "B b and c",
+        "images": []
+      },
+      {
+        "text": "C b and d",
+        "images": []
+      },
+      {
+        "text": "D d and e",
+        "images": []
+      },
+      {
+        "text": "E a and e",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 在 SARS-CoV2的報導中，我們常見科學家以全基因體的支序樹（phylogenetic tree）來呈現不同病毒株的關係。請問此類支序樹無法找到下列何種資訊？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病毒株之間遺傳距離的遠近",
+        "images": []
+      },
+      {
+        "text": "B 病毒株之間的共同祖先出現於何時",
+        "images": []
+      },
+      {
+        "text": "C 病毒株之間演化的順序",
+        "images": []
+      },
+      {
+        "text": "D 姐妹病毒株的突變差異是否會造成功能性的改變",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. Phylogeny is the study of the evolutionary history of related groups of organisms. Organisms are grouped into taxa based on shared characteristics that result from common ancestry. Identify which statement is FALSE.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The term monophyletic refers to a taxon.",
+        "images": []
+      },
+      {
+        "text": "B A taxon includes an ancestral species and all of its descendents.",
+        "images": []
+      },
+      {
+        "text": "C Homologous structures look the same and serve the same function but differ in evolutionary origin and structure.",
+        "images": []
+      },
+      {
+        "text": "D Ancestral traits were present in the shared ancestor of the species within a taxon.",
+        "images": []
+      },
+      {
+        "text": "E Phylogeny is the evolutionary history of a group of organisms.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列何者不具有物種間之演化高度保留（evolutionarily highly conserved）的特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A TATA box",
+        "images": []
+      },
+      {
+        "text": "B homeobox of homeotic genes",
+        "images": []
+      },
+      {
+        "text": "C proton gradient & chemiosmosis",
+        "images": []
+      },
+      {
+        "text": "D CRISPR-Cas system",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 日本學者木村資生所提出的中性演化理論（neutral theory of evolution），其內涵下列何者為正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 與達爾文的演化理論一樣，強調的是“survival of the luckiest”",
+        "images": []
+      },
+      {
+        "text": "B 受到穩定性選擇（stabilizing selection）的強烈影響",
+        "images": []
+      },
+      {
+        "text": "C 不會受到基因漂變（genetic drift）的影響",
+        "images": []
+      },
+      {
+        "text": "D 同時受到性別間（intersexual）及性別內（intrasexual）選擇的影響",
+        "images": []
+      },
+      {
+        "text": "E 不會影響生物個體的外表型",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. In a phylogenetic tree, a group is composed of some species but not their most recent common ancestor. This is an example of ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A monophyletic group",
+        "images": []
+      },
+      {
+        "text": "B paraphyletic group",
+        "images": []
+      },
+      {
+        "text": "C polyphyletic group",
+        "images": []
+      },
+      {
+        "text": "D polytomy",
+        "images": []
+      },
+      {
+        "text": "E dicotomy",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 考古學家從已絕種的古代巨鳥中找到一小塊保留下來的皮膚組織，如果他想要比較其DNA與現今鳥類有何差異一開始應採用何種方法？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 連鎖聚合酶反應",
+        "images": []
+      },
+      {
+        "text": "B 分子探針分析",
+        "images": []
+      },
+      {
+        "text": "C 限制酶切割",
+        "images": []
+      },
+      {
+        "text": "D 電泳分析",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 經由基因體演化的研究結果發現，在經過長時間的演化歷程，人類的血紅蛋白（hemoglobin）基因和肌紅蛋白（myoglobin）基因的DNA序列已有明顯的差異存在，但是其蛋白質結構以及攜帶氧氣的功能卻仍非常相似。依據以上敘述，在演化關係上血紅蛋白基因和肌紅蛋白基因屬於下列何種類型？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A orthologous genes",
+        "images": []
+      },
+      {
+        "text": "B paralogous genes",
+        "images": []
+      },
+      {
+        "text": "C analogous genes",
+        "images": []
+      },
+      {
+        "text": "D pseudogenes",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. Two species of frogs belonging to the same genus occasionally mate, but the embryos stop developing after a day and then die. These two frog species separate by ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A gametic isolation",
+        "images": []
+      },
+      {
+        "text": "B reduced hybrid fertility",
+        "images": []
+      },
+      {
+        "text": "C hybrid breakdown",
+        "images": []
+      },
+      {
+        "text": "D mechanical isolation",
+        "images": []
+      },
+      {
+        "text": "E reduced hybrid viability",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 異域種化（allopatric speciation）是演化上新物種形成的一種方式，下列何者是最重要的條件？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 完全的地理隔絕",
+        "images": []
+      },
+      {
+        "text": "B 遺傳漂變",
+        "images": []
+      },
+      {
+        "text": "C 個體突變機率的差異",
+        "images": []
+      },
+      {
+        "text": "D 生殖隔離",
+        "images": []
+      },
+      {
+        "text": "E 族群個體在環境中不平均分布",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 在老鼠PRL基因家族（gene family）為與生殖相關的基因，且所有的基因有一段相似的序列但卻有不同功能。另外，人類擁有單一相似的PRL基因。老鼠PRL基因稱之________，與人類PRL基因稱之________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A homologues; analogs",
+        "images": []
+      },
+      {
+        "text": "B orthologs; paralogs",
+        "images": []
+      },
+      {
+        "text": "C paralogs; orthologs",
+        "images": []
+      },
+      {
+        "text": "D analogs; homologues",
+        "images": []
+      },
+      {
+        "text": "E heterologs; homologues",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 大雄到台東知本森林遊樂區進行生態之旅時，意外發現了既不像烏頭翁也不像白頭翁的花頭翁。大雄決心一探究竟，在野外搭起了偽裝帳篷進行長期的觀察。大雄腦海有一個假說：在樹林間如果可以觀察到烏頭翁與白頭翁的交配、築巢與育雛行為，成長後的下一代花頭翁可以繼續繁衍後代。請問大雄正在從事下列哪一個選項的田野調查工作？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 型態種觀念（morphological species concept）",
+        "images": []
+      },
+      {
+        "text": "B 生物種觀念（biological species concept）",
+        "images": []
+      },
+      {
+        "text": "C 生態種觀念（ecological species concept）",
+        "images": []
+      },
+      {
+        "text": "D 親緣關係種觀念（phylogenetic species concept）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. Which of the following is more likely an application of the concept of molecular clock?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A estimate the origin time of HIV virus",
+        "images": []
+      },
+      {
+        "text": "B estimate the vertical migration pattern of benthic diatoms",
+        "images": []
+      },
+      {
+        "text": "C estimate the rhythmic behaviors of intertidal species in the lab",
+        "images": []
+      },
+      {
+        "text": "D estimate the genetic diversity of a population",
+        "images": []
+      },
+      {
+        "text": "E estimate the reason for dinosaur extinction",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. What listed below can NOT lead to speciation?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Allopatric distribution of two populations",
+        "images": []
+      },
+      {
+        "text": "B Sexual selection among phenotypes",
+        "images": []
+      },
+      {
+        "text": "C Panmictic population",
+        "images": []
+      },
+      {
+        "text": "D Polyploidy of the local species",
+        "images": []
+      },
+      {
+        "text": "E Hybridization of two species",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. Which of these statements best describes speciation?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Populations separated by a geographic barrier are known as sympatric populations.",
+        "images": []
+      },
+      {
+        "text": "B Geographic isolation necessarily leads to new species.",
+        "images": []
+      },
+      {
+        "text": "C For allopatric speciation to occur, changes in the gene pool must produce reproductive isolation.",
+        "images": []
+      },
+      {
+        "text": "D In allopatric speciation, reproductive isolation develops and new species arises without geographic separation.",
+        "images": []
+      },
+      {
+        "text": "E A small population is less likely to have its gene pool changed by genetic drift and natural selection.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

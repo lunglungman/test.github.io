@@ -1,0 +1,1477 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 何者與植物一樣會由光合作用產生氧氣的是下列哪類生物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 藍菌（Cyanobacteria）",
+        "images": []
+      },
+      {
+        "text": "B 古細菌（Archaebacteria）",
+        "images": []
+      },
+      {
+        "text": "C 化合自營細菌",
+        "images": []
+      },
+      {
+        "text": "D 異營性細菌",
+        "images": []
+      },
+      {
+        "text": "E 放射菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 霍亂弧菌分泌毒素刺激粘膜細胞導致腹瀉是由於：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加細胞內cAMP，加強Na+-H+交換性運輸",
+        "images": []
+      },
+      {
+        "text": "B 增加細胞內cAMP，促使Cl–的分泌",
+        "images": []
+      },
+      {
+        "text": "C 增加細胞內cAMP，加速Na+之再吸收",
+        "images": []
+      },
+      {
+        "text": "D 增加細胞內cAMP，促使K+的分泌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. Evidence for similarities between Archaea and Eukarya includes the",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A absence of introns from genes in both groups.",
+        "images": []
+      },
+      {
+        "text": "B fact that both contain circular DNA without histones.",
+        "images": []
+      },
+      {
+        "text": "C presence of peptidoglycan in the cell walls of both groups.",
+        "images": []
+      },
+      {
+        "text": "D fact that both have several kinds of relatively complex RNA polymerases.",
+        "images": []
+      },
+      {
+        "text": "E absence of cell wall in both groups.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 科學家發生在深海地熱噴發的高溫水域中生長著一種大管蟲（tubeworm），這些大管蟲沒有消化系統，必須依靠共生的微生物提供養份。下列哪一種最可能是協助這種管蟲生存的微生物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 古生菌（archaea）",
+        "images": []
+      },
+      {
+        "text": "B 藍綠菌（cyanobacteria）",
+        "images": []
+      },
+      {
+        "text": "C 綠藻（green alga）",
+        "images": []
+      },
+      {
+        "text": "D 矽藻（diatom）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 從格蘭氏染色（Gram Staining）的結果而言，下列何者細胞壁的肽聚醣（Peptidoglycan）層外面最有可能還有脂多醣（Lipopolysaccharides）結構層？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 格蘭氏陽性菌",
+        "images": []
+      },
+      {
+        "text": "B 格蘭氏陰性菌",
+        "images": []
+      },
+      {
+        "text": "C 黃麴菌（Aspergillus flavus）",
+        "images": []
+      },
+      {
+        "text": "D 阿拉伯芥（Arabidopsis thaliana）",
+        "images": []
+      },
+      {
+        "text": "E 鏈黴菌（Streptomyces）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 古細菌（Archaea）能夠在惡劣的環境下生存而細菌（Bacteria）和真核生物則無法生存，主要是因為古細菌的細胞膜有下列何種特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A sulfhydryl linkages",
+        "images": []
+      },
+      {
+        "text": "B proton pumps",
+        "images": []
+      },
+      {
+        "text": "C ester linkages",
+        "images": []
+      },
+      {
+        "text": "D chirality of glycerol",
+        "images": []
+      },
+      {
+        "text": "E cytoskeletons",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "複選題",
+    "question": "7. 關於“R plasmid”，下列何者正確：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它讓細菌能抵抗phage的攻擊",
+        "images": []
+      },
+      {
+        "text": "B 它含有抗藥基因及sex pili的基因",
+        "images": []
+      },
+      {
+        "text": "C 通常靠轉導（transduction）在細菌間轉移",
+        "images": []
+      },
+      {
+        "text": "D 會由F-轉移至F+",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 台灣本土性萊姆病（Lyme disease）由受感染的硬蜱叮咬人體而傳染，下列何者為其病原體？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黴漿菌（Mycoplasma spp.）",
+        "images": []
+      },
+      {
+        "text": "B 伯氏疏螺旋體（Borrelia burgdorferi）",
+        "images": []
+      },
+      {
+        "text": "C 立克次氏菌（Rickettsia spp.）",
+        "images": []
+      },
+      {
+        "text": "D 披衣菌（Chlamydia spp.）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. Acne is caused by infection of the sebaceous glands by Propionibacterium acne, which is Gram-positive bacterium whose cell wall composed of which of the following?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A thick lipopolysaccharide layer",
+        "images": []
+      },
+      {
+        "text": "B thick peptidoglycan layer",
+        "images": []
+      },
+      {
+        "text": "C thin lipopolysaccharide layer over a thick peptidoglycan layer",
+        "images": []
+      },
+      {
+        "text": "D thick lipopolysaccharide layer over a thin peptidoglycan layer",
+        "images": []
+      },
+      {
+        "text": "E thick lipopolysaccharide layer over a thick peptidoglycan layer",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. Why does the S-type strain of Streptococcus pneumonia cause pneumonia?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Unable to defend the immune system",
+        "images": []
+      },
+      {
+        "text": "B Surrounded by a polysaccharide capsule",
+        "images": []
+      },
+      {
+        "text": "C Able to grow and move",
+        "images": []
+      },
+      {
+        "text": "D Inactivated by the immune system",
+        "images": []
+      },
+      {
+        "text": "E Unable to form colony",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 關於原核生物（prokaryotes）的複製，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 原核生物經由減數分裂（meiosis）形成配子（gametes）",
+        "images": []
+      },
+      {
+        "text": "B 原核生物具有獨特的單倍數配子（haploid gametes）",
+        "images": []
+      },
+      {
+        "text": "C 原核生物省略有性生命週期（sexual life cycles），因為它們的生命週期太短了",
+        "images": []
+      },
+      {
+        "text": "D 原核生物多樣性的主要原因是突變（mutation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. The largest group of prokaryotes is the ________, which obtain both energy and carbon from ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A autotrophs; inorganic molecules",
+        "images": []
+      },
+      {
+        "text": "B chemoautotrophs; decaying organic material",
+        "images": []
+      },
+      {
+        "text": "C chemoheterotrophs; organic molecules",
+        "images": []
+      },
+      {
+        "text": "D photoautotrophs; light",
+        "images": []
+      },
+      {
+        "text": "E chemoautotrophs; organic material",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列哪一類原核生物對人類來說不具致病性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 披衣菌",
+        "images": []
+      },
+      {
+        "text": "B 根瘤菌",
+        "images": []
+      },
+      {
+        "text": "C 炭疽菌",
+        "images": []
+      },
+      {
+        "text": "D 鏈球菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. What does transformation involve in bacteria?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the creation of a strand of DNA from an RNA molecule",
+        "images": []
+      },
+      {
+        "text": "B the creation of a strand of RNA from a DNA molecule",
+        "images": []
+      },
+      {
+        "text": "C the infection of cells by a phage DNA molecule",
+        "images": []
+      },
+      {
+        "text": "D the type of semiconservative replication shown by DNA",
+        "images": []
+      },
+      {
+        "text": "E assimilation of external DNA into a cell",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 台灣黃牛體內有許多共生性的微生物，使它可以攝取更多的養分，這些微生物主要棲息在哪一個區域？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 咽",
+        "images": []
+      },
+      {
+        "text": "B 大腸",
+        "images": []
+      },
+      {
+        "text": "C 胃",
+        "images": []
+      },
+      {
+        "text": "D 小腸",
+        "images": []
+      },
+      {
+        "text": "E 肝臟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 抗生素盤尼西林（penicillin）抑制肽聚醣（peptidoglycan）合成酵素的作用，因此下列何種原核生物最容易受到盤尼西林的抑制？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黴漿菌（Mycoplasmas）",
+        "images": []
+      },
+      {
+        "text": "B 革蘭氏陽性菌（Gram-positive bacteria）",
+        "images": []
+      },
+      {
+        "text": "C 革蘭氏陰性菌（Gram-negative bacteria）",
+        "images": []
+      },
+      {
+        "text": "D 古生菌（Archaea）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 有關革蘭氏陰性菌（Gram-negative bacteria）所產生的內毒素（endotoxin）為下列何者的成份？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞壁",
+        "images": []
+      },
+      {
+        "text": "B 內孢子",
+        "images": []
+      },
+      {
+        "text": "C 鞭毛",
+        "images": []
+      },
+      {
+        "text": "D 生殖線毛",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 生物膜（biofilm）為近年來的熱門研究領域，請問下列有關生物膜的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生物膜為微生物利用接合毛（conjugation pili）互相連接在一起所形成",
+        "images": []
+      },
+      {
+        "text": "B 當微生物形成生物膜時，細胞不容易被殺死",
+        "images": []
+      },
+      {
+        "text": "C 生物膜的形成使得抗生素不易穿透作用",
+        "images": []
+      },
+      {
+        "text": "D 生物膜也會在口腔或骨骼內形成，造成牙周病或骨髓炎",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 下列關於原核生物的描述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 古細菌（archaea）細胞膜上的脂質成份與細菌不同",
+        "images": []
+      },
+      {
+        "text": "B 細菌（bacteria）比起古細菌與真菌（fungi）的關係更為親密",
+        "images": []
+      },
+      {
+        "text": "C 古細菌與細菌可能在演化的極早期就已分歧",
+        "images": []
+      },
+      {
+        "text": "D 古細菌與細菌均無核膜",
+        "images": []
+      },
+      {
+        "text": "E 古細菌與細菌均有細胞壁，但古細菌細胞壁內無肽聚醣（peptidoglycan）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 有關古細菌的敘述，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 古細菌和細菌都屬原核生物",
+        "images": []
+      },
+      {
+        "text": "B 古細菌有部分的特性與真核細胞相近",
+        "images": []
+      },
+      {
+        "text": "C 古細菌多生長在極端環境",
+        "images": []
+      },
+      {
+        "text": "D 古細菌為演化最早的生物",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列對細菌的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 革蘭氏陰性菌以結晶紫染色後在顯微鏡下觀察，呈現的顏色為紅色或粉紅色",
+        "images": []
+      },
+      {
+        "text": "B 革蘭氏陰性菌有脂多醣構成的外膜與較薄的肽聚醣細胞壁",
+        "images": []
+      },
+      {
+        "text": "C 細菌的抗藥性基因都位於質體（plasmid）上",
+        "images": []
+      },
+      {
+        "text": "D 像病毒能在宿主的細胞內繁殖，有些細菌也會侵入宿主的細胞內",
+        "images": []
+      },
+      {
+        "text": "E 細菌會進行無性繁殖分裂，也可藉由性鞭毛交換遺傳物質",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Which two structures play direct roles in permitting bacteria to adhere to each other, or to other surfaces?(1) capsules(2) endospores(3) fimbriae(4) plasmids(5) flagella",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1 and 2",
+        "images": []
+      },
+      {
+        "text": "B 1 and 3",
+        "images": []
+      },
+      {
+        "text": "C 2 and 3",
+        "images": []
+      },
+      {
+        "text": "D 3 and 4",
+        "images": []
+      },
+      {
+        "text": "E 3 and 5",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 細菌進行細胞分裂的主要方式，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 接合作用（conjugation）",
+        "images": []
+      },
+      {
+        "text": "B 有絲分裂（mitosis）",
+        "images": []
+      },
+      {
+        "text": "C 減數分裂（meiosis）",
+        "images": []
+      },
+      {
+        "text": "D 二分裂（binary fission）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 最近台灣地區發生數次肉毒桿菌的食物中毒病例，下列有關肉毒桿菌食物中毒的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肉毒桿菌釋放之毒素稱之為肉毒桿菌素（botulinum toxin）",
+        "images": []
+      },
+      {
+        "text": "B 此毒素乃侵入運動神經元中止其釋出乙醯膽鹼（acetylcholine, ACh）",
+        "images": []
+      },
+      {
+        "text": "C 缺乏ACh則使骨骼肌強力收縮不止",
+        "images": []
+      },
+      {
+        "text": "D 因此肌肉逐漸變得軟弱而癱瘓",
+        "images": []
+      },
+      {
+        "text": "E 患者必須在36小時內施以抗毒素治療",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列哪一種生物的細胞內沒有粒線體存在？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 青黴菌",
+        "images": []
+      },
+      {
+        "text": "B 酵母菌",
+        "images": []
+      },
+      {
+        "text": "C 草履蟲",
+        "images": []
+      },
+      {
+        "text": "D 海葵",
+        "images": []
+      },
+      {
+        "text": "E 枯草桿菌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. F因子（F factor）或稱為F-質體（F-plasmid）與嗜菌體（bacteriophage）兩者間有什麼共通處？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 具有一個包圍DNA的蛋白質外殼",
+        "images": []
+      },
+      {
+        "text": "B 能溶解（lyse）細菌",
+        "images": []
+      },
+      {
+        "text": "C 參與接合作用（conjugation）",
+        "images": []
+      },
+      {
+        "text": "D 能將它們自己嵌入（incorporate）細菌的染色體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. Which one of the statements about the domain of Archaea is correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A They must inhabit solution are nearly 30 % salt.",
+        "images": []
+      },
+      {
+        "text": "B They must not adapt to waters with temperatures above the boiling point.",
+        "images": []
+      },
+      {
+        "text": "C Based on DNA analysis, they are probably more closely related to bacteria than to eukaryotes.",
+        "images": []
+      },
+      {
+        "text": "D Archaean cell walls are composed of peptidoglycan.",
+        "images": []
+      },
+      {
+        "text": "E None of the above.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列有關大腸桿菌（Escherichia coli）的敍述，何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大腸桿菌屬於原核生物細菌界中的腸桿菌科（Enterobacteriaceae）",
+        "images": []
+      },
+      {
+        "text": "B 為兩端鈍圓，可運動，不產芽苞的革蘭氏陰性菌",
+        "images": []
+      },
+      {
+        "text": "C 是人類和動物腸道中數量最多的細菌，可合成維生素A和E",
+        "images": []
+      },
+      {
+        "text": "D 大腸桿菌大多不會引起疾病，少數菌株可引起腹瀉或尿道炎",
+        "images": []
+      },
+      {
+        "text": "E 大腸桿菌為模式生物，是20世紀最重要的實驗生物，分子生物學的基本概念幾乎都建立在大腸桿菌的研究上",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. What results from conjugation between a bacterium that lacks an F factor (F-) and a bacterium that has an F factor on its chromosome (F+)?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The F-bacterium ends up carrying one or more plasmids from the F+bacterium; the F+bacterium is unchanged.",
+        "images": []
+      },
+      {
+        "text": "B The F+bacterium ends up with a recombinant chromosome that carries some genes from the F-bacterium, and the F-bacterium ends up with an unaltered chromosome.",
+        "images": []
+      },
+      {
+        "text": "C The F+bacterium ends up with a recombinant chromosome that carries some genes from the F-bacterium, and the F-bacterium ends up with a chromosome that lacks those genes.",
+        "images": []
+      },
+      {
+        "text": "D The F-bacterium ends up with a recombinant chromosome that carries some genes from the F+bacterium, and the F+bacterium ends up with an unaltered chromosome.",
+        "images": []
+      },
+      {
+        "text": "E The F+bacterium ends up with a recombinant chromosome that carries some genes from the F-bacterium, and the F+bacterium ends up with an unaltered chromosome.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列關於幽門螺旋菌（Helicobacter pylori）的敘述，何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 幽門螺旋菌寄居在人類的胃中已有悠久的歷史，但由於抗生素的使用已大幅降低地幽門螺旋菌的普及率",
+        "images": []
+      },
+      {
+        "text": "B 研究人員可藉由研究幽門螺旋菌的遺傳變異來追蹤人類遷徙和定居的模式",
+        "images": []
+      },
+      {
+        "text": "C 帶有幽門螺旋菌的人罹患消化性潰瘍和胃癌的風險較高",
+        "images": []
+      },
+      {
+        "text": "D 胃中有了幽門螺旋菌，胃酸逆流的機會則大增",
+        "images": []
+      },
+      {
+        "text": "E 所有消化性潰瘍都是因幽門螺旋菌所引起的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 下列何者為自營細菌（autotrophic bacteria）葉綠素可能的分佈位置？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉綠體膜（chloroplast membrane）中",
+        "images": []
+      },
+      {
+        "text": "B 核糖體（ribosomes）中",
+        "images": []
+      },
+      {
+        "text": "C 擬核（nucleoid）中",
+        "images": []
+      },
+      {
+        "text": "D 折疊的原生質膜（extensive folded plasma membrane）中",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 過去數十年發現抗Methicillin的金黃葡萄球菌（Methicillin-resistant Staphylococcus aureus, MRSA）的變異種USA300菌株，除了抗Methicillin外，又能抵抗多種 抗生素，感染皮膚、肺和血液，引起“食肉病”，其感染率和致死率相當高。此變異種細菌對抗生素的適應，依據天擇的論點，下列描述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 天擇創造抗藥性新菌種",
+        "images": []
+      },
+      {
+        "text": "B 天擇篩選出已存在於族群中的抗藥性細菌",
+        "images": []
+      },
+      {
+        "text": "C 天擇作用於已具有各種變異的族群",
+        "images": []
+      },
+      {
+        "text": "D 天擇增加抗藥性菌種的頻度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 關於真核細胞與原核細胞的比較，下列何者錯誤：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 前者具有核膜",
+        "images": []
+      },
+      {
+        "text": "B 後者具有粒線體",
+        "images": []
+      },
+      {
+        "text": "C 後者通常以無性生殖方式繁殖",
+        "images": []
+      },
+      {
+        "text": "D 後者呼吸作用發生於細胞膜上",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. Which of these statements about prokaryotes is correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Bacterial cells conjugate to mutually exchange genetic material.",
+        "images": []
+      },
+      {
+        "text": "B Their genetic material is confined within a nuclear envelope.",
+        "images": []
+      },
+      {
+        "text": "C They divide by binary fission, without mitosis or meiosis.",
+        "images": []
+      },
+      {
+        "text": "D The persistence of bacteria throughout evolutionary time is due to their genetic homogeneity (i.e., sameness).",
+        "images": []
+      },
+      {
+        "text": "E Genetic variation in bacteria is not known to occur, nor should it occur, because of their asexual mode of reproduction.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 1946年Lederberg和Tatum的大腸桿菌K12（Escherichia coli K12）實驗結果，主要證明下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在細菌細胞之間會發生基因交流導致遺傳重組（genetic recombination）",
+        "images": []
+      },
+      {
+        "text": "B 細菌細胞可以從環境中獲得大量的DNA片段",
+        "images": []
+      },
+      {
+        "text": "C 病毒需要和細菌細胞之間的發生基因交流",
+        "images": []
+      },
+      {
+        "text": "D 在細菌細胞內發生突變（mutation）的速率極高",
+        "images": []
+      },
+      {
+        "text": "E 細菌細胞之間的遺傳交流是一個雙向的過程",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 有關革蘭氏陽性菌與革蘭氏陰性菌的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 革蘭氏陽性菌具內毒素（endotoxin），革蘭氏陰性菌則否",
+        "images": []
+      },
+      {
+        "text": "B 革蘭氏陽性菌細胞壁具較多的肽聚醣（peptidoglycan），革蘭氏陰性菌則較少",
+        "images": []
+      },
+      {
+        "text": "C 革蘭氏陽性菌具外毒素（exotoxin），革蘭氏陰性菌則否",
+        "images": []
+      },
+      {
+        "text": "D 革蘭氏陽性菌細胞壁具較多的脂多醣（lipopolysaccharide），革蘭氏陰性菌則較少",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. In E. coli mating system, Hfr type could be a genetic donor and F-could be a genetic recipient. After the mating between Hfr and F-type cells, the F-recipient ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A becomes Hfr",
+        "images": []
+      },
+      {
+        "text": "B becomes H+",
+        "images": []
+      },
+      {
+        "text": "C becomes F-",
+        "images": []
+      },
+      {
+        "text": "D gets episome",
+        "images": []
+      },
+      {
+        "text": "E remains F-",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 革蘭氏陽性菌（gram-positive bacteria）細胞壁最常見的成分為",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A peptidoglycan",
+        "images": []
+      },
+      {
+        "text": "B protein",
+        "images": []
+      },
+      {
+        "text": "C lignin",
+        "images": []
+      },
+      {
+        "text": "D lipopolysaccharide",
+        "images": []
+      },
+      {
+        "text": "E cellulose",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 原核生物（prokaryotes）常從鄰近微生物獲取基因的方法稱為平行基因轉移（horizontal gene transfer），關於其敍述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 研究顯示平行基因轉移是驅動原核生物演化的主力",
+        "images": []
+      },
+      {
+        "text": "B 是細菌能對抗生素產生抗藥性的原因之一",
+        "images": []
+      },
+      {
+        "text": "C 由平行基因轉移而來的新基因演化速度較快",
+        "images": []
+      },
+      {
+        "text": "D 細菌即使在面臨強大的環境壓力時亦不會出現平行基因轉移",
+        "images": []
+      },
+      {
+        "text": "E 原核生物藉平行基因轉移分享其他微生物已擁有之適應成果，可使其能快速的在新環境立足",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 目前傳染病仍是全球第二大死亡因子，細菌感染是主要的原因之一，許多病菌已演化出抵抗大多數抗生素的特性，因此科學家針對病菌與宿主間的交互作用進行研究，發展出有別於傳統抗生素療法對抗病菌的治療策略，下列何者不是其中一項？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 阻斷宿主細胞上細菌黏附因子",
+        "images": []
+      },
+      {
+        "text": "B 直接破壞細菌細胞",
+        "images": []
+      },
+      {
+        "text": "C 干擾細菌之間的溝通",
+        "images": []
+      },
+      {
+        "text": "D 加強人類免疫細胞對抗病茵的能力",
+        "images": []
+      },
+      {
+        "text": "E 干擾細菌的分泌或注射系統（如第三型分泌系統T3SS）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. The nitrogen-fixing activity of cyanobacteria takes place in",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A thylakoid",
+        "images": []
+      },
+      {
+        "text": "B heterocyte",
+        "images": []
+      },
+      {
+        "text": "C chloroplast",
+        "images": []
+      },
+      {
+        "text": "D plasmid",
+        "images": []
+      },
+      {
+        "text": "E endospore",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 有關細菌抗藥性形成的機制，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 藥物作用細菌族群產生瓶頸效應（bottleneck）而導致抗藥性",
+        "images": []
+      },
+      {
+        "text": "B 藥物作用細菌族群主動進行突變產生抗藥性",
+        "images": []
+      },
+      {
+        "text": "C 藥物作用篩選得到少數具抗藥性細菌進行生長繁殖",
+        "images": []
+      },
+      {
+        "text": "D 未按醫囑用藥造成細菌族群未被全數殺死進而產生抗藥性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 大部分的動、植物細胞的直徑在哪一個範圍？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 10－100 nm",
+        "images": []
+      },
+      {
+        "text": "B 100 nm－1μm",
+        "images": []
+      },
+      {
+        "text": "C ～1μm",
+        "images": []
+      },
+      {
+        "text": "D 100μm－1 mm",
+        "images": []
+      },
+      {
+        "text": "E 10－100 μm",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. ________ are toxic proteins secreted by pathogenic bacteria, and ________ are toxic components of the outer membrane of gram-negative bacteria.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Endotoxins; parasites",
+        "images": []
+      },
+      {
+        "text": "B Endotoxins; botulinum toxins",
+        "images": []
+      },
+      {
+        "text": "C Exotoxins; enterotoxins",
+        "images": []
+      },
+      {
+        "text": "D Exotoxins; endotoxins",
+        "images": []
+      },
+      {
+        "text": "E Endotoxins; enterotoxins",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. Which of the following groups is matched with its members?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Proteobacteria-diverse gram-positive bacteria.",
+        "images": []
+      },
+      {
+        "text": "B Chlamydias-extracellular parasites.",
+        "images": []
+      },
+      {
+        "text": "C Spirochetes-helical heterotrophs.",
+        "images": []
+      },
+      {
+        "text": "D Gram-positive bacteria-diverse pathogens whose endotoxins are components of their embrane.",
+        "images": []
+      },
+      {
+        "text": "E Cyanobacteria-solitiary and no photosynthesis.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 牛的共生菌大都位於：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大腸",
+        "images": []
+      },
+      {
+        "text": "B 肝臟",
+        "images": []
+      },
+      {
+        "text": "C 小腸",
+        "images": []
+      },
+      {
+        "text": "D 胃",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. A polysaccharide sticky layer which covers the bacteria surface and can resist phagocytosis",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A outer membrane",
+        "images": []
+      },
+      {
+        "text": "B capsule",
+        "images": []
+      },
+      {
+        "text": "C envelope",
+        "images": []
+      },
+      {
+        "text": "D cell wall",
+        "images": []
+      },
+      {
+        "text": "E pili",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 廣效性抗生素可抑制大多數腸道細菌的生長，在沒有採取任何措施來對抗腸道細菌減少的情況下，患者在接受廣效性抗生素治療後最有可能出現下列何種現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 抗生素耐藥性",
+        "images": []
+      },
+      {
+        "text": "B 無法合成肽聚醣",
+        "images": []
+      },
+      {
+        "text": "C 缺乏某些維生素和營養素",
+        "images": []
+      },
+      {
+        "text": "D 無法排出二氧化碳",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 有些細菌可被用來分解環境的污染物被稱為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A reproduction",
+        "images": []
+      },
+      {
+        "text": "B transformation",
+        "images": []
+      },
+      {
+        "text": "C bioremediation",
+        "images": []
+      },
+      {
+        "text": "D symbiotic",
+        "images": []
+      },
+      {
+        "text": "E hybridization",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. Which of the following about gram-positive and gram-negative bacteria is True?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A gram-negative bacteria have more peptidoglycan in their cell walls.",
+        "images": []
+      },
+      {
+        "text": "B gram-positive bacteria have fimbriae but gram-negative bacteria do not.",
+        "images": []
+      },
+      {
+        "text": "C certain bacteria are not gram-positive or gram-negative.",
+        "images": []
+      },
+      {
+        "text": "D only gram-negative bacteria can form capsules.",
+        "images": []
+      },
+      {
+        "text": "E endotoxin is existed in Gram-positive bacteria",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

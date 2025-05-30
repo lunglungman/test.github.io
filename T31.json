@@ -1,0 +1,1420 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列有關組蛋白（histone）的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 組蛋白的化學修飾（chemical modification）包括：甲基化（methylation）、乙醯化（acetylation）、磷酸化（phosphorylation）、泛素化（ubiquitination）等",
+        "images": []
+      },
+      {
+        "text": "B 甲基化的組蛋白通常出現在細胞核染色質（chromatin）較濃縮的區域",
+        "images": []
+      },
+      {
+        "text": "C 組蛋白密碼（histone code）的主要功能是調控蛋白質的轉譯（translation）",
+        "images": []
+      },
+      {
+        "text": "D 乙醯化的組蛋白不易被DNA纏繞，有助基因的表現（gene expression）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 缺乏 telomerase 的真核細胞：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 無法修補thymine dimers",
+        "images": []
+      },
+      {
+        "text": "B 可能導致癌化",
+        "images": []
+      },
+      {
+        "text": "C 造成染色體長度變短",
+        "images": []
+      },
+      {
+        "text": "D 產生Okazaki fragments",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 在大腸桿菌（E. coli）中有一突變基因稱為 dnaB，此突變改變了解旋酶（helicase）之作用。以上基因突變最有可能造成下列何種結果？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 複製時只有 RNA聚合酶（RNA polymerase）單獨作用",
+        "images": []
+      },
+      {
+        "text": "B 複製時需要其他來源之 DNA模板",
+        "images": []
+      },
+      {
+        "text": "C 無法形成複製叉（replication fork）",
+        "images": []
+      },
+      {
+        "text": "D 將發生其他校正（proofreading）機制",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 人類染色體複製需要端粒酶（Telomerase）。這是因為它可以",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 修補兩段新合成的去氧核醣核酸（DNA）間的空隙（Gap）",
+        "images": []
+      },
+      {
+        "text": "B 用來確定DNA 複製終點",
+        "images": []
+      },
+      {
+        "text": "C 修補染色體DNA 複製時在尾端（End）留下的缺失",
+        "images": []
+      },
+      {
+        "text": "D 修補染色體DNA 複製時在領先股（Leading strand）留下的空隙",
+        "images": []
+      },
+      {
+        "text": "E 用來移除核醣核酸引子（RNA primer）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 有關染色體末端的端粒（telomere）和端粒酶（telomerase）的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 體細胞分裂 DNA 複製後，染色體端粒會被端粒酶切除",
+        "images": []
+      },
+      {
+        "text": "B 生殖細胞中端粒會因端粒酶表現而較體細胞短",
+        "images": []
+      },
+      {
+        "text": "C 一般體細胞分裂 DNA 複製後染色體端粒會增長",
+        "images": []
+      },
+      {
+        "text": "D 一般體細胞不會表現端粒酶",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 如果一個DNA樣品含有百分之十（10%）的胸腺嘧啶（thymine），請問此樣品內含有多少百分比的鳥糞嘌呤（guanine）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 40%",
+        "images": []
+      },
+      {
+        "text": "B 90%",
+        "images": []
+      },
+      {
+        "text": "C 20%",
+        "images": []
+      },
+      {
+        "text": "D 資訊不足，無法計算",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 真核細胞缺少telomerase時會發生何事：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Okazaki fragment會變短",
+        "images": []
+      },
+      {
+        "text": "B 無法校正配對錯誤的核酸序列",
+        "images": []
+      },
+      {
+        "text": "C 細胞比較容易癌化",
+        "images": []
+      },
+      {
+        "text": "D CNA複製後，染色體長度會變短",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 在雙股 DNA 複製時，一股為領先股（leading strand）一股為延遲股（lagging strand），有些酵素或蛋白質在兩股合成時皆會使用會，有些只會用於某一股合成時。請問下列哪一種[酵素]和在[某一股]合成時使用的配對是最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 引子酶（primase）-領先股",
+        "images": []
+      },
+      {
+        "text": "B CNA解旋酶（DNA helicase）-領先股",
+        "images": []
+      },
+      {
+        "text": "C CNA接合酶（DNA ligase）-延遲股",
+        "images": []
+      },
+      {
+        "text": "D CNA拓樸酶（DNA topoisomerase）-延遲股",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. The elongation of the leading strand during DNA synthesis",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Cepends on the action of DNA polymerase.",
+        "images": []
+      },
+      {
+        "text": "B occurs in the 3’→5’direction.",
+        "images": []
+      },
+      {
+        "text": "C produces Okazaki fragments.",
+        "images": []
+      },
+      {
+        "text": "D progresses away from the replication fork.",
+        "images": []
+      },
+      {
+        "text": "E Cependents on the activity of helicase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 當T2噬菌體（T2 phage）感染細菌時，並且在含有放射性磷（radioactive phosphorus）的環境中製造了許多的病毒（virus），請問會導致下列何種結果？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 病毒的DNA含有放射性",
+        "images": []
+      },
+      {
+        "text": "B 病毒的蛋白質含有放射性",
+        "images": []
+      },
+      {
+        "text": "C 細菌的蛋白質含有放射性",
+        "images": []
+      },
+      {
+        "text": "D B和C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列何種蛋白質可在參與細菌DNA複製時，防止已解開雙股螺旋鏈結的DNA再配對（re-pairing），以利DNA複製的進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A CNA聚合酶（DNA polymerase）",
+        "images": []
+      },
+      {
+        "text": "B 單股結合蛋白質（single-strand binding proteins）",
+        "images": []
+      },
+      {
+        "text": "C 引子酶（primase）",
+        "images": []
+      },
+      {
+        "text": "D 接合酶（ligase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 第一個證實DNA 為遺傳物質的實驗是以何者為材料：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肺炎鏈球菌",
+        "images": []
+      },
+      {
+        "text": "B 噬菌體",
+        "images": []
+      },
+      {
+        "text": "C 果蠅",
+        "images": []
+      },
+      {
+        "text": "D 豌豆",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列何者使用放射線同位素標定法，以T2 噬菌體為研究材料，確認DNA 為遺傳物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Beadle 和Tatum",
+        "images": []
+      },
+      {
+        "text": "B Gierer 和Schramm",
+        "images": []
+      },
+      {
+        "text": "C Meselson 和Stahl",
+        "images": []
+      },
+      {
+        "text": "D Jacob 和Monod",
+        "images": []
+      },
+      {
+        "text": "E Hershey 和Chase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. The spontaneous loss of amino groups from adenine in DNA results in hypoxanthine, an uncommon base, opposite thymine. What combination of proteins could repair such damage?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A telomerase, primase, DNA polymerase",
+        "images": []
+      },
+      {
+        "text": "B telomerase, helicase, single - strand binding protein",
+        "images": []
+      },
+      {
+        "text": "C nuclease, DNA polymerase, DNA ligase",
+        "images": []
+      },
+      {
+        "text": "D CNA ligase, replication fork proteins, adenylyl cyclase",
+        "images": []
+      },
+      {
+        "text": "E helicase, RNA primer, Okazaki fragments",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列何種蛋白質分子不參與原核細胞 DNA 複製作用 （replication） 之進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A RNA 引子酶 （primase）",
+        "images": []
+      },
+      {
+        "text": "B RNA 聚合酶 II （RNA polymerase II）",
+        "images": []
+      },
+      {
+        "text": "C CNA 聚合酶 III （DNA polymerase III）",
+        "images": []
+      },
+      {
+        "text": "D 解旋酶 （helicase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. Eukaryotic telomeres replicate differently than the rest of the chromosome. Which of the following is the cause?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A CNA polymerase that cannot replicate the leading strand template to its 5' end.",
+        "images": []
+      },
+      {
+        "text": "B The evolution of telomerase enzyme.",
+        "images": []
+      },
+      {
+        "text": "C Gaps left at the 3' end of the lagging strand because of the need for a 5' onto which nucleotides can attach.",
+        "images": []
+      },
+      {
+        "text": "D Gaps left at the 3' end of the lagging strand because of the need for a primer.",
+        "images": []
+      },
+      {
+        "text": "E Gaps left at the 5' end of the lagging strand because of the need for a 3' onto which nucleotides can attach.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 真核細胞若缺乏端粒酶 （telomerase）時，會產生下列何種情況？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 每加上一段Okazaki fragment，即額外插入一個核苷酸",
+        "images": []
+      },
+      {
+        "text": "B 無法校正DNA 複製中配對錯誤的核苷酸",
+        "images": []
+      },
+      {
+        "text": "C 隨著每一次的複製週期，染色體的長度會逐漸縮短",
+        "images": []
+      },
+      {
+        "text": "D 容易轉變為癌細胞",
+        "images": []
+      },
+      {
+        "text": "E CNA 片段無法接",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列有關組蛋白（histones）、去氧核醣核酸（DNA）的化學修飾與基因表現與否的配對關係，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A CNA甲基化、histones去乙醯化，DNA濃縮，利於基因表現",
+        "images": []
+      },
+      {
+        "text": "B CNA去甲基化、histones乙醯化，DNA鬆散，利於基因表現",
+        "images": []
+      },
+      {
+        "text": "C histones甲基化、DNA去乙醯化，DNA濃縮，不利於基因表現",
+        "images": []
+      },
+      {
+        "text": "D histones去甲基化、DNA乙醯化，DNA鬆散，不利於基因表現",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 在癌細胞中，某種蛋白質會被活化來修補染色體在複製過程中所縮短的兩端序列，此種蛋白質稱為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A BRCA protein",
+        "images": []
+      },
+      {
+        "text": "B Ras protein",
+        "images": []
+      },
+      {
+        "text": "C Telomerase",
+        "images": []
+      },
+      {
+        "text": "D p53 protein",
+        "images": []
+      },
+      {
+        "text": "E mitogen activating kinase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. Which of the following is (are) the mechanism(s) of epigenetic varivations?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A histone acetylation",
+        "images": []
+      },
+      {
+        "text": "B single nucleotide substitution",
+        "images": []
+      },
+      {
+        "text": "C CNA methylation",
+        "images": []
+      },
+      {
+        "text": "D Both A and C",
+        "images": []
+      },
+      {
+        "text": "E All of A, B, and C",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 將修復胸腺嘧啶二聚體（thymine dimmer）的酵素依參與反應順序排序：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核酸外切酶（exonuclease），DNA聚合酶III （DNA Polymerase III），RNA導引酶（RNA primase）",
+        "images": []
+      },
+      {
+        "text": "B 解螺旋酶（helicase），DNA polymerase I，DNA接合酶 （DNA ligase）",
+        "images": []
+      },
+      {
+        "text": "C CNA ligase，核酸酶（nuclease），helicase",
+        "images": []
+      },
+      {
+        "text": "D CNA polymerase I，DNA polymerase III，DNA ligase",
+        "images": []
+      },
+      {
+        "text": "E 核酸內切酶 （endonuclease），DNA聚合酶 I （DNA polymerase I），DNA ligase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 下列何種酵素可以在DNA複製時將其引子（primer）RNA分解，並由岡崎片段（Okazaki fragment）的3'端加入核苷酸配對？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 螺旋酶（helicase）",
+        "images": []
+      },
+      {
+        "text": "B CNA 聚合酶III （DNA polymerase III）",
+        "images": []
+      },
+      {
+        "text": "C RNA 引子酶（primase）",
+        "images": []
+      },
+      {
+        "text": "D CNA 聚合酶I （DNA polymerase I）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 關於端粒（telomere）的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 現在認為端粒變短與老化有關",
+        "images": []
+      },
+      {
+        "text": "B 端粒會隨每一次的細胞分裂而變長",
+        "images": []
+      },
+      {
+        "text": "C 當染色體的端粒短到某一程度，細胞將不再分裂",
+        "images": []
+      },
+      {
+        "text": "D 端粒位於染色體末端，是由「TTAGGG」等鹼基重複排列數千次的結構",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 有關染色質（chromatin）的相關敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 常染色質（euchromatin）是高度緊密結構",
+        "images": []
+      },
+      {
+        "text": "B 端粒和中節常觀察到常染色質結構",
+        "images": []
+      },
+      {
+        "text": "C 在光學顯微鏡下無法觀察異染色質（heterochromatin）",
+        "images": []
+      },
+      {
+        "text": "D 異染色質區域基因不轉錄",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 紫外線破壞DNA 結構，主要是因為造成下列何種現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 烷基化DNA",
+        "images": []
+      },
+      {
+        "text": "B 形成腺嘌呤二聚體",
+        "images": []
+      },
+      {
+        "text": "C 形成胸腺嘧啶二聚體",
+        "images": []
+      },
+      {
+        "text": "D 去嘌呤化DNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 當細胞照射過量 UV 導致 thymine dimer 形成時需要那些酵素才能讓其恢復正常：(1) telomerase(2) DNA polymerase(3) nuclease(4) DNA ligase",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (1)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. In his work with pneumonia - causing bacteria and mice, Griffith found that _______",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A the protein coat from pathogenic cells was able to transform nonpathogenic cells.",
+        "images": []
+      },
+      {
+        "text": "B some substance from pathogenic cells was transferred to nonpathogenic cells, making them pathogenic.",
+        "images": []
+      },
+      {
+        "text": "C the polysaccharide coat of bacteria caused pneumonia.",
+        "images": []
+      },
+      {
+        "text": "D heat - killed pathogenic cells caused pneumonia.",
+        "images": []
+      },
+      {
+        "text": "E the third and fourth answers are correct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 若分析某生物發現胞嘧啶（cytosine）占該生物體 DNA 樣本中核苷酸的 38%。請問該樣品中大約有多少百分比的核苷酸是胸腺嘧啶（thymine）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 62%",
+        "images": []
+      },
+      {
+        "text": "B 12%",
+        "images": []
+      },
+      {
+        "text": "C 24%",
+        "images": []
+      },
+      {
+        "text": "D 31%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. In E. coli, there is a mutation in a gene called dnaB that alters the helicase that normally acts at the origin. Which of the following would you expect as a result of this mutation?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Single-strand binding protein could not bind to the unwound parental strands.",
+        "images": []
+      },
+      {
+        "text": "B Replication fork will be formed.",
+        "images": []
+      },
+      {
+        "text": "C The DNA will supercoil.",
+        "images": []
+      },
+      {
+        "text": "D Replication will occur via RNA polymerase alone.",
+        "images": []
+      },
+      {
+        "text": "E Replication will require a DNA template from another source.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. DNA helicase的功能為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 合成RAN primer",
+        "images": []
+      },
+      {
+        "text": "B 接合Okazaki fragment",
+        "images": []
+      },
+      {
+        "text": "C 加長DNA序列",
+        "images": []
+      },
+      {
+        "text": "D 於replication fork處催化DNA雙股鬆開",
+        "images": []
+      },
+      {
+        "text": "E 合成DNA ligase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 下列哪位科學家拍攝的DNA之X射線照片幫助Watson及Crick解出DNA的分子結構？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Konrad Z. Lorenz",
+        "images": []
+      },
+      {
+        "text": "B Jonas Salk",
+        "images": []
+      },
+      {
+        "text": "C Linus Pauling",
+        "images": []
+      },
+      {
+        "text": "D Barbara McClintock",
+        "images": []
+      },
+      {
+        "text": "E Rosalind Franklin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 如果一DNA檢體由20% guanine組成，在此檢體中adenine的百分比為？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 15",
+        "images": []
+      },
+      {
+        "text": "B 20",
+        "images": []
+      },
+      {
+        "text": "C 30",
+        "images": []
+      },
+      {
+        "text": "D 80",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 一般真核細胞的端粒酶（telomerase）缺乏活性，請問這會造成下列何種影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞在DNA複製時無法判定和校正配對錯誤的核苷酸",
+        "images": []
+      },
+      {
+        "text": "B 細胞每經一次DNA複製時其染色體長度會逐漸變短",
+        "images": []
+      },
+      {
+        "text": "C CNA複製時，其遲滯股（lagging strand）不能連接岡崎片段（Okazaki fragment）",
+        "images": []
+      },
+      {
+        "text": "D 細胞有極大潛能變成癌細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 由新發現的病毒中分離出DNA分子，其鹼基（base）組成為32% A、17% C、26% G、25% T，以下說明哪個是正確的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 此病毒易有嘌呤與嘌呤（purine）或嘧啶與嘧啶（pyrimidine）的配對",
+        "images": []
+      },
+      {
+        "text": "B 此病毒基因組是環形不是線型的",
+        "images": []
+      },
+      {
+        "text": "C 在分離DNA的過程中有些T轉換為C",
+        "images": []
+      },
+      {
+        "text": "D 此病毒基因組是單股而不是雙股",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 如果一 DNA 檢體由 15% thymine 組成，在此檢體中guanine 的百分比為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 15",
+        "images": []
+      },
+      {
+        "text": "B 25",
+        "images": []
+      },
+      {
+        "text": "C 35",
+        "images": []
+      },
+      {
+        "text": "D 85",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 甲、鹼基配對 乙、兩股鬆開 丙、DNA 聚合酶催化 丁、原有兩股為模板，請問：DNA 複製的順序為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乙甲丁丙",
+        "images": []
+      },
+      {
+        "text": "B 乙丁甲丙",
+        "images": []
+      },
+      {
+        "text": "C 甲乙丁丙",
+        "images": []
+      },
+      {
+        "text": "D 丁甲乙丙",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 如果一DNA檢體由20% thymine組成，在此檢體中guanine的百分比為何?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 15",
+        "images": []
+      },
+      {
+        "text": "B 25",
+        "images": []
+      },
+      {
+        "text": "C 30",
+        "images": []
+      },
+      {
+        "text": "D 85",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 下列各基因體區域中，何者基因表現最活躍？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 中節（Centromere）DNA",
+        "images": []
+      },
+      {
+        "text": "B 異染色質（Heterochromatin）DNA",
+        "images": []
+      },
+      {
+        "text": "C 端粒（Telomere）DNA",
+        "images": []
+      },
+      {
+        "text": "D 同染色質（Homochromatin）DNA",
+        "images": []
+      },
+      {
+        "text": "E 常染色質（Euchromatin）DNA",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 請依核染色質（chromatin）的結構層級 由低到高排序：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核仁小體（nucleosome），蛋白形成染色絲（chromatin fiber），環狀域（looped domain）",
+        "images": []
+      },
+      {
+        "text": "B 環狀域（looped domain），蛋白形成染色絲（chromatin fiber），核仁小體（nucleosome）",
+        "images": []
+      },
+      {
+        "text": "C 環狀域（looped domain），核仁小體（nucleosome），蛋白形成染色絲（chromatin fiber）",
+        "images": []
+      },
+      {
+        "text": "D 核仁小體（nucleosome），環狀域（looped domain），蛋白形成染色絲（chromatin fiber）",
+        "images": []
+      },
+      {
+        "text": "E 蛋白形成染色絲（chromatin fiber），核仁小體（nucleosome），環狀域（looped domain）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 結晶DNA由X光繞射後可以得知其結構特性，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雙螺旋的直徑",
+        "images": []
+      },
+      {
+        "text": "B 複製速率",
+        "images": []
+      },
+      {
+        "text": "C 核苷酸序列",
+        "images": []
+      },
+      {
+        "text": "D 鍵結角度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 病人患有色素性乾皮病（xeroderma pigmentosum）易因紫外光照射而罹患皮膚癌，此現象是因為細胞缺乏以下何者之能力？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A CNA複製（DNA replication）的能力",
+        "images": []
+      },
+      {
+        "text": "B 細胞進行有絲分裂（mitosis）的能力",
+        "images": []
+      },
+      {
+        "text": "C 與其他細胞交換DNA的能力",
+        "images": []
+      },
+      {
+        "text": "D 修復胸腺嘧啶雙體（thymine dimers）的能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何者為核苷酸切除修補 （nucleotide excision repair） 時負責切下受損的DNA片段？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A nuclease",
+        "images": []
+      },
+      {
+        "text": "B CNA ligase",
+        "images": []
+      },
+      {
+        "text": "C helicase",
+        "images": []
+      },
+      {
+        "text": "D telomerase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. DNA是去氧核醣核酸成份的聚合大分子，分析一DNA分子含有200個嘌呤和200個嘧啶的含氮鹼基，推測此DNA分子所含有的磷酸雙酯鍵（phosphodiester bond）數目，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 199",
+        "images": []
+      },
+      {
+        "text": "B 200",
+        "images": []
+      },
+      {
+        "text": "C 398",
+        "images": []
+      },
+      {
+        "text": "D 400",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 在DNA半保留複製過程中，將岡崎片段（Okazaki fragments）間進行連接的酵素為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 拓撲異構酶",
+        "images": []
+      },
+      {
+        "text": "B CNA 解旋酶",
+        "images": []
+      },
+      {
+        "text": "C 引導酶",
+        "images": []
+      },
+      {
+        "text": "D CNA 連接酶",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 下列何者整體分子結構最小？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Nucleic acid",
+        "images": []
+      },
+      {
+        "text": "B Nucleotide",
+        "images": []
+      },
+      {
+        "text": "C Nucleosome",
+        "images": []
+      },
+      {
+        "text": "D Nucleoside",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 關於核酸的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 由核苷酸（nucleotide）組成",
+        "images": []
+      },
+      {
+        "text": "B CNA 通常以單股形式存在",
+        "images": []
+      },
+      {
+        "text": "C RNA 為直鏈狀，無立體結構",
+        "images": []
+      },
+      {
+        "text": "D 核酸分子為電中性",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. Which of the following is true of chromatin?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Heterochromatin has more acetyl groups on the histones.",
+        "images": []
+      },
+      {
+        "text": "B Heterochromatin has fewer methyl groups on the DNA.",
+        "images": []
+      },
+      {
+        "text": "C Active genes are not bound by nucleosomes.",
+        "images": []
+      },
+      {
+        "text": "D Sequence-specific DNA binding proteins can only activate transcription.",
+        "images": []
+      },
+      {
+        "text": "E The chromatin structure on a particular gene may be different in different cells.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 當DNA 形成10 nm 和30 nm 纖維狀染色質結構時，染色質的結構要如何改變，才能使染色質解除構形 （Conformation）以進行基因表現？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A CNA 必須以剪接體 （Spliceosome）切割以進行基因轉錄",
+        "images": []
+      },
+      {
+        "text": "B 必須以組蛋白 （Histone）H1 進行DNA 超螺旋結構",
+        "images": []
+      },
+      {
+        "text": "C 核苷酸要切除並重組",
+        "images": []
+      },
+      {
+        "text": "D 組蛋白要進行乙醯化 （Acetylation） 和磷酸化 （Phosphorylation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 在分子生物學發展過程，下列哪一學者研究結果，最早提出不論何種生物來源的DNA，其adenine 的數量大致等於thymine，guanine 的數量亦大約等於cytosine？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Erwin Chargaff",
+        "images": []
+      },
+      {
+        "text": "B Frederick Griffith",
+        "images": []
+      },
+      {
+        "text": "C Alfred Hershey 和Martha Chase",
+        "images": []
+      },
+      {
+        "text": "D Oswald Avery、Maclyn McCarty 和Colin MacLeod",
+        "images": []
+      },
+      {
+        "text": "E Matthew Meselson 和Franklin Stahl",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. DNA纖維與蛋白質纏繞的結構稱為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 核仁",
+        "images": []
+      },
+      {
+        "text": "B 染色體",
+        "images": []
+      },
+      {
+        "text": "C 染色質絲",
+        "images": []
+      },
+      {
+        "text": "D 溶小體",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

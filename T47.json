@@ -1,0 +1,1438 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列關於光合作用的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 非循環電子傳遞鏈有PSI、PSII參與，而循環電子傳遞鏈只有PSII參與",
+        "images": []
+      },
+      {
+        "text": "B 光反應可產生ATP、NADH、Pyruvate，可供暗反應合成糖類（Sugar）",
+        "images": []
+      },
+      {
+        "text": "C 卡氏循環合成1個葡萄糖分子需耗6個CO2分子、18個ATP分子和12個NADPH分子",
+        "images": []
+      },
+      {
+        "text": "D C4植物和CAM植物皆利用葉肉細胞進行固碳，差別在於C4植物的氣孔在白天開啟；CAM植物則是在夜晚開啟氣孔",
+        "images": []
+      },
+      {
+        "text": "E 光合作用中黃光和藍光是綠色植物所吸收光能的主要波段",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 有關植物進行光合作用的過程中，葉綠體的光反應產生ATP及NADPH的順序，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 太陽光 → 光系統I（photosystem I） → ATP → 光系統II（photosystem II） → NADPH",
+        "images": []
+      },
+      {
+        "text": "B 太陽光 → 光系統II → ATP → 光系統I → NADPH",
+        "images": []
+      },
+      {
+        "text": "C 太陽光 → 光系統I → NADPH → 光系統II → ATP",
+        "images": []
+      },
+      {
+        "text": "D 太陽光 → 光系統II → NADPH → 光系統I → ATP",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. Which of the following statements about photosynthesis is correct?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The splitting of water yields molecular carbon dioxide as a by-product.",
+        "images": []
+      },
+      {
+        "text": "B The electron vacancies in P680+are filled by electrons derived from water.",
+        "images": []
+      },
+      {
+        "text": "C The ATP required for the Calvin cycle comes from reactions initiated in photosystem I.",
+        "images": []
+      },
+      {
+        "text": "D Photosystem I passes electrons to the thylakoid membrane electron transport chain.",
+        "images": []
+      },
+      {
+        "text": "E Cyclic electron flow also supplements the supply of ATP and NADPH.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 關於植物光合作用，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 卡爾文循環（Calvin cycle）僅在黑暗的狀態下具有固定二氧化碳的能力，又稱為暗反應（dark reactions）",
+        "images": []
+      },
+      {
+        "text": "B 由光線而來的光子，可以將電子提升到更高的能量階層",
+        "images": []
+      },
+      {
+        "text": "C 光合作用的效率，在綠光照射下遠高於紅光",
+        "images": []
+      },
+      {
+        "text": "D 在炎熱和乾旱的環境，C3植物因光呼吸（photorespiration）達到最大值而達到產生糖類的最大效率",
+        "images": []
+      },
+      {
+        "text": "E 在光合系統I和II皆可以吸收光線能量和分解水分子以產生氧氣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 若大氣中的二氧化碳濃度增加兩倍甚至更多，在忽視氣候變遷的情況下，對植物會有甚麼影響？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A C3植物生長更快速，C4植物生長變慢",
+        "images": []
+      },
+      {
+        "text": "B C3植物生長更快速，C4植物影響較小",
+        "images": []
+      },
+      {
+        "text": "C 所有植物光合作用速度增加",
+        "images": []
+      },
+      {
+        "text": "D 由於二氧化碳濃度不會限制植物生長狀況，因此所有植物不受影響",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 請問光合磷酸化作用（photophosphorylation）的機制和以下何種選項最相似？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 醣原酵解（glycolysis）中受質的磷酸化",
+        "images": []
+      },
+      {
+        "text": "B 細胞呼吸作用中的氧化磷酸化",
+        "images": []
+      },
+      {
+        "text": "C 卡爾文循環（Calvin cycle）",
+        "images": []
+      },
+      {
+        "text": "D 固碳作用（carbon fixation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. Which of the following sequences correctly represents the flow of electrons during photosynthesis?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A NADPH → O2→ CO2",
+        "images": []
+      },
+      {
+        "text": "B NADPH → electron transport chain → O2",
+        "images": []
+      },
+      {
+        "text": "C H2O → NADPH → Calvin cycle",
+        "images": []
+      },
+      {
+        "text": "D H2O → photosystem I → photosystem II",
+        "images": []
+      },
+      {
+        "text": "E H2O → mitochondria → NADPH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 植物光合作用進行Calvin cycle時需要下列何者？(1)氧(2)二氧化碳(3)NADPH(4)葡萄糖(5)水(6)ATP",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (2)(3)(6)",
+        "images": []
+      },
+      {
+        "text": "B (1)(5)(6)",
+        "images": []
+      },
+      {
+        "text": "C (2)(4)(6)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)(5)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 植物進行光合作用時，下列何者是光反應中非循環式光磷酸化反應（noncyclic photophosphorylation）的產物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ATP和P700",
+        "images": []
+      },
+      {
+        "text": "B ATP和NADPH",
+        "images": []
+      },
+      {
+        "text": "C ADP和NADP",
+        "images": []
+      },
+      {
+        "text": "D P700和P680",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 關於光合作用“the Calvin cycle”之敘述，下列何者錯誤：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在C3植物中用來固定CO2的為Rubisco",
+        "images": []
+      },
+      {
+        "text": "B G3P為其產物",
+        "images": []
+      },
+      {
+        "text": "C 在此過程中消耗的ATP及NADPH數目一樣",
+        "images": []
+      },
+      {
+        "text": "D 在此過程中產生的大部分G3P會重新被利用轉變為RuBP（Ribulose bisphosphate）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列何者為CAM植物與C4植物光合作用相似之處？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 二者皆不須經由Calvin cycle製造糖類",
+        "images": []
+      },
+      {
+        "text": "B 二者皆不採用rubisco酵素來進行固碳作用的第一個步驟",
+        "images": []
+      },
+      {
+        "text": "C 二者的氣孔在一般情況下白天是關閉的",
+        "images": []
+      },
+      {
+        "text": "D 二者的葉綠體中缺乏葉綠餅（grana）",
+        "images": []
+      },
+      {
+        "text": "E 二者皆在夜晚製造糖類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. The alternative pathways of photosynthesis using the C4or CAM systems are said to be compromises. What is the reason?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A CAM plants allow more water loss, while C4plants allow less CO2into the plant.",
+        "images": []
+      },
+      {
+        "text": "B C4plants allow less water loss but CAM plants allow more water loss.",
+        "images": []
+      },
+      {
+        "text": "C C4and CAM plants both minimize photorespiration and optimizes the Calvin cycle.",
+        "images": []
+      },
+      {
+        "text": "D C4and CAM plants minimize both water loss and rate of photosynthesis.",
+        "images": []
+      },
+      {
+        "text": "E C4plants compromises on water loss and CAM compromises on photorespiration.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 有關真核細胞進行細胞呼吸作用（cellular respiration）與植物細胞進行光合作用（photosynthesis）中的光反應（lightreactions）過程，下列何者在兩過程皆有進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 電子傳遞鏈（electron transport chain）",
+        "images": []
+      },
+      {
+        "text": "B 乳酸發酵（lactic acid fermentation）",
+        "images": []
+      },
+      {
+        "text": "C 糖解作用（glycolysis）",
+        "images": []
+      },
+      {
+        "text": "D 檸檬酸循環（citric acid cycle）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 太陽光譜能量在地球表面上，以藍綠色區段所含能量最多，但光合作用所依賴並非光的總能量而是個別光子之能量及數量，以太陽而言，所發出的光子以紅色較多，而光線經由水過濾後進入水中，水中生物即依所處深度演化出不同的光合作用色素。請問地球上的光合作用色素包含：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉綠素，擅長吸收黃色光",
+        "images": []
+      },
+      {
+        "text": "B 類胡蘿蔔素，吸收近紅外光",
+        "images": []
+      },
+      {
+        "text": "C 藻膽素捕捉綠色和黃色光子",
+        "images": []
+      },
+      {
+        "text": "D 細菌葉綠素捕捉綠色和黃色光子",
+        "images": []
+      },
+      {
+        "text": "E 葉綠素吸收遠紅外光和近紅外光",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列何者最可能為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞呼吸作用（Cellular respiration）的淨產物包括ATP",
+        "images": []
+      },
+      {
+        "text": "B 光合作用（Photosynthesis）的淨產物包括ATP",
+        "images": []
+      },
+      {
+        "text": "C 細胞呼吸作用（Cellular respiration）的淨產物包括氧分子",
+        "images": []
+      },
+      {
+        "text": "D 光合作用（Photosynthesis）的淨產物包括二氧化碳",
+        "images": []
+      },
+      {
+        "text": "E 細胞呼吸作用（Cellular respiration）跟光合作用（Photosynthesis）淨反應都產生能量",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 下列有關光合作用的敘述中，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A H+是光反應在第二光系統（photosystem II）的產物",
+        "images": []
+      },
+      {
+        "text": "B 第一光系統（photosystem I）位在葉綠體的內膜上",
+        "images": []
+      },
+      {
+        "text": "C 維管束鞘細胞（bundle sheath）可見於CAM植物",
+        "images": []
+      },
+      {
+        "text": "D 循環式電子流（cyclic electron pathway）的產物是NADPH",
+        "images": []
+      },
+      {
+        "text": "E 在卡爾文循環（Calvin cycle）中，負責固定二氧化碳的是1,5-二磷酸核酮糖羧化激酶（ribulose-1,5-bisphosphate carboxykinase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 有氧呼吸不包括下列哪個過程？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 醣解（glycolysis）",
+        "images": []
+      },
+      {
+        "text": "B 克氏循環（Krebs cycle）",
+        "images": []
+      },
+      {
+        "text": "C 卡爾文循環（calvin cycle）",
+        "images": []
+      },
+      {
+        "text": "D 氧化磷酸化（oxidative phosphorylation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 粒線體製造ATP過程中，累積質子（H+）的方式，是經由化學滲透勢（Chemiosmosis）將質子（H+）從粒線體基質（Mitochondrial matrix）運輸至內膜間隙（Intermembrane space）。而葉綠體製造ATP的過程中，累積質子（H+）的流動方向為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 從葉綠體基質（Stroma）運輸至第二光合作用系統（Photosystem II）",
+        "images": []
+      },
+      {
+        "text": "B 從葉綠體基質至類囊體間隙（Thylakoid space）",
+        "images": []
+      },
+      {
+        "text": "C 從內膜間隙（Intermembrane space）至基質（Matrix）",
+        "images": []
+      },
+      {
+        "text": "D 從類囊體間隙至葉綠體基質",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 小陳參加農耕隊，派駐於某非洲國家，當地氣候乾旱，多為沙漠地型，他的任務是教導當地農民種植適合的植物，下列哪一種植物較適合？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 小麥",
+        "images": []
+      },
+      {
+        "text": "B 豌豆",
+        "images": []
+      },
+      {
+        "text": "C 大豆",
+        "images": []
+      },
+      {
+        "text": "D 烟草",
+        "images": []
+      },
+      {
+        "text": "E 鳳梨",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 在光系統（photosystems）中，太陽能量會被光收獲複合體（light harvesting complex）吸收傳遞，最後送至光系統反應中心的哪一物質，進而由此物質將電子傳遞給第一個電子接受者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 類胡蘿蔔素（carotenoids）",
+        "images": []
+      },
+      {
+        "text": "B 水",
+        "images": []
+      },
+      {
+        "text": "C 葉綠素b（chlorophyll b）",
+        "images": []
+      },
+      {
+        "text": "D 葉綠素a（chlorophyll a）",
+        "images": []
+      },
+      {
+        "text": "E 質體醌（plastoquinone）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 關於C4及CAM植物用來合成糖類之方式，下列何者正確：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 後者利用PEP carboxylase有效的固定CO2",
+        "images": []
+      },
+      {
+        "text": "B 後者是利用晚上固定CO2，白天再轉換成糖類",
+        "images": []
+      },
+      {
+        "text": "C 鳳梨屬於前者",
+        "images": []
+      },
+      {
+        "text": "D 後者通常在特化的bundle-sheath cell中轉換糖類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 有關葉綠素a吸收能力最強的光譜波長範圍，下列何種色光最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 藍光和綠光",
+        "images": []
+      },
+      {
+        "text": "B 黃光和紅光",
+        "images": []
+      },
+      {
+        "text": "C 藍光和紅光",
+        "images": []
+      },
+      {
+        "text": "D 黃光和藍光",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 某一光合作用合成有機體含有葉綠體，但卻缺乏光合系統Ⅱ，偵測此有機體缺乏光合系統Ⅱ的最好方法是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 決定是否其葉綠體中含有thylakoids類囊體",
+        "images": []
+      },
+      {
+        "text": "B 在光線照射下是否有氧氣釋放",
+        "images": []
+      },
+      {
+        "text": "C 在黑暗中是否有二氧化碳固定的作用",
+        "images": []
+      },
+      {
+        "text": "D 是否有產生蔗糖或澱粉",
+        "images": []
+      },
+      {
+        "text": "E 進行實驗並偵測其感光反應強度表（action spectrum）的變化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 有關光合作用光反應之環形電子傳遞（cyclic electron flow），下列何者不是其特徵：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 僅有光系統（photosystem）I之參與",
+        "images": []
+      },
+      {
+        "text": "B 會產生ATP及O2",
+        "images": []
+      },
+      {
+        "text": "C 僅發生於細胞內NADPH濃度升高時",
+        "images": []
+      },
+      {
+        "text": "D 不會產生NADPH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 關於植物的光呼吸（photorespiration），下列描述哪一項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 與植物的維管束鞘細胞（bundle sheath cells）有關",
+        "images": []
+      },
+      {
+        "text": "B 是一種景天酸代謝（crassulacean acid metabolism, CAM）過程",
+        "images": []
+      },
+      {
+        "text": "C 與核酮糖二磷酸羧化酶（rubisco）無關",
+        "images": []
+      },
+      {
+        "text": "D 與磷酸烯醇丙酮酸羧化酶（PEP carboxylase）有關",
+        "images": []
+      },
+      {
+        "text": "E 是C3型植物進行光合作用與防止水分過度散失的協調作用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 有關C4植物和CAM植物光合作用的共同點，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 兩者只使用光系統I",
+        "images": []
+      },
+      {
+        "text": "B 兩者不透過卡爾文循環（Calvin cycle）生產糖",
+        "images": []
+      },
+      {
+        "text": "C 兩者不使用核醣糖雙磷酸羧化酶（rubisco）進行固碳作用",
+        "images": []
+      },
+      {
+        "text": "D 兩者皆在黑暗中製糖",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. C4與CAM植物的光合作用適應中，下列敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A CAM植物的氣孔在白天關閉",
+        "images": []
+      },
+      {
+        "text": "B CAM植物的CO2是經由有機酸釋出供卡氏循環利用",
+        "images": []
+      },
+      {
+        "text": "C C4植物的CO2是經由四碳化合物被送進葉肉細胞，在該處釋出CO2供卡氏循環利用",
+        "images": []
+      },
+      {
+        "text": "D 兩者的製造皆需經由卡氏循環",
+        "images": []
+      },
+      {
+        "text": "E 兩者均由核酮羧化酶（rubisco）之外的酵素作為固碳作用的第一步驟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. In mechanism, photophosphorylation is most similar to ________",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A carbon fixation.",
+        "images": []
+      },
+      {
+        "text": "B oxidative phosphorylation in cellular respiration.",
+        "images": []
+      },
+      {
+        "text": "C substrat-level phosphorylation in glycolysis.",
+        "images": []
+      },
+      {
+        "text": "D reduction of NADP+.",
+        "images": []
+      },
+      {
+        "text": "E protein synthesis and modification",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 植物光合作用的終末產物是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 電子傳遞鏈",
+        "images": []
+      },
+      {
+        "text": "B 葡萄糖",
+        "images": []
+      },
+      {
+        "text": "C 二氧化碳",
+        "images": []
+      },
+      {
+        "text": "D ATP",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 有關光線照射與植物反應的敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 太陽照射下來的紅光可被葉綠素與光敏素吸收",
+        "images": []
+      },
+      {
+        "text": "B 光敏素Pr與Pfr的蛋白質之胺基酸序列不同",
+        "images": []
+      },
+      {
+        "text": "C 光敏素主要是利用胺基酸上的環狀官能基進行吸光",
+        "images": []
+      },
+      {
+        "text": "D 造成芽鞘彎曲的向光性（phototropism）主要是黃橘色光",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 下列關於光合作用和呼吸作用的比較何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 皆會產生ATP，皆為異化作用",
+        "images": []
+      },
+      {
+        "text": "B 最終的電子接受者，光合作用為NAD+，呼吸作用為氧氣分子",
+        "images": []
+      },
+      {
+        "text": "C 光呼吸作用是指C3植物在逆境下以呼吸作用取代光合作用的產能過程",
+        "images": []
+      },
+      {
+        "text": "D 光合作用的電子傳遞鏈發生在囊狀體膜（Thylakoid membrane）上；呼吸作用則在粒線體外膜（Mitochondria outer membrane）上",
+        "images": []
+      },
+      {
+        "text": "E 皆有化學滲透（Chemiosmosis）的發生；產生ATP時，氫離子的流向在光合作用是由囊狀體間隔（Thylakoid space）到葉綠體基質（stroma），呼吸作用則是由粒線體膜間隙（intermembrane space）到粒線體基質（matrix）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 會進行光合作用的植物和藻類，一定具有哪一種色素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉綠素a",
+        "images": []
+      },
+      {
+        "text": "B 葉綠素b",
+        "images": []
+      },
+      {
+        "text": "C 葉黃素",
+        "images": []
+      },
+      {
+        "text": "D 類胡蘿蔔素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 假設某種以光合作用生產養分之植物僅具有單一光合作用色素，使得葉片呈現橙紅色，則此色素可以吸收的可見光，下列哪項正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紅色和橙色",
+        "images": []
+      },
+      {
+        "text": "B 藍色和紅色",
+        "images": []
+      },
+      {
+        "text": "C 紫色和橙色",
+        "images": []
+      },
+      {
+        "text": "D 紫色和藍色",
+        "images": []
+      },
+      {
+        "text": "E 橙色和藍色",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 有關葉綠體的次空間結構,下列何處的質子梯度最類似於粒線體膜間隙（mitochondrial intermembrane space）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉綠體膜間隙（chloroplast intermembrane space）",
+        "images": []
+      },
+      {
+        "text": "B 類囊體膜（thylakoid membrane）",
+        "images": []
+      },
+      {
+        "text": "C 類囊體腔（thylakoid space）",
+        "images": []
+      },
+      {
+        "text": "D 基質（stroma）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列何種作用可以在Calvin Cycle進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 固碳作用",
+        "images": []
+      },
+      {
+        "text": "B 消耗ATP",
+        "images": []
+      },
+      {
+        "text": "C 氧化NADPH",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 植物葉片細胞經光合作用合成醣類，會經下列那一作用進入維管束的篩細胞運送至貯藏區？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A H+的共運輸系統（co-transport system）",
+        "images": []
+      },
+      {
+        "text": "B Na+/K+幫浦（pump）",
+        "images": []
+      },
+      {
+        "text": "C Na+幫浦",
+        "images": []
+      },
+      {
+        "text": "D K+幫浦",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. Which of the following statements regarding photosynthesis is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The principal electron carrier in photosynthesis is NADPH; the principal electron carrier in respiration is NADH.",
+        "images": []
+      },
+      {
+        "text": "B The light reactions occur in the stroma, while the Calvin cycle occurs in the thylakoid membranes.",
+        "images": []
+      },
+      {
+        "text": "C The light reactions of photosynthesis can produce ATP, NADPH and O2.",
+        "images": []
+      },
+      {
+        "text": "D Sunlight is a type of electromagnetic energy.",
+        "images": []
+      },
+      {
+        "text": "E Chlorophyll a reflects green light.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 在氣候乾燥且炎熱的環境下，植物採取下列何種策略對能量的獲得較有利，有哪些植物採用這種方式？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A C3pathway，如：大豆、小麥",
+        "images": []
+      },
+      {
+        "text": "B C4pathway，如：玉米、甘蔗",
+        "images": []
+      },
+      {
+        "text": "C C4pathway，如：小麥、玉米",
+        "images": []
+      },
+      {
+        "text": "D CAM pathway，如：馬鈴薯、仙人掌",
+        "images": []
+      },
+      {
+        "text": "E CAM pathway，如：吐根、仙人掌",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 在炎熱乾燥和強日照的天氣下，C4植物為避免光呼吸作用，下列那種細胞會利用PEP carboxylase進行固碳作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 維管束鞘細胞",
+        "images": []
+      },
+      {
+        "text": "B 葉肉細胞",
+        "images": []
+      },
+      {
+        "text": "C 保衛細胞",
+        "images": []
+      },
+      {
+        "text": "D 石細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 依照光合固碳反應的差別，植物可被區分成C3、C4、CAM三種類型，下列有關這三類植物比較的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 這三類植物皆會利用卡式循環，進行碳同化作用",
+        "images": []
+      },
+      {
+        "text": "B 光合固碳反應的產物，只有C4植物會產生4個碳分子的產物，故稱C4植物",
+        "images": []
+      },
+      {
+        "text": "C C4植物固定的CO2進入維管束鞘細胞（bundle sheath cells），供光合作用使用",
+        "images": []
+      },
+      {
+        "text": "D CAM植物氣孔通常於夜間開啟，白天關閉",
+        "images": []
+      },
+      {
+        "text": "E CAM植物吸收的CO2以蘋果酸鹽（malate）貯存在葉肉，以供光合作用使用",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 粒線體內膜（mitochondrial inner membrane）與下列何種構造有最相近的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 革蘭氏陰性菌外膜（Gram-negative bacteria outer membrane）",
+        "images": []
+      },
+      {
+        "text": "B 細胞核膜內膜（nuclear envelope inner membrane）",
+        "images": []
+      },
+      {
+        "text": "C 葉綠體內膜（chloroplast inner membrane）",
+        "images": []
+      },
+      {
+        "text": "D 類囊體膜（thylakoid membrane）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何者是卡爾文循環（Calvin cycle）的主要產物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蔗糖（sucrose）",
+        "images": []
+      },
+      {
+        "text": "B 澱粉（starch）",
+        "images": []
+      },
+      {
+        "text": "C 甘油醛-6-磷酸（glyceraldehyde-6-phosphate）",
+        "images": []
+      },
+      {
+        "text": "D 甘油醛-3-磷酸（glyceraldehyde-3-phosphate）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 當RuBP羧化酶（rubisco）催化氧氣與RuBP反應後產生兩個碳的產物，進而阻斷暗反應的進行，此過程稱為下列何種作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 光磷酸化作用（photophosphorylation）",
+        "images": []
+      },
+      {
+        "text": "B 化學滲透作用（chemiosmosis）",
+        "images": []
+      },
+      {
+        "text": "C 光反應（lightreaction）",
+        "images": []
+      },
+      {
+        "text": "D 光呼吸作用（photorespiration）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 關於C4及CAM植物用來增加糖類合成之方式，下列何者錯誤：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 前者利用PEP carboxylase有效的固定CO2",
+        "images": []
+      },
+      {
+        "text": "B 後者是利用晚上固定CO2，白天再轉換成糖類",
+        "images": []
+      },
+      {
+        "text": "C 甘蔗屬於前者",
+        "images": []
+      },
+      {
+        "text": "D 後者通常在特化的bundle-sheath cell中轉換糖類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 植物細胞進行光合作用過程，所進行的氧化還原（redox）作用將電子（electrons）由________最終移至________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A O2；CO2",
+        "images": []
+      },
+      {
+        "text": "B CO2；O2",
+        "images": []
+      },
+      {
+        "text": "C H2O；CO2",
+        "images": []
+      },
+      {
+        "text": "D H2O；C6H12O6",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 有關可進行光合作用的植物細胞之敘述，下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 不需要葉綠體存在，因為粒線體能提供足夠的能量供應細胞需求",
+        "images": []
+      },
+      {
+        "text": "B 細胞內有葉綠體及粒線體",
+        "images": []
+      },
+      {
+        "text": "C 使用二氧化碳（CO2），而不需使用氧氣（O2）",
+        "images": []
+      },
+      {
+        "text": "D 不需進行細胞呼吸作用（cellular respiration）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 有關植物光合作用之敘述，下列何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 光反應（light-dependent reaction）進行場所為類囊體",
+        "images": []
+      },
+      {
+        "text": "B 暗反應（light-independent reaction）在葉綠體的基質中進行",
+        "images": []
+      },
+      {
+        "text": "C 光反應將光能轉變為化學能，暗反應將化學能轉變為光能",
+        "images": []
+      },
+      {
+        "text": "D 光反應所產生的NADPH和ATP，可協助甘油酸轉化為三碳醣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 在光合作用演化適應當中，對於C4與CAM植物的敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 兩者的氣孔都在白天打開晚上關閉",
+        "images": []
+      },
+      {
+        "text": "B 兩者糖的製造不需經過卡氏循環",
+        "images": []
+      },
+      {
+        "text": "C 兩者固碳作用的第一個產物均為4碳糖",
+        "images": []
+      },
+      {
+        "text": "D 兩者均有維管束鞘細胞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 以下哪一選項代表在光合作用（photosynthesis）中電子的傳遞順序？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A NADPH → O2→ CO2",
+        "images": []
+      },
+      {
+        "text": "B H2O → NADPH → 卡爾文循環（Calvin cycle）",
+        "images": []
+      },
+      {
+        "text": "C NADPH → 葉綠素（chlorophyll） → 卡爾文循環（Calvin cycle）",
+        "images": []
+      },
+      {
+        "text": "D H2O → 光系統I（photosystem I） → 光系統II（photosystem II）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 下圖為3種植物在不同光強度下的光合作用速率：請問屬於水利用效率最高的植物種類與具有廣而薄葉片的植物種類，其光合作用速率的曲線依前後順序分別是下列何者？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/036.png"
+    ],
+    "options": [
+      {
+        "text": "A ①及②",
+        "images": []
+      },
+      {
+        "text": "B ①及③",
+        "images": []
+      },
+      {
+        "text": "C ②及③",
+        "images": []
+      },
+      {
+        "text": "D ②及①",
+        "images": []
+      },
+      {
+        "text": "E ③及①",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  }
+]

@@ -1,0 +1,1408 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列何種荷爾蒙成份不是胜肽或蛋白質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A epinephrine",
+        "images": []
+      },
+      {
+        "text": "B estrogen",
+        "images": []
+      },
+      {
+        "text": "C ACTH",
+        "images": []
+      },
+      {
+        "text": "D prolactin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 荷爾蒙與其相對應的功能配對何者正確：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A epinephrine－免疫抑制",
+        "images": []
+      },
+      {
+        "text": "B endorphin－天然止痛劑",
+        "images": []
+      },
+      {
+        "text": "C melatonin－生產過程子宮收縮",
+        "images": []
+      },
+      {
+        "text": "D prostaglandin－作用與LH相似",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 青春期之後，腦下腺分泌過多的生長激素，造成何種疾病？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 庫辛氏症（Cushing’s syndrome）",
+        "images": []
+      },
+      {
+        "text": "B 末端肥大症（acromegaly）",
+        "images": []
+      },
+      {
+        "text": "C 巨人症（gigantism）",
+        "images": []
+      },
+      {
+        "text": "D 侏儒症（dwarfism）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 下列何者是由下視丘所生成之荷爾蒙？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A thyroxine (T4)",
+        "images": []
+      },
+      {
+        "text": "B estradiol",
+        "images": []
+      },
+      {
+        "text": "C cortisol",
+        "images": []
+      },
+      {
+        "text": "D oxytocin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 下列何種荷爾蒙成份為protein或peptide?(1) oxytocin(2) prolactin(3) glucocorticoid(4) estrogen(5) adrenocorticotropic hormone (ACTH)",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(5)",
+        "images": []
+      },
+      {
+        "text": "B (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "C (3)(4)(5)",
+        "images": []
+      },
+      {
+        "text": "D (3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列身體中的當地調控的訊號分子（Local regulator），何者的成分是修飾過的脂肪？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 前列腺素（Prostaglandin）",
+        "images": []
+      },
+      {
+        "text": "B 生長因子（Growth factor）",
+        "images": []
+      },
+      {
+        "text": "C 細胞激素（Cytokine）",
+        "images": []
+      },
+      {
+        "text": "D 腎上腺素（Adrenaline）",
+        "images": []
+      },
+      {
+        "text": "E 一氧化氮（Nitric Oxide）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 25-羥膽促鈣醇（25-hydroxycholecalciferol）係在(1)經(2)酵素作用轉化成1,25-dihydroxycholecalciferol？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1) 皮膚　(2) 1α-dehydrogenase",
+        "images": []
+      },
+      {
+        "text": "B (1) 肝　(2) 25-hydroxylase",
+        "images": []
+      },
+      {
+        "text": "C (1) 腎　(2) 1α-hydroxylase",
+        "images": []
+      },
+      {
+        "text": "D (1) 腸黏膜　(2) 1α-dehydrogenase",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 皮膚經過紫外線照射後，其中會轉變成維生素D原（provitamin D）的成分為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 麥角固醇（ergosterol）",
+        "images": []
+      },
+      {
+        "text": "B 7-去氫膽固醇（7-dehydro-cholesterol）",
+        "images": []
+      },
+      {
+        "text": "C 膽固醇（cholesterol）",
+        "images": []
+      },
+      {
+        "text": "D 22-二氫-麥角固醇（22-dihydro-ergosterol）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. Which of the following is NOT a polypeptide or glycoprotein hormone?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A glucagon",
+        "images": []
+      },
+      {
+        "text": "B antidiuretic hormone",
+        "images": []
+      },
+      {
+        "text": "C parathyroid hormone",
+        "images": []
+      },
+      {
+        "text": "D cortisol",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列何者為真？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 在動物體內，協調控制身體的訊號系統以內分泌（Endocrine）系統與神經（Nervous）系統為主",
+        "images": []
+      },
+      {
+        "text": "B 皮膚（Integumentary）系統的主要功能是防止感染的發生",
+        "images": []
+      },
+      {
+        "text": "C 一隻動物對能量（Energy）的需求主要是依據取食活動",
+        "images": []
+      },
+      {
+        "text": "D 蟄伏（Torpor）跟休眠（Hibernation）時，動物體溫會下降到只比周圍環境高攝氏3-5度",
+        "images": []
+      },
+      {
+        "text": "E 礦物質（Mineral）對人類營養的主要功能是維護骨骼及牙齒的結構及功能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 動物分泌費洛蒙（pheromones）吸引異性屬於下列哪一項：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長過程（growth processes）",
+        "images": []
+      },
+      {
+        "text": "B 恆定機制（homeostatic mechanisms）",
+        "images": []
+      },
+      {
+        "text": "C 化學刺激（chemical stimulus）",
+        "images": []
+      },
+      {
+        "text": "D 代謝作用（metabolic reaction）",
+        "images": []
+      },
+      {
+        "text": "E 異化作用（catabolism）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. The adrenal cortex is involved in",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A regulation of Ca2+balance.",
+        "images": []
+      },
+      {
+        "text": "B regulation of blood glucose.",
+        "images": []
+      },
+      {
+        "text": "C regulation of PO43-balance.",
+        "images": []
+      },
+      {
+        "text": "D regulation of basal metabolic rate.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列何者非甲狀腺功能低下之表徵？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 突眼症",
+        "images": []
+      },
+      {
+        "text": "B 便祕",
+        "images": []
+      },
+      {
+        "text": "C 食慾降低",
+        "images": []
+      },
+      {
+        "text": "D 黏液水腫",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 人類血液中甲狀腺素的量能維持一定是因為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甲狀腺素刺激腦下垂體產生甲狀腺刺激荷爾蒙（TSH）",
+        "images": []
+      },
+      {
+        "text": "B 甲狀腺素抑制下視丘釋放TSH-releasing hormone（TRH）",
+        "images": []
+      },
+      {
+        "text": "C 甲狀腺素抑制腦下垂體釋放TRH",
+        "images": []
+      },
+      {
+        "text": "D 甲狀腺素刺激下視丘釋放TRH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 下列何種作用是透過正回饋方式控制？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 前列腺素刺激子宮壁收縮",
+        "images": []
+      },
+      {
+        "text": "B 高量的雌激素誘導LH由腦下垂體釋放",
+        "images": []
+      },
+      {
+        "text": "C 高量的助孕酮抑制FSH的釋放",
+        "images": []
+      },
+      {
+        "text": "D 高量的助孕酮促進prolactin釋放",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 關於荷爾蒙及其影響之配對，下列何者正確：(1) glucocorticoid－長時間的壓力導致的免疫功能低下(2) growth hormone－呆小症(3) luteinizing hormone (LH)－飲食缺乏碘時，表現量會增加(4) antidiuretic hormone（ADH）－易受血液滲透壓影響",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)",
+        "images": []
+      },
+      {
+        "text": "B (1)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(4)",
+        "images": []
+      },
+      {
+        "text": "D (2)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 醛固酮（aldosterone）可增進腎臟對何者再吸收？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 氫離子",
+        "images": []
+      },
+      {
+        "text": "B 鉀離子",
+        "images": []
+      },
+      {
+        "text": "C 鈉離子",
+        "images": []
+      },
+      {
+        "text": "D 鈣離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 有關人類下視丘在內分泌系統的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 僅分泌的釋放激素（hypothalamic release hormone）類型",
+        "images": []
+      },
+      {
+        "text": "B 分泌物質包含胜肽類和固醇類",
+        "images": []
+      },
+      {
+        "text": "C 分泌生長激素促進生長",
+        "images": []
+      },
+      {
+        "text": "D 分泌促性腺素釋放激素（Gonadotropin relearsing hormone）促進腦垂腺前葉 分泌黃體生成素及濾泡刺激素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 膽固醇是下列何種維生素（Vitamin）合成的前驅物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A",
+        "images": []
+      },
+      {
+        "text": "B D",
+        "images": []
+      },
+      {
+        "text": "C E",
+        "images": []
+      },
+      {
+        "text": "D K",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 下列對褪黑激素（melatonin）的描述，何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 主要是在腦下腺製造",
+        "images": []
+      },
+      {
+        "text": "B 決定膚色深淺",
+        "images": []
+      },
+      {
+        "text": "C 主要是分泌到腦下腺前葉",
+        "images": []
+      },
+      {
+        "text": "D 與生理時鐘有關",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列何組答案並無互相拮抗的作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心房利鈉尿因子（Atrial natriuretic factor）：抗利尿激素（ADH）",
+        "images": []
+      },
+      {
+        "text": "B 交感神經：副交感神經",
+        "images": []
+      },
+      {
+        "text": "C 胰島素：昇糖激素",
+        "images": []
+      },
+      {
+        "text": "D 肱二頭肌：肱三頭肌",
+        "images": []
+      },
+      {
+        "text": "E 甲狀腺素：副甲狀腺素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 可活化破骨細胞（osteoclast）的激素是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A parathyroid hormone",
+        "images": []
+      },
+      {
+        "text": "B growth hormone",
+        "images": []
+      },
+      {
+        "text": "C Calcitonin",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下列關於胰臟之敘述，何者是正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "Aα細胞主司Glucagon之分泌",
+        "images": []
+      },
+      {
+        "text": "Bβ細胞主司Insulin之分泌",
+        "images": []
+      },
+      {
+        "text": "C 腺泡細胞主司消化酵素之分泌",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 雌激素（estrogen）最有可能透過直接調控下列何者來進行其作用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蛋白質激酶（protein kinases）",
+        "images": []
+      },
+      {
+        "text": "B phopholipase C",
+        "images": []
+      },
+      {
+        "text": "C 啟動相關基因以產生專一蛋白",
+        "images": []
+      },
+      {
+        "text": "D 環狀AMP（cyclic AMP）",
+        "images": []
+      },
+      {
+        "text": "E Ca2+離子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列何種激素可刺激子宮收縮？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A prolactin和oxytocin",
+        "images": []
+      },
+      {
+        "text": "B progesterone",
+        "images": []
+      },
+      {
+        "text": "C testosterone",
+        "images": []
+      },
+      {
+        "text": "D prostaglandins和oxytocin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 血中之鉀離子增加時會直接刺激下列何者分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A renin",
+        "images": []
+      },
+      {
+        "text": "B aldosterone",
+        "images": []
+      },
+      {
+        "text": "C ADH",
+        "images": []
+      },
+      {
+        "text": "D atrial natriuretic factor",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 一隻雄性蠶蛾（Silkworm moths, Bombyx mori）能在環境中從遠距離偵測到雌性蠶蛾的費洛蒙（Pheromone）最主要原因是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 它的視力很好，可以輔助辨識雌蛾",
+        "images": []
+      },
+      {
+        "text": "B 它的鼻腔中有很多嗅覺細胞",
+        "images": []
+      },
+      {
+        "text": "C 它有很多觸鬚",
+        "images": []
+      },
+      {
+        "text": "D 它的觸角上有很多專一性的費洛蒙接受器",
+        "images": []
+      },
+      {
+        "text": "E 雌蛾會發出超音波來幫助雄蛾",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 下列何種荷爾蒙（Hormone）無法通過細胞膜（plasma membrane）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甲狀腺素（Thyrosine）",
+        "images": []
+      },
+      {
+        "text": "B 動情激素（Estrogen）",
+        "images": []
+      },
+      {
+        "text": "C 糖性類皮質酮（Glucocorticoid）",
+        "images": []
+      },
+      {
+        "text": "D 雄性激素（Androgen）",
+        "images": []
+      },
+      {
+        "text": "E 腎上腺素（Epinephrine）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列何者最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 內分泌（Endocrine）所產生反應是在產生訊號的周邊",
+        "images": []
+      },
+      {
+        "text": "B 旁分泌（Paracine）所產生反應是遠離訊號產生處",
+        "images": []
+      },
+      {
+        "text": "C 自分泌（Autocrine）的反應目標是附近的組織",
+        "images": []
+      },
+      {
+        "text": "D 神經內分泌（Neuroendocrine）的訊號透過血液輸送",
+        "images": []
+      },
+      {
+        "text": "E 突觸的訊號（Synaptic signaling）由另一神經元（Neuron）反應",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 下列那個器官不含內分泌Endocrine細胞？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 肝臟",
+        "images": []
+      },
+      {
+        "text": "B 腎臟",
+        "images": []
+      },
+      {
+        "text": "C 胃臟",
+        "images": []
+      },
+      {
+        "text": "D 胰臟",
+        "images": []
+      },
+      {
+        "text": "E 大腸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 由於長期缺乏下列何種賀爾蒙，常造成停經期婦⼥的骨質疏鬆症？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 睪固酮（Testosterone）",
+        "images": []
+      },
+      {
+        "text": "B 雄烯二酮（Androstenedione）",
+        "images": []
+      },
+      {
+        "text": "C 黃體生成素（Luteinizing hormone；LH）",
+        "images": []
+      },
+      {
+        "text": "D 雌性素（Estrogen）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列何者最能促進鈣離子在腸道之吸收？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A phosphate",
+        "images": []
+      },
+      {
+        "text": "B oxalate",
+        "images": []
+      },
+      {
+        "text": "C 1,25-dihydroxycholecalciferol",
+        "images": []
+      },
+      {
+        "text": "D parathyroid hormone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列何者屬於內分泌系統疾病？(1) 庫辛氏症（Cushing’s syndrome）(2) 末端肥大症（acromegaly）(3) 阿茲海默病（Alzheimer’s disease）(4) 巨人症（gigantism）",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 下列何種激素（hormones）影響身體細胞的種類最多？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A prolactin",
+        "images": []
+      },
+      {
+        "text": "B endorphin",
+        "images": []
+      },
+      {
+        "text": "C melatonin",
+        "images": []
+      },
+      {
+        "text": "D growth hormone",
+        "images": []
+      },
+      {
+        "text": "E calcitonin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 促進產婦乳腺內乳蛋白合成以及產婦乳汁射出（milk ejection）的激素分別為：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 催產激素（oxytocin）；雌性素（estrogen）",
+        "images": []
+      },
+      {
+        "text": "B 泌乳激素（prolactin）；催產激素（oxytocin）",
+        "images": []
+      },
+      {
+        "text": "C 助孕酮（progesterone）；泌乳激素（prolactin）",
+        "images": []
+      },
+      {
+        "text": "D 雌性素（estrogen）；泌乳激素（prolactin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 男性外生殖器官的發育是由那一種激素誘發？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 性腺刺激素（GnRH）",
+        "images": []
+      },
+      {
+        "text": "B 睪固酮（Testosterone）",
+        "images": []
+      },
+      {
+        "text": "C MIS（Mullerian Inhibiting Substance）",
+        "images": []
+      },
+      {
+        "text": "D 抑制素（Inhibin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 哪一個腎上腺皮質分泌的固醇類賀爾蒙會刺激腎臟再吸收鹽份？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ADH",
+        "images": []
+      },
+      {
+        "text": "B 醛固酮（Aldosterone）",
+        "images": []
+      },
+      {
+        "text": "C 腎素（Renin）",
+        "images": []
+      },
+      {
+        "text": "D 血清張力素（Angiotensin）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 第一型糖尿病人是因為胰臟中的________細胞被破壞，導致________不能釋放而使得血糖增加：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "Aβ；胰島素",
+        "images": []
+      },
+      {
+        "text": "Bα；胰島素",
+        "images": []
+      },
+      {
+        "text": "Cα；昇糖素",
+        "images": []
+      },
+      {
+        "text": "Dβ；昇糖素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 長達二個月的密集考試導致某位學生唇疱疹復發，可能與下列何種荷爾蒙的分泌有關：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長激素",
+        "images": []
+      },
+      {
+        "text": "B 糖皮質激素",
+        "images": []
+      },
+      {
+        "text": "C 黃體素",
+        "images": []
+      },
+      {
+        "text": "D 褪黑激素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 下列何者不是直接經由腦下垂體（Hypothalamus）前葉或後葉所分泌？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 催產素（Oxytocin）",
+        "images": []
+      },
+      {
+        "text": "B 成長激素（Growth hormone）",
+        "images": []
+      },
+      {
+        "text": "C 雌激素（Estrogen）",
+        "images": []
+      },
+      {
+        "text": "D 乳泌素（Prolactin）",
+        "images": []
+      },
+      {
+        "text": "E 腦內啡（Endorphins）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 下列何者不是由腦下垂體前葉所分泌(1) oxytocin催產素(2) prolactin泌乳激素(3) endorphin腦內啡(4) FSH濾泡刺激素(5) thyroxine甲狀腺素",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(5)",
+        "images": []
+      },
+      {
+        "text": "C (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(3)(5)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 下列何者為腦下垂體前葉分泌？(1) Prolactin(2) ADH(3) Growth hormone(4) Oxytocin",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)",
+        "images": []
+      },
+      {
+        "text": "B (1)(3)",
+        "images": []
+      },
+      {
+        "text": "C (2)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 佝僂症（Rickets）主要是缺乏哪一種激素造成的疾病？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 維生素A",
+        "images": []
+      },
+      {
+        "text": "B 維生素B",
+        "images": []
+      },
+      {
+        "text": "C 維生素C",
+        "images": []
+      },
+      {
+        "text": "D 維生素D",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 醛固酮由腎上腺皮質釋放，是經由________血中鈉離子刺激或________血中鉀離子刺激而成。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 增加；降低",
+        "images": []
+      },
+      {
+        "text": "B 增加；增加",
+        "images": []
+      },
+      {
+        "text": "C 降低；增加",
+        "images": []
+      },
+      {
+        "text": "D 降低；降低",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 生產時子宮的收縮主要是________及________正回饋的結果。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 催產素；黃體素",
+        "images": []
+      },
+      {
+        "text": "B 催產素；前列腺素",
+        "images": []
+      },
+      {
+        "text": "C 雌激素；前列腺素",
+        "images": []
+      },
+      {
+        "text": "D 黃體素；血管加壓素",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列何種組織或器官無法製造荷爾蒙？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 腎臟",
+        "images": []
+      },
+      {
+        "text": "B 右心房",
+        "images": []
+      },
+      {
+        "text": "C 脂肪細胞",
+        "images": []
+      },
+      {
+        "text": "D 骨骼肌",
+        "images": []
+      },
+      {
+        "text": "E 胃",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 下列何種荷爾蒙與生長作用無關：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A T4",
+        "images": []
+      },
+      {
+        "text": "B testosterone",
+        "images": []
+      },
+      {
+        "text": "C vasopressin",
+        "images": []
+      },
+      {
+        "text": "D insulin",
+        "images": []
+      },
+      {
+        "text": "E growth hormone",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 下列有關呆小症（cretinism）的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 嬰幼期兒童甲狀腺機能不足所引起",
+        "images": []
+      },
+      {
+        "text": "B 出生數週後⾏動遲緩且身體和心智的成長遲滯",
+        "images": []
+      },
+      {
+        "text": "C 腎上腺皮質激素（ACTH）分泌不足所致",
+        "images": []
+      },
+      {
+        "text": "D 可用甲狀腺素治療",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 可體松（cortisol）的前驅物是________，此前驅物是由________所製造；可體松是由 ________分泌，當________由腦下腺前葉分泌時，可刺激可體松的分泌。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雄烯二酮（androstenedione）；黃體激素（progesterone）；腎上腺皮質（adrenal cortex）；CRH",
+        "images": []
+      },
+      {
+        "text": "B 黃體激素（progesterone）；膽固醇（cholesterol）；腎上腺髓質（adrenal medulla）；ACTH",
+        "images": []
+      },
+      {
+        "text": "C 睪固酮（Testosterone）；膽固醇（cholesterol）；腎上腺髓質（adrenal medulla）；ACTH",
+        "images": []
+      },
+      {
+        "text": "D 黃體激素（progesterone）；膽固醇（cholesterol）；腎上腺皮質",
+        "images": []
+      },
+      {
+        "text": "E （adrenal cortex）；ACTH",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 腎上腺皮質沒有哪種功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 調節血糖",
+        "images": []
+      },
+      {
+        "text": "B 調節鈉離子平衡",
+        "images": []
+      },
+      {
+        "text": "C 調節鈣離子平衡",
+        "images": []
+      },
+      {
+        "text": "D 調節生殖功能",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  }
+]

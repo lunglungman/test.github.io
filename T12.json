@@ -1,0 +1,1419 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 為何血液流經微血管時速度最慢？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紅血球需要一路縱隊通過微血管",
+        "images": []
+      },
+      {
+        "text": "B 微血管的總截面積大於小動脈",
+        "images": []
+      },
+      {
+        "text": "C 微血管滲透壓較大",
+        "images": []
+      },
+      {
+        "text": "D 血液量在流經微血管時流失",
+        "images": []
+      },
+      {
+        "text": "E 小靜脈的血壓較高",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. In mammals, blood returning from the head will pass through the ________ just before entering the right atrium.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A left atrium",
+        "images": []
+      },
+      {
+        "text": "B superior vena cava",
+        "images": []
+      },
+      {
+        "text": "C inferior vena cava",
+        "images": []
+      },
+      {
+        "text": "D aorta",
+        "images": []
+      },
+      {
+        "text": "E right atrium",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 下列哪一條血管在正常情況下有最低氧分壓？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 臍靜脈",
+        "images": []
+      },
+      {
+        "text": "B 臍動脈",
+        "images": []
+      },
+      {
+        "text": "C 母體的子宮靜脈",
+        "images": []
+      },
+      {
+        "text": "D 母體的子宮動脈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. 正常狀態下第二個心音出現在心週期的：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 房室瓣開啟",
+        "images": []
+      },
+      {
+        "text": "B 房室瓣關閉",
+        "images": []
+      },
+      {
+        "text": "C 主動脈瓣開啟",
+        "images": []
+      },
+      {
+        "text": "D 主動脈瓣關閉",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 心臟的節律點（pacemaker）位於：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 竇房結（sinoatrial node）",
+        "images": []
+      },
+      {
+        "text": "B 房室結（atrioventricular node）",
+        "images": []
+      },
+      {
+        "text": "C 普⾦杰纖維（Purkinje fibers）",
+        "images": []
+      },
+      {
+        "text": "D 房室束（atrioventricular bundle）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 當血液經過周邊微血管時，會發生下列何者現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血氧解離曲線（hemoglobin dissociation curve）向左移動",
+        "images": []
+      },
+      {
+        "text": "B 血氧解離曲線（hemoglobin dissociation curve）向右移動",
+        "images": []
+      },
+      {
+        "text": "C 其酸鹼值增加",
+        "images": []
+      },
+      {
+        "text": "D 紅血球細胞之體積減少",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 心臟的節律器（pacemaker）是？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 房室結（AV node）",
+        "images": []
+      },
+      {
+        "text": "B 浦金氏纖維（Purkinje fibers）",
+        "images": []
+      },
+      {
+        "text": "C 竇房結（SA node）",
+        "images": []
+      },
+      {
+        "text": "D 迷走神經（vagus nerve）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 下列何者是引起血塊形成的重要機轉：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 轉換fibrinogen成fibrin",
+        "images": []
+      },
+      {
+        "text": "B 內皮細胞受損活化血小板",
+        "images": []
+      },
+      {
+        "text": "C 藉由內在或外在路徑活化prothrombin成thrombin",
+        "images": []
+      },
+      {
+        "text": "D 以上皆是",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 如果心臟出現雜音最有可能是________。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 冠狀動脈阻塞",
+        "images": []
+      },
+      {
+        "text": "B 血壓變高",
+        "images": []
+      },
+      {
+        "text": "C 半月瓣膜損壞",
+        "images": []
+      },
+      {
+        "text": "D 節律點損壞",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. 下列何種因素會造成血壓升高？(1)心搏量增加(2)小動脈管徑變小(3)心室舒張時間變長(4)動脈平滑肌舒張",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)",
+        "images": []
+      },
+      {
+        "text": "D (2)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列何者為血漿中含量最多的蛋白質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A fibrinogen",
+        "images": []
+      },
+      {
+        "text": "Bβ-globulin",
+        "images": []
+      },
+      {
+        "text": "Cγ-globulin",
+        "images": []
+      },
+      {
+        "text": "D albumin",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. During ventricular systole, the semilunar valves ________ and the AV valves ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A open; open",
+        "images": []
+      },
+      {
+        "text": "B close; open",
+        "images": []
+      },
+      {
+        "text": "C open; close",
+        "images": []
+      },
+      {
+        "text": "D close; close",
+        "images": []
+      },
+      {
+        "text": "E open, unchanged.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 人類竇房結（sinoatrial node）損傷會造成下列何種現象？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 破壞心臟肌肉收縮的速率和時間",
+        "images": []
+      },
+      {
+        "text": "B 對主動脈血壓監測有直接的影響",
+        "images": []
+      },
+      {
+        "text": "C 阻斷維管分枝（bundle branch）及浦⾦埃纖維（Purkinje fiber）之連接",
+        "images": []
+      },
+      {
+        "text": "D 對周邊血管阻力循環產生負面影響",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列哪種生物具有封閉性循環系統（closed circulatory system）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 蟑螂（cockroaches）",
+        "images": []
+      },
+      {
+        "text": "B 蝸牛（snails）",
+        "images": []
+      },
+      {
+        "text": "C 渦蟲（planarian）",
+        "images": []
+      },
+      {
+        "text": "D 蚯蚓（earthworms）",
+        "images": []
+      },
+      {
+        "text": "E 牡蠣（oyster）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. 請問下列何種血流的順序不論在爬行動物（reptile）或哺乳類（mammal）都可以觀察到？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 左心室（left ventricle）→ 大動脈（aorta）→ 肺（lungs）→ 體循環（systemic circulation）",
+        "images": []
+      },
+      {
+        "text": "B 右心室（right ventricle）→ 肺靜脈（pulmonary vein）→ 肺皮循環（pulmocutaneous circulation）",
+        "images": []
+      },
+      {
+        "text": "C 肺靜脈（pulmonary vein）→ 左心房（left atrium）→ 心室（ventricle）→ 肺循環（pulmonary circuit）",
+        "images": []
+      },
+      {
+        "text": "D 下腔靜脈（vena cava）→ 右心房（right atrium）→ 心室（ventricle）→ 肺循環（pulmonary circuit）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 有關威而鋼（Viagra）的敘述，下列何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 可使陰莖動脈收縮而勃起",
+        "images": []
+      },
+      {
+        "text": "B 可使陰莖動脈平滑肌放鬆而勃起",
+        "images": []
+      },
+      {
+        "text": "C 可促進射精",
+        "images": []
+      },
+      {
+        "text": "D 可升高血中男性激素的濃度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 對於心音產生的描述何者有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是血液撞擊關閉之房室瓣或半月瓣所產生的聲音",
+        "images": []
+      },
+      {
+        "text": "B 第一個心音，來自心室收縮，心房舒張",
+        "images": []
+      },
+      {
+        "text": "C 第二個心音，來自心室舒張，心房收縮",
+        "images": []
+      },
+      {
+        "text": "D 第一個心音短而低沉，第二個心音長而高亢",
+        "images": []
+      },
+      {
+        "text": "E 瓣膜閉鎖不全，會產生心雜音",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列何者不會增加血液流經微血管網叢？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 高濃度的二氧化碳",
+        "images": []
+      },
+      {
+        "text": "B 高濃度乳酸及氫離子",
+        "images": []
+      },
+      {
+        "text": "C 組織氨（Histamine）",
+        "images": []
+      },
+      {
+        "text": "D 抗利尿劑（ADH）",
+        "images": []
+      },
+      {
+        "text": "E 增加小動脈壓力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 微血管中血流速度最慢的理由為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微血管離心臟最遠，血流速度與心臟距離成反比",
+        "images": []
+      },
+      {
+        "text": "B 心臟收縮產生的壓力還不足以讓血液以高流速傳送到微血管",
+        "images": []
+      },
+      {
+        "text": "C 全身微血管血流均由左心室供應，而左心室的心輸出量遠不及右心室，造成微血管血流量不足，血流速度因而變慢",
+        "images": []
+      },
+      {
+        "text": "D 血液流過微血管的總截面積大於大動脈總截面積，而在連續流動的管道中流體流速與流過的截面積成反比",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 下列有關血漿成份作用之配對何者正確？(1)血漿蛋白－維持滲透壓平衡(2)鉀離子－維持滲透壓平衡(3)纖維蛋白原－維持pH恆定(4)碳酸氫根－維持pH恆定",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "B (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "C (1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(2)(3)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列何者血液中之蛋白質由肝臟所產生，為主要維持血液滲透壓平衡者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 白蛋白（albumin）",
+        "images": []
+      },
+      {
+        "text": "B 球蛋白（globulin）",
+        "images": []
+      },
+      {
+        "text": "C 脂蛋白（lipoprotein）",
+        "images": []
+      },
+      {
+        "text": "D 醣蛋白（glycoprotein）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 關於artery (A)、capillary (C)、vein (V)之比較，下列何者正確：(1)血壓：(A)＞(C)＞(V)(2)血流速度：(A)＞(V)＞(C)(3)(A)及(V)具有辦膜控制血流(4)肌肉層 厚度：(V)＞(A)＞(C)",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)",
+        "images": []
+      },
+      {
+        "text": "B (1)(2)(4)",
+        "images": []
+      },
+      {
+        "text": "C (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(3)(4)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 心電圖中的QRS複合波是因下列哪一項而產生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心室肌的去極化（Depolarization）",
+        "images": []
+      },
+      {
+        "text": "B 心室肌的再極化（Repolarization）",
+        "images": []
+      },
+      {
+        "text": "C 心房肌的去極化（Depolarization）",
+        "images": []
+      },
+      {
+        "text": "D 心房肌的再極化（Repolarization）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 下列哪一個局部調節物（local regulator）可以活化使平滑肌舒張的酵素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 一氧化氮（nitric oxide）",
+        "images": []
+      },
+      {
+        "text": "B 前列腺素F（prostaglandin F）",
+        "images": []
+      },
+      {
+        "text": "C 腎上腺素（epinephrine）",
+        "images": []
+      },
+      {
+        "text": "D 類固醇（steroid）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列何者為真？人類的",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血液是由血漿、紅血球及白血球組成",
+        "images": []
+      },
+      {
+        "text": "B 白血球有五種，負責免疫相關功能",
+        "images": []
+      },
+      {
+        "text": "C 紅血球有兩種，分別負責輸送氣體及凝血",
+        "images": []
+      },
+      {
+        "text": "D 白血球的數量是每平方公厘（mm3）5-6百萬個",
+        "images": []
+      },
+      {
+        "text": "E 血漿的功用就是輸送血球，以利氣體交換",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 人在進食後，哪一種血管內含有較高量的糖、胺基酸等養分？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 冠狀動脈",
+        "images": []
+      },
+      {
+        "text": "B 大動脈",
+        "images": []
+      },
+      {
+        "text": "C 冠狀靜脈",
+        "images": []
+      },
+      {
+        "text": "D 肝門靜脈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 在人體正常生理功能下，血液流動到身體特定區域的主要決定因素為下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 小動脈的半徑大小",
+        "images": []
+      },
+      {
+        "text": "B 血容比（blood hematocrit）",
+        "images": []
+      },
+      {
+        "text": "C 由微血管滲漏的液體",
+        "images": []
+      },
+      {
+        "text": "D 由交感神經活化來調節靜脈回流",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 人體血漿中蛋白質的濃度如果遠高於正常值將會導致：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 組織間液（interstitial fluid）顯著增加導致水腫（edema）",
+        "images": []
+      },
+      {
+        "text": "B 自由基增加、細胞氧化壓力上升導致肝病變",
+        "images": []
+      },
+      {
+        "text": "C 增加腎臟代謝負擔導致腎衰竭",
+        "images": []
+      },
+      {
+        "text": "D 微血管對組織間液水份的再吸收量會明顯增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 下列何者為人體血漿蛋白主要合成場所？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 骨髓",
+        "images": []
+      },
+      {
+        "text": "B 腎臟",
+        "images": []
+      },
+      {
+        "text": "C 肝臟",
+        "images": []
+      },
+      {
+        "text": "D 脾臟",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 請問何處會分泌紅血球生成素（Erythropoietin）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心臟",
+        "images": []
+      },
+      {
+        "text": "B 腎臟",
+        "images": []
+      },
+      {
+        "text": "C 肝臟",
+        "images": []
+      },
+      {
+        "text": "D 骨髓",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. 循環系統主要包括心臟和血管，心臟有四個腔室，即：(1)左心室，(2)右心室，(3)左心房及(4)右心房。血液由心臟送出，在血管內循環流動，就血液流動的方向來看，下列何者的順序正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)流入(3)，再流入肺",
+        "images": []
+      },
+      {
+        "text": "B (3)流入(1)，再流入肺",
+        "images": []
+      },
+      {
+        "text": "C (2)流入(4)，再流入肺",
+        "images": []
+      },
+      {
+        "text": "D (4)流入(2)，再流入肺",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 下列人體心血管系統的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 竇房結（sinoatrial node）又稱心臟節律點，位於左心房，靠近背側上方的心房壁",
+        "images": []
+      },
+      {
+        "text": "B 心搏時，第一心音是由房室瓣關閉所產生，第二心音則是由半月瓣關閉所產生",
+        "images": []
+      },
+      {
+        "text": "C 動脈的外層、中層、內層依次是纖維層、平滑肌、內皮層",
+        "images": []
+      },
+      {
+        "text": "D 負責凝血的血纖維蛋白原（fibrinogen）與凝血酶原（prothrombin）是由肝臟負責製造",
+        "images": []
+      },
+      {
+        "text": "E 嗜酸性白血球屬於顆粒性白血球，與對抗寄生蟲有關",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 下列那一種動物不是靠血液完成其體內細胞所需之氣體交換？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 小丑魚",
+        "images": []
+      },
+      {
+        "text": "B 青蛙",
+        "images": []
+      },
+      {
+        "text": "C 甲蟲",
+        "images": []
+      },
+      {
+        "text": "D 鳥類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 依照物理定律，同樣的水量流經粗細不同的管子，在細管中的流速會比在粗管中快。血液從心臟打出來後，在較粗的大動脈中，流速比在較細的小動脈中快，為什麼會這樣？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血液從大動脈流到小動脈的過程中，沿途把物質送到周圍組織，使體積減少",
+        "images": []
+      },
+      {
+        "text": "B 小動脈的數量比大動脈多，計算起來，小動脈的總截面積比大動脈大",
+        "images": []
+      },
+      {
+        "text": "C 小動脈的管壁較薄，不能承受太大壓力，所以血液流速變慢",
+        "images": []
+      },
+      {
+        "text": "D 血液的黏滯度太大，不適用於此物理定律",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列關於中度運動時，心血管活動之變化何者為誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 舒張末期容積增加",
+        "images": []
+      },
+      {
+        "text": "B 皮膚血流增加",
+        "images": []
+      },
+      {
+        "text": "C 腎臟血流降低",
+        "images": []
+      },
+      {
+        "text": "D 腦部血流量不變",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 關於動脈(1)、微血管(2)、靜脈(3)之比較，下列何者正確：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血壓：(1)＞(2)＞(3)",
+        "images": []
+      },
+      {
+        "text": "B 血流速度：(1)＞(2)＞(3)",
+        "images": []
+      },
+      {
+        "text": "C (2)及(3)具有辦膜控制血流",
+        "images": []
+      },
+      {
+        "text": "D 肌肉層厚度：(3)＞(1)＞(2)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. 正常心電圖的T波代表下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心房去極化",
+        "images": []
+      },
+      {
+        "text": "B 心房再極化",
+        "images": []
+      },
+      {
+        "text": "C 心室再極化",
+        "images": []
+      },
+      {
+        "text": "D 心室去極化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 心電圖的P波代表：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心房舒張",
+        "images": []
+      },
+      {
+        "text": "B 心房去極化",
+        "images": []
+      },
+      {
+        "text": "C 心室收縮",
+        "images": []
+      },
+      {
+        "text": "D 心室再極化",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 人體升高血壓的腎素（renin），是由近腎絲球器（juxtaglomerular apparatus）所分泌",
+        "images": []
+      },
+      {
+        "text": "B 人體的抗利尿激素（antidiuretic hormone），是由腦下垂體所分泌",
+        "images": []
+      },
+      {
+        "text": "C 人體的水分的再吸收也發生在集尿管",
+        "images": []
+      },
+      {
+        "text": "D 人體的紅血球生成素（erythropoietin）是由肝臟所分泌，可以刺激製造紅血球",
+        "images": []
+      },
+      {
+        "text": "E 在人體絲球體（glomerulus）過濾出來的鈉離子，大約有99%會回到血液中",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 房室結（AV node）主要功能是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 啟動心跳（initiate the heartbeat）",
+        "images": []
+      },
+      {
+        "text": "B 設置心跳的節奏（the rhythm of the heartbeat）",
+        "images": []
+      },
+      {
+        "text": "C 傳達心臟收縮信號由右心室到右心房",
+        "images": []
+      },
+      {
+        "text": "D 傳達心臟收縮信號由心室收縮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 開放式（Open）跟封閉式（Closed）循環系統（Circulatory system）的比較，何者為非？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 開放式比較節能，因為它有較低的靜水壓（Hydrostatic pressure）",
+        "images": []
+      },
+      {
+        "text": "B 封閉式輸送效率比較高，因為血壓較高",
+        "images": []
+      },
+      {
+        "text": "C 封閉式特別適合分配血液到不同器官",
+        "images": []
+      },
+      {
+        "text": "D 無脊椎動物使用開放式循環系統",
+        "images": []
+      },
+      {
+        "text": "E 哺乳類使用封閉式循環系統",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 影響血壓（blood pressure）高低的主要因素是",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心輸出量（cardiac output）",
+        "images": []
+      },
+      {
+        "text": "B pH值",
+        "images": []
+      },
+      {
+        "text": "C 心房收縮率（atria contract rate）",
+        "images": []
+      },
+      {
+        "text": "D 氧氣濃度",
+        "images": []
+      },
+      {
+        "text": "E 血液中Cl-濃度",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. ________血壓最高，及________血液流速最慢。",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微血管，動脈",
+        "images": []
+      },
+      {
+        "text": "B 靜脈，動脈",
+        "images": []
+      },
+      {
+        "text": "C 動脈，微血管",
+        "images": []
+      },
+      {
+        "text": "D 動脈，靜脈",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列何者不屬於血漿蛋白？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生長激素",
+        "images": []
+      },
+      {
+        "text": "B 抵抗細菌的抗體",
+        "images": []
+      },
+      {
+        "text": "C 參與氧氣運輸的血紅素",
+        "images": []
+      },
+      {
+        "text": "D 參與血液凝集的血纖維蛋白原",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. 有關人類心臟瓣膜之敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 心臟內介於心房及心室間的瓣膜為房室瓣（A-V valve）",
+        "images": []
+      },
+      {
+        "text": "B 左邊的房室瓣為三尖瓣（tricuspid valve）",
+        "images": []
+      },
+      {
+        "text": "C 介於左心室與主動脈間的瓣膜為半月瓣",
+        "images": []
+      },
+      {
+        "text": "D 介於右心室與肺動脈間的瓣膜為半月瓣",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 下列何者不是淋巴循環的功能？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 過濾回收組織間液",
+        "images": []
+      },
+      {
+        "text": "B 啟動免疫系統、吞噬微生物或形成抗體",
+        "images": []
+      },
+      {
+        "text": "C 儲存血液",
+        "images": []
+      },
+      {
+        "text": "D 幫助脂肪吸收",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "複選題",
+    "question": "47. Which statement about mammalian circulatory systems is false?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A The pulmonary circuit carries blood between the heart and the lungs.",
+        "images": []
+      },
+      {
+        "text": "B The systemic circuit carries blood between the heart and the rest of the body.",
+        "images": []
+      },
+      {
+        "text": "C Mammals have two atria and two ventricles in their hearts.",
+        "images": []
+      },
+      {
+        "text": "D The left side of a mammal’s heart sends blood to the lungs.",
+        "images": []
+      },
+      {
+        "text": "E The pulmonary circuit carries blood between the heart and the body.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "複選題",
+    "question": "48. 下列何者為淋巴循環的原動力？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 骨骼肌收縮",
+        "images": []
+      },
+      {
+        "text": "B 吸氣運動",
+        "images": []
+      },
+      {
+        "text": "C 心室收縮",
+        "images": []
+      },
+      {
+        "text": "D 瓣膜防止倒流",
+        "images": []
+      },
+      {
+        "text": "E 心房舒張",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "複選題",
+    "question": "49. 下列何者可幫助靜脈血回流至右心房？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 微血管壁平滑肌的規律收縮",
+        "images": []
+      },
+      {
+        "text": "B 靜脈瓣膜",
+        "images": []
+      },
+      {
+        "text": "C 運動",
+        "images": []
+      },
+      {
+        "text": "D 吸氣動作",
+        "images": []
+      },
+      {
+        "text": "E 吐氣動作",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "複選題",
+    "question": "50. 下列哪些因素與血壓升高有密切關係？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 血管硬化彈性降低",
+        "images": []
+      },
+      {
+        "text": "B 血管直徑增加",
+        "images": []
+      },
+      {
+        "text": "C 心跳速率降低",
+        "images": []
+      },
+      {
+        "text": "D 血液體積增多",
+        "images": []
+      },
+      {
+        "text": "E 副交感神經興奮增強",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A",
+      "D"
+    ]
+  }
+]

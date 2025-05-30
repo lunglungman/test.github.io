@@ -1,0 +1,1464 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 下列哪一種維生素用於預防及治療壞血病？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 維生素A",
+        "images": []
+      },
+      {
+        "text": "B 維生素B",
+        "images": []
+      },
+      {
+        "text": "C 維生素C",
+        "images": []
+      },
+      {
+        "text": "D 維生素D",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. 製作起司或優格時是利用細菌或真菌進行無氧呼吸所產生的何種產物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 乳酸（lactic acid）",
+        "images": []
+      },
+      {
+        "text": "B 丙酮酸（pyruvate）",
+        "images": []
+      },
+      {
+        "text": "C 二氧化碳（CO2）",
+        "images": []
+      },
+      {
+        "text": "D 酒精（ethanol）",
+        "images": []
+      },
+      {
+        "text": "E 腺苷三磷酸（ATP）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. 在葡萄糖分子的發酵與細胞呼吸作用中，下列何者為共同的代謝過程？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 檸檬酸循環（citric acid cycle）",
+        "images": []
+      },
+      {
+        "text": "B 電子傳遞鏈（electron transport chain）",
+        "images": []
+      },
+      {
+        "text": "C 醣原酵解（glycolysis）",
+        "images": []
+      },
+      {
+        "text": "D 由丙酮酸（pyruvate）合成乙醯輔酶A（acetyl CoA）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which option listed in below is INCORRECT that describe about “ATP synthesis”?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A H+ions flowing down their gradient enter a half channel in a stator, which is anchored in the membrane.",
+        "images": []
+      },
+      {
+        "text": "B H+ions enter binding site within a rotor, changing the shape of each subunit so that rotor spins within the membrane.",
+        "images": []
+      },
+      {
+        "text": "C Each H+ion makes one complete turn before leaving the rotor and passing through a second half channel in the stator into the mitochondrial matrix.",
+        "images": []
+      },
+      {
+        "text": "D Spinning of the rotor causes an internal rod to spin as well. This rod extends like a stalk into the knob below it, which is held stationary by part of the stator.",
+        "images": []
+      },
+      {
+        "text": "E Turning of the rod activates catalytic sites in the knob that produce ATP from AMP and Pi.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 下列哪一項礦物與功能的選擇是對的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈣＝用於氨基酸代謝",
+        "images": []
+      },
+      {
+        "text": "B 鈉＝維持細胞的滲透平衡",
+        "images": []
+      },
+      {
+        "text": "C 鐵＝組成部分核酸骨幹",
+        "images": []
+      },
+      {
+        "text": "D 磷＝保持水平衡",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. Which of the following statements about vitamins is FALSE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Thiamine is a coenzyme in removing CO2and relates to Beriberi.",
+        "images": []
+      },
+      {
+        "text": "B Folic acid is a component of coenzyme A and relates to birth defect.",
+        "images": []
+      },
+      {
+        "text": "C Ascorbic acid is a coenzyme in collagen synthesis and relates to scurvy.",
+        "images": []
+      },
+      {
+        "text": "D Retinol is a component of visual pigments and relates to blindness.",
+        "images": []
+      },
+      {
+        "text": "E Tocopherol is an antioxidant and relates to nervous system degeneration.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. 植物生長發育需要許多營養元素，下列何者對於鈣元素（Calcium）在植物體中的作用敘述最正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈣元素佔植物體乾重量的極少部分，屬於微量營養素（Micronutrient）",
+        "images": []
+      },
+      {
+        "text": "B 鈣元素在植物體中為合成核酸（Nucleic acid）之主要成分",
+        "images": []
+      },
+      {
+        "text": "C 鈣元素調控細胞對刺激（Stimuli）之反應",
+        "images": []
+      },
+      {
+        "text": "D 鈣元素為葉綠素之成分之一，所以缺鈣時葉片會有黃化現象",
+        "images": []
+      },
+      {
+        "text": "E 鈣元素與植物酵素作用無關",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 葉酸（folic acid）的補充對孕婦非常重要，主要原因是：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 葉酸不足會增加胎兒神經管缺陷（neural tube defect）的危險",
+        "images": []
+      },
+      {
+        "text": "B 因為孕婦血液中所儲存的葉酸常隨循環而流失",
+        "images": []
+      },
+      {
+        "text": "C 葉酸不足會增加新生兒心臟異常（heart abnormalities）的危險",
+        "images": []
+      },
+      {
+        "text": "D 因為胎兒需要大量的葉酸以維持生命",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 葡萄糖代謝反應中，下列何種反應會產生最多CO2？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 醣解作用（glycolysis）",
+        "images": []
+      },
+      {
+        "text": "B 檸檬酸循環（the citric acid cycle）",
+        "images": []
+      },
+      {
+        "text": "C 電子傳遞鏈（electron transport chain）",
+        "images": []
+      },
+      {
+        "text": "D 乳酸發酵（lactate fermentation）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. Trace elements are those required by organisms in only minute quantities. Which of the following is a trace element that is required by humans and other vertebrates?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A nitrogen",
+        "images": []
+      },
+      {
+        "text": "B calcium",
+        "images": []
+      },
+      {
+        "text": "C iodine",
+        "images": []
+      },
+      {
+        "text": "D sodium",
+        "images": []
+      },
+      {
+        "text": "E phosphorus",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 下列代謝反應中，何者無論氧氣（O2）存在與否皆可正常進行？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 克氏循環（Krebs cycle）",
+        "images": []
+      },
+      {
+        "text": "B 糖解作用（glycolysis）",
+        "images": []
+      },
+      {
+        "text": "C 發酵作用（fermentation）",
+        "images": []
+      },
+      {
+        "text": "D 丙酮酸氧化轉換成乙醯輔酶（Acetyl-CoA）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. 水稻經基因改造生產出“黃金米”，下列有關黃金米的敘述何者是正確的？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 黃金米是稻米可表達金的成份",
+        "images": []
+      },
+      {
+        "text": "B 黃金米是一種較耐長期儲藏的稻米",
+        "images": []
+      },
+      {
+        "text": "C 黃金米是稻米含有少量的維他命A（vitamin A）",
+        "images": []
+      },
+      {
+        "text": "D 經基因改造的水稻具有產生β-胡蘿蔔素（β-carotene）的能力",
+        "images": []
+      },
+      {
+        "text": "E 經基因改造的水稻具有產生維他命A（vitamin A）的能力",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 下列何者為呼吸作用電子傳遞系統最終之電子接受者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A CO2",
+        "images": []
+      },
+      {
+        "text": "B O2",
+        "images": []
+      },
+      {
+        "text": "C NADH",
+        "images": []
+      },
+      {
+        "text": "D H2O",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 當電子在粒線體（mitochondria）的電子傳遞系統中傳遞時，下列何種情形會發生？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 質子（H+）從粒線體基質（matrix）經由ATP合成酶（ATP synthase）送到粒線體的膜間隙（intermembrane space）而產生質子梯度",
+        "images": []
+      },
+      {
+        "text": "B ATP合成酶經由主動運輸方式移動質子",
+        "images": []
+      },
+      {
+        "text": "C ATP會分解成ADP＋Pi",
+        "images": []
+      },
+      {
+        "text": "D 在protein complex I的作用中NAD+會被還原為NADH",
+        "images": []
+      },
+      {
+        "text": "E 當ATP合成酶的功能被抑制時，粒線體基質的pH值會增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Which of the following elements is NOT macronutrients for plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A potassium",
+        "images": []
+      },
+      {
+        "text": "B phosphorus",
+        "images": []
+      },
+      {
+        "text": "C calcium",
+        "images": []
+      },
+      {
+        "text": "D manganese",
+        "images": []
+      },
+      {
+        "text": "E sulfur",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. 下列哪一種維生素（vitamins）是輔酶NAD+及NADP+的成分？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A B2",
+        "images": []
+      },
+      {
+        "text": "B B3",
+        "images": []
+      },
+      {
+        "text": "C B5",
+        "images": []
+      },
+      {
+        "text": "D B9",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下列何者是抗氧化劑：(1) vitamin B1(2) vitamin C(3) vitamin D(4) vitamin E",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A (1)(2)(3)",
+        "images": []
+      },
+      {
+        "text": "B (2)(4)",
+        "images": []
+      },
+      {
+        "text": "C (2)(3)(4)",
+        "images": []
+      },
+      {
+        "text": "D (1)(3)",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列何者對於礦物質功能的敘述有誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 鈣 → 與形成骨骼和神經肌肉的功能有關",
+        "images": []
+      },
+      {
+        "text": "B 鉀 → 與酸鹼平衡與神經肌肉的功能有關",
+        "images": []
+      },
+      {
+        "text": "C 鎂 → 體液平衡和參與血液凝固反應",
+        "images": []
+      },
+      {
+        "text": "D 鐵 → 血紅素的組成成分與電子傳遞鏈的酵素合成有關",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. Carbon dioxide (CO2) is released during which of the following stages of cellular respiration?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A oxidation of pyruvate to acetyl CoA and the citric acid cycle",
+        "images": []
+      },
+      {
+        "text": "B glycolysis and the oxidation of pyruvate to acetyl CoA",
+        "images": []
+      },
+      {
+        "text": "C fermentation and glycolysis",
+        "images": []
+      },
+      {
+        "text": "D the citric acid cycle and oxidative phosphorylation",
+        "images": []
+      },
+      {
+        "text": "E oxidative phosphorylation and fermentation",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 維他命（vitamins）與其生理作用之配對何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A vitamin A－正常視力",
+        "images": []
+      },
+      {
+        "text": "B vitamin C－血液凝固",
+        "images": []
+      },
+      {
+        "text": "C vitamin D－細胞膜合成",
+        "images": []
+      },
+      {
+        "text": "D vitamin K－白血球的產生",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 下列何種水溶性維生素和紅血球的成熟有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Vitamin D",
+        "images": []
+      },
+      {
+        "text": "B 菸鹼酸（niacin）",
+        "images": []
+      },
+      {
+        "text": "C 泛酸（pantothenic acid）",
+        "images": []
+      },
+      {
+        "text": "D 葉酸（folic acid）",
+        "images": []
+      },
+      {
+        "text": "E Vitamin B12",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. Which of the following statements about glycolysis is NOT TRUE?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Glycolysis takes place in cytosol.",
+        "images": []
+      },
+      {
+        "text": "B The ATP made during glycolysis is generated by substrate-level phosphorylation.",
+        "images": []
+      },
+      {
+        "text": "C Glycolysis will proceed in eukaryotic cells whether oxygen is present or absent.",
+        "images": []
+      },
+      {
+        "text": "D During glycolysis, when glucose is catabolized to pyruvate, most of the energy of glucose is transferred to ADP, forming ATP",
+        "images": []
+      },
+      {
+        "text": "E In addition to ATP, the end products of glycolysis are NADH and pyruvate.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 每莫耳葡萄糖完全被氧化可釋放686千卡的能量。細胞呼吸作用中，糖酵解作用、克氏循環和驅動氧化磷酸化反應的電子傳遞鏈總共生成38個ATP分子（ADP → ATP）。這儲存的能量大概是完全氧化一莫耳葡萄糖能量的百分之多少？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 30",
+        "images": []
+      },
+      {
+        "text": "B 40",
+        "images": []
+      },
+      {
+        "text": "C 55",
+        "images": []
+      },
+      {
+        "text": "D 60",
+        "images": []
+      },
+      {
+        "text": "E 70",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. 膽固醇是下列何種維生素（Vitamin）合成的前驅物？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A A",
+        "images": []
+      },
+      {
+        "text": "B D",
+        "images": []
+      },
+      {
+        "text": "C E",
+        "images": []
+      },
+      {
+        "text": "D K",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. 下列的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 缺少維他命B12會導致惡性貧血",
+        "images": []
+      },
+      {
+        "text": "B 人體的膽囊收縮素（cholecystokinin）是由十二指腸的腸壁細胞分泌",
+        "images": []
+      },
+      {
+        "text": "C 黃疸（jaundice）是因為血中膽紅素（bilirubin）過高",
+        "images": []
+      },
+      {
+        "text": "D 肝臟是人體最大的腺體，負責合成含氮廢物尿素",
+        "images": []
+      },
+      {
+        "text": "E 人體消化道的核酸水解酶（nuclease）主要是由小腸所合成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. 自然元素中許多是人類生命所必需的，其中有四種元素合起來約佔生命物質的96%，下列哪個元素不在其中？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 碳",
+        "images": []
+      },
+      {
+        "text": "B 氫",
+        "images": []
+      },
+      {
+        "text": "C 氧",
+        "images": []
+      },
+      {
+        "text": "D 鐵",
+        "images": []
+      },
+      {
+        "text": "E 氮",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. Which one is true of micronutrients in plants?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Overdoses of them can not be toxic.",
+        "images": []
+      },
+      {
+        "text": "B They generally help in catalytic functions in the plants.",
+        "images": []
+      },
+      {
+        "text": "C They are not required for a plant to grow from seed.",
+        "images": []
+      },
+      {
+        "text": "D They are essential elements of small size and molecular weight.",
+        "images": []
+      },
+      {
+        "text": "E They are the elements required in relatively big amounts.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. Standard metabolic rate (SMR) and basal metabolic rate (BMR) are________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A used differently: SMR is measured during exercise, whereas BMR is measured at rest",
+        "images": []
+      },
+      {
+        "text": "B used to compare metabolic rate between hibernating and nonhibernating states",
+        "images": []
+      },
+      {
+        "text": "C both measured across a wide range of temperatures for a given species",
+        "images": []
+      },
+      {
+        "text": "D both standard measurements of fat metabolism in mammals",
+        "images": []
+      },
+      {
+        "text": "E both measured in animals in a resting and fasting state",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. 有關下列元素在植物體所扮演之主要功能的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 磷（P）是核酸、磷脂、ATP和許多酵素的組成物",
+        "images": []
+      },
+      {
+        "text": "B 鐵（Fe）包含在葉綠素的產物中",
+        "images": []
+      },
+      {
+        "text": "C 鎂（Mg）是葉綠素不可或缺元素",
+        "images": []
+      },
+      {
+        "text": "D 硫（S）是蛋白質的基本成份之一",
+        "images": []
+      },
+      {
+        "text": "E 氮（N）是有機物質的基本成份",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. 維生素和身體的健康息息相關，人體缺少維生素A，和下列何種疾病有高度的相關性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 壞血病",
+        "images": []
+      },
+      {
+        "text": "B 夜盲症",
+        "images": []
+      },
+      {
+        "text": "C 不孕症",
+        "images": []
+      },
+      {
+        "text": "D 腳氣病",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. Which of these statements about intrinsic factor is false?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A It helps prevent pernicious anemia.",
+        "images": []
+      },
+      {
+        "text": "B It is secreted by the pancreas.",
+        "images": []
+      },
+      {
+        "text": "C It promotes absorption of vitamin B12 in the intestine.",
+        "images": []
+      },
+      {
+        "text": "D It is a polypeptide.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 泛醌（ubiquinone）被認為與人體能量之製造與活化相關，下列關於泛醌之敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 參與呼吸作用之電子傳遞，作為電子載體",
+        "images": []
+      },
+      {
+        "text": "B 在粒線體膜上並非固著不動的",
+        "images": []
+      },
+      {
+        "text": "C 又稱輔酶Q（coenzyme Q, CoQ），可作為保健食品",
+        "images": []
+      },
+      {
+        "text": "D 屬於蛋白質的一種",
+        "images": []
+      },
+      {
+        "text": "E 為人體內具有高度疏水性之小分子",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 代謝在細胞呼吸過程中，來自食物的大部分電子最初移轉給下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ATP",
+        "images": []
+      },
+      {
+        "text": "B 丙酮酸（pyruvate）",
+        "images": []
+      },
+      {
+        "text": "C NADH",
+        "images": []
+      },
+      {
+        "text": "D 菸鹼醯胺腺嘌呤二核苷酸（NAD+）",
+        "images": []
+      },
+      {
+        "text": "E 菸鹼醯胺腺嘌呤二核苷酸磷酸（NADP+）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 當人體發生陰囊皮炎、口角糜爛、脂溢性皮炎和結膜充血等症狀，是因為人體缺乏下列哪一種物質？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 硫胺素（thiamine）",
+        "images": []
+      },
+      {
+        "text": "B 核黃素（riboflavin）",
+        "images": []
+      },
+      {
+        "text": "C 維生素B12",
+        "images": []
+      },
+      {
+        "text": "D 視黃醇（retinol）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. 下列有關營養缺乏與所導致疾病的配對，何者正確？1.維生素A—夜盲症2.維生素B12—惡性貧血3.維生素C—壞血症4.維生素D—佝僂症5.維生素K—凝血功能異常",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 1, 3, 4",
+        "images": []
+      },
+      {
+        "text": "B 1, 2, 3, 4",
+        "images": []
+      },
+      {
+        "text": "C 1, 3, 4, 5",
+        "images": []
+      },
+      {
+        "text": "D 1, 2, 3, 4, 5",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. The first stable intermediate produced in the Krebs cycle is ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A pyruvate",
+        "images": []
+      },
+      {
+        "text": "B FAD",
+        "images": []
+      },
+      {
+        "text": "C acetyl CoA",
+        "images": []
+      },
+      {
+        "text": "D citrate",
+        "images": []
+      },
+      {
+        "text": "E oxaloacetate",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. Which of the following vitamins is incorrectly associated with its use?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A vitamin B2: component of coenzymes NAD+and NADP+",
+        "images": []
+      },
+      {
+        "text": "B folic acid: coenzyme in nucleic acid and amino acid metabolism",
+        "images": []
+      },
+      {
+        "text": "C vitamin C: used in collagen synthesis",
+        "images": []
+      },
+      {
+        "text": "D vitamin A: component of visual pigments",
+        "images": []
+      },
+      {
+        "text": "E vitamin K: important in blood clotting",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 維生素B12是在消化道何段被吸收？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 胃",
+        "images": []
+      },
+      {
+        "text": "B 空腸",
+        "images": []
+      },
+      {
+        "text": "C 十二指腸",
+        "images": []
+      },
+      {
+        "text": "D 迴腸",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列何者為植物生長發育需求量較多的巨量營養素（macronutrient）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Na",
+        "images": []
+      },
+      {
+        "text": "B Fe",
+        "images": []
+      },
+      {
+        "text": "C Zn",
+        "images": []
+      },
+      {
+        "text": "D Cu",
+        "images": []
+      },
+      {
+        "text": "E K",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. Trace elements are those required by an organism in only minute quantities. Which of the following is a trace element that is needed by all forms of life?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A calcium",
+        "images": []
+      },
+      {
+        "text": "B iron",
+        "images": []
+      },
+      {
+        "text": "C iodine",
+        "images": []
+      },
+      {
+        "text": "D sodium",
+        "images": []
+      },
+      {
+        "text": "E potassium",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 假設存在有一種代謝毒物（metabolic poison）可以特異地抑制粒線體ATP合成酵素（mitochondrial ATP synthase），則下列何種情況將是可預見之結果？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 粒線體內膜（inner mitochondrial membrane）兩側的pH值差距縮小",
+        "images": []
+      },
+      {
+        "text": "B 粒線體內膜兩側的pH值差距擴大",
+        "images": []
+      },
+      {
+        "text": "C 氧的消耗（oxygen consumption）將停止",
+        "images": []
+      },
+      {
+        "text": "D 由電子傳遞鏈所造成的質子唧動（proton pumping）將停止",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 在降解作用（catabolism）中，何種過程中會釋放大部分的二氧化碳？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 醣原酵解（glycolysis）",
+        "images": []
+      },
+      {
+        "text": "B 檸檬酸循環（citric acid cycle）",
+        "images": []
+      },
+      {
+        "text": "C 乳酸發酵（lactate fermentation）",
+        "images": []
+      },
+      {
+        "text": "D 電子傳遞（electron transport）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. 植物生長發育需要一些微量營養素（micronutrient）如錳，鉬等元素，下列敘述何者正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 是形成植物細胞膜需要使用的營養素",
+        "images": []
+      },
+      {
+        "text": "B 此類營養素大多是在細胞壁被發現",
+        "images": []
+      },
+      {
+        "text": "C 在某些細胞反應中作為輔助因子（cofactors）",
+        "images": []
+      },
+      {
+        "text": "D 與巨量營養素（macronutrient）產生鍵合的營養素",
+        "images": []
+      },
+      {
+        "text": "E 為構成植物體的有機成分和形成基本架構",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 一酵母菌的粒線體DNA發生突變導致粒線體不分裂，將此酵母菌塗在含葡萄糖的培養基上培養，會有何種結果？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 粒線體DNA很重要，沒有菌落形成",
+        "images": []
+      },
+      {
+        "text": "B 粒線體DNA不重要，有正常菌落形成",
+        "images": []
+      },
+      {
+        "text": "C 核中還有 DNA，會有一半數目的菌落形成",
+        "images": []
+      },
+      {
+        "text": "D 醣解作用可提供能量，會有比較小的菌落形成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. Which of the following vitamins involves primarily in transamination reactions of amino acid metabolism?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Vitamin C",
+        "images": []
+      },
+      {
+        "text": "B Vitamin E",
+        "images": []
+      },
+      {
+        "text": "C Vitamin B6",
+        "images": []
+      },
+      {
+        "text": "D Vitamin B12",
+        "images": []
+      },
+      {
+        "text": "E Vitamin A",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. 組成下列哪種酵素是粒線體執行其生理生化功能所必需？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 細胞色素氧化酶（cytochrome oxidase）",
+        "images": []
+      },
+      {
+        "text": "B 氨醯化合成酶（aminoacyl synthetase）",
+        "images": []
+      },
+      {
+        "text": "C 環己亞胺（cycloheximide）",
+        "images": []
+      },
+      {
+        "text": "D 酯酶（esterase）",
+        "images": []
+      },
+      {
+        "text": "E 己糖激酶（hexokinase）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 長期缺乏維他命A會造成失明，其原因和下列何者有關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 缺乏維他命A會造成水晶體混濁，光線不易進入",
+        "images": []
+      },
+      {
+        "text": "B 缺乏維他命A會造成瞳孔括約肌病變，無法調整進入眼睛光線的量",
+        "images": []
+      },
+      {
+        "text": "C 缺乏維他命A會使得水晶體無法聚焦",
+        "images": []
+      },
+      {
+        "text": "D 缺乏維他命A會使得光感受細胞（rod cell）上視紫（rhodopsin）無法形成",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 人體細胞中巨分子的組成元素以何者為最多？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A C和H",
+        "images": []
+      },
+      {
+        "text": "B O和N",
+        "images": []
+      },
+      {
+        "text": "C Ca和K",
+        "images": []
+      },
+      {
+        "text": "D P和S",
+        "images": []
+      },
+      {
+        "text": "E Mn和Na",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 下列疾病為維生素缺乏所造成，依照維生素A、維生素B12、維生素C、維生素D、維生素K，按順序配對相對應之疾病，下列組合何者正確？甲、夜盲症乙、惡性貧血丙、壞血症丁、佝僂症戊、凝血功能異常",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 甲乙丙丁戊",
+        "images": []
+      },
+      {
+        "text": "B 乙丙甲丁戊",
+        "images": []
+      },
+      {
+        "text": "C 甲丁丙乙戊",
+        "images": []
+      },
+      {
+        "text": "D 甲戊乙丁丙",
+        "images": []
+      },
+      {
+        "text": "E 甲丙乙丁戊",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 胃切除之病人，會引起下列何種維生素的缺乏？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 維生素B1",
+        "images": []
+      },
+      {
+        "text": "B 維生素B2",
+        "images": []
+      },
+      {
+        "text": "C 維生素B6",
+        "images": []
+      },
+      {
+        "text": "D 維生素B12",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  }
+]

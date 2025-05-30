@@ -1,0 +1,1501 @@
+[
+  {
+    "id": 1,
+    "type": "單選題",
+    "question": "1. 在一個小城鎮的人口出生率每年為千分之17，死亡率為千分之5，遷出率為千分之9，遷入率為千分之6，則此小城鎮的人口年增長率為何？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 0.7%",
+        "images": []
+      },
+      {
+        "text": "B 0.9%",
+        "images": []
+      },
+      {
+        "text": "C 1.9%",
+        "images": []
+      },
+      {
+        "text": "D 7%",
+        "images": []
+      },
+      {
+        "text": "E 9%",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "單選題",
+    "question": "2. Which of the following is NOT true about estuaries?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Estuaries are often bordered by mudflats and salt marshes.",
+        "images": []
+      },
+      {
+        "text": "B Estuaries contain waters of varying salinity.",
+        "images": []
+      },
+      {
+        "text": "C Estuaries support a variety of animal life that humans consume.",
+        "images": []
+      },
+      {
+        "text": "D Estuaries usually contain no or few producers.",
+        "images": []
+      },
+      {
+        "text": "E Estuaries support many semiaquatic species.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "單選題",
+    "question": "3. The life history strategy of an k-selected species is to",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A take advantage of human activity, such as clearing woodlots.",
+        "images": []
+      },
+      {
+        "text": "B allocate energy to their own survival and to the survival of their descendants.",
+        "images": []
+      },
+      {
+        "text": "C produce thousands of eggs.",
+        "images": []
+      },
+      {
+        "text": "D become prey.",
+        "images": []
+      },
+      {
+        "text": "E reproduce at early age.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "單選題",
+    "question": "4. Which of the following is NOT a density-dependent regulation of population size?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A competition",
+        "images": []
+      },
+      {
+        "text": "B disease",
+        "images": []
+      },
+      {
+        "text": "C predation",
+        "images": []
+      },
+      {
+        "text": "D biotic potential",
+        "images": []
+      },
+      {
+        "text": "E toxic waste",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "單選題",
+    "question": "5. 對湖泊優養化環境（eutrophic conditions）的敘述何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 營養盬濃度高",
+        "images": []
+      },
+      {
+        "text": "B 藻類過度生長形成藻華",
+        "images": []
+      },
+      {
+        "text": "C 水中含氧量太高",
+        "images": []
+      },
+      {
+        "text": "D 湖水濁度較高",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "單選題",
+    "question": "6. 下列有關陸域生態系的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 亞洲東南部地區為全球第二大的熱帶雨林地區",
+        "images": []
+      },
+      {
+        "text": "B 沙漠中的灌木大多數為淺根性的，利於雨季來臨時的水分吸收",
+        "images": []
+      },
+      {
+        "text": "C 針葉林主要是由常綠針葉樹種所組成",
+        "images": []
+      },
+      {
+        "text": "D 溫帶草原的初級生產力取決於年平均降雨量，亦會受溫度影響",
+        "images": []
+      },
+      {
+        "text": "E 許多地中海型林地的喬木，有厚實的樹皮可以防火",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "單選題",
+    "question": "7. Which of the following word pairs are MISMATCHED?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A Random distribution: aggressive interaction.",
+        "images": []
+      },
+      {
+        "text": "B Clumped distribution: attraction to a common source.",
+        "images": []
+      },
+      {
+        "text": "C Regular distribution: antagonistic behaviors.",
+        "images": []
+      },
+      {
+        "text": "D Large scale distribution: substantial environmental changes.",
+        "images": []
+      },
+      {
+        "text": "E Small scale distribution: insignificant environmental changes.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "單選題",
+    "question": "8. 優養化現象（Eutrophication）指的是下列何者？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 養分豐富的水域生態系",
+        "images": []
+      },
+      {
+        "text": "B 養分豐富的土壤生態系",
+        "images": []
+      },
+      {
+        "text": "C 養分因滲出而從水域生態系消失",
+        "images": []
+      },
+      {
+        "text": "D 養分因過濾作用而從土壤流失",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "單選題",
+    "question": "9. 生態系中，生物碎屑的氮經過下列何種過程轉換後，才可供植物吸收利用？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 分解作用（decomposition）",
+        "images": []
+      },
+      {
+        "text": "B 化學風化（chemical weathering）",
+        "images": []
+      },
+      {
+        "text": "C 固氮作用（nitrogen fixation）",
+        "images": []
+      },
+      {
+        "text": "D 脫氮作用（denitrification）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "單選題",
+    "question": "10. El Niño events",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A occur when the Southern Oscillation index is high.",
+        "images": []
+      },
+      {
+        "text": "B occur when barometric pressure is lower in the western Pacific than in the eastern Pacific.",
+        "images": []
+      },
+      {
+        "text": "C include the appearance of warm currents on the Pacific coast of South America.",
+        "images": []
+      },
+      {
+        "text": "D are always accompanied by La Niña events at the same time.",
+        "images": []
+      },
+      {
+        "text": "E are accompanied by westward movement of the location of storm generation in the Pacific.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "單選題",
+    "question": "11. 在族群生態學中，邏輯族群成長模型（logistic population growth model）之邏輯成長方程式值會影響的值，其中N代表族群大小、K代表族群負載量（carrying capacity）、ΔN代表族群改變量、Δt代表觀察族群生長的時間間隔，下列敍述何者最正確？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/056.png",
+      "https://www.ibrain.com.tw/file/quiz/404/057.png"
+    ],
+    "options": [
+      {
+        "text": "A 當N值小時，族群數增加最大",
+        "images": []
+      },
+      {
+        "text": "B 當K值小時，密度依賴因子的影響較小",
+        "images": []
+      },
+      {
+        "text": "C 當N與K相等時，族群為零成長",
+        "images": []
+      },
+      {
+        "text": "D 當N趨近K值時，出生率接近零",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "單選題",
+    "question": "12. Analysis of the Lotka-Volterra competition model implies that two competitors can coexist only when",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A interspecific competition is stronger than intraspecific competition.",
+        "images": []
+      },
+      {
+        "text": "B intraspecific competition is stronger than interspecific competition.",
+        "images": []
+      },
+      {
+        "text": "C intraspecific and interspecific competition are equally strong.",
+        "images": []
+      },
+      {
+        "text": "D predation or parasitism is stronger than interspecific competition.",
+        "images": []
+      },
+      {
+        "text": "E actually, the model implies that two competitors can never coexist.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "單選題",
+    "question": "13. 聯合國在2015年公告17項全球永續發展目標（Sustainable Development Goals，簡稱SDG），其中SDG 14海洋資源保育及永續利用，SDG 15保護陸域生態系，對抗土地劣化並遏制生物多樣性的喪失，顯示永續生態系受到相當的重視。關於陸域和水域生物相的敘述，下列何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 水域生物相涵蓋生物圈中最大範圍與面積",
+        "images": []
+      },
+      {
+        "text": "B 許多水域生物相的變因都表現出明顯的垂直分層，例如光線強度隨水深遞減",
+        "images": []
+      },
+      {
+        "text": "C 陸域生物相多隨經度變化而有不同的樣式",
+        "images": []
+      },
+      {
+        "text": "D 不論水域或陸域生物相都會受天然干擾而動態變化，而非穩定一成不變",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "單選題",
+    "question": "14. 下列哪個生態系的每平方公尺初級生產力（Primary Productivity）最低？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 淡水河口",
+        "images": []
+      },
+      {
+        "text": "B 福山植物園",
+        "images": []
+      },
+      {
+        "text": "C 大鵬灣",
+        "images": []
+      },
+      {
+        "text": "D 東海（The East China Sea）",
+        "images": []
+      },
+      {
+        "text": "E 太平洋的遠洋",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "單選題",
+    "question": "15. Which of the following cannot be determined using a fecundity schedule combined with a life table?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A per capital rate of increase.",
+        "images": []
+      },
+      {
+        "text": "B net reproductive rate.",
+        "images": []
+      },
+      {
+        "text": "C mean generation time.",
+        "images": []
+      },
+      {
+        "text": "D dispersal rates.",
+        "images": []
+      },
+      {
+        "text": "E geometric rate of increase.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "單選題",
+    "question": "16. A group of subpopulations living in spatially isolated patches connected by exchange of individuals among patches is called a",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A micropopulation.",
+        "images": []
+      },
+      {
+        "text": "B megapopulation.",
+        "images": []
+      },
+      {
+        "text": "C isopopulation.",
+        "images": []
+      },
+      {
+        "text": "D allopopulation.",
+        "images": []
+      },
+      {
+        "text": "E metapopulation.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "單選題",
+    "question": "17. 下圖為三種類動物的族群成長模式圖，分別為：①引進鹿至一隔離島上，島上並無鹿的天敵、疾病或寄生蟲。②目前世界人類的人口成長模式。③某森林內一小群老鼠開始拓殖。請問下列配對何者正確？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/053.png"
+    ],
+    "options": [
+      {
+        "text": "A ①－B　②－A　③－C",
+        "images": []
+      },
+      {
+        "text": "B ①－C　②－B　③－A",
+        "images": []
+      },
+      {
+        "text": "C ①－A　②－B　③－C",
+        "images": []
+      },
+      {
+        "text": "D ①－B　②－C　③－A",
+        "images": []
+      },
+      {
+        "text": "E ①－A　②－C　③－B",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "單選題",
+    "question": "18. 下列哪一生態環境其能量（或食物）的來源主要源自於外界（非由自身初級生產者所產生）？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 珊瑚礁生態系（Coral reef）",
+        "images": []
+      },
+      {
+        "text": "B 熱帶雨林",
+        "images": []
+      },
+      {
+        "text": "C 溪流（Stream）",
+        "images": []
+      },
+      {
+        "text": "D 草澤（Marsh）",
+        "images": []
+      },
+      {
+        "text": "E 草原",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "單選題",
+    "question": "19. 下列何者是近年來造成亞馬遜雨林受到破壞的最主要因素？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 全球氣候變化",
+        "images": []
+      },
+      {
+        "text": "B 森林砍伐",
+        "images": []
+      },
+      {
+        "text": "C 酸雨",
+        "images": []
+      },
+      {
+        "text": "D 外來入侵物種",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "單選題",
+    "question": "20. 學者利用標記－再捕捉法（A mark-recapture method）研究墾丁梅花鹿的族群數量，共捕獲50隻梅花鹿，標記後放回。第二次捕捉時共捕獲100隻梅花鹿，其中10隻具有標記。試問墾丁梅花鹿的族群數量依估計應為多少隻？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 250隻",
+        "images": []
+      },
+      {
+        "text": "B 500隻",
+        "images": []
+      },
+      {
+        "text": "C 1000隻",
+        "images": []
+      },
+      {
+        "text": "D 2000隻",
+        "images": []
+      },
+      {
+        "text": "E 4000隻",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "單選題",
+    "question": "21. 在利用捉放法研究湖中鱒魚族群時，共捕獲40隻魚，在完成標記後放回原棲地，第二次捕捉時，共捕獲40隻魚，其中10隻有標記，據此估計此湖中鱒魚的族群數量有多少隻？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 40隻",
+        "images": []
+      },
+      {
+        "text": "B 80隻",
+        "images": []
+      },
+      {
+        "text": "C 160隻",
+        "images": []
+      },
+      {
+        "text": "D 320隻",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "單選題",
+    "question": "22. 在下列何者不屬於r－選擇植物物種（r－selected plant species）的基本特徵：",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 小體型",
+        "images": []
+      },
+      {
+        "text": "B 快速成長",
+        "images": []
+      },
+      {
+        "text": "C 短壽命",
+        "images": []
+      },
+      {
+        "text": "D 產生許多小種子",
+        "images": []
+      },
+      {
+        "text": "E 種子擴散能力弱",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "單選題",
+    "question": "23. 下圖為田鼠在1990到2010年間的族群數量變化情形。依據此圖，請問下列關於其族群數量變化的敘述，何者最不合理？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/051.png"
+    ],
+    "options": [
+      {
+        "text": "A 此族群的數量變動，在1996、2002、2009年，可能因食物量特別豐富，導致族群數量變多",
+        "images": []
+      },
+      {
+        "text": "B 此族群的數量變動，有多年的週期性",
+        "images": []
+      },
+      {
+        "text": "C 此族群的數量變動，可能受到疾病的控制",
+        "images": []
+      },
+      {
+        "text": "D 此族群的數量變動，可能受到掠食者的控制",
+        "images": []
+      },
+      {
+        "text": "E 此族群的數量變動，在長期上呈逐步成長的趨勢",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "單選題",
+    "question": "24. The Morakot typhoon inflicted catastrophic damages on rivers and wiped out entire population of fishes in the river. This is an example of",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a density-dependent effect.",
+        "images": []
+      },
+      {
+        "text": "B the effects of abiotic factors.",
+        "images": []
+      },
+      {
+        "text": "C the interaction between density-dependent and abiotic factors.",
+        "images": []
+      },
+      {
+        "text": "D founder effect.",
+        "images": []
+      },
+      {
+        "text": "E dispersal effect.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "單選題",
+    "question": "25. Physiological ecologists study",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A nutrient cycling and energy flow through ecosystems.",
+        "images": []
+      },
+      {
+        "text": "B exchanges of materials, energy, and organisms between communities.",
+        "images": []
+      },
+      {
+        "text": "C physiological and anatomical mechanisms by which organisms deal with variation in their physical and chemical environment.",
+        "images": []
+      },
+      {
+        "text": "D physiological and anatomical mechanisms by which organisms deal with variation in their social environment.",
+        "images": []
+      },
+      {
+        "text": "E None of the choices are correct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "單選題",
+    "question": "26. Which group includes members that are important primary producers in ocean food webs, causes red tides that kill many fish, and may even be carnivorous?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ciliates",
+        "images": []
+      },
+      {
+        "text": "B apicomplexans",
+        "images": []
+      },
+      {
+        "text": "C dinoflagellates",
+        "images": []
+      },
+      {
+        "text": "D brown algae",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "單選題",
+    "question": "27. 有關下列海洋生物的生態功能，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 矽藻（diatom）為生產者",
+        "images": []
+      },
+      {
+        "text": "B 甲藻（dinoflagellate）為生產者",
+        "images": []
+      },
+      {
+        "text": "C 纖毛蟲（cilliate）為消費者",
+        "images": []
+      },
+      {
+        "text": "D 真菌（fungi）為分解者",
+        "images": []
+      },
+      {
+        "text": "E 藍綠菌（cyanobacteria）為分解者",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "單選題",
+    "question": "28. 從演化學觀點而言，某類生物行為的表現與該行為成本（cost）與利益（benefit）的關係明顯。下圖為親代對子代照顧行為（parental care）與子代年齡成長變化的成本利益分析，請問圖上那一區域為親子矛盾（parent-offspring conflict）開始產生處？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/054.png"
+    ],
+    "options": [
+      {
+        "text": "A X區域",
+        "images": []
+      },
+      {
+        "text": "B Y區域",
+        "images": []
+      },
+      {
+        "text": "C Z區域",
+        "images": []
+      },
+      {
+        "text": "D X＋Y區域",
+        "images": []
+      },
+      {
+        "text": "E X＋Y＋Z區域",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "單選題",
+    "question": "29. Which of the following areas of study examines energy flow and chemical cycling between organisms and the environment?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A population ecology",
+        "images": []
+      },
+      {
+        "text": "B community ecology",
+        "images": []
+      },
+      {
+        "text": "C ecosystem ecology",
+        "images": []
+      },
+      {
+        "text": "D landscape ecology",
+        "images": []
+      },
+      {
+        "text": "E global ecology",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "單選題",
+    "question": "30. What are the most abundant animals found in the pelagic zone?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A echinoderms",
+        "images": []
+      },
+      {
+        "text": "B cnidarians",
+        "images": []
+      },
+      {
+        "text": "C zooplankton",
+        "images": []
+      },
+      {
+        "text": "D dinoflagellates",
+        "images": []
+      },
+      {
+        "text": "E marine mammals",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "單選題",
+    "question": "31. Estimates of the number of species present in a community",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A are not affected by the sampling effort devoted to estimation.",
+        "images": []
+      },
+      {
+        "text": "B usually require only limited effort by ecologists.",
+        "images": []
+      },
+      {
+        "text": "C can usually be made more easily by sampling only a single indicator taxon.",
+        "images": []
+      },
+      {
+        "text": "D are all that is necessary to calculate species diversity.",
+        "images": []
+      },
+      {
+        "text": "E must, to be useful, be based on standardized sampling techniques.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "單選題",
+    "question": "32. 台南四草濕地屬於國家重要濕地，假設濕地植物海茄苳在此四草濕地中，平均每一百平方公尺有2株海茄苳，下列何者是此敘述所代表的特性？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 分布（dispersion）模式",
+        "images": []
+      },
+      {
+        "text": "B 遷出（emigration）數目",
+        "images": []
+      },
+      {
+        "text": "C 密度（density）",
+        "images": []
+      },
+      {
+        "text": "D 穩定度（equability）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "單選題",
+    "question": "33. 標記－再捕捉法（mark-recapture method）是最常用來估算族群個體數量的方式。研究者第一次捕抓50隻鯉魚，標記後釋放，第二次捕捉時200隻鯉魚中有8隻帶有先前標記，則估計該湖泊中鯉魚族群之個體數量最接近？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 400",
+        "images": []
+      },
+      {
+        "text": "B 600",
+        "images": []
+      },
+      {
+        "text": "C 1200",
+        "images": []
+      },
+      {
+        "text": "D 1600",
+        "images": []
+      }
+    ],
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "單選題",
+    "question": "34. 下圖為三種族群密度依變（density dependence）模式的可能情形，圖中b為族群出生率（實線）、d為族群死亡率（虛線）、N為族群量，C與D分別對應圖中出生率與死亡率交會時的族群量。依下圖，下列敘述，何者錯誤？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/052.png"
+    ],
+    "options": [
+      {
+        "text": "A 若族群量處在C點以下，族群淨成長率是負值",
+        "images": []
+      },
+      {
+        "text": "B 若族群量處在C點以下，其族群量的變化，主要因艾里效應（Allee effect）所造成",
+        "images": []
+      },
+      {
+        "text": "C 若族群量處在C點以下，可能導致族群滅絕",
+        "images": []
+      },
+      {
+        "text": "D 若族群量處在C與D點之間，族群量可持續增加",
+        "images": []
+      },
+      {
+        "text": "E 若族群量在D點以上，族群量可持續增加",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "單選題",
+    "question": "35. dN/dt＝rmaxN [（K–N）/K] represents",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A annual growth rate.",
+        "images": []
+      },
+      {
+        "text": "B geometric population growth.",
+        "images": []
+      },
+      {
+        "text": "C exponential growth rate.",
+        "images": []
+      },
+      {
+        "text": "D logistic growth.",
+        "images": []
+      },
+      {
+        "text": "E none of the choices are correct.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "單選題",
+    "question": "36. 下列不同類型之生態系統（Ecosystem）中，何者淨初級生產力（Net primary productivity）最低？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 大洋（Open ocean）",
+        "images": []
+      },
+      {
+        "text": "B 熱帶雨林（Tropical rain forest）",
+        "images": []
+      },
+      {
+        "text": "C 稀樹大草原（Savanna）",
+        "images": []
+      },
+      {
+        "text": "D 沼澤（Swamp）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "單選題",
+    "question": "37. A community is defined as",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A a group of organisms that all make their living in a similar way.",
+        "images": []
+      },
+      {
+        "text": "B a group of individuals of a single species inhabiting a defined area.",
+        "images": []
+      },
+      {
+        "text": "C the portion of a defined area that supports life.",
+        "images": []
+      },
+      {
+        "text": "D a group of subpopulations living in separate locations with active exchange of individuals among subpopulations.",
+        "images": []
+      },
+      {
+        "text": "E an association of interacting species inhabiting a defined area.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "E"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "單選題",
+    "question": "38. 有關物種間競爭（interspecific competition）的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 種間競爭通常發生於不同物種利用共同資源時",
+        "images": []
+      },
+      {
+        "text": "B 種間競爭會影響物種棲位（niche）的改變",
+        "images": []
+      },
+      {
+        "text": "C 種間競爭會受環境因子如溫度、土壤或水中酸鹼值等所影響",
+        "images": []
+      },
+      {
+        "text": "D 依據 Lotka-Volterra 競爭模式預測，種間競爭將導致競爭物種無法共存",
+        "images": []
+      },
+      {
+        "text": "E 種間競爭會包括競爭多重資源",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "單選題",
+    "question": "39. 下列有關紅樹林的敘述何者不正確？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 紅樹林分布於河海交界的河口處",
+        "images": []
+      },
+      {
+        "text": "B 紅樹林主要分布在熱帶和亞熱帶氣候區的河口",
+        "images": []
+      },
+      {
+        "text": "C 水筆仔、海茄苳都是紅樹林植物",
+        "images": []
+      },
+      {
+        "text": "D 河口環境嚴苛，因此紅樹林生態系的初級生產量是很低的",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "單選題",
+    "question": "40. 慶網蛺蝶（Melitaea cinxia）的研究突顯族群遷入與遷出的重要性，進而了解區塊棲地中的族群變動與基因流動。下列何種概念最為接近此現象?",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 關聯族群（metapopulation）",
+        "images": []
+      },
+      {
+        "text": "B 同齡群（cohort）",
+        "images": []
+      },
+      {
+        "text": "C 優勢物種（dominant species）",
+        "images": []
+      },
+      {
+        "text": "D 關鍵物種（keystone species）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "單選題",
+    "question": "41. 關於“生物群落（biotic community）及其非生物環境的相互作用”，最接近於下列何者的定義？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 生物圈（biosphere）",
+        "images": []
+      },
+      {
+        "text": "B 生態系（ecosystem）",
+        "images": []
+      },
+      {
+        "text": "C 族群（population）",
+        "images": []
+      },
+      {
+        "text": "D 生物群落（biome）",
+        "images": []
+      },
+      {
+        "text": "E 物種（species）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "單選題",
+    "question": "42. 有關湖泊受到過多營養物質流入而導致優養化後造成魚類死亡的現象，下列何者是最主要的原因？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 湖泊的養分流入使藻類和藍綠細菌族群急速增長，促進細菌對死亡藻類和藍綠細菌的分解，導致水中氧氣消耗殆盡，致使魚類缺氧死亡",
+        "images": []
+      },
+      {
+        "text": "B 湖泊的養分流入使藻類和藍綠細菌族群急速增長，減少光線進入湖泊而使水溫下降，最終導致魚類死亡",
+        "images": []
+      },
+      {
+        "text": "C 湖泊的養分流入使藻類和藍綠細菌急速增長，造成有機化合物的消耗，減少了湖內魚類的食物供應而導致死亡",
+        "images": []
+      },
+      {
+        "text": "D 湖泊的養分流入導致湖內魚類被毒害死亡",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "單選題",
+    "question": "43. When climbing a mountain, we can observe transitions in biological communities that are analogous to the changes ________.",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A in different depths in the ocean.",
+        "images": []
+      },
+      {
+        "text": "B in biomes at different latitudes.",
+        "images": []
+      },
+      {
+        "text": "C in an ecosystem as it evolves over time.",
+        "images": []
+      },
+      {
+        "text": "D in a community through different seasons.",
+        "images": []
+      },
+      {
+        "text": "E in a composition of different atmosphere.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "單選題",
+    "question": "44. 下列那一類群動物嚴格地說都生存於海域，並無淡水或陸生型種類？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 棘皮動物（echinoderms）",
+        "images": []
+      },
+      {
+        "text": "B 扁型動物（flatworms）",
+        "images": []
+      },
+      {
+        "text": "C 刺胞動物（cnidarians）",
+        "images": []
+      },
+      {
+        "text": "D 軟體動物（mollusks）",
+        "images": []
+      },
+      {
+        "text": "E 環節動物（annelids）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 45,
+    "type": "單選題",
+    "question": "45. The main source of energy for producers in an ecosystem is",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A light energy.",
+        "images": []
+      },
+      {
+        "text": "B kinetic energy.",
+        "images": []
+      },
+      {
+        "text": "C thermal energy.",
+        "images": []
+      },
+      {
+        "text": "D chemical energy.",
+        "images": []
+      },
+      {
+        "text": "E ATP.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 46,
+    "type": "單選題",
+    "question": "46. The study of the relationship between climate and the timing of ecological events is called",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A ecology.",
+        "images": []
+      },
+      {
+        "text": "B phenology.",
+        "images": []
+      },
+      {
+        "text": "C succession.",
+        "images": []
+      },
+      {
+        "text": "D climatology.",
+        "images": []
+      },
+      {
+        "text": "E life history theory.",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 47,
+    "type": "單選題",
+    "question": "47. 下列有關優養化（eutrophication）的敘述，何者錯誤？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 其沉積物質常使底棲生物死亡",
+        "images": []
+      },
+      {
+        "text": "B 會導致氧氣消耗，使生物窒息死亡",
+        "images": []
+      },
+      {
+        "text": "C 常產生毒性效應",
+        "images": []
+      },
+      {
+        "text": "D 常發生於大洋或遠洋",
+        "images": []
+      },
+      {
+        "text": "E 若發生於河口，主要是營養鹽過剩所導致",
+        "images": []
+      }
+    ],
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": 48,
+    "type": "單選題",
+    "question": "48. 下圖是生物依其在不同年齡的生物數量繪製成的生存曲線圖。現有三種生物：水螅、牡犡、人類，請問他們的生存曲線與下圖最可能的配對為何者？",
+    "question_images": [
+      "https://www.ibrain.com.tw/file/quiz/404/055.png"
+    ],
+    "options": [
+      {
+        "text": "A A-人類　C-水螅　E-牡犡",
+        "images": []
+      },
+      {
+        "text": "B A-牡犡　B-水螅　C-人類",
+        "images": []
+      },
+      {
+        "text": "C B-人類　D-牡犡　E-水螅",
+        "images": []
+      },
+      {
+        "text": "D B-牡犡　C-人類　D-水螅",
+        "images": []
+      },
+      {
+        "text": "E C-水螅　D-牡犡　E-人類",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 49,
+    "type": "單選題",
+    "question": "49. 何者位於淡水（freshwater）和鹹水（saltwater）交界？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 溼地（wetlands）",
+        "images": []
+      },
+      {
+        "text": "B 河口（estuaries）",
+        "images": []
+      },
+      {
+        "text": "C 淺海區（euphotic zone）",
+        "images": []
+      },
+      {
+        "text": "D 潮間帶（intertidal zone）",
+        "images": []
+      }
+    ],
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 50,
+    "type": "單選題",
+    "question": "50. 沙漠植物的開花與結果與何種環境因子最相關？",
+    "question_images": [],
+    "options": [
+      {
+        "text": "A 雨水",
+        "images": []
+      },
+      {
+        "text": "B 傳粉者",
+        "images": []
+      },
+      {
+        "text": "C 溫度",
+        "images": []
+      },
+      {
+        "text": "D 光線",
+        "images": []
+      }
+    ],
+    "answer": [
+      "A"
+    ]
+  }
+]
