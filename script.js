@@ -59,7 +59,7 @@
             marks = {};
             currentIndex = 0; // 重置當前題目索引
 
-            const res = await fetch(`./quiz_json/${selectedFile}`);
+            const res = await fetch(`./${selectedFile}`);
             if (!res.ok) throw new Error(`載入題庫失敗: ${selectedFile}`);
             
             questions = await res.json();
