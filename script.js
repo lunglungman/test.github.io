@@ -137,7 +137,7 @@
                 ${imagesHTML}
                 <form id="options-form">
                     <fieldset>
-                        <legend>請選擇答案：(${q.type})</legend>
+                        <legend>(${q.type})</legend>
                         ${q.options.map((opt, optIndex) => `
                             <label class="option-block" data-option-index="${optIndex + 1}">
                                 <input type="${[QUESTION_TYPES.MULTIPLE_CHOICE, QUESTION_TYPES.MULTIPLE_ANSWER_SINGLE_CHOICE].includes(q.type) ? 'checkbox' : 'radio'}"
