@@ -133,7 +133,7 @@
 
         container.innerHTML = `
             <div class="question-block">
-                <h3 class="question-title">第 ${currentIndex + 1} 題: ${q.question}</h3>
+                <h3 class="question-title">${q.question}</h3>
                 ${imagesHTML}
                 <form id="options-form">
                     <fieldset>
