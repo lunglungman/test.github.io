@@ -1,183 +1,400 @@
+/* --- CSS 變數 --- */
+:root {
+    --primary-color: #465B69; /* 主要互動色 */
+    --secondary-bg: #f1f1f1; /* 側邊欄背景色 */
+    --border-color: #ccc; /* 邊框顏色 */
+    --text-color-dark: #333; /* 主要文字顏色 */
+    --text-color-light: #666; /* 次要文字顏色 */
+    --answered-bg: rgba(255, 0, 0, 0.1); /* 已作答背景色 (淡紅) */
+    --answered-text-color: #ff0000; /* 已作答文字顏色 (紅) */
+    --marked-bg: yellow; /* 標記背景色 */
+    --hover-bg-light: #e3f2fd; /* 輕微懸停背景色 */
+    --gap-small: 5px;
+    --gap-medium: 10px;
+    --gap-large: 20px;
+    --transition-speed: 0.3s;
+}
+
+/* --- 通用佈局與根元素 --- */
 body {
-  display: flex;
-  height: 100vh;
-  margin: 0;
+    display: flex;
+    min-height: 100vh; /* 確保至少佔滿視窗高度 */
+    margin: 0;
+    font-family: sans-serif; /* 基礎字體 */
+    color: var(--text-color-dark);
 }
 
 #sidebar {
-  flex-shrink: 0; /* 不能被壓縮 */
-  width: 200px; /* 固定側邊欄寬度 */
-  min-width: 200px;
-  order: 1; /* 側邊欄順位第二 */
-  background: #f1f1f1;
-  padding: 10px;
-  overflow-y: auto;
-  border-right: 1px solid #ccc;
-  transition: width 0.3s ease-in-out;
-}
-
-#quizTitle {
-  text-align: center; /* 置中 */
-  font-size: 24px; /* 調整字體大小 */
-  font-weight: bold; /* 加粗 */
-  margin-top: 0px; /* 與上方內容留出間距 */
+    flex-shrink: 0; /* 不能被壓縮 */
+    width: 200px; /* 固定側邊欄寬度 */
+    min-width: 180px; /* 最小寬度避免內容擠壓 */
+    background: var(--secondary-bg);
+    padding: var(--gap-medium);
+    overflow-y: auto; /* 超出內容時顯示滾動條 */
+    border-right: 1px solid var(--border-color);
+    transition: width var(--transition-speed) ease-in-out;
+    display: flex; /* 使用 Flexbox 讓內部元素垂直堆疊 */
+    flex-direction: column;
+    gap: var(--gap-medium); /* 元素間距 */
 }
 
 /* 主要作答區 */
 #main {
-  flex-grow: 1; /* 讓其填滿剩餘空間 */
-  order: 2; /* 作答區順位最低 */
-  padding: 20px;
-  min-width: 500px;
+    flex-grow: 1; /* 讓其填滿剩餘空間 */
+    padding: var(--gap-large);
+    min-width: 500px; /* 確保在寬螢幕上有足夠空間 */
+    display: flex; /* 使用 Flexbox 讓內部元素垂直堆疊 */
+    flex-direction: column;
+    gap: var(--gap-medium); /* 元素間距 */
 }
 
-/* 🔹 題目區塊 */
-.question-block {
-  opacity: 0;
-  transform: translateY(20px);
-  animation: fadeIn 0.3s forwards;
-}
-@keyframes fadeIn {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+#quizTitle {
+    text-align: center;
+    font-size: 1.8em; /* 相對字體大小 */
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: var(--gap-large);
+    color: var(--primary-color);
 }
 
-/* 🔹 已回答與標記題目 */
-.marked {
-  background: yellow;
+/* --- 側邊欄元件 --- */
+#quizSelector {
+    width: 100%;
+    padding: var(--gap-small);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    font-size: 1em;
 }
 
-.answered {
-  font-weight: bold;
-  color: #ff0000; /* 突出顯示已回答題目 */
-  background: rgba(255, 0, 0, 0.1); /* 增加淡紅色背景 */
-  padding: 5px;
-  border-radius: 4px;
-  transition: background 0.3s;
+#loadQuizBtn {
+    width: 100%;
+    padding: var(--gap-medium);
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color var(--transition-speed);
 }
 
-.answered:hover {
-  background: rgba(255, 0, 0, 0.2); /* 滑鼠懸停時加深背景色 */
+#loadQuizBtn:hover {
+    background-color: #0056b3;
 }
 
-/* 🔹 題目列表按鈕 */
+#progress-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--gap-small);
+}
+
+#quiz-progress {
+    width: 100%;
+    height: 10px;
+    -webkit-appearance: none; /* 隱藏預設樣式 */
+    appearance: none;
+    border-radius: 5px;
+}
+
+/* 進度條背景 */
+#quiz-progress::-webkit-progress-bar {
+    background-color: #e0e0e0;
+    border-radius: 5px;
+}
+/* 進度條填充 */
+#quiz-progress::-webkit-progress-value {
+    background-color: #28a745; /* 綠色 */
+    border-radius: 5px;
+}
+#quiz-progress::-moz-progress-bar {
+    background-color: #28a745;
+    border-radius: 5px;
+}
+
+/* 題目列表容器 */
+.question-nav {
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap-small);
+}
+
 .question-row {
-  display: flex;
-  gap: 5px;
-  justify-content: center;
-  margin-bottom: 5px;
-  flex-wrap: nowrap; /* 防止換行 */
-}
-
-.question-image {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 10px auto;
-}
-
-.option-image {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 10px 0; /* 移除 auto，確保靠左 */
-  text-align: left; /* 若圖片在父元素內，這可能有幫助 */
+    display: flex;
+    gap: var(--gap-small);
+    justify-content: center;
+    flex-wrap: nowrap; /* 預設不換行 */
 }
 
 .question-row button {
-  width: 35px; /* 縮小按鈕寬度 */
-  height: 35px;
-  font-size: 14px;
-  padding: 5px;
-  text-align: center;
-  border: 1px solid #ccc;
-  background: white;
-  cursor: pointer;
-  transition: background 0.3s;
+    width: 35px;
+    height: 35px;
+    font-size: 0.9em;
+    border: 1px solid var(--border-color);
+    background: white;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background var(--transition-speed), color var(--transition-speed);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.question-row button:hover {
+    background: var(--hover-bg-light);
 }
 
 .question-row button.answered {
-  color: rgb(236, 11, 11);
+    background: var(--answered-bg);
+    color: var(--answered-text-color);
+    font-weight: bold;
 }
 
 .question-row button.marked {
-  background: yellow;
+    background: var(--marked-bg);
+    border-color: orange;
 }
 
-/* 🔹 進度條 */
-#progress-container {
-  margin-bottom: 0px;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.question-row button.current-question {
+    border: 2px solid var(--primary-color);
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    transform: scale(1.1);
+    z-index: 1; /* 確保在最上層 */
 }
 
-#quiz-progress { 
-  width: 100%; height: 10px; /* 調整進度條厚度 */ 
+/* --- 主要內容區塊 --- */
+.question-block {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeIn 0.5s forwards ease-out; /* 調整動畫速度 */
+    background: white;
+    padding: var(--gap-large);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* 🔹 選項區塊 */
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.question-block h3 { /* 從 h2 改為 h3 以符合語義 */
+    margin-top: 0;
+    margin-bottom: var(--gap-medium);
+    font-size: 1.5em;
+}
+
+.question-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: var(--gap-medium) auto; /* 居中圖片 */
+    border-radius: 4px;
+}
+
 fieldset {
-  border: 1px solid #ccc;
-  padding: 10px;
-  border-radius: 5px;
+    border: 1px solid var(--border-color);
+    padding: var(--gap-medium);
+    border-radius: 5px;
+    margin-top: var(--gap-large);
 }
 
 legend {
-  font-weight: bold;
-  color: #333;
+    font-weight: bold;
+    color: var(--text-color-dark);
+    padding: 0 var(--gap-small);
 }
 
 .option-block {
-  display: flex;
-  align-items: center;
-  padding: 10px;
-  cursor: pointer;
-  transition: background 0.2s;
+    display: flex;
+    align-items: flex-start; /* 讓內容從頂部對齊 */
+    padding: var(--gap-medium);
+    cursor: pointer;
+    transition: background var(--transition-speed);
+    line-height: 1.5; /* 增加行高 */
 }
 
 .option-block:hover {
-  background: #e3f2fd;
+    background: var(--hover-bg-light);
 }
 
-.option-block input {
-  margin-right: 10px;
+.option-block input[type="radio"],
+.option-block input[type="checkbox"] {
+    margin-right: var(--gap-medium);
+    flex-shrink: 0; /* 防止 input 被壓縮 */
+    transform: scale(1.2); /* 讓選框大一點 */
+    margin-top: 2px; /* 微調對齊 */
 }
 
+.option-block span {
+    flex-grow: 1; /* 讓文字佔滿剩餘空間 */
+}
+
+.option-image {
+    max-width: 100%; /* 確保圖片不超出選項寬度 */
+    height: auto;
+    display: block;
+    margin: var(--gap-small) 0;
+    border-radius: 4px;
+}
+
+/* 水平分隔線 */
 hr {
-  border: 0;
-  height: 1px;
-  background: #ddd;
+    border: 0;
+    height: 1px;
+    background: var(--border-color);
+    margin: var(--gap-medium) 0;
 }
 
 .button-container {
-  display: flex;
-  justify-content: center; /* 水平居中 */
-  align-items: center; /* 垂直居中 */
-  gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: var(--gap-medium);
+    margin-top: var(--gap-medium); /* 為按鈕容器增加上邊距 */
 }
 
+.button-container button {
+    padding: var(--gap-medium) var(--gap-large);
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color var(--transition-speed), transform 0.1s ease-out;
+}
+
+.button-container button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+.button-container button:active {
+    transform: translateY(0);
+}
+
+/* 分數顯示 */
+#score {
+    text-align: center;
+    margin-top: var(--gap-medium);
+    font-size: 1.2em;
+    color: #28a745; /* 綠色 */
+    font-weight: bold;
+}
+
+/* 回饋結果區 */
 .feedback-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    margin-top: var(--gap-large);
+    text-align: center;
+}
+
+.feedback-container h3 {
+    margin-bottom: var(--gap-medium);
+    color: var(--primary-color);
 }
 
 .feedback-columns {
-  display: flex;
-  gap: 20px;
-  justify-content: center;
-  width: 100%;
+    display: flex;
+    gap: var(--gap-large);
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap; /* 允許在小螢幕換行 */
 }
 
 .feedback-left, .feedback-right {
-  width: 45%;
-  padding: 10px;
-  border: 1px solid #ccc;
-  background: #f9f9f9;
-  border-radius: 5px;
-  min-height: 50px;
+    flex: 1; /* 讓兩欄均分空間 */
+    min-width: 280px; /* 確保在小螢幕下有最小寬度 */
+    max-width: 45%; /* 最大寬度限制 */
+    padding: var(--gap-medium);
+    border: 1px solid var(--border-color);
+    background: #f9f9f9;
+    border-radius: 5px;
+    min-height: 50px;
+    text-align: left; /* 內容左對齊 */
+    line-height: 1.6;
+}
+
+/* --- 響應式設計 (Media Queries) --- */
+
+/* 針對平板和小型筆電 */
+@media (max-width: 1024px) {
+    #main {
+        min-width: 400px;
+        padding: var(--gap-large);
+    }
+    #sidebar {
+        width: 180px;
+        min-width: 160px;
+        padding: var(--gap-medium);
+    }
+}
+
+/* 針對行動設備 */
+@media (max-width: 768px) {
+    body {
+        flex-direction: column; /* 在小螢幕上垂直堆疊 */
+        overflow-y: auto; /* 允許整個頁面滾動 */
+    }
+    #sidebar {
+        width: 100%; /* 側邊欄佔滿寬度 */
+        height: auto; /* 高度自動調整 */
+        min-width: unset; /* 取消最小寬度限制 */
+        border-right: none;
+        border-bottom: 1px solid var(--border-color); /* 添加底部邊框 */
+        order: -1; /* 讓側邊欄顯示在主內容上方 */
+        padding-bottom: var(--gap-large); /* 底部留白 */
+    }
+    #main {
+        width: 100%; /* 主內容區佔滿寬度 */
+        min-width: unset; /* 取消最小寬度限制 */
+        order: 0;
+        padding: var(--gap-medium);
+    }
+    .question-row {
+        flex-wrap: wrap; /* 允許題目按鈕換行 */
+        justify-content: center; /* 居中對齊 */
+    }
+    .feedback-columns {
+        flex-direction: column; /* 回饋欄位垂直堆疊 */
+        gap: var(--gap-medium);
+    }
+    .feedback-left, .feedback-right {
+        width: auto; /* 自動寬度 */
+        max-width: 95%; /* 佔滿更多空間但留邊距 */
+        margin: 0 auto; /* 置中 */
+        font-size: 0.9em;
+    }
+    .button-container {
+        flex-wrap: wrap; /* 按鈕換行 */
+        gap: var(--gap-small);
+    }
+    .button-container button {
+        flex-grow: 1; /* 讓按鈕佔滿可用空間 */
+        min-width: 120px;
+    }
+    #quizTitle {
+        font-size: 1.4em;
+    }
+    .question-block h3 {
+        font-size: 1.2em;
+    }
+    .option-block {
+        padding: var(--gap-small);
+    }
+}
+
+/* 極小螢幕調整 (例如：iPhone SE) */
+@media (max-width: 480px) {
+    .question-row button {
+        width: 30px;
+        height: 30px;
+        font-size: 0.8em;
+    }
+    .feedback-left, .feedback-right {
+        padding: var(--gap-small);
+    }
 }
