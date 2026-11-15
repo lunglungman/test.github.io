@@ -3,39 +3,77 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#2f5d62">
     <title>生物單元測驗</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-    <aside id="sidebar">
-        <select id="quizSelector"></select>
-        <button id="loadQuizBtn">開始測驗</button>
-
-        <div id="progress-container">
-            <p id="progress-text">0%</p>
-            <progress id="quiz-progress" value="0" max="100"></progress>
+    <header class="topbar">
+        <button class="icon-btn" id="homeBtn" title="回首頁" aria-label="回首頁">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg>
+        </button>
+        <div class="topbar-title" id="topbarTitle">生物單元測驗</div>
+        <div class="topbar-right">
+            <span class="timer" id="timer" hidden>00:00</span>
+            <button class="icon-btn" id="themeBtn" title="切換深色／淺色" aria-label="切換深色／淺色">
+                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+            </button>
         </div>
-        <hr />
-        <div id="question-nav" class="question-nav"></div>
-        <hr />
-        <div class="button-container">
-            <button id="clearFeedbackBtn" style="display: none;">清除結果</button>
-            <button id="submitQuizBtn">交卷並計分</button>
-        </div>
-        <div id="score"></div>
-    </aside>
+        <div class="topbar-progress" id="topbarProgress"><span></span></div>
+    </header>
 
-    <main id="main">
-        <h2 id="quizTitle"></h2>
-        <div id="question-container"></div>
-        <hr />
-        <div class="button-container">
-            <button id="prevQuestionBtn">⬅️ 上一題</button>
-            <button id="toggleMarkBtn">⭐ 標記</button>
-            <button id="nextQuestionBtn">下一題 ➡️</button>
+    <!-- 首頁 -->
+    <section id="view-home" class="view" hidden></section>
+
+    <!-- 作答／檢討 -->
+    <section id="view-quiz" class="view" hidden>
+        <div class="quiz-layout">
+            <aside class="navpanel" id="navpanel" aria-label="題目導覽">
+                <div class="navpanel-head">
+                    <div class="navpanel-stats" id="navStats"></div>
+                    <button class="icon-btn only-mobile" id="closeNavBtn" aria-label="關閉">✕</button>
+                </div>
+                <div class="seg small" id="reviewFilter" hidden>
+                    <button data-filter="all" class="active">全部</button>
+                    <button data-filter="wrong">錯題</button>
+                    <button data-filter="marked">標記</button>
+                </div>
+                <div class="qgrid" id="qgrid"></div>
+                <div class="legend" id="legend"></div>
+                <button class="btn primary block" id="submitBtn">交卷並計分</button>
+                <button class="btn block" id="toResultBtn" hidden>查看成績</button>
+            </aside>
+            <div class="nav-backdrop" id="navBackdrop" hidden></div>
+            <main class="qpanel">
+                <article class="qcard" id="qcard"></article>
+                <div class="qactions">
+                    <button class="btn" id="prevBtn">← 上一題</button>
+                    <button class="btn only-mobile" id="openNavBtn">題號</button>
+                    <button class="btn" id="markBtn">☆ 標記</button>
+                    <button class="btn primary" id="nextBtn">下一題 →</button>
+                </div>
+                <p class="kbd-hint">快捷鍵：<kbd>←</kbd><kbd>→</kbd> 換題　<kbd>1</kbd>–<kbd>5</kbd> 或 <kbd>A</kbd>–<kbd>E</kbd> 選答　<kbd>M</kbd> 標記　<kbd>Enter</kbd> 確認答案（練習模式）</p>
+            </main>
         </div>
-    </main>
+    </section>
+
+    <!-- 成績 -->
+    <section id="view-result" class="view" hidden></section>
+
+    <dialog id="modal" class="modal">
+        <form method="dialog">
+            <h3 id="modalTitle"></h3>
+            <div id="modalBody"></div>
+            <div class="modal-actions" id="modalActions"></div>
+        </form>
+    </dialog>
+
+    <dialog id="lightbox" class="lightbox">
+        <form method="dialog"><button class="lightbox-close" aria-label="關閉">✕</button></form>
+        <img id="lightboxImg" alt="放大圖片">
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
     <script src="script.js"></script>
 </body>
