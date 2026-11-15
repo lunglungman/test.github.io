@@ -10,6 +10,7 @@ def get(url, accept="text/html", extra={}):
     return st, b.decode("utf-8", "replace")
 _, t = get("https://www.lativ.com.tw/home/MEN")
 seen=set(); queue=list(dict.fromkeys(re.findall(r'(chunk-[A-Z0-9]+\.js|main-[A-Z0-9]+\.js)', t)))
+consts={}
 while queue:
     c=queue.pop(0)
     if c in seen: continue
@@ -17,14 +18,7 @@ while queue:
     st, js=get("https://www.lativ.com.tw/"+c,"*/*")
     for n in re.findall(r'chunk-[A-Z0-9]+\.js', js):
         if n not in seen: queue.append(n)
-    for kw in ["lativHttpConfig", "endPointUrl", "setHeaders", "X-Lativ", "x-lativ", "getCategoryContent(", "getProduct(", "Be=", "L={toJSON", "toJSON(e){let t={};return e.bigCategoryEn"]:
-        for m in list(re.finditer(re.escape(kw), js))[:3]:
-            print(f"[{c}][{kw}] " + js[max(0,m.start()-300):m.end()+500].replace("\n"," "))
-for u in ["https://www.lativ.com.tw/v1/categories/MEN/tops/content",
-          "https://www.lativ.com.tw/v1/categories/MEN/tops/content?preview=false",
-          "https://www.lativ.com.tw/api/v1/categories/MEN/tops/content",
-          "https://www.lativ.com.tw/v1/products/74778",
-          "https://www.lativ.com.tw/v1/home"]:
-    for acc in ["application/json", "*/*"]:
-        st, s = get(u, acc)
-        print("TRY", u, acc, st, s[:400].replace("\n"," "))
+    m=re.search(r'Grpc-Metadata-lativ-store-api-version', js)
+    if m: print("INTERCEPTOR", c, js[m.start()-100:m.end()+1500])
+    for mm in re.finditer(r'API_VERSION:"?([^,"}]+)"?|PLATFORM[A-Z_]*:"([^"]+)"', js):
+        print("CONST", c, js[max(0,mm.start()-150):mm.end()+150])
