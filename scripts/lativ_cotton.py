@@ -71,10 +71,26 @@ FIBER_RE = re.compile(r"([^\d\s:：,，、;；/%()（）\n]+?)\s*(\d+(?:\.\d+)?)
 FIBER_RE_REV = re.compile(r"(\d+(?:\.\d+)?)\s*%\s*([^\d\s:：,，、;；/%()（）\n]+)")
 
 
-def is_pure_cotton(material):
-    """材質中每個部位都是 100% 棉才算（例：「棉 100%」、「表布：棉100% 裡布：棉100%」）。"""
+MAIN_LABELS = ("主布", "表布")      # 褲子只看這些部位
+MAIN_ONLY_CATEGORIES = {"下身類"}   # 這些分類忽略袋布、腰內貼等小配件布料
+
+
+def main_fabric(material):
+    """取出「主布：…」「表布：…」那幾行；沒有標示部位時回傳 None。"""
+    lines = [l.strip() for l in material.replace("：", ":").splitlines()]
+    picked = [l.split(":", 1)[1] for l in lines if ":" in l and l.split(":", 1)[0].strip() in MAIN_LABELS]
+    return "\n".join(picked) if picked else None
+
+
+def is_pure_cotton(material, main_only=False):
+    """材質中每個部位都是 100% 棉才算（例：「棉 100%」、「表布：棉100% 裡布：棉100%」）。
+
+    main_only=True 時只看主布／表布（例：「主布：棉 100%　袋布：聚酯纖維 65%、棉 35%」也算）。
+    """
     if not material:
         return False
+    if main_only:
+        material = main_fabric(material) or material
     text = material.replace("％", "%")
     parts = FIBER_RE.findall(text)
     if not parts:
@@ -132,7 +148,8 @@ def main():
     products = []
     for pid, entry in found.items():
         info = cache.get(pid)
-        if not info or not is_pure_cotton(info["material"]):
+        main_only = bool(entry["trail"]) and entry["trail"][0] in MAIN_ONLY_CATEGORIES
+        if not info or not is_pure_cotton(info["material"], main_only):
             continue
         item, trail = entry["item"], entry["trail"]
         meta = item["meta"]
