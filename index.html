@@ -3,78 +3,105 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#2f5d62">
-    <title>生物單元測驗</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta name="theme-color" content="#2f6f73">
+    <title>我的工具箱</title>
+    <style>
+        :root {
+            --bg: #f4f6f5; --surface: #fff; --surface-2: #eef2f1; --border: #dbe2e0;
+            --text: #1d2a2c; --muted: #63716f; --primary: #2f6f73; --primary-soft: #e1efef;
+            --accent: #b4532a; --accent-soft: #f8e9e1;
+            --shadow: 0 1px 2px rgba(20,40,40,.06), 0 8px 24px rgba(20,40,40,.08);
+            color-scheme: light;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #111716; --surface: #182120; --surface-2: #1f2a29; --border: #2c3a38;
+                --text: #e4ecea; --muted: #92a19e; --primary: #5fb3b3; --primary-soft: #1c3434;
+                --accent: #e58e62; --accent-soft: #3a2519;
+                --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.3);
+                color-scheme: dark;
+            }
+        }
+        * { box-sizing: border-box; }
+        body {
+            margin: 0; min-height: 100vh; background: var(--bg); color: var(--text);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+            line-height: 1.6;
+        }
+        main { max-width: 880px; margin: 0 auto; padding: 72px 20px 48px; }
+        h1 { margin: 0; font-size: 2.1rem; letter-spacing: .02em; }
+        .sub { margin: 6px 0 36px; color: var(--muted); }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; }
+        .card {
+            display: flex; flex-direction: column; gap: 14px; padding: 24px;
+            background: var(--surface); border: 1px solid var(--border); border-radius: 18px;
+            color: inherit; text-decoration: none;
+            transition: transform .15s, box-shadow .15s, border-color .15s;
+        }
+        @media (hover: hover) {
+            .card:hover { transform: translateY(-3px); box-shadow: var(--shadow); border-color: var(--c); }
+        }
+        .card:focus-visible { outline: 2px solid var(--c); outline-offset: 3px; }
+        .icon {
+            display: grid; place-items: center; width: 52px; height: 52px; border-radius: 14px;
+            background: var(--c-soft); color: var(--c);
+        }
+        .card h2 { margin: 0; font-size: 1.25rem; }
+        .card p { margin: 4px 0 0; color: var(--muted); font-size: .92rem; }
+        .meta { margin-top: auto; display: flex; justify-content: space-between; align-items: center; font-size: .85rem; color: var(--muted); }
+        .go { font-weight: 600; color: var(--c); }
+        .quiz { --c: var(--primary); --c-soft: var(--primary-soft); }
+        .lativ { --c: var(--accent); --c-soft: var(--accent-soft); }
+        footer { margin-top: 48px; text-align: center; font-size: .8rem; color: var(--muted); }
+        @media (max-width: 560px) {
+            main { padding: 40px 16px 32px; }
+            h1 { font-size: 1.7rem; }
+            .sub { margin-bottom: 24px; }
+        }
+    </style>
 </head>
 <body>
-    <header class="topbar">
-        <button class="icon-btn" id="homeBtn" title="回首頁" aria-label="回首頁">
-            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg>
-        </button>
-        <div class="topbar-title" id="topbarTitle">生物單元測驗</div>
-        <div class="topbar-right">
-            <span class="timer" id="timer" hidden>00:00</span>
-            <button class="icon-btn" id="themeBtn" title="切換深色／淺色" aria-label="切換深色／淺色">
-                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
-            </button>
+    <main>
+        <h1>我的工具箱</h1>
+        <p class="sub">選一個開始吧。</p>
+        <div class="grid">
+            <a class="card quiz" href="quiz/">
+                <div class="icon">
+                    <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l2 2 4-4"/><rect x="4" y="3" width="16" height="18" rx="2"/></svg>
+                </div>
+                <div>
+                    <h2>生物單元測驗</h2>
+                    <p>62 個單元題庫，考試與練習模式、錯題本、綜合隨機測驗。</p>
+                </div>
+                <div class="meta"><span id="quizMeta">&nbsp;</span><span class="go">進入 →</span></div>
+            </a>
+            <a class="card lativ" href="lativ/">
+                <div class="icon">
+                    <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3l-5 3 2 5 3-1v11h8V10l3 1 2-5-5-3c-1 2-2.5 3-4 3S9 5 8 3z"/></svg>
+                </div>
+                <div>
+                    <h2>LATIV 純棉男裝</h2>
+                    <p>自動整理材質 100% 棉、M 號有貨的男裝，每 3 小時更新。</p>
+                </div>
+                <div class="meta"><span id="lativMeta">&nbsp;</span><span class="go">進入 →</span></div>
+            </a>
         </div>
-        <div class="topbar-progress" id="topbarProgress"><span></span></div>
-    </header>
-
-    <!-- 首頁 -->
-    <section id="view-home" class="view" hidden></section>
-
-    <!-- 作答／檢討 -->
-    <section id="view-quiz" class="view" hidden>
-        <div class="quiz-layout">
-            <aside class="navpanel" id="navpanel" aria-label="題目導覽">
-                <div class="navpanel-head">
-                    <div class="navpanel-stats" id="navStats"></div>
-                    <button class="icon-btn only-mobile" id="closeNavBtn" aria-label="關閉">✕</button>
-                </div>
-                <div class="seg small" id="reviewFilter" hidden>
-                    <button data-filter="all" class="active">全部</button>
-                    <button data-filter="wrong">錯題</button>
-                    <button data-filter="marked">標記</button>
-                </div>
-                <div class="qgrid" id="qgrid"></div>
-                <div class="legend" id="legend"></div>
-                <button class="btn primary block" id="submitBtn">交卷並計分</button>
-                <button class="btn block" id="toResultBtn" hidden>查看成績</button>
-            </aside>
-            <div class="nav-backdrop" id="navBackdrop" hidden></div>
-            <main class="qpanel">
-                <article class="qcard" id="qcard"></article>
-                <div class="qactions">
-                    <button class="btn" id="prevBtn">← 上一題</button>
-                    <button class="btn only-mobile" id="openNavBtn">題號</button>
-                    <button class="btn" id="markBtn">☆ 標記</button>
-                    <button class="btn primary" id="nextBtn">下一題 →</button>
-                </div>
-                <p class="kbd-hint">快捷鍵：<kbd>←</kbd><kbd>→</kbd> 換題　<kbd>1</kbd>–<kbd>5</kbd> 或 <kbd>A</kbd>–<kbd>E</kbd> 選答　<kbd>M</kbd> 標記　<kbd>Enter</kbd> 確認答案（練習模式）</p>
-            </main>
-        </div>
-    </section>
-
-    <!-- 成績 -->
-    <section id="view-result" class="view" hidden></section>
-
-    <dialog id="modal" class="modal">
-        <form method="dialog">
-            <h3 id="modalTitle"></h3>
-            <div id="modalBody"></div>
-            <div class="modal-actions" id="modalActions"></div>
-        </form>
-    </dialog>
-
-    <dialog id="lightbox" class="lightbox">
-        <form method="dialog"><button class="lightbox-close" aria-label="關閉">✕</button></form>
-        <img id="lightboxImg" alt="放大圖片">
-    </dialog>
-
-    <div class="toast" id="toast" role="status" aria-live="polite"></div>
-
-    <script src="script.js"></script>
+        <footer>lunglungman.github.io</footer>
+    </main>
+    <script>
+        (async () => {
+            try {
+                const d = await (await fetch('lativ/data.json', { cache: 'no-cache' })).json();
+                const t = new Date(d.updated);
+                document.getElementById('lativMeta').textContent =
+                    `${d.count} 件 · ${t.getMonth() + 1}/${t.getDate()} ${String(t.getHours()).padStart(2, '0')}:${String(t.getMinutes()).padStart(2, '0')} 更新`;
+            } catch { /* 尚未有資料 */ }
+            try {
+                const h = JSON.parse(localStorage.getItem('bioquiz.history') || '{}');
+                const n = Object.keys(h).length;
+                document.getElementById('quizMeta').textContent = n ? `已完成 ${n} 個單元` : '62 個單元';
+            } catch { /* ignore */ }
+        })();
+    </script>
 </body>
 </html>

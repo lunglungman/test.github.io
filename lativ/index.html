@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#b4532a">
+    <title>LATIV 純棉男裝</title>
+    <style>
+        :root {
+            --bg: #f6f4f2; --surface: #fff; --surface-2: #efebe7; --border: #e0dad4;
+            --text: #2a211c; --muted: #75685f; --accent: #b4532a; --accent-hover: #963f1b; --accent-soft: #f8e9e1;
+            --sale: #c8412f; --warn-bg: #fff4dc; --warn: #8a5a00;
+            --shadow: 0 1px 2px rgba(40,25,15,.06), 0 8px 24px rgba(40,25,15,.08);
+            color-scheme: light;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #151210; --surface: #1e1a17; --surface-2: #28221e; --border: #3a322c;
+                --text: #efe8e2; --muted: #a8998e; --accent: #e58e62; --accent-hover: #f0a47e; --accent-soft: #3a2519;
+                --sale: #f0715f; --warn-bg: #3a2e14; --warn: #f2c14e;
+                --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.3);
+                color-scheme: dark;
+            }
+        }
+        * { box-sizing: border-box; }
+        [hidden] { display: none !important; }
+        body {
+            margin: 0; min-height: 100vh; background: var(--bg); color: var(--text);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+            line-height: 1.55;
+        }
+        button, input, select { font: inherit; color: inherit; }
+        a { color: inherit; }
+
+        .topbar {
+            position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 10px;
+            height: 56px; padding: 0 14px;
+            background: color-mix(in srgb, var(--surface) 90%, transparent);
+            backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border);
+        }
+        .back {
+            display: inline-grid; place-items: center; width: 38px; height: 38px; border-radius: 10px;
+            color: var(--muted); text-decoration: none;
+        }
+        .back:hover { background: var(--surface-2); color: var(--text); }
+        .topbar b { font-size: 1.02rem; }
+
+        main { max-width: 1200px; margin: 0 auto; padding: 24px 20px 60px; }
+        .head { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap; margin-bottom: 18px; }
+        h1 { margin: 0; font-size: 1.8rem; }
+        .summary { margin: 4px 0 0; color: var(--muted); font-size: .92rem; }
+        .summary b { color: var(--text); }
+        .stale { margin: 0 0 16px; padding: 10px 14px; border-radius: 10px; background: var(--warn-bg); color: var(--warn); font-size: .9rem; }
+
+        .toolbar { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 14px; }
+        .search, .select {
+            border: 1px solid var(--border); border-radius: 10px; background: var(--surface); padding: 8px 12px;
+        }
+        .search { flex: 1; min-width: 200px; }
+        .toggle { display: inline-flex; align-items: center; gap: 6px; font-size: .92rem; cursor: pointer; user-select: none; }
+        .toggle input { width: 16px; height: 16px; accent-color: var(--accent); }
+
+        .chips { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+        .chip {
+            border: 1px solid var(--border); background: var(--surface); border-radius: 999px;
+            padding: 5px 14px; font-size: .88rem; cursor: pointer; color: var(--muted);
+        }
+        .chip small { margin-left: 4px; opacity: .75; }
+        .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+        @media (prefers-color-scheme: dark) { .chip.active { color: #1e1a17; } }
+
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 16px; }
+        .card {
+            display: flex; flex-direction: column; overflow: hidden;
+            background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+            text-decoration: none; transition: transform .15s, box-shadow .15s;
+        }
+        @media (hover: hover) { .card:hover { transform: translateY(-3px); box-shadow: var(--shadow); } }
+        .card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+        .thumb { position: relative; aspect-ratio: 760 / 910; background: var(--surface-2); }
+        .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+        .off {
+            position: absolute; top: 10px; left: 10px; padding: 2px 8px; border-radius: 6px;
+            background: var(--sale); color: #fff; font-size: .78rem; font-weight: 700;
+        }
+        .body { display: flex; flex-direction: column; gap: 6px; padding: 12px 12px 14px; flex: 1; }
+        .cat { font-size: .75rem; color: var(--muted); }
+        .name { font-weight: 600; font-size: .95rem; line-height: 1.4; }
+        .price { display: flex; align-items: baseline; gap: 8px; margin-top: auto; }
+        .price b { font-size: 1.15rem; color: var(--accent); font-variant-numeric: tabular-nums; }
+        .price.sale b { color: var(--sale); }
+        .price s { font-size: .82rem; color: var(--muted); }
+        .swatches { display: flex; gap: 4px; flex-wrap: wrap; align-items: center; }
+        .swatches img { width: 20px; height: 20px; border-radius: 50%; border: 1px solid var(--border); object-fit: cover; }
+        .swatches span { font-size: .75rem; color: var(--muted); }
+        .mat { font-size: .75rem; color: var(--muted); }
+
+        .empty { text-align: center; padding: 60px 0; color: var(--muted); }
+        footer { margin-top: 40px; text-align: center; font-size: .8rem; color: var(--muted); }
+        footer a { color: var(--accent); }
+
+        @media (max-width: 560px) {
+            main { padding: 18px 12px 48px; }
+            h1 { font-size: 1.45rem; }
+            .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+            .body { padding: 10px; }
+            .name { font-size: .88rem; }
+            .search { min-width: 100%; }
+        }
+    </style>
+</head>
+<body>
+    <header class="topbar">
+        <a class="back" href="../" aria-label="回入口首頁" title="回入口首頁">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+        </a>
+        <b>LATIV 純棉男裝</b>
+    </header>
+    <main>
+        <div class="head">
+            <div>
+                <h1>100% 棉 · M 號有貨</h1>
+                <p class="summary" id="summary">載入中…</p>
+            </div>
+        </div>
+        <p class="stale" id="stale" hidden></p>
+        <div class="toolbar">
+            <input type="search" class="search" id="q" placeholder="搜尋商品名稱（例如：polo、T恤、襯衫）">
+            <select class="select" id="sort" aria-label="排序">
+                <option value="default">依分類</option>
+                <option value="price-asc">價格低到高</option>
+                <option value="price-desc">價格高到低</option>
+                <option value="discount">折扣最多</option>
+            </select>
+            <label class="toggle"><input type="checkbox" id="saleOnly">只看特價</label>
+        </div>
+        <div class="chips" id="chips"></div>
+        <div class="grid" id="grid"></div>
+        <p class="empty" id="empty" hidden></p>
+        <footer>
+            資料來自 lativ 官網，由 GitHub Actions 每 3 小時自動更新；價格與庫存以官網為準。
+        </footer>
+    </main>
+    <script>
+    (() => {
+        const $ = s => document.querySelector(s);
+        const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+        let data = null, cat = 'all';
+
+        const load = (k, d) => { try { return localStorage.getItem(k) ?? d; } catch { return d; } };
+        const save = (k, v) => { try { localStorage.setItem(k, v); } catch { } };
+
+        function fmt(ts) {
+            const t = new Date(ts);
+            return `${t.getMonth() + 1}/${t.getDate()} ${String(t.getHours()).padStart(2, '0')}:${String(t.getMinutes()).padStart(2, '0')}`;
+        }
+        // 台灣慣用的「幾折」：5 折、88 折
+        const zhe = off => { const n = Math.round((1 - off) * 100); return n % 10 === 0 ? n / 10 : n; };
+        const discount = p => p.originPrice && p.price && p.price < p.originPrice ? 1 - p.price / p.originPrice : 0;
+
+        function render() {
+            const q = $('#q').value.trim().toLowerCase();
+            const saleOnly = $('#saleOnly').checked;
+            const sort = $('#sort').value;
+            let list = data.products.filter(p =>
+                (cat === 'all' || p.category === cat) &&
+                (!saleOnly || discount(p) > 0) &&
+                (!q || `${p.name} ${p.subcategory}`.toLowerCase().includes(q)));
+            if (sort === 'price-asc') list.sort((a, b) => a.price - b.price);
+            if (sort === 'price-desc') list.sort((a, b) => b.price - a.price);
+            if (sort === 'discount') list.sort((a, b) => discount(b) - discount(a));
+
+            $('#grid').innerHTML = list.map(p => {
+                const off = discount(p);
+                const shown = p.colors.slice(0, 7);
+                return `
+                <a class="card" href="${esc(p.url)}" target="_blank" rel="noopener">
+                    <div class="thumb">
+                        <img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">
+                        ${off >= 0.05 ? `<span class="off">${zhe(off)} 折</span>` : ''}
+                    </div>
+                    <div class="body">
+                        <span class="cat">${esc(p.category)}${p.subcategory ? ' · ' + esc(p.subcategory) : ''}</span>
+                        <span class="name">${esc(p.name)}</span>
+                        <div class="swatches" title="M 號有貨的顏色">
+                            ${shown.map(c => `<img src="${esc(c.thumb)}" alt="${esc(c.name)}" title="${esc(c.name)}" loading="lazy">`).join('')}
+                            ${p.colors.length > shown.length ? `<span>+${p.colors.length - shown.length}</span>` : ''}
+                        </div>
+                        <div class="price ${off ? 'sale' : ''}">
+                            <b>$${p.price}</b>${off ? `<s>$${p.originPrice}</s>` : ''}
+                        </div>
+                    </div>
+                </a>`;
+            }).join('');
+            $('#empty').hidden = list.length > 0;
+            $('#empty').textContent = '沒有符合條件的商品。';
+        }
+
+        function renderChips() {
+            const counts = {};
+            data.products.forEach(p => { counts[p.category] = (counts[p.category] || 0) + 1; });
+            const cats = [['all', '全部', data.products.length], ...Object.entries(counts).map(([k, n]) => [k, k, n])];
+            if (!cats.some(c => c[0] === cat)) cat = 'all';
+            $('#chips').innerHTML = cats.map(([k, label, n]) =>
+                `<button class="chip ${k === cat ? 'active' : ''}" data-cat="${esc(k)}">${esc(label)}<small>${n}</small></button>`).join('');
+        }
+
+        $('#chips').addEventListener('click', e => {
+            const b = e.target.closest('.chip');
+            if (!b) return;
+            cat = b.dataset.cat;
+            save('lativ.cat', cat);
+            renderChips();
+            render();
+        });
+        $('#q').addEventListener('input', render);
+        $('#sort').addEventListener('change', () => { save('lativ.sort', $('#sort').value); render(); });
+        $('#saleOnly').addEventListener('change', render);
+
+        (async () => {
+            try {
+                const r = await fetch('data.json', { cache: 'no-cache' });
+                if (!r.ok) throw new Error(r.status);
+                data = await r.json();
+            } catch {
+                $('#summary').textContent = '';
+                $('#empty').hidden = false;
+                $('#empty').textContent = '還沒有資料，第一次自動更新完成後就會出現。';
+                return;
+            }
+            cat = load('lativ.cat', 'all');
+            $('#sort').value = load('lativ.sort', 'default');
+            $('#summary').innerHTML = `共 <b>${data.count}</b> 件（從 ${data.scanned} 件${esc(data.category)}中篩選）· 資料更新於 ${fmt(data.updated)}`;
+            const hours = (Date.now() - new Date(data.updated)) / 36e5;
+            if (hours > 12) {
+                $('#stale').hidden = false;
+                $('#stale').textContent = `資料已經 ${Math.floor(hours)} 小時沒有更新，自動更新可能暫停了。`;
+            }
+            renderChips();
+            render();
+        })();
+    })();
+    </script>
+</body>
+</html>

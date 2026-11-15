@@ -1,0 +1,44 @@
+name: 更新 LATIV 純棉男裝
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # 每 3 小時（UTC 第 17 分）
+  workflow_dispatch:          # 可在 Actions 頁面手動按「Run workflow」立即更新
+  push:
+    paths:
+      - scripts/lativ_cotton.py
+      - .github/workflows/lativ.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lativ-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓取 100% 棉、M 號有貨的男裝
+        run: python scripts/lativ_cotton.py
+
+      - name: 有變動才提交
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add lativ/data.json lativ/materials.json
+          if git diff --cached --quiet; then
+            echo "沒有變動"
+          else
+            git commit -m "更新 LATIV 純棉男裝資料"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
