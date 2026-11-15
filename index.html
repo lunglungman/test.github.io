@@ -9,7 +9,7 @@
         :root {
             --bg: #f4f6f5; --surface: #fff; --surface-2: #eef2f1; --border: #dbe2e0;
             --text: #1d2a2c; --muted: #63716f; --primary: #2f6f73; --primary-soft: #e1efef;
-            --accent: #b4532a; --accent-soft: #f8e9e1; --blue: #1f5fa8; --blue-soft: #e3edf9;
+            --accent: #b4532a; --accent-soft: #f8e9e1; --blue: #1f5fa8; --blue-soft: #e3edf9; --herb: #8a5a2b; --herb-soft: #f4e9dc;
             --shadow: 0 1px 2px rgba(20,40,40,.06), 0 8px 24px rgba(20,40,40,.08);
             color-scheme: light;
         }
@@ -17,7 +17,7 @@
             :root {
                 --bg: #111716; --surface: #182120; --surface-2: #1f2a29; --border: #2c3a38;
                 --text: #e4ecea; --muted: #92a19e; --primary: #5fb3b3; --primary-soft: #1c3434;
-                --accent: #e58e62; --accent-soft: #3a2519; --blue: #6ea8ec; --blue-soft: #1a2a3d;
+                --accent: #e58e62; --accent-soft: #3a2519; --blue: #6ea8ec; --blue-soft: #1a2a3d; --herb: #d9a66a; --herb-soft: #33281b;
                 --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.3);
                 color-scheme: dark;
             }
@@ -53,6 +53,7 @@
         .quiz { --c: var(--primary); --c-soft: var(--primary-soft); }
         .lativ { --c: var(--accent); --c-soft: var(--accent-soft); }
         .stocks { --c: var(--blue); --c-soft: var(--blue-soft); }
+        .tcm { --c: var(--herb); --c-soft: var(--herb-soft); }
         footer { margin-top: 48px; text-align: center; font-size: .8rem; color: var(--muted); }
         @media (max-width: 560px) {
             main { padding: 40px 16px 32px; }
@@ -96,6 +97,16 @@
                     <p>62 個單元題庫，考試與練習模式、錯題本、綜合隨機測驗。</p>
                 </div>
                 <div class="meta"><span id="quizMeta">&nbsp;</span><span class="go">進入 →</span></div>
+            </a>
+            <a class="card tcm" href="tcm/">
+                <div class="icon">
+                    <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10z"/><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/></svg>
+                </div>
+                <div>
+                    <h2>經方辨證篩選器</h2>
+                    <p>感冒流程、部位查詢、症狀勾選，整理自「僮話」系列四本書。僅供學習參考。</p>
+                </div>
+                <div class="meta"><span>78 個方</span><span class="go">進入 →</span></div>
             </a>
         </div>
         <footer>lunglungman.github.io</footer>

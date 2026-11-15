@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#6b4f2a">
+    <title>經方辨證篩選器</title>
+    <style>
+        :root {
+            --bg: #f6f4f0; --surface: #fff; --surface-2: #f0ece4; --border: #e0d9cc;
+            --text: #2a241c; --muted: #71685b; --primary: #8a5a2b; --primary-soft: #f4e9dc; --on-primary: #fff;
+            --ok: #2f7a4b; --ok-soft: #e4f2e8; --bad: #b8402c; --bad-soft: #fbe7e2; --warn: #a86b12; --warn-soft: #fbf0dc;
+            --shadow: 0 1px 2px rgba(40,30,20,.06), 0 6px 18px rgba(40,30,20,.07);
+            --radius: 14px; color-scheme: light;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root:not([data-theme="light"]) {
+                --bg: #15130f; --surface: #1d1a15; --surface-2: #26221b; --border: #3a3329;
+                --text: #ece5d8; --muted: #a59a88; --primary: #d9a66a; --primary-soft: #33281b; --on-primary: #1a140c;
+                --ok: #6cc28c; --ok-soft: #1b2e22; --bad: #ee8470; --bad-soft: #3a211b; --warn: #e2ad57; --warn-soft: #3a2e18;
+                --shadow: 0 1px 2px rgba(0,0,0,.3), 0 6px 18px rgba(0,0,0,.3); color-scheme: dark;
+            }
+        }
+        :root[data-theme="dark"] {
+            --bg: #15130f; --surface: #1d1a15; --surface-2: #26221b; --border: #3a3329;
+            --text: #ece5d8; --muted: #a59a88; --primary: #d9a66a; --primary-soft: #33281b; --on-primary: #1a140c;
+            --ok: #6cc28c; --ok-soft: #1b2e22; --bad: #ee8470; --bad-soft: #3a211b; --warn: #e2ad57; --warn-soft: #3a2e18;
+            --shadow: 0 1px 2px rgba(0,0,0,.3), 0 6px 18px rgba(0,0,0,.3); color-scheme: dark;
+        }
+        * { box-sizing: border-box; }
+        body { margin: 0; background: var(--bg); color: var(--text); line-height: 1.65;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif; }
+        button { font: inherit; color: inherit; }
+        .topbar { position: sticky; top: 0; z-index: 20; display: flex; align-items: center; gap: 10px;
+            height: 56px; padding: 0 14px; background: var(--surface); border-bottom: 1px solid var(--border); }
+        .topbar h1 { margin: 0; font-size: 1.08rem; flex: 1; letter-spacing: .02em; }
+        .icon-btn { display: grid; place-items: center; width: 38px; height: 38px; border-radius: 10px; border: 1px solid var(--border);
+            background: var(--surface); color: var(--text); cursor: pointer; text-decoration: none; }
+        .icon-btn:hover { background: var(--surface-2); }
+        main { max-width: 980px; margin: 0 auto; padding: 18px 16px 60px; }
+        .notice { background: var(--warn-soft); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; font-size: .9rem; }
+        .notice b { color: var(--warn); }
+        .notice details { margin-top: 6px; }
+        .notice summary { cursor: pointer; color: var(--warn); font-weight: 600; }
+        .notice ul { margin: 6px 0 0; padding-left: 1.2em; }
+        .tabs { display: flex; gap: 6px; margin: 16px 0 14px; overflow-x: auto; padding-bottom: 2px; }
+        .tab { flex: none; padding: 9px 16px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface); cursor: pointer; font-weight: 600; }
+        .tab.active { background: var(--primary); border-color: var(--primary); color: var(--on-primary); }
+        .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px; box-shadow: var(--shadow); }
+        .muted { color: var(--muted); }
+        .small { font-size: .86rem; }
+        h2 { font-size: 1.15rem; margin: 0 0 6px; }
+        h3 { font-size: 1.02rem; margin: 0 0 6px; }
+
+        /* 流程 */
+        .crumbs { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
+        .crumb { display: flex; gap: 8px; align-items: baseline; font-size: .88rem; }
+        .crumb .qq { color: var(--muted); }
+        .crumb .aa { font-weight: 600; }
+        .crumb button { margin-left: auto; border: 0; background: none; color: var(--primary); cursor: pointer; font-size: .82rem; flex: none; }
+        .q { font-size: 1.15rem; font-weight: 700; margin: 0 0 4px; }
+        .hint { margin: 0 0 14px; color: var(--muted); font-size: .9rem; }
+        .opts { display: grid; gap: 8px; }
+        .opt { text-align: left; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--border); background: var(--surface-2); cursor: pointer; }
+        .opt:hover { border-color: var(--primary); background: var(--primary-soft); }
+        .notes { margin: 14px 0 0; padding: 10px 12px; border-left: 3px solid var(--primary); background: var(--primary-soft); border-radius: 8px; font-size: .9rem; }
+        .notes p { margin: 0; }
+        .notes p + p { margin-top: 4px; }
+        .row-actions { display: flex; gap: 8px; margin-top: 16px; flex-wrap: wrap; }
+        .btn { padding: 9px 14px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface); cursor: pointer; font-weight: 600; }
+        .btn.primary { background: var(--primary); border-color: var(--primary); color: var(--on-primary); }
+        .result-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 6px; }
+        .pill { display: inline-block; padding: 2px 10px; border-radius: 999px; background: var(--primary-soft); color: var(--primary); font-size: .8rem; font-weight: 700; }
+        .alert { margin-top: 12px; padding: 10px 12px; border-radius: 10px; background: var(--bad-soft); color: var(--bad); font-size: .88rem; }
+
+        /* 方劑卡 */
+        .fgrid { display: grid; gap: 10px; margin-top: 12px; }
+        .fcard { border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; background: var(--surface); }
+        .fcard h4 { margin: 0 0 2px; font-size: 1.05rem; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+        .fcard dl { margin: 6px 0 0; display: grid; grid-template-columns: 4.5em 1fr; gap: 3px 8px; font-size: .9rem; }
+        .fcard dt { color: var(--muted); }
+        .fcard dd { margin: 0; }
+        .risk { font-size: .72rem; font-weight: 700; color: var(--bad); background: var(--bad-soft); padding: 1px 8px; border-radius: 999px; }
+        .src { font-size: .72rem; color: var(--muted); border: 1px solid var(--border); padding: 0 6px; border-radius: 6px; }
+        .flink { color: var(--primary); font-weight: 600; cursor: pointer; text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 3px; }
+
+        /* 部位 */
+        .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+        .chip { padding: 6px 12px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface); cursor: pointer; font-size: .9rem; }
+        .chip.on { background: var(--primary); border-color: var(--primary); color: var(--on-primary); }
+        .cond { margin-top: 12px; }
+        .cond h3 { display: flex; justify-content: space-between; align-items: center; cursor: pointer; }
+        table { width: 100%; border-collapse: collapse; font-size: .9rem; margin-top: 6px; }
+        th, td { text-align: left; padding: 7px 8px; border-top: 1px solid var(--border); vertical-align: top; }
+        th { color: var(--muted); font-weight: 600; font-size: .82rem; }
+        td.s { white-space: nowrap; }
+
+        /* 勾選 */
+        .sym-layout { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 14px; align-items: start; }
+        .grp { margin-top: 12px; }
+        .grp-t { font-size: .82rem; color: var(--muted); font-weight: 700; margin-bottom: 5px; }
+        .sticky { position: sticky; top: 70px; }
+        .rank { display: grid; gap: 8px; margin-top: 10px; }
+        .ritem { border: 1px solid var(--border); border-radius: 12px; padding: 10px 12px; cursor: pointer; background: var(--surface); }
+        .ritem:hover { border-color: var(--primary); }
+        .ritem .top { display: flex; justify-content: space-between; gap: 8px; align-items: baseline; }
+        .ritem .nm { font-weight: 700; }
+        .bar { height: 5px; border-radius: 3px; background: var(--surface-2); margin: 6px 0; overflow: hidden; }
+        .bar span { display: block; height: 100%; background: var(--primary); }
+        .tagok { color: var(--ok); }
+        .tagbad { color: var(--bad); }
+        input[type=search] { width: 100%; padding: 9px 12px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface); color: var(--text); font: inherit; }
+
+        /* 對話框 */
+        dialog { border: 1px solid var(--border); border-radius: 16px; padding: 0; width: min(560px, 94vw); background: var(--surface); color: var(--text); box-shadow: var(--shadow); }
+        dialog::backdrop { background: rgba(0,0,0,.4); }
+        .dlg-body { padding: 18px; }
+        .dlg-close { float: right; }
+        footer { margin-top: 28px; font-size: .8rem; color: var(--muted); text-align: center; }
+        @media (max-width: 760px) {
+            .sym-layout { grid-template-columns: 1fr; }
+            .sticky { position: static; }
+            td.s { white-space: normal; }
+        }
+    </style>
+</head>
+<body>
+    <header class="topbar">
+        <a class="icon-btn" href="../" title="回入口首頁" aria-label="回入口首頁">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>
+        </a>
+        <h1>經方辨證篩選器</h1>
+        <button class="icon-btn" id="themeBtn" title="切換深色／淺色" aria-label="切換深色／淺色">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        </button>
+    </header>
+
+    <main>
+        <div class="notice">
+            <b>僅供學習參考，不是醫療建議。</b>內容整理自 eztcm.org「僮話」系列四本書的辨證邏輯（改寫，非原文），刻意不列劑量。實際用藥請諮詢合格中醫師；標示「需專業」的方含毒性或峻烈藥。
+            <details>
+                <summary>出現以下情況請直接就醫</summary>
+                <ul id="redFlags"></ul>
+            </details>
+        </div>
+
+        <nav class="tabs" role="tablist">
+            <button class="tab active" data-tab="flow">感冒流程</button>
+            <button class="tab" data-tab="region">部位查詢</button>
+            <button class="tab" data-tab="sym">症狀勾選</button>
+            <button class="tab" data-tab="index">方劑索引</button>
+        </nav>
+
+        <section id="tab-flow"></section>
+        <section id="tab-region" hidden></section>
+        <section id="tab-sym" hidden></section>
+        <section id="tab-index" hidden></section>
+
+        <footer>資料來源：《中醫僮話》《傷寒論僮話（三陽篇）》《傷寒論僮話（三陰篇）》《傷寒備急僮話》（eztcm.org）。出處標記：中／陽／陰／急。</footer>
+    </main>
+
+    <dialog id="dlg"><div class="dlg-body" id="dlgBody"></div></dialog>
+
+    <script src="data.js"></script>
+    <script>
+    (() => {
+        const T = window.TCM, F = T.formulas;
+        const $ = s => document.querySelector(s);
+        const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+        /* 主題 */
+        const root = document.documentElement;
+        try { const th = localStorage.getItem('tcm.theme'); if (th) root.dataset.theme = th; } catch {}
+        $('#themeBtn').onclick = () => {
+            const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+            root.dataset.theme = dark ? 'light' : 'dark';
+            try { localStorage.setItem('tcm.theme', root.dataset.theme); } catch {}
+        };
+
+        $('#redFlags').innerHTML = T.redFlags.map(x => `<li>${esc(x)}</li>`).join('');
+
+        /* 方名自動連結 */
+        const names = Object.keys(F).sort((a, b) => b.length - a.length);
+        const nameRe = new RegExp(names.map(n => n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|'), 'g');
+        const link = text => esc(text).replace(nameRe, m => `<span class="flink" data-f="${m}">${m}</span>`);
+        const srcBadges = s => (Array.isArray(s) ? s : [...s]).map(k => `<span class="src" title="${esc(T.books[k] || '')}">${k}</span>`).join(' ');
+
+        const fcard = n => {
+            const f = F[n]; if (!f) return '';
+            return `<div class="fcard"><h4><span class="flink" data-f="${n}">${n}</span>${f.r ? '<span class="risk">需專業</span>' : ''} <span class="muted small">${esc(f.z)}</span></h4>
+                <dl><dt>主證</dt><dd>${link(f.k)}</dd>${f.y ? `<dt>方義</dt><dd>${link(f.y)}</dd>` : ''}${f.w ? `<dt>注意</dt><dd>${link(f.w)}</dd>` : ''}<dt>出處</dt><dd>${srcBadges(f.s)}</dd></dl></div>`;
+        };
+
+        const dlg = $('#dlg');
+        const openF = n => {
+            $('#dlgBody').innerHTML = `<button class="icon-btn dlg-close" aria-label="關閉">✕</button>${fcard(n)}
+                <p class="small muted" style="margin-top:12px">${F[n].t.length ? '相關症狀：' + F[n].t.map(esc).join('、') : ''}</p>`;
+            if (!dlg.open) dlg.showModal();
+        };
+        dlg.addEventListener('click', e => { if (e.target === dlg || e.target.closest('.dlg-close')) dlg.close(); });
+        document.addEventListener('click', e => { const t = e.target.closest('.flink'); if (t) openF(t.dataset.f); });
+
+        /* 分頁 */
+        document.querySelectorAll('.tab').forEach(b => b.onclick = () => {
+            document.querySelectorAll('.tab').forEach(x => x.classList.toggle('active', x === b));
+            ['flow', 'region', 'sym', 'index'].forEach(k => $('#tab-' + k).hidden = k !== b.dataset.tab);
+        });
+
+        /* ---------- 感冒流程 ---------- */
+        let path = [];   // [{node, opt}]
+        const renderFlow = () => {
+            const box = $('#tab-flow');
+            let cur = T.flow.start, notes = [], resId = null;
+            for (const p of path) {
+                const o = T.flow.nodes[p.node].o[p.opt];
+                if (o.note) notes.push(o.note);
+                if (o.res) resId = o.res; else cur = o.go;
+            }
+            const crumbs = path.map((p, i) => {
+                const nd = T.flow.nodes[p.node];
+                return `<div class="crumb"><span class="qq">${esc(nd.q)}</span><span class="aa">${esc(nd.o[p.opt].l)}</span><button data-back="${i}">改這題</button></div>`;
+            }).join('');
+            const notesHtml = notes.length ? `<div class="notes">${notes.map(n => `<p>${link(n)}</p>`).join('')}</div>` : '';
+            let body;
+            if (resId) {
+                const r = T.flow.results[resId];
+                body = `<div class="result-head"><span class="pill">結果</span><h2 style="margin:0">${esc(r.t)}</h2></div>
+                    <p>${link(r.why)}</p>${r.next ? `<p class="muted">${link(r.next)}</p>` : ''}
+                    ${notesHtml}
+                    <div class="fgrid">${r.f.map(fcard).join('')}</div>
+                    ${r.warn ? `<div class="alert">這個結果涉及峻烈藥或可能的急症。方向判錯（尤其把三陰當三陽發汗）後果嚴重，請諮詢合格中醫師。</div>` : ''}
+                    <div class="row-actions"><button class="btn" data-back="${path.length - 1}">上一步</button><button class="btn primary" id="restart">重新開始</button></div>`;
+            } else {
+                const nd = T.flow.nodes[cur];
+                body = `<p class="q">${esc(nd.q)}</p>${nd.hint ? `<p class="hint">${esc(nd.hint)}</p>` : ''}
+                    <div class="opts">${nd.o.map((o, i) => `<button class="opt" data-opt="${i}" data-node="${cur}">${esc(o.l)}</button>`).join('')}</div>
+                    ${notesHtml}
+                    ${path.length ? `<div class="row-actions"><button class="btn" data-back="${path.length - 1}">上一步</button><button class="btn" id="restart">重新開始</button></div>` : ''}`;
+            }
+            box.innerHTML = `<div class="card">${path.length ? `<div class="crumbs">${crumbs}</div>` : `<p class="muted small" style="margin-top:0">依「先定陰陽 → 排除陽明 → 鎖定少陽 → 太陽分型」或「三陰分型」的順序，一題一題往下走。</p>`}${body}</div>`;
+            box.querySelectorAll('[data-opt]').forEach(b => b.onclick = () => { path.push({ node: b.dataset.node, opt: +b.dataset.opt }); renderFlow(); });
+            box.querySelectorAll('[data-back]').forEach(b => b.onclick = () => { path = path.slice(0, +b.dataset.back); renderFlow(); });
+            const rs = box.querySelector('#restart'); if (rs) rs.onclick = () => { path = []; renderFlow(); };
+        };
+        renderFlow();
+
+        /* ---------- 部位查詢 ---------- */
+        let regIdx = 0;
+        const renderRegion = () => {
+            const box = $('#tab-region'), R = T.regions[regIdx];
+            box.innerHTML = `<div class="chips">${T.regions.map((r, i) => `<button class="chip ${i === regIdx ? 'on' : ''}" data-r="${i}">${esc(r.r)}</button>`).join('')}</div>
+                ${R.items.map(it => `<div class="card cond"><h3>${esc(it.n)}</h3>
+                    <table><thead><tr><th>線索</th><th>方</th><th>出處</th></tr></thead><tbody>
+                    ${it.rows.map(([a, b, c]) => `<tr><td>${link(a)}</td><td>${link(b)}</td><td class="s">${srcBadges(c)}</td></tr>`).join('')}
+                    </tbody></table>${it.warn ? `<div class="alert">${esc(it.warn)}</div>` : ''}</div>`).join('')}`;
+            box.querySelectorAll('[data-r]').forEach(b => b.onclick = () => { regIdx = +b.dataset.r; renderRegion(); });
+        };
+        renderRegion();
+
+        /* ---------- 症狀勾選 ---------- */
+        const sel = new Set();
+        let symFilter = '';
+        const score = () => {
+            const out = [];
+            for (const [n, f] of Object.entries(F)) {
+                const hit = f.t.filter(t => sel.has(t)), bad = f.x.filter(t => sel.has(t));
+                if (!hit.length) continue;
+                const s = hit.length - 1.5 * bad.length;
+                out.push({ n, hit, bad, s, cov: hit.length / f.t.length });
+            }
+            return out.sort((a, b) => b.s - a.s || b.cov - a.cov).slice(0, 15);
+        };
+        const renderSym = () => {
+            const box = $('#tab-sym');
+            const q = symFilter.trim();
+            const groups = T.tagGroups.map(g => {
+                const ts = g.t.filter(t => !q || t.includes(q));
+                if (!ts.length) return '';
+                return `<div class="grp"><div class="grp-t">${esc(g.g)}</div><div class="chips">${ts.map(t => `<button class="chip ${sel.has(t) ? 'on' : ''}" data-t="${esc(t)}">${esc(t)}</button>`).join('')}</div></div>`;
+            }).join('');
+            const res = score();
+            const max = res.length ? Math.max(...res.map(r => r.hit.length)) : 1;
+            const list = !sel.size ? `<p class="muted small">先在左邊勾選症狀，這裡會依符合程度排出候選方。</p>` :
+                !res.length ? `<p class="muted small">沒有符合的方。</p>` :
+                `<div class="rank">${res.map(r => `<div class="ritem" data-f="${r.n}">
+                    <div class="top"><span class="nm">${r.n}${F[r.n].r ? ' <span class="risk">需專業</span>' : ''}</span><span class="small muted">符合 ${r.hit.length}${r.bad.length ? `・衝突 ${r.bad.length}` : ''}</span></div>
+                    <div class="bar"><span style="width:${Math.max(6, 100 * Math.max(0, r.s) / max)}%"></span></div>
+                    <div class="small muted">${esc(F[r.n].z)}</div>
+                    <div class="small"><span class="tagok">✓ ${r.hit.map(esc).join('、')}</span>${r.bad.length ? `<br><span class="tagbad">✗ 不宜：${r.bad.map(esc).join('、')}</span>` : ''}</div></div>`).join('')}</div>`;
+            box.innerHTML = `<div class="sym-layout"><div class="card">
+                    <input type="search" id="symQ" placeholder="搜尋症狀，例如：咳、痛、拉" value="${esc(symFilter)}">
+                    ${groups}
+                </div><div class="card sticky">
+                    <div class="result-head"><h2 style="margin:0">候選方</h2><span class="pill">已選 ${sel.size}</span>
+                    ${sel.size ? '<button class="btn" id="symClear" style="margin-left:auto;padding:5px 10px">清除</button>' : ''}</div>
+                    <p class="small muted" style="margin:4px 0 0">分數＝符合的症狀數，碰到「不宜」的症狀會扣分。這只是篩選的起點，仍要回到主證與流程確認。</p>
+                    ${sel.size ? `<p class="small" style="margin:8px 0 0">${[...sel].map(esc).join('、')}</p>` : ''}
+                    ${list}
+                </div></div>`;
+            const inp = box.querySelector('#symQ');
+            inp.oninput = () => { symFilter = inp.value; const pos = inp.selectionStart; renderSym(); const n = $('#symQ'); n.focus(); n.setSelectionRange(pos, pos); };
+            box.querySelectorAll('[data-t]').forEach(b => b.onclick = () => { const t = b.dataset.t; sel.has(t) ? sel.delete(t) : sel.add(t); renderSym(); });
+            box.querySelectorAll('.ritem').forEach(d => d.onclick = () => openF(d.dataset.f));
+            const c = box.querySelector('#symClear'); if (c) c.onclick = () => { sel.clear(); renderSym(); };
+        };
+        renderSym();
+
+        /* ---------- 方劑索引 ---------- */
+        let idxQ = '';
+        const renderIndex = () => {
+            const box = $('#tab-index');
+            const q = idxQ.trim();
+            const list = Object.keys(F).filter(n => !q || (n + F[n].z + F[n].k + F[n].y).includes(q));
+            box.innerHTML = `<div class="card"><input type="search" id="idxQ" placeholder="搜尋方名、區塊或症狀，例如：少陰、頭暈、真武" value="${esc(idxQ)}">
+                <p class="small muted">共 ${list.length} 個方</p><div class="fgrid">${list.map(fcard).join('')}</div></div>`;
+            const inp = box.querySelector('#idxQ');
+            inp.oninput = () => { idxQ = inp.value; const pos = inp.selectionStart; renderIndex(); const n = $('#idxQ'); n.focus(); n.setSelectionRange(pos, pos); };
+        };
+        renderIndex();
+    })();
+    </script>
+</body>
+</html>
