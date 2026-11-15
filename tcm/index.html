@@ -116,6 +116,9 @@
         dialog::backdrop { background: rgba(0,0,0,.4); }
         .dlg-body { padding: 18px; }
         .dlg-close { float: right; }
+        details.jj { margin-top: 8px; }
+        details.jj summary { cursor: pointer; color: var(--primary); font-weight: 600; font-size: .9rem; }
+        .cond h3 .small { font-weight: 400; }
         footer { margin-top: 28px; font-size: .8rem; color: var(--muted); text-align: center; }
         @media (max-width: 760px) {
             .sym-layout { grid-template-columns: 1fr; }
@@ -137,7 +140,7 @@
 
     <main>
         <div class="notice">
-            <b>僅供學習參考，不是醫療建議。</b>內容整理自 eztcm.org「僮話」系列四本書的辨證邏輯（改寫，非原文），刻意不列劑量。實際用藥請諮詢合格中醫師；標示「需專業」的方含毒性或峻烈藥。
+            <b>僅供學習參考，不是醫療建議。</b>內容整理自 eztcm.org「僮話」系列四本書的辨證邏輯（改寫，非原文）。劑量採《傷寒論》《金匱要略》原典漢制，換算公克各家不同，只是參考。實際用藥請諮詢合格中醫師；標示「需專業」的方含毒性或峻烈藥。
             <details>
                 <summary>出現以下情況請直接就醫</summary>
                 <ul id="redFlags"></ul>
@@ -149,14 +152,16 @@
             <button class="tab" data-tab="region">部位查詢</button>
             <button class="tab" data-tab="sym">症狀勾選</button>
             <button class="tab" data-tab="index">方劑索引</button>
+            <button class="tab" data-tab="jj">加減與藥對</button>
         </nav>
 
         <section id="tab-flow"></section>
         <section id="tab-region" hidden></section>
         <section id="tab-sym" hidden></section>
         <section id="tab-index" hidden></section>
+        <section id="tab-jj" hidden></section>
 
-        <footer>資料來源：《中醫僮話》《傷寒論僮話（三陽篇）》《傷寒論僮話（三陰篇）》《傷寒備急僮話》（eztcm.org）。出處標記：中／陽／陰／急。</footer>
+        <footer>資料來源：《中醫僮話》《傷寒論僮話（三陽篇）》《傷寒論僮話（三陰篇）》《傷寒備急僮話》（eztcm.org）。出處標記：中／陽／陰／急。劑量出自《傷寒論》《金匱要略》原典（後世方另註）。</footer>
     </main>
 
     <dialog id="dlg"><div class="dlg-body" id="dlgBody"></div></dialog>
@@ -185,16 +190,18 @@
         const link = text => esc(text).replace(nameRe, m => `<span class="flink" data-f="${m}">${m}</span>`);
         const srcBadges = s => (Array.isArray(s) ? s : [...s]).map(k => `<span class="src" title="${esc(T.books[k] || '')}">${k}</span>`).join(' ');
 
+        const jjTable = rows => `<table><thead><tr><th>多了什麼證</th><th>怎麼加減</th><th>出處</th></tr></thead><tbody>${rows.map(([a, b, c]) => `<tr><td>${link(a)}</td><td>${link(b)}</td><td class="s">${srcBadges(c)}</td></tr>`).join('')}</tbody></table>`;
         const fcard = n => {
             const f = F[n]; if (!f) return '';
+            const C = T.comp[n], J = T.jiajian[n];
             return `<div class="fcard"><h4><span class="flink" data-f="${n}">${n}</span>${f.r ? '<span class="risk">需專業</span>' : ''} <span class="muted small">${esc(f.z)}</span></h4>
-                <dl><dt>主證</dt><dd>${link(f.k)}</dd>${f.y ? `<dt>方義</dt><dd>${link(f.y)}</dd>` : ''}${f.w ? `<dt>注意</dt><dd>${link(f.w)}</dd>` : ''}<dt>出處</dt><dd>${srcBadges(f.s)}</dd></dl></div>`;
+                <dl><dt>主證</dt><dd>${link(f.k)}</dd>${f.y ? `<dt>方義</dt><dd>${link(f.y)}</dd>` : ''}${f.w ? `<dt>注意</dt><dd>${link(f.w)}</dd>` : ''}${C ? `<dt>組成</dt><dd>${esc(C.d)}</dd>${C.m ? `<dt>服法</dt><dd>${link(C.m)}</dd>` : ''}` : ''}<dt>出處</dt><dd>${srcBadges(f.s)}</dd></dl>${J ? `<details class="jj"><summary>加減（${J.length}）</summary>${jjTable(J)}</details>` : ''}</div>`;
         };
 
         const dlg = $('#dlg');
         const openF = n => {
             $('#dlgBody').innerHTML = `<button class="icon-btn dlg-close" aria-label="關閉">✕</button>${fcard(n)}
-                <p class="small muted" style="margin-top:12px">${F[n].t.length ? '相關症狀：' + F[n].t.map(esc).join('、') : ''}</p>`;
+                <p class="small muted" style="margin-top:12px">${T.comp[n] ? esc(T.unitNote) + '<br>' : ''}${F[n].t.length ? '相關症狀：' + F[n].t.map(esc).join('、') : ''}</p>`;
             if (!dlg.open) dlg.showModal();
         };
         dlg.addEventListener('click', e => { if (e.target === dlg || e.target.closest('.dlg-close')) dlg.close(); });
@@ -203,7 +210,7 @@
         /* 分頁 */
         document.querySelectorAll('.tab').forEach(b => b.onclick = () => {
             document.querySelectorAll('.tab').forEach(x => x.classList.toggle('active', x === b));
-            ['flow', 'region', 'sym', 'index'].forEach(k => $('#tab-' + k).hidden = k !== b.dataset.tab);
+            ['flow', 'region', 'sym', 'index', 'jj'].forEach(k => $('#tab-' + k).hidden = k !== b.dataset.tab);
         });
 
         /* ---------- 感冒流程 ---------- */
@@ -317,6 +324,28 @@
             inp.oninput = () => { idxQ = inp.value; const pos = inp.selectionStart; renderIndex(); const n = $('#idxQ'); n.focus(); n.setSelectionRange(pos, pos); };
         };
         renderIndex();
+
+        /* ---------- 加減與藥對 ---------- */
+        let jjQ = '';
+        const renderJJ = () => {
+            const box = $('#tab-jj');
+            const q = jjQ.trim();
+            const groups = Object.entries(T.jiajian).map(([n, rows]) => {
+                const rs = rows.filter(r => !q || (n + r[0] + r[1]).includes(q));
+                if (!rs.length) return '';
+                return `<div class="card cond"><h3><span class="flink" data-f="${n}">${n}</span><span class="small muted">${esc(F[n].z)}</span></h3>
+                    ${T.comp[n] ? `<p class="small muted" style="margin:0">基礎組成：${esc(T.comp[n].d)}</p>` : ''}${jjTable(rs)}</div>`;
+            }).join('');
+            const pairs = T.pairs.filter(([a, b]) => !q || (a + b).includes(q));
+            box.innerHTML = `<div class="card"><p style="margin-top:0">作者說加減是「簡單的數學」：比基礎證多一個證，就加一味對應的藥。下面依基礎方整理，最後是常用藥對的作用。</p>
+                <p class="small muted">${esc(T.unitNote)}</p>
+                <input type="search" id="jjQ" placeholder="搜尋方名、症狀或藥名，例如：咳、桔梗、附子" value="${esc(jjQ)}"></div>
+                ${groups || '<p class="muted">沒有符合的加減。</p>'}
+                ${pairs.length ? `<div class="card cond"><h3>常用藥對與藥味</h3><table><thead><tr><th>藥對</th><th>作用</th></tr></thead><tbody>${pairs.map(([a, b]) => `<tr><td><b>${esc(a)}</b></td><td>${link(b)}</td></tr>`).join('')}</tbody></table></div>` : ''}`;
+            const inp = box.querySelector('#jjQ');
+            inp.oninput = () => { jjQ = inp.value; const pos = inp.selectionStart; renderJJ(); const n = $('#jjQ'); n.focus(); n.setSelectionRange(pos, pos); };
+        };
+        renderJJ();
     })();
     </script>
 </body>
