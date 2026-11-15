@@ -31,7 +31,7 @@
         main { max-width: 880px; margin: 0 auto; padding: 72px 20px 48px; }
         h1 { margin: 0; font-size: 2.1rem; letter-spacing: .02em; }
         .sub { margin: 6px 0 36px; color: var(--muted); }
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; }
+        .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
         .card {
             display: flex; flex-direction: column; gap: 14px; padding: 24px;
             background: var(--surface); border: 1px solid var(--border); border-radius: 18px;
@@ -58,6 +58,7 @@
             main { padding: 40px 16px 32px; }
             h1 { font-size: 1.7rem; }
             .sub { margin-bottom: 24px; }
+            .grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -66,16 +67,6 @@
         <h1>我的工具箱</h1>
         <p class="sub">選一個開始吧。</p>
         <div class="grid">
-            <a class="card quiz" href="quiz/">
-                <div class="icon">
-                    <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l2 2 4-4"/><rect x="4" y="3" width="16" height="18" rx="2"/></svg>
-                </div>
-                <div>
-                    <h2>生物單元測驗</h2>
-                    <p>62 個單元題庫，考試與練習模式、錯題本、綜合隨機測驗。</p>
-                </div>
-                <div class="meta"><span id="quizMeta">&nbsp;</span><span class="go">進入 →</span></div>
-            </a>
             <a class="card lativ" href="lativ/">
                 <div class="icon">
                     <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3l-5 3 2 5 3-1v11h8V10l3 1 2-5-5-3c-1 2-2.5 3-4 3S9 5 8 3z"/></svg>
@@ -95,6 +86,16 @@
                     <p>主要 5 檔即時報價與五檔，其他股票每 30 秒更新。</p>
                 </div>
                 <div class="meta"><span>盤中即時</span><span class="go">進入 →</span></div>
+            </a>
+            <a class="card quiz" href="quiz/">
+                <div class="icon">
+                    <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l2 2 4-4"/><rect x="4" y="3" width="16" height="18" rx="2"/></svg>
+                </div>
+                <div>
+                    <h2>生物單元測驗</h2>
+                    <p>62 個單元題庫，考試與練習模式、錯題本、綜合隨機測驗。</p>
+                </div>
+                <div class="meta"><span id="quizMeta">&nbsp;</span><span class="go">進入 →</span></div>
             </a>
         </div>
         <footer>lunglungman.github.io</footer>
