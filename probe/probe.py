@@ -1,26 +1,17 @@
-import urllib.request, urllib.error, re, json, gzip
-H = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
-     "Accept": "application/json", "Content-Type": "application/json", "Grpc-Metadata-lativ-store-app-platform": "1"}
-def api(path):
+import json, re, collections, urllib.request
+d = json.load(open("lativ/data.json")); c = json.load(open("lativ/materials.json"))
+print("SCANNED", d["scanned"], "COUNT", d["count"])
+print("MATERIALS", collections.Counter(v["material"] for v in c.values()).most_common(40))
+for p in d["products"][:5]: print("PROD", json.dumps(p, ensure_ascii=False)[:500])
+print("BYCAT", collections.Counter(p["category"] for p in d["products"]))
+H={"User-Agent":"Mozilla/5.0"}
+for u in [d["products"][0]["image"] if d["products"] else "", "https://www.lativ.com.tw/product/"+(d["products"][0]["id"] if d["products"] else "1")]:
     try:
-        r = urllib.request.urlopen(urllib.request.Request("https://www.lativ.com.tw/"+path, headers=H), timeout=30)
-        return r.status, json.loads(r.read())
-    except urllib.error.HTTPError as e:
-        return e.code, e.read().decode()[:300]
-st, d = api("v1/categories/MEN/tops/content"); print("CAT", st)
-s = json.dumps(d, ensure_ascii=False); print(len(s)); print(s[:3000])
-def walk(o, path="", out=[]):
-    if isinstance(o, dict):
-        for k,v in o.items(): walk(v, f"{path}.{k}", out)
-    elif isinstance(o, list):
-        for i,v in enumerate(o[:2]): walk(v, f"{path}[{i}]", out)
-    else: out.append(f"{path} = {str(o)[:80]}")
-    return out
-print("\n".join(walk(d, out=[])[:120]))
-pid = re.search(r'"productId":\s*"(\d+)"', s)
-pid = pid.group(1) if pid else "74778"
-st, p = api(f"v1/products/{pid}"); print("PROD", pid, st)
-ps = json.dumps(p, ensure_ascii=False); print(len(ps))
-print("\n".join(walk(p, out=[])[:200]))
-for kw in ["棉", "材質", "成分"]:
-    for m in list(re.finditer(kw, ps))[:5]: print("KW", kw, ps[max(0,m.start()-200):m.end()+150])
+        r=urllib.request.urlopen(urllib.request.Request(u,headers=H),timeout=20); b=r.read()
+        print("CHECK", u, r.status, r.headers.get("Content-Type"), len(b), re.search(rb"<title>(.*?)</title>", b).group(1).decode() if b[:20].lstrip().startswith(b"<") and b"<title>" in b else "")
+    except Exception as e: print("CHECK", u, e)
+t=urllib.request.urlopen(urllib.request.Request("https://www.lativ.com.tw/",headers=H)).read().decode()
+for ch in set(re.findall(r'chunk-[A-Z0-9]+\.js', t)):
+    js=urllib.request.urlopen(urllib.request.Request("https://www.lativ.com.tw/"+ch,headers=H)).read().decode("utf-8","replace")
+    m=re.search(r'\.CART="cart"', js)
+    if m: print("ENUM", js[max(0,m.start()-1500):m.end()+800])
