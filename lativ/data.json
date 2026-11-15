@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-15T04:10:37+00:00",
+ "updated": "2026-11-15T04:14:40+00:00",
  "category": "男裝",
  "size": "M",
  "scanned": 533,
- "count": 138,
+ "count": 143,
  "products": [
   {
    "id": "64354",
@@ -1160,6 +1160,173 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/74432"
+  },
+  {
+   "id": "75324",
+   "name": "棉質寬版工裝長褲-男",
+   "price": 790,
+   "originPrice": 790,
+   "material": "主布：棉 100%\n袋布：聚酯纖維 65%、棉 35%",
+   "origin": "中國",
+   "category": "下身類",
+   "subcategory": "寬褲",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910jXXZ_kNPH",
+   "colors": [
+    {
+     "name": "軍綠",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048C2S4FhCAS"
+    },
+    {
+     "name": "深棕",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048DUSrn-DAS"
+    },
+    {
+     "name": "黑色",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048BCH4nhCPH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/75324"
+  },
+  {
+   "id": "75321",
+   "name": "寬版打褶牛仔褲-男",
+   "price": 750,
+   "originPrice": 790,
+   "material": "主布：棉 100%\n袋布：聚酯纖維 65%、棉 35%",
+   "origin": "中國",
+   "category": "下身類",
+   "subcategory": "牛仔褲",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910cCYlHZVAH",
+   "colors": [
+    {
+     "name": "藍色",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048_4ZlSYQPS"
+    },
+    {
+     "name": "深藍",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048LBPlHYVPH"
+    },
+    {
+     "name": "黑灰",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048AYPlSZVAS"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/75321"
+  },
+  {
+   "id": "68678",
+   "name": "卡其短褲-男",
+   "price": 350,
+   "originPrice": 450,
+   "material": "主布：棉 100%\n腰內貼：棉 100%\n袋布：聚酯纖維 65%、棉 35%",
+   "origin": "中國",
+   "category": "下身類",
+   "subcategory": "短褲",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910oILK7CoZH",
+   "colors": [
+    {
+     "name": "白色",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048TRWhmQSZH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/68678"
+  },
+  {
+   "id": "72111",
+   "name": "卡其短褲-男",
+   "price": 350,
+   "originPrice": 450,
+   "material": "主布：棉 100%\n腰內貼：棉 100%\n袋布：聚酯纖維 65%、棉 35%",
+   "origin": "中國",
+   "category": "下身類",
+   "subcategory": "短褲",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910eXx6DPYPS",
+   "colors": [
+    {
+     "name": "白色",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048bGyYkm2PH"
+    },
+    {
+     "name": "淺灰",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048Qc2Ykm1AH"
+    },
+    {
+     "name": "粉色",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048TA1Y981PH"
+    },
+    {
+     "name": "卡其",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048xT1Y9m2PS"
+    },
+    {
+     "name": "橄欖綠",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/004800488MuZk81PS"
+    },
+    {
+     "name": "深軍綠",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048y4_Yk81AH"
+    },
+    {
+     "name": "灰藍",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048UD_Z981AS"
+    },
+    {
+     "name": "藏青",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048mT_Ykm1PH"
+    },
+    {
+     "name": "灰色",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048O_dZk82PS"
+    },
+    {
+     "name": "黑色",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/0048004884dY982AH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/72111"
+  },
+  {
+   "id": "72313",
+   "name": "小毛圈短褲-男",
+   "price": 350,
+   "originPrice": 399,
+   "material": "主布：棉 100%\n羅紋：棉 95%、彈性纖維 5%",
+   "origin": "中國",
+   "category": "下身類",
+   "subcategory": "短褲",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910_SxgmYAPH",
+   "colors": [
+    {
+     "name": "麻灰",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048jrxGwKuAS"
+    },
+    {
+     "name": "寶藍",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/004800483qx6KK_AH"
+    },
+    {
+     "name": "深卡其",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048quy6KKuPS"
+    },
+    {
+     "name": "深灰",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048oQOGKw_PH"
+    },
+    {
+     "name": "藏青",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048j7OGKw_AH"
+    },
+    {
+     "name": "黑色",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048Tl2GKwuAH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/72313"
   },
   {
    "id": "76698",
