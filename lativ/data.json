@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T04:14:58+00:00",
+ "updated": "2026-11-15T13:59:49+00:00",
  "category": "男裝",
  "size": "M",
  "scanned": 533,
@@ -1135,6 +1135,25 @@
    "url": "https://www.lativ.com.tw/product/74433"
   },
   {
+   "id": "70302",
+   "name": "純棉粗紡立領半開襟上衣-男",
+   "price": 399,
+   "originPrice": 499,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "上衣類",
+   "subcategory": "長袖上衣",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910sDkuuCeZH",
+   "colors": [
+    {
+     "name": "深灰綠",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048Oe_GCquAH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/70302"
+  },
+  {
    "id": "74432",
    "name": "純棉粗紡立領半開襟上衣-男",
    "price": 450,
@@ -1424,10 +1443,6 @@
    "subcategory": "內褲系列",
    "image": "https://cdx.lativ.com.tw/upload-v1/07600910S4PcjclAH",
    "colors": [
-    {
-     "name": "灰藍",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048sUABjcdAS"
-    },
     {
      "name": "深灰",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048F7ABjBdPH"
@@ -1973,25 +1988,6 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/75331"
-  },
-  {
-   "id": "73611",
-   "name": "Jurassic World寬版印花T恤-09-男",
-   "price": 249,
-   "originPrice": 350,
-   "material": "棉 100%",
-   "origin": "中國",
-   "category": "聯名授權",
-   "subcategory": "侏羅紀世界",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910SQ1Ofc4AS",
-   "colors": [
-    {
-     "name": "淺卡其",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048DD2OfB4AS"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/73611"
   },
   {
    "id": "74818",
