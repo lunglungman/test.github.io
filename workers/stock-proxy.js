@@ -15,7 +15,8 @@ const DEFAULT_OTHERS = ['2881', '2882', '2412', '2603', '00878', '0050', '2886',
 const ALLOWED_ORIGINS = ['https://lunglungman.github.io'];
 
 const TTL = {
-    realtime: 6,      // 秒：5 檔 × 每分鐘 10 次 = 50 次，低於富果免費額度 60 次
+    realtime: 7,      // 秒：5 檔 × 每分鐘約 8.6 次 ≈ 43 次
+    oddlot: 30,       // 秒：零股五檔 5 檔 × 每分鐘 2 次 = 10 次；合計約 53 次，低於富果免費額度 60 次
     others: 30,       // 秒：證交所一次請求查全部
     closed: 300,      // 秒：收盤後 5 分鐘更新一次就好
     backoff: 60       // 秒：上游出錯後暫停多久再試
@@ -35,8 +36,8 @@ export default {
         if (request.method === 'OPTIONS') return new Response(null, { headers: cors });
 
         const group = url.pathname.replace(/^\/+|\/+$/g, '');
-        if (!['realtime', 'others', 'config'].includes(group)) {
-            return json({ error: '請使用 /realtime、/others 或 /config' }, 404, cors);
+        if (!['realtime', 'oddlot', 'others', 'config'].includes(group)) {
+            return json({ error: '請使用 /realtime、/oddlot、/others 或 /config' }, 404, cors);
         }
 
         const realtime = symbols(env.REALTIME, DEFAULT_REALTIME).slice(0, 5);
@@ -63,8 +64,8 @@ export default {
         }
 
         try {
-            const items = group === 'realtime'
-                ? await fetchFugle(realtime, env.FUGLE_API_KEY)
+            const items = group === 'realtime' ? await fetchFugle(realtime, env.FUGLE_API_KEY)
+                : group === 'oddlot' ? await fetchFugleOddlot(realtime, env.FUGLE_API_KEY)
                 : await fetchTwse(others);
             const body = JSON.stringify({ group, updated: Date.now(), marketOpen: open, ttl, items });
             const headers = { 'Content-Type': 'application/json; charset=utf-8' };
@@ -113,6 +114,26 @@ async function fetchFugle(list, key) {
         };
     }));
     return results;
+}
+
+async function fetchFugleOddlot(list, key) {
+    if (!key) throw new Error('尚未設定 FUGLE_API_KEY');
+    return Promise.all(list.map(async symbol => {
+        const r = await fetch(`https://api.fugle.tw/marketdata/v1.0/stock/intraday/quote/${encodeURIComponent(symbol)}?type=oddlot`, {
+            headers: { 'X-API-KEY': key }
+        });
+        if (r.status === 429) throw new Error('富果請求太頻繁（429）');
+        if (!r.ok) return { symbol, error: `富果 ${r.status}` };
+        const q = await r.json();
+        return {
+            symbol: q.symbol,
+            price: q.lastPrice ?? q.closePrice ?? null,
+            volume: q.total?.tradeVolume ?? null,   // 零股單位：股
+            time: q.lastUpdated ? Math.floor(q.lastUpdated / 1000) : null,
+            bids: (q.bids || []).slice(0, 5),
+            asks: (q.asks || []).slice(0, 5)
+        };
+    }));
 }
 
 async function fetchTwse(list) {
