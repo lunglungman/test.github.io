@@ -1,403 +1,826 @@
-(function() {
-    let currentIndex = 0;
-    let questions = [];
-    let answers = {};
-    let marks = {};
+(() => {
+    'use strict';
 
-    // 常量定義
-    const QUESTION_TYPES = {
-        MULTIPLE_CHOICE: '複選題',
-        MULTIPLE_ANSWER_SINGLE_CHOICE: '單選題多答', // 根據您的定義
-        SINGLE_CHOICE: '單選題' // 假設還有單選題
-    };
-    const QUESTIONS_PER_COLUMN = 25; // 測驗結果分欄顯示的題目數量
-    const POINTS_PER_CORRECT_ANSWER = 2;
-    const PENALTY_PER_INCORRECT_ANSWER = 0.7;
+    /* ================= 設定 ================= */
+    const POINTS_PER_CORRECT = 2;      // 答對得分
+    const PENALTY_PER_WRONG = 0.7;     // 答錯倒扣（未作答不扣分）
+    const RANDOM_COUNTS = [20, 50, 100];
 
-    // 快取 DOM 元素
-    const DOMElements = {
-        quizSelector: null,
-        loadQuizBtn: null,
-        quizTitle: null,
-        questionContainer: null,
-        progressText: null,
-        quizProgress: null,
-        questionNav: null,
-        clearFeedbackBtn: null,
-        submitQuizBtn: null,
-        scoreDisplay: null,
-        prevQuestionBtn: null,
-        toggleMarkBtn: null,
-        nextQuestionBtn: null
+    const LS = {
+        settings: 'bioquiz.settings',
+        session: 'bioquiz.session',
+        history: 'bioquiz.history',
+        wrong: 'bioquiz.wrongbook'
     };
 
-    function cacheDOMElements() {
-        DOMElements.quizSelector = document.getElementById("quizSelector");
-        DOMElements.loadQuizBtn = document.getElementById("loadQuizBtn");
-        DOMElements.quizTitle = document.getElementById("quizTitle");
-        DOMElements.questionContainer = document.getElementById("question-container");
-        DOMElements.progressText = document.getElementById("progress-text");
-        DOMElements.quizProgress = document.getElementById("quiz-progress");
-        DOMElements.questionNav = document.getElementById("question-nav");
-        DOMElements.clearFeedbackBtn = document.getElementById("clearFeedbackBtn");
-        DOMElements.submitQuizBtn = document.getElementById("submitQuizBtn");
-        DOMElements.scoreDisplay = document.getElementById("score");
-        DOMElements.prevQuestionBtn = document.getElementById("prevQuestionBtn");
-        DOMElements.toggleMarkBtn = document.getElementById("toggleMarkBtn");
-        DOMElements.nextQuestionBtn = document.getElementById("nextQuestionBtn");
-    }
-
-    async function loadSelectedQuiz() {
-        try {
-            const selectedFile = DOMElements.quizSelector.value;
-            const selectedText = DOMElements.quizSelector.options[DOMElements.quizSelector.selectedIndex].textContent;
-
-            DOMElements.quizTitle.textContent = selectedText;
-            
-            // 清空之前的答案和標記，重置測驗狀態
-            answers = {};
-            marks = {};
-            currentIndex = 0; // 重置當前題目索引
-
-            const res = await fetch(`./${selectedFile}`);
-            if (!res.ok) throw new Error(`載入題庫失敗: ${selectedFile}`);
-            
-            questions = await res.json();
-            renderSidebar();
-            renderQuestion();
-            updateProgress(); // 重置進度條
-            updateButtons(); // 確保按鈕狀態正確
-        } catch (error) {
-            console.error("錯誤:", error);
-            alert(`題庫載入失敗，請確認檔案是否存在。詳細錯誤: ${error.message}`);
+    /* ================= 小工具 ================= */
+    const $ = (sel, root = document) => root.querySelector(sel);
+    const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    const store = {
+        get(key, fallback) {
+            try { const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; } catch { return fallback; }
+        },
+        set(key, value) { try { localStorage.setItem(key, JSON.stringify(value)); } catch { /* 無痕模式等情況 */ } },
+        del(key) { try { localStorage.removeItem(key); } catch { /* ignore */ } }
+    };
+    const shuffle = arr => {
+        const a = arr.slice();
+        for (let i = a.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [a[i], a[j]] = [a[j], a[i]];
         }
-    }
+        return a;
+    };
+    const fmtTime = sec => {
+        sec = Math.max(0, Math.floor(sec));
+        const h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60), s = sec % 60;
+        const mm = String(m).padStart(2, '0'), ss = String(s).padStart(2, '0');
+        return h ? `${h}:${mm}:${ss}` : `${mm}:${ss}`;
+    };
+    const fmtScore = n => (Math.round(n * 10) / 10).toString();
+    const fmtDate = ts => {
+        const d = new Date(ts);
+        return `${d.getMonth() + 1}/${d.getDate()} ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`;
+    };
 
-    async function populateQuizList() {
-        try {
-            const res = await fetch("./exams.json");
-            if (!res.ok) throw new Error("載入測驗列表失敗");
-            const quizList = await res.json();
+    /* ================= 狀態 ================= */
+    let exams = [];
+    const fileCache = new Map();
+    let settings = Object.assign({ mode: 'exam', shuffle: false, theme: 'auto', randomCount: 50 }, store.get(LS.settings, {}));
+    let S = store.get(LS.session, null);   // 目前測驗（可續作）
+    let Q = [];                            // 目前測驗的題目（已整理）
+    let reviewFilter = 'all';
+    let homeQuery = '';
+    let timerId = null;
 
-            quizList.forEach(quiz => {
-                let option = document.createElement("option");
-                option.value = quiz.file;
-                option.textContent = `${quiz.id}-${quiz.name}`;
-                DOMElements.quizSelector.appendChild(option);
+    const saveSettings = () => store.set(LS.settings, settings);
+    const saveSession = () => { if (S) store.set(LS.session, S); else store.del(LS.session); };
+
+    /* ================= 題庫載入 ================= */
+    function loadFile(file) {
+        if (!fileCache.has(file)) {
+            const p = fetch(`./${file}`).then(r => {
+                if (!r.ok) throw new Error(`無法載入 ${file}`);
+                return r.json();
             });
-        } catch (error) {
-            console.error("載入測驗列表錯誤:", error);
-            alert("測驗列表載入失敗。");
+            fileCache.set(file, p);
+            p.catch(() => fileCache.delete(file));
         }
+        return fileCache.get(file);
     }
 
-    function renderSidebar() {
-        const nav = DOMElements.questionNav;
-        nav.innerHTML = ""; // 清空題目列表
-        
-        let rowContainer;
-        
-        questions.forEach((q, i) => {
-            if (i % 5 === 0) {
-                // 每 5 題建立新行
-                rowContainer = document.createElement("div");
-                rowContainer.classList.add("question-row");
-                nav.appendChild(rowContainer);
-            }
-            
-            const btn = document.createElement("button");
-            btn.textContent = `${i + 1}`;
-            // 根據答案和標記狀態添加 class
-            const classList = [];
-            if (answers[i] && answers[i].length > 0) { // 檢查答案是否存在且長度大於0
-                classList.push("answered");
-            }
-            if (marks[i]) {
-                classList.push("marked");
-            }
-            if (i === currentIndex) { // 當前題目也應該有特殊樣式
-                classList.push("current-question");
-            }
-            btn.className = classList.join(" ").trim();
-            btn.dataset.questionIndex = i; // 將索引存儲在 data 屬性中
-            
-            rowContainer.appendChild(btn);
+    function normalize(q, file) {
+        const answer = (Array.isArray(q.answer) ? q.answer : [q.answer]).map(a => String(a).trim().toUpperCase());
+        return {
+            file,
+            id: q.id,
+            type: q.type,
+            multi: q.type === '複選題',
+            anyOf: q.type === '單選題多答',  // 單選作答，但多個選項皆給分
+            text: String(q.question).replace(/^\s*\d+\s*[.．、]\s*/, ''),
+            images: q.question_images || [],
+            options: q.options.map(o => {
+                const t = String(o.text).trim();
+                return { letter: t.charAt(0).toUpperCase(), text: t.slice(1).trim(), images: o.images || [] };
+            }),
+            answer
+        };
+    }
+
+    async function resolveQuestions() {
+        const files = [...new Set(S.refs.map(r => r.file))];
+        const data = await Promise.all(files.map(loadFile));
+        const map = new Map();
+        files.forEach((f, i) => data[i].forEach(q => map.set(`${f}#${q.id}`, normalize(q, f))));
+        const refs = S.refs.filter(r => map.has(`${r.file}#${r.id}`));
+        if (refs.length !== S.refs.length) S.refs = refs;
+        Q = refs.map(r => map.get(`${r.file}#${r.id}`));
+    }
+
+    const examName = file => exams.find(e => e.file === file);
+
+    /* ================= 判分 ================= */
+    function judge(q, ans) {
+        if (!ans || !ans.length) return 'blank';
+        if (q.anyOf) return ans.length === 1 && q.answer.includes(ans[0]) ? 'correct' : 'wrong';
+        const a = ans.slice().sort().join(), b = q.answer.slice().sort().join();
+        return a === b ? 'correct' : 'wrong';
+    }
+
+    function computeResult() {
+        let correct = 0, wrong = 0, blank = 0;
+        Q.forEach((q, i) => {
+            const r = judge(q, S.answers[i]);
+            if (r === 'correct') correct++; else if (r === 'wrong') wrong++; else blank++;
+        });
+        return {
+            correct, wrong, blank,
+            total: Q.length,
+            score: correct * POINTS_PER_CORRECT - wrong * PENALTY_PER_WRONG,
+            max: Q.length * POINTS_PER_CORRECT,
+            elapsed: S.elapsed,
+            date: Date.now()
+        };
+    }
+
+    /* ================= 錯題本 ================= */
+    const wrongKey = q => `${q.file}#${q.id}`;
+    function wrongbookAdd(q) {
+        const wb = store.get(LS.wrong, {});
+        const k = wrongKey(q);
+        wb[k] = { file: q.file, id: q.id, count: (wb[k]?.count || 0) + 1, last: Date.now() };
+        store.set(LS.wrong, wb);
+    }
+    function wrongbookRemove(q) {
+        const wb = store.get(LS.wrong, {});
+        if (wb[wrongKey(q)]) { delete wb[wrongKey(q)]; store.set(LS.wrong, wb); }
+    }
+    function recordOutcome(q, outcome) {
+        if (outcome === 'wrong' || outcome === 'blank') wrongbookAdd(q);
+        else if (outcome === 'correct' && S.kind === 'wrongbook') wrongbookRemove(q);
+    }
+
+    /* ================= 主題 ================= */
+    function applyTheme() {
+        const root = document.documentElement;
+        if (settings.theme === 'auto') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', settings.theme);
+    }
+    function toggleTheme() {
+        const isDark = settings.theme === 'dark' ||
+            (settings.theme === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches);
+        settings.theme = isDark ? 'light' : 'dark';
+        saveSettings();
+        applyTheme();
+    }
+
+    /* ================= 對話框／提示 ================= */
+    function modal({ title, body = '', actions = [{ label: '確定', value: 'ok', primary: true }] }) {
+        const dlg = $('#modal');
+        $('#modalTitle').textContent = title;
+        $('#modalBody').innerHTML = body;
+        $('#modalActions').innerHTML = actions.map(a =>
+            `<button class="btn ${a.primary ? 'primary' : ''} ${a.danger ? 'danger' : ''}" value="${esc(a.value)}">${esc(a.label)}</button>`
+        ).join('');
+        return new Promise(resolve => {
+            dlg.addEventListener('close', () => resolve(dlg.returnValue), { once: true });
+            dlg.returnValue = '';
+            dlg.showModal();
         });
     }
 
-    function renderQuestion() {
-        const q = questions[currentIndex];
-        const container = DOMElements.questionContainer;
-
-        const imagesHTML = q.question_images.map(src => `<img src="${src}" class="question-image" alt="題目圖片">`).join("");
-
-        container.innerHTML = `
-            <div class="question-block">
-                <h3 class="question-title">${q.question}</h3>
-                ${imagesHTML}
-                <form id="options-form">
-                    <fieldset>
-                        <legend>(${q.type})</legend>
-                        ${q.options.map((opt, optIndex) => `
-                            <label class="option-block" data-option-index="${optIndex + 1}">
-                                <input type="${[QUESTION_TYPES.MULTIPLE_CHOICE, QUESTION_TYPES.MULTIPLE_ANSWER_SINGLE_CHOICE].includes(q.type) ? 'checkbox' : 'radio'}"
-                                name="opt" value="${opt.text.charAt(0)}"
-                                ${answers[currentIndex] && answers[currentIndex].includes(opt.text.charAt(0)) ? "checked" : ""}>
-                                <span>${opt.text.charAt(0)}. ${opt.text.slice(1)}</span>
-                                ${opt.images.map(src => `<img src="${src}" class="option-image" alt="選項圖片">`).join("")}
-                            </label>
-                            <hr>
-                        `).join("")}
-                    </fieldset>
-                </form>
-            </div>
-        `;
-
-        // 確保交卷後選項是禁用的
-        if (DOMElements.quizTitle.textContent.includes("總分")) { // 簡單判斷是否已交卷
-             document.querySelectorAll("#options-form input").forEach(input => {
-                input.disabled = true;
-            });
-        }
+    let toastTimer;
+    function toast(msg) {
+        const t = $('#toast');
+        t.textContent = msg;
+        t.classList.add('show');
+        clearTimeout(toastTimer);
+        toastTimer = setTimeout(() => t.classList.remove('show'), 2200);
     }
 
-    function prevQuestion() {
-        saveAnswer();
-        if (currentIndex > 0) {
-            currentIndex--;
-            renderQuestion();
-            renderSidebar();
+    /* ================= 路由 ================= */
+    function go(view, { push = true } = {}) {
+        if (push && location.hash !== `#${view}`) {
+            history.pushState(null, '', `#${view}`);
         }
+        render(view);
     }
 
-    function nextQuestion() {
-        saveAnswer();
-        if (currentIndex < questions.length - 1) {
-            currentIndex++;
-            renderQuestion();
-        }
-        renderSidebar();
+    function render(view) {
+        if ((view === 'quiz' || view === 'result') && (!S || !Q.length)) view = 'home';
+        if (view === 'result' && !S.submitted) view = 'quiz';
+        document.querySelectorAll('.view').forEach(v => v.hidden = v.id !== `view-${view}`);
+        document.body.dataset.view = view;
+        stopTimer();
+        closeNav();
+        if (view === 'home') renderHome();
+        if (view === 'quiz') { renderQuiz(); if (!S.submitted) startTimer(); }
+        if (view === 'result') renderResult();
+        updateTopbar(view);
+        window.scrollTo(0, 0);
     }
 
-    function saveAnswer() {
-        const form = document.querySelector("#options-form");
-        if (!form) return; // 如果表單不存在，則不執行
-        
-        const selectedInputs = Array.from(form.querySelectorAll("input:checked"));
-        const selectedOptions = selectedInputs.map(input => input.value);
-
-        if ([QUESTION_TYPES.MULTIPLE_CHOICE, QUESTION_TYPES.MULTIPLE_ANSWER_SINGLE_CHOICE].includes(questions[currentIndex].type)) {
-            answers[currentIndex] = selectedOptions; // 多選存為陣列
-        } else {
-            answers[currentIndex] = selectedOptions[0] || ""; // 單選存為單值
-        }
-
+    function updateTopbar(view) {
+        const inQuiz = view !== 'home' && S;
+        $('#topbarTitle').textContent = inQuiz ? S.title : '生物單元測驗';
+        $('#homeBtn').hidden = !inQuiz;
+        $('#timer').hidden = !(view === 'quiz' && S);
+        $('#timer').textContent = S ? fmtTime(S.elapsed) : '';
         updateProgress();
     }
 
-    function toggleMark() {
-        marks[currentIndex] = !marks[currentIndex];
-        renderSidebar();
+    /* ================= 計時 ================= */
+    function startTimer() {
+        stopTimer();
+        let last = Date.now();
+        timerId = setInterval(() => {
+            const now = Date.now();
+            if (!document.hidden && S && !S.submitted) {
+                S.elapsed += (now - last) / 1000;
+                $('#timer').textContent = fmtTime(S.elapsed);
+                if (Math.floor(S.elapsed) % 5 === 0) saveSession();
+            }
+            last = now;
+        }, 1000);
+    }
+    function stopTimer() { clearInterval(timerId); timerId = null; }
+
+    /* ================= 首頁 ================= */
+    function renderHome() {
+        const history = store.get(LS.history, {});
+        const wb = store.get(LS.wrong, {});
+        const wbCount = Object.keys(wb).length;
+        const resumable = S && !S.submitted && Q.length;
+        const answered = resumable ? Object.values(S.answers).filter(a => a && a.length).length : 0;
+
+        const q = homeQuery.trim().toLowerCase();
+        const list = exams.filter(e => !q || `${e.id} ${e.name}`.toLowerCase().includes(q));
+        const done = exams.filter(e => history[e.file]).length;
+
+        $('#view-home').innerHTML = `
+            <div class="home">
+                <div class="hero">
+                    <div>
+                        <h1>生物單元測驗</h1>
+                        <p class="muted">${exams.length} 個單元 · 已完成 ${done} 個</p>
+                    </div>
+                    <div class="settings-card">
+                        <div class="setting">
+                            <span class="setting-label">作答模式</span>
+                            <div class="seg" id="modeSeg">
+                                <button data-mode="exam" class="${settings.mode === 'exam' ? 'active' : ''}">考試</button>
+                                <button data-mode="practice" class="${settings.mode === 'practice' ? 'active' : ''}">練習</button>
+                            </div>
+                        </div>
+                        <p class="setting-desc muted">${settings.mode === 'exam' ? '交卷後才公布答案與分數。' : '每題作答後立即顯示對錯。'}</p>
+                        <label class="switch">
+                            <input type="checkbox" id="shuffleChk" ${settings.shuffle ? 'checked' : ''}>
+                            <span class="switch-track"></span>
+                            <span>題目隨機排序</span>
+                        </label>
+                    </div>
+                </div>
+
+                ${resumable ? `
+                <div class="resume">
+                    <div>
+                        <div class="resume-label">上次未完成</div>
+                        <div class="resume-title">${esc(S.title)}</div>
+                        <div class="muted small">已答 ${answered} / ${Q.length} 題 · 用時 ${fmtTime(S.elapsed)} · ${S.mode === 'exam' ? '考試' : '練習'}模式</div>
+                    </div>
+                    <div class="resume-actions">
+                        <button class="btn" data-action="discard">放棄</button>
+                        <button class="btn primary" data-action="resume">繼續作答</button>
+                    </div>
+                </div>` : ''}
+
+                <div class="tools">
+                    <div class="tool-card">
+                        <div class="tool-icon wrong">✎</div>
+                        <div class="tool-body">
+                            <h3>錯題本</h3>
+                            <p class="muted small">${wbCount ? `累積 ${wbCount} 題答錯或未答。複習時答對就會移出。` : '目前沒有錯題。交卷後答錯的題目會自動收進來。'}</p>
+                        </div>
+                        <div class="tool-actions">
+                            ${wbCount ? `<button class="btn ghost small" data-action="clear-wrong">清空</button>
+                            <button class="btn primary small" data-action="wrongbook">開始複習</button>` : ''}
+                        </div>
+                    </div>
+                    <div class="tool-card">
+                        <div class="tool-icon random">⤮</div>
+                        <div class="tool-body">
+                            <h3>綜合隨機測驗</h3>
+                            <p class="muted small">從全部單元隨機抽題。</p>
+                        </div>
+                        <div class="tool-actions">
+                            <select id="randomCount" class="select small" aria-label="題數">
+                                ${RANDOM_COUNTS.map(n => `<option value="${n}" ${settings.randomCount === n ? 'selected' : ''}>${n} 題</option>`).join('')}
+                            </select>
+                            <button class="btn primary small" data-action="random">開始</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="units-head">
+                    <h2>單元列表</h2>
+                    <input type="search" id="unitSearch" class="search" placeholder="搜尋單元（例如：神經、T12）" value="${esc(homeQuery)}">
+                </div>
+                <div class="units" id="units">
+                    ${list.map(e => unitCard(e, history[e.file])).join('') || '<p class="muted empty">找不到符合的單元。</p>'}
+                </div>
+            </div>`;
     }
 
-    function calculateScoreAndFeedback() {
-        let score = 0;
-        let errorQuestions = []; // 用於儲存所有錯誤題目的資訊
+    function unitCard(e, h) {
+        const pct = h ? Math.max(0, Math.round(h.best / h.max * 100)) : 0;
+        const level = !h ? '' : pct >= 80 ? 'good' : pct >= 60 ? 'ok' : 'low';
+        const inProgress = S && !S.submitted && S.kind === 'unit' && S.file === e.file;
+        return `
+            <button class="unit ${level}" data-file="${esc(e.file)}">
+                <div class="unit-top">
+                    <span class="unit-id">${esc(e.id)}</span>
+                    ${inProgress ? '<span class="badge">作答中</span>' : ''}
+                </div>
+                <div class="unit-name">${esc(e.name)}</div>
+                <div class="unit-meta">
+                    ${h ? `最佳 <b>${fmtScore(h.best)}</b> / ${h.max} · ${h.attempts} 次` : '<span class="muted">尚未作答</span>'}
+                </div>
+                <div class="unit-bar"><span style="width:${pct}%"></span></div>
+            </button>`;
+    }
 
-        questions.forEach((q, i) => {
-            const isMultipleChoice = [QUESTION_TYPES.MULTIPLE_CHOICE, QUESTION_TYPES.MULTIPLE_ANSWER_SINGLE_CHOICE].includes(q.type);
-            const correct = Array.isArray(q.answer) ? q.answer.slice().sort() : [q.answer].slice().sort(); // 確保正確答案是陣列並排序
-            const userAns = answers[i] ? (Array.isArray(answers[i]) ? answers[i].slice().sort() : [answers[i]].slice().sort()) : []; // 確保用戶答案是陣列並排序
-
-            const isCorrect = isMultipleChoice
-                ? JSON.stringify(userAns) === JSON.stringify(correct)
-                : userAns[0] === correct[0];
-
-            if (isCorrect) {
-                score += POINTS_PER_CORRECT_ANSWER;
-            } else {
-                if (userAns.length > 0) { // 如果有作答但答錯
-                    score -= PENALTY_PER_INCORRECT_ANSWER;
-                }
-                // 儲存錯誤題目的詳細資訊
-                const userAnsText = userAns.length > 0 ? userAns.join(", ") : "未答";
-                const correctAnsText = correct.join(", ");
-                errorQuestions.push(`❌ 第 ${i + 1} 題：你的答案 ${userAnsText}，正確答案 ${correctAnsText}<br>`);
-            }
-        });
-
-        let feedbackLeftColumn = "";
-        let feedbackRightColumn = "";
-        const errorCount = errorQuestions.length;
-
-        // 計算每欄應該有多少題目
-        const questionsPerColumn = Math.ceil(errorCount / 2);
-
-        // 將錯誤題目平均分配到兩欄
-        for (let i = 0; i < errorCount; i++) {
-            if (i < questionsPerColumn) {
-                feedbackLeftColumn += errorQuestions[i];
-            } else {
-                feedbackRightColumn += errorQuestions[i];
-            }
+    async function startQuiz({ kind, title, refs, file = null, keepOrder = false }) {
+        if (S && !S.submitted && Object.values(S.answers).some(a => a && a.length)) {
+            const r = await modal({
+                title: '開始新的測驗？',
+                body: `<p>「${esc(S.title)}」還沒交卷，開始新測驗會放棄目前的作答。</p>`,
+                actions: [{ label: '取消', value: 'cancel' }, { label: '放棄並開始', value: 'ok', primary: true, danger: true }]
+            });
+            if (r !== 'ok') return;
         }
-
-        return { score, feedbackLeftColumn, feedbackRightColumn, errorCount };
-    }
-
-    function submitQuiz() {
-        // 如果已經顯示了回饋（表示已經交卷），則不再重複執行
-        if (document.getElementById("quiz-feedback")) {
+        if (!keepOrder && (settings.shuffle || kind === 'random' || kind === 'wrongbook')) refs = shuffle(refs);
+        S = {
+            kind, title, file, refs,
+            mode: settings.mode,
+            answers: {}, marks: {}, revealed: {},
+            current: 0, elapsed: 0,
+            submitted: false, result: null,
+            startedAt: Date.now()
+        };
+        reviewFilter = 'all';
+        try {
+            await resolveQuestions();
+        } catch (err) {
+            S = null;
+            saveSession();
+            toast(`題庫載入失敗：${err.message}`);
             return;
         }
+        saveSession();
+        go('quiz');
+    }
 
-        const confirmSubmit = confirm("您確定要交卷並計分嗎？交卷後將無法修改答案。");
-        if (!confirmSubmit) {
-            return; // 如果使用者點擊取消，則停止執行後續邏輯
+    async function startUnit(file) {
+        if (S && !S.submitted && S.kind === 'unit' && S.file === file) { go('quiz'); return; }
+        const e = examName(file);
+        try {
+            const data = await loadFile(file);
+            startQuiz({ kind: 'unit', file, title: `${e.id} ${e.name}`, refs: data.map(q => ({ file, id: q.id })) });
+        } catch (err) {
+            toast(`題庫載入失敗：${err.message}`);
+        }
+    }
+
+    async function startRandom() {
+        const n = settings.randomCount;
+        toast('正在載入全部題庫…');
+        try {
+            const all = await Promise.all(exams.map(e => loadFile(e.file).then(d => d.map(q => ({ file: e.file, id: q.id })))));
+            const refs = shuffle(all.flat()).slice(0, n);
+            startQuiz({ kind: 'random', title: `綜合隨機 ${n} 題`, refs, keepOrder: true });
+        } catch (err) {
+            toast(`題庫載入失敗：${err.message}`);
+        }
+    }
+
+    function startWrongbook() {
+        const wb = store.get(LS.wrong, {});
+        const refs = Object.values(wb).map(w => ({ file: w.file, id: w.id }));
+        if (!refs.length) return;
+        startQuiz({ kind: 'wrongbook', title: `錯題複習（${refs.length} 題）`, refs });
+    }
+
+    /* ================= 作答畫面 ================= */
+    const isLocked = i => S.submitted || !!S.revealed[i];
+
+    function renderQuiz() {
+        $('#submitBtn').hidden = S.submitted;
+        $('#toResultBtn').hidden = !S.submitted;
+        $('#reviewFilter').hidden = !S.submitted;
+        document.querySelectorAll('#reviewFilter button').forEach(b => b.classList.toggle('active', b.dataset.filter === reviewFilter));
+        renderNav();
+        renderQuestion();
+    }
+
+    function statusOf(i) {
+        const ans = S.answers[i];
+        if (S.submitted || S.revealed[i]) return judge(Q[i], ans);
+        return ans && ans.length ? 'answered' : 'blank';
+    }
+
+    function renderNav() {
+        const grid = $('#qgrid');
+        grid.innerHTML = Q.map((q, i) => {
+            const st = statusOf(i);
+            const visible = !S.submitted || reviewFilter === 'all' ||
+                (reviewFilter === 'wrong' && st !== 'correct') ||
+                (reviewFilter === 'marked' && S.marks[i]);
+            if (!visible) return '';
+            const cls = ['qnum', `st-${st}`, S.marks[i] ? 'marked' : '', i === S.current ? 'current' : ''].join(' ');
+            return `<button class="${cls}" data-index="${i}" aria-label="第 ${i + 1} 題">${i + 1}</button>`;
+        }).join('') || '<p class="muted small">沒有符合的題目。</p>';
+
+        const answered = Object.values(S.answers).filter(a => a && a.length).length;
+        const marked = Object.values(S.marks).filter(Boolean).length;
+        if (S.submitted) {
+            const r = S.result;
+            $('#navStats').innerHTML = `<b>${fmtScore(r.score)}</b> 分 · 答對 ${r.correct}/${r.total}`;
+            $('#legend').innerHTML = `
+                <span><i class="dot st-correct"></i>答對</span>
+                <span><i class="dot st-wrong"></i>答錯</span>
+                <span><i class="dot st-blank"></i>未答</span>
+                <span><i class="dot marked"></i>標記</span>`;
+        } else {
+            $('#navStats').innerHTML = `已答 <b>${answered}</b> / ${Q.length}${marked ? ` · 標記 ${marked}` : ''}`;
+            $('#legend').innerHTML = S.mode === 'practice' ? `
+                <span><i class="dot st-correct"></i>答對</span>
+                <span><i class="dot st-wrong"></i>答錯</span>
+                <span><i class="dot st-blank"></i>未答</span>
+                <span><i class="dot marked"></i>標記</span>` : `
+                <span><i class="dot st-answered"></i>已答</span>
+                <span><i class="dot st-blank"></i>未答</span>
+                <span><i class="dot marked"></i>標記</span>`;
+        }
+        updateProgress();
+        const cur = grid.querySelector('.current');
+        if (cur) cur.scrollIntoView({ block: 'nearest' });
+    }
+
+    function imagesHTML(srcs, cls) {
+        return srcs.map(src => `<img src="${esc(src)}" class="${cls}" alt="題目圖片" loading="lazy" data-zoom>`).join('');
+    }
+
+    function renderQuestion() {
+        const i = S.current;
+        const q = Q[i];
+        const ans = S.answers[i] || [];
+        const locked = isLocked(i);
+        const outcome = locked ? judge(q, ans) : null;
+        const unit = examName(q.file);
+        const showUnit = S.kind !== 'unit' && unit;
+
+        const typeLabel = q.multi ? '複選題' : q.anyOf ? '單選題（多個答案皆給分）' : '單選題';
+        const optionsHTML = q.options.map(o => {
+            const selected = ans.includes(o.letter);
+            let cls = 'opt';
+            if (selected) cls += ' selected';
+            if (locked) {
+                if (q.answer.includes(o.letter)) cls += ' is-answer';
+                if (selected && !q.answer.includes(o.letter)) cls += ' is-wrong';
+            }
+            return `
+                <button class="${cls}" data-letter="${esc(o.letter)}" role="${q.multi ? 'checkbox' : 'radio'}"
+                        aria-checked="${selected}" ${locked ? 'aria-disabled="true"' : ''}>
+                    <span class="opt-key ${q.multi ? 'square' : ''}">${esc(o.letter)}</span>
+                    <span class="opt-text">${esc(o.text)}${o.images.length ? `<span class="opt-images">${imagesHTML(o.images, 'option-image')}</span>` : ''}</span>
+                    ${locked && q.answer.includes(o.letter) ? '<span class="opt-flag ok">正解</span>' : ''}
+                    ${locked && selected && !q.answer.includes(o.letter) ? '<span class="opt-flag bad">你的答案</span>' : ''}
+                </button>`;
+        }).join('');
+
+        let feedback = '';
+        if (locked) {
+            const right = q.answer.join('、');
+            const mine = ans.length ? ans.slice().sort().join('、') : '';
+            const msg = outcome === 'correct' ? '答對了！' :
+                outcome === 'wrong' ? `答錯了。你選 ${mine}，正確答案是 ${right}。` :
+                `未作答。正確答案是 ${right}。`;
+            feedback = `<div class="feedback ${outcome}">${outcome === 'correct' ? '✓' : '✕'} ${esc(msg)}
+                ${q.anyOf ? '<div class="small">本題 ' + esc(right) + ' 皆給分。</div>' : ''}</div>`;
         }
 
-        saveAnswer(); // 確保儲存最後一題答案
+        const needConfirm = !locked && S.mode === 'practice' && q.multi;
 
-        // 移除舊的回饋結果 (雖然上面有檢查，但保險起見再次移除)
-        document.getElementById("quiz-feedback")?.remove();
-
-        const { score, feedbackLeftColumn, feedbackRightColumn, errorCount } = calculateScoreAndFeedback();
-
-        DOMElements.scoreDisplay.innerHTML = `<h4>總分：${score.toFixed(1)} 分</h4>`;
-
-        // 根據是否有錯誤題目來顯示不同的標題和內容
-        const feedbackTitle = errorCount > 0 ? `您有 ${errorCount} 題答錯或未答：` : "恭喜您，全部答對！";
-        const feedbackContent = errorCount > 0 ? `
-            <div class="feedback-columns">
-                <div class="feedback-left">${feedbackLeftColumn || "<p>此欄無錯誤答案</p>"}</div>
-                <div class="feedback-right">${feedbackRightColumn || "<p>此欄無錯誤答案</p>"}</div>
+        $('#qcard').innerHTML = `
+            <div class="qmeta">
+                <span class="qno">第 ${i + 1} <small>/ ${Q.length}</small> 題</span>
+                <span class="chip ${q.multi ? 'multi' : ''}">${typeLabel}</span>
+                ${showUnit ? `<span class="chip ghost">${esc(unit.id)} ${esc(unit.name)}</span>` : ''}
             </div>
-        ` : `<p class="all-correct-message">您是個天才！</p>`; // 全對時顯示的訊息
+            <h2 class="qtext">${esc(q.text)}</h2>
+            ${q.images.length ? `<div class="qimages">${imagesHTML(q.images, 'question-image')}</div>` : ''}
+            ${q.multi && !locked ? '<p class="muted small hint">可複選，選出所有正確的選項。</p>' : ''}
+            <div class="options" role="${q.multi ? 'group' : 'radiogroup'}">${optionsHTML}</div>
+            ${needConfirm ? `<button class="btn primary" id="confirmBtn" ${ans.length ? '' : 'disabled'}>確認答案</button>` : ''}
+            ${feedback}`;
+        $('#qcard').classList.remove('enter');
+        void $('#qcard').offsetWidth;
+        $('#qcard').classList.add('enter');
 
-        // 插入新的回饋結果
-        DOMElements.nextQuestionBtn.parentElement.insertAdjacentHTML("afterend", `
-            <div id="quiz-feedback" class="feedback-container">
-                <hr>
-                <h3>${feedbackTitle}</h3>
-                ${feedbackContent}
-            </div>
-        `);
-
-        // 禁用所有選項
-        document.querySelectorAll("#options-form input").forEach(input => {
-            input.disabled = true;
-        });
-
-        updateButtons();
+        $('#prevBtn').disabled = i === 0;
+        $('#nextBtn').textContent = i === Q.length - 1 ? (S.submitted ? '查看成績' : '交卷') : '下一題 →';
+        $('#markBtn').textContent = S.marks[i] ? '★ 已標記' : '☆ 標記';
+        $('#markBtn').classList.toggle('marked', !!S.marks[i]);
     }
 
-    function updateButtons() {
-        const feedbackContainer = document.getElementById("quiz-feedback");
-        DOMElements.clearFeedbackBtn.style.display = feedbackContainer ? "inline-block" : "none";
-        DOMElements.submitQuizBtn.style.display = feedbackContainer ? "none" : "inline-block";
+    function selectOption(letter) {
+        const i = S.current;
+        if (isLocked(i)) return;
+        const q = Q[i];
+        if (!q.options.some(o => o.letter === letter)) return;
+        let ans = (S.answers[i] || []).slice();
+        if (q.multi) {
+            ans = ans.includes(letter) ? ans.filter(a => a !== letter) : [...ans, letter];
+        } else {
+            ans = ans[0] === letter ? [] : [letter];
+        }
+        S.answers[i] = ans;
+        if (S.mode === 'practice' && !q.multi && ans.length) reveal(i);
+        saveSession();
+        renderQuestion();
+        renderNav();
     }
 
-    function clearFeedback() {
-        document.getElementById("quiz-feedback")?.remove();
-        DOMElements.scoreDisplay.innerHTML = ""; // 清空分數顯示
+    function reveal(i) {
+        if (S.revealed[i]) return;
+        S.revealed[i] = true;
+        recordOutcome(Q[i], judge(Q[i], S.answers[i]));
+    }
 
-        // 清除所有作答紀錄
-        answers = {}; // 直接賦值空物件
-        marks = {}; // 直接賦值空物件
-        currentIndex = 0; // 回到第一題
+    function confirmAnswer() {
+        const i = S.current;
+        if (S.mode !== 'practice' || isLocked(i) || !(S.answers[i] || []).length) return;
+        reveal(i);
+        saveSession();
+        renderQuestion();
+        renderNav();
+    }
 
-        // 重新啟用所有選項並清除選中狀態
-        // 渲染第一題確保選項重置
-        renderQuestion(); 
+    function goTo(i) {
+        if (i < 0 || i >= Q.length) return;
+        S.current = i;
+        saveSession();
+        renderQuestion();
+        renderNav();
+        closeNav();
+        if (window.innerWidth < 900) $('#qcard').scrollIntoView({ block: 'start', behavior: 'smooth' });
+    }
 
-        // 確保 `.answered` 和 `.marked` 樣式被移除 (renderSidebar 會處理)
-        renderSidebar(); 
+    function next() {
+        if (S.current < Q.length - 1) goTo(S.current + 1);
+        else if (S.submitted) go('result');
+        else submit();
+    }
+    const prev = () => goTo(S.current - 1);
 
-        updateProgress(); // 進度條回歸 0%
-        updateButtons(); // 更新按鈕狀態
+    function toggleMark() {
+        S.marks[S.current] = !S.marks[S.current];
+        saveSession();
+        renderQuestion();
+        renderNav();
     }
 
     function updateProgress() {
-        const answeredCount = Object.values(answers).filter(ans => {
-            // 判斷答案是否為有效作答：陣列長度大於 0 或字串非空
-            return (Array.isArray(ans) && ans.length > 0) || (typeof ans === 'string' && ans !== '');
-        }).length;
-        
-        const totalQuestions = questions.length;
-        const percentage = totalQuestions > 0 ? ((answeredCount / totalQuestions) * 100).toFixed(1) : 0;
-
-        DOMElements.quizProgress.value = percentage;
-        DOMElements.progressText.textContent = `進度：${percentage}%`;
+        const bar = $('#topbarProgress span');
+        if (!S || document.body.dataset.view === 'home') { bar.style.width = '0'; return; }
+        const answered = Object.values(S.answers).filter(a => a && a.length).length;
+        bar.style.width = `${Q.length ? answered / Q.length * 100 : 0}%`;
     }
 
-    // 事件綁定
-    function setupEventListeners() {
-        DOMElements.loadQuizBtn.addEventListener('click', loadSelectedQuiz);
-        DOMElements.clearFeedbackBtn.addEventListener('click', clearFeedback);
-        // 將 submitQuizBtn 的事件監聽器直接指向 submitQuiz 函式
-        DOMElements.submitQuizBtn.addEventListener('click', submitQuiz); 
-        DOMElements.prevQuestionBtn.addEventListener('click', prevQuestion);
-        DOMElements.toggleMarkBtn.addEventListener('click', toggleMark);
-        DOMElements.nextQuestionBtn.addEventListener('click', nextQuestion);
-        
-        // 題目導航按鈕的事件委派
-        DOMElements.questionNav.addEventListener('click', function(event) {
-            if (event.target.tagName === 'BUTTON' && event.target.dataset.questionIndex) {
-                saveAnswer(); // 儲存當前題目答案
-                currentIndex = parseInt(event.target.dataset.questionIndex);
-                renderQuestion();
-                renderSidebar(); // 重新渲染側邊欄以更新當前題目樣式
-            }
+    async function submit() {
+        if (S.submitted) return;
+        const blank = Q.filter((_, i) => !(S.answers[i] || []).length).length;
+        const marked = Object.values(S.marks).filter(Boolean).length;
+        const warn = [];
+        if (blank) warn.push(`還有 <b>${blank}</b> 題未作答`);
+        if (marked) warn.push(`有 <b>${marked}</b> 題標記待確認`);
+        const r = await modal({
+            title: '確定要交卷嗎？',
+            body: `${warn.length ? `<p class="warn">${warn.join('，')}。</p>` : '<p>所有題目都已作答。</p>'}
+                   <p class="muted small">交卷後無法修改答案。計分：答對 +${POINTS_PER_CORRECT}，答錯 −${PENALTY_PER_WRONG}，未答不計。</p>`,
+            actions: [{ label: '繼續作答', value: 'cancel' }, { label: '交卷', value: 'ok', primary: true }]
         });
+        if (r !== 'ok') return;
 
-        // 全局鍵盤事件監聽器
-        document.addEventListener('keydown', function(event) {
-            // 如果焦點在輸入框（例如搜尋框、選擇器），則不觸發快捷鍵
-            if (event.target.tagName === 'INPUT' || event.target.tagName === 'SELECT' || event.target.tagName === 'TEXTAREA') {
-                return;
-            }
+        stopTimer();
+        S.submitted = true;
+        S.result = computeResult();
+        Q.forEach((q, i) => { if (!S.revealed[i]) recordOutcome(q, judge(q, S.answers[i])); });
 
-            switch (event.key) {
-                case 'ArrowRight': // 右方向鍵
-                    nextQuestion();
-                    break;
-                case 'ArrowLeft': // 左方向鍵
-                    prevQuestion();
-                    break;
-                case '1':
-                case '2':
-                case '3':
-                case '4':
-                case '5':
-                    // 數字鍵選擇選項
-                    const optionIndex = parseInt(event.key) - 1; // 數字1對應索引0
-                    const currentQuestionType = questions[currentIndex]?.type;
-                    const options = document.querySelectorAll('#options-form input[name="opt"]');
+        if (S.kind === 'unit') {
+            const h = store.get(LS.history, {});
+            const prevH = h[S.file];
+            h[S.file] = {
+                best: prevH ? Math.max(prevH.best, S.result.score) : S.result.score,
+                last: S.result.score,
+                prevLast: prevH ? prevH.last : null,
+                max: S.result.max,
+                attempts: (prevH?.attempts || 0) + 1,
+                date: S.result.date
+            };
+            store.set(LS.history, h);
+        }
+        saveSession();
+        go('result');
+    }
 
-                    if (options[optionIndex]) {
-                        // 如果是單選題，確保其他選項取消選中
-                        if (![QUESTION_TYPES.MULTIPLE_CHOICE, QUESTION_TYPES.MULTIPLE_ANSWER_SINGLE_CHOICE].includes(currentQuestionType)) {
-                            options.forEach(opt => opt.checked = false);
-                        }
-                        options[optionIndex].checked = !options[optionIndex].checked; // 切換選中狀態
-                        saveAnswer(); // 儲存答案
-                    }
-                    break;
-                case 'Enter': // Enter 鍵觸發交卷確認
-                    // 點擊提交按鈕來觸發確認視窗，這樣邏輯會集中
-                    DOMElements.submitQuizBtn.click();
-                    break;
-            }
+    /* ================= 成績 ================= */
+    function renderResult() {
+        const r = S.result;
+        const pct = r.total ? Math.round(r.correct / r.total * 100) : 0;
+        const scorePct = Math.max(0, r.score / r.max);
+        const h = S.kind === 'unit' ? store.get(LS.history, {})[S.file] : null;
+        const msg = pct === 100 ? '全部答對，太厲害了！' : pct >= 80 ? '表現很好，再看看錯的幾題。' :
+            pct >= 60 ? '及格了，錯題值得好好檢討。' : '還有進步空間，先從錯題開始複習吧。';
+
+        const wrongs = Q.map((q, i) => ({ q, i, st: judge(q, S.answers[i]) })).filter(x => x.st !== 'correct');
+        const C = 2 * Math.PI * 52;
+
+        $('#view-result').innerHTML = `
+            <div class="result">
+                <div class="result-hero">
+                    <div class="ring" style="--p:${scorePct}">
+                        <svg viewBox="0 0 120 120" aria-hidden="true">
+                            <circle cx="60" cy="60" r="52" class="ring-bg"/>
+                            <circle cx="60" cy="60" r="52" class="ring-fg" stroke-dasharray="${C}" stroke-dashoffset="${C * (1 - scorePct)}"/>
+                        </svg>
+                        <div class="ring-label"><b>${fmtScore(r.score)}</b><span>/ ${r.max} 分</span></div>
+                    </div>
+                    <div class="result-summary">
+                        <h1>${esc(S.title)}</h1>
+                        <p class="lead">${msg}</p>
+                        <div class="stats">
+                            <div class="stat"><span>正確率</span><b>${pct}%</b></div>
+                            <div class="stat ok"><span>答對</span><b>${r.correct}</b></div>
+                            <div class="stat bad"><span>答錯</span><b>${r.wrong}</b></div>
+                            <div class="stat"><span>未答</span><b>${r.blank}</b></div>
+                            <div class="stat"><span>用時</span><b>${fmtTime(r.elapsed)}</b></div>
+                        </div>
+                        ${h ? `<p class="muted small">此單元最佳 ${fmtScore(h.best)} 分 · 共作答 ${h.attempts} 次${h.prevLast != null ? ` · 上次 ${fmtScore(h.prevLast)} 分` : ''}</p>` : ''}
+                        <div class="result-actions">
+                            <button class="btn primary" data-action="review">檢討全部題目</button>
+                            ${wrongs.length ? `<button class="btn" data-action="retry-wrong">重做錯題（${wrongs.length}）</button>` : ''}
+                            <button class="btn" data-action="retry">再測一次</button>
+                            <button class="btn ghost" data-action="home">回首頁</button>
+                        </div>
+                    </div>
+                </div>
+
+                ${wrongs.length ? `
+                <h2 class="section-title">需要檢討的題目</h2>
+                <div class="wrong-list">
+                    ${wrongs.map(({ q, i, st }) => {
+                        const mine = (S.answers[i] || []).slice().sort().join('、');
+                        return `
+                        <button class="wrong-item" data-index="${i}">
+                            <span class="wrong-no st-${st}">${i + 1}</span>
+                            <span class="wrong-text">${esc(q.text)}</span>
+                            <span class="wrong-ans">
+                                <span class="${st === 'blank' ? 'muted' : 'bad'}">${st === 'blank' ? '未答' : `你：${esc(mine)}`}</span>
+                                <span class="ok">正解：${esc(q.answer.join('、'))}</span>
+                            </span>
+                        </button>`;
+                    }).join('')}
+                </div>` : '<p class="all-correct">🎉 沒有需要檢討的題目！</p>'}
+            </div>`;
+    }
+
+    function reviewAt(i, filter = 'all') {
+        reviewFilter = filter;
+        S.current = i;
+        saveSession();
+        go('quiz');
+    }
+
+    function retry(onlyWrong) {
+        const refs = onlyWrong
+            ? Q.map((q, i) => ({ q, i })).filter(({ q, i }) => judge(q, S.answers[i]) !== 'correct').map(({ q }) => ({ file: q.file, id: q.id }))
+            : S.refs.slice();
+        const base = S.title.replace(/^(重做錯題：|再測：)/, '');
+        startQuiz({
+            kind: onlyWrong ? 'retry' : S.kind,
+            file: onlyWrong ? null : S.file,
+            title: onlyWrong ? `重做錯題：${base}` : base,
+            refs,
+            keepOrder: S.kind === 'random' && !onlyWrong
         });
     }
 
-    // 頁面載入完成時執行
-    window.onload = function() {
-        cacheDOMElements(); // 快取 DOM 元素
-        setupEventListeners(); // 設定事件監聽器
-        populateQuizList(); // 先載入測驗列表
-        updateButtons(); // 初始化按鈕狀態
-        updateProgress(); // 初始化進度條
-    };
+    /* ================= 手機題號抽屜 ================= */
+    function openNav() { document.body.classList.add('nav-open'); $('#navBackdrop').hidden = false; }
+    function closeNav() { document.body.classList.remove('nav-open'); $('#navBackdrop').hidden = true; }
 
-})(); // IIFE 結束
+    /* ================= 事件 ================= */
+    function bindEvents() {
+        $('#homeBtn').addEventListener('click', () => { if (S && !S.submitted) saveSession(); go('home'); });
+        $('#themeBtn').addEventListener('click', toggleTheme);
+
+        // 首頁（事件委派）
+        $('#view-home').addEventListener('click', async e => {
+            const unit = e.target.closest('.unit');
+            if (unit) return startUnit(unit.dataset.file);
+            const seg = e.target.closest('#modeSeg button');
+            if (seg) { settings.mode = seg.dataset.mode; saveSettings(); renderHome(); return; }
+            const act = e.target.closest('[data-action]')?.dataset.action;
+            if (act === 'resume') go('quiz');
+            if (act === 'discard') {
+                const r = await modal({ title: '放棄這次作答？', body: `<p>「${esc(S.title)}」的作答紀錄將被清除。</p>`, actions: [{ label: '取消', value: 'cancel' }, { label: '放棄', value: 'ok', danger: true, primary: true }] });
+                if (r === 'ok') { S = null; Q = []; saveSession(); renderHome(); }
+            }
+            if (act === 'wrongbook') startWrongbook();
+            if (act === 'random') startRandom();
+            if (act === 'clear-wrong') {
+                const r = await modal({ title: '清空錯題本？', body: '<p>所有錯題紀錄都會被刪除，無法復原。</p>', actions: [{ label: '取消', value: 'cancel' }, { label: '清空', value: 'ok', danger: true, primary: true }] });
+                if (r === 'ok') { store.del(LS.wrong); renderHome(); toast('已清空錯題本'); }
+            }
+        });
+        $('#view-home').addEventListener('change', e => {
+            if (e.target.id === 'shuffleChk') { settings.shuffle = e.target.checked; saveSettings(); }
+            if (e.target.id === 'randomCount') { settings.randomCount = Number(e.target.value); saveSettings(); }
+        });
+        $('#view-home').addEventListener('input', e => {
+            if (e.target.id !== 'unitSearch') return;
+            homeQuery = e.target.value;
+            const history = store.get(LS.history, {});
+            const q = homeQuery.trim().toLowerCase();
+            const list = exams.filter(x => !q || `${x.id} ${x.name}`.toLowerCase().includes(q));
+            $('#units').innerHTML = list.map(x => unitCard(x, history[x.file])).join('') || '<p class="muted empty">找不到符合的單元。</p>';
+        });
+
+        // 作答
+        $('#qcard').addEventListener('click', e => {
+            const img = e.target.closest('img[data-zoom]');
+            if (img) { e.stopPropagation(); $('#lightboxImg').src = img.src; $('#lightbox').showModal(); return; }
+            const opt = e.target.closest('.opt');
+            if (opt) return selectOption(opt.dataset.letter);
+            if (e.target.closest('#confirmBtn')) confirmAnswer();
+        });
+        $('#qgrid').addEventListener('click', e => {
+            const b = e.target.closest('.qnum');
+            if (b) goTo(Number(b.dataset.index));
+        });
+        $('#reviewFilter').addEventListener('click', e => {
+            const b = e.target.closest('button');
+            if (!b) return;
+            reviewFilter = b.dataset.filter;
+            document.querySelectorAll('#reviewFilter button').forEach(x => x.classList.toggle('active', x === b));
+            renderNav();
+        });
+        $('#prevBtn').addEventListener('click', prev);
+        $('#nextBtn').addEventListener('click', next);
+        $('#markBtn').addEventListener('click', toggleMark);
+        $('#submitBtn').addEventListener('click', submit);
+        $('#toResultBtn').addEventListener('click', () => go('result'));
+        $('#openNavBtn').addEventListener('click', openNav);
+        $('#closeNavBtn').addEventListener('click', closeNav);
+        $('#navBackdrop').addEventListener('click', closeNav);
+
+        // 成績
+        $('#view-result').addEventListener('click', e => {
+            const item = e.target.closest('.wrong-item');
+            if (item) return reviewAt(Number(item.dataset.index), 'all');
+            const act = e.target.closest('[data-action]')?.dataset.action;
+            if (act === 'review') reviewAt(0, 'all');
+            if (act === 'retry-wrong') retry(true);
+            if (act === 'retry') retry(false);
+            if (act === 'home') go('home');
+        });
+
+        // 燈箱：點背景關閉
+        $('#lightbox').addEventListener('click', e => { if (e.target.id === 'lightbox') $('#lightbox').close(); });
+
+        // 鍵盤
+        document.addEventListener('keydown', e => {
+            if (document.body.dataset.view !== 'quiz' || !S) return;
+            if (document.querySelector('dialog[open]')) return;
+            if (['INPUT', 'SELECT', 'TEXTAREA'].includes(e.target.tagName)) return;
+            if (e.ctrlKey || e.metaKey || e.altKey) return;
+            const k = e.key;
+            if (k === 'ArrowRight') { e.preventDefault(); if (S.current < Q.length - 1) goTo(S.current + 1); }
+            else if (k === 'ArrowLeft') { e.preventDefault(); prev(); }
+            else if (/^[1-5]$/.test(k)) {
+                const o = Q[S.current].options[Number(k) - 1];
+                if (o) selectOption(o.letter);
+            } else if (/^[a-eA-E]$/.test(k)) selectOption(k.toUpperCase());
+            else if (k === 'm' || k === 'M') toggleMark();
+            else if (k === 'Enter' && e.target.tagName !== 'BUTTON') confirmAnswer();
+        });
+
+        window.addEventListener('popstate', () => render(location.hash.slice(1) || 'home'));
+        window.addEventListener('beforeunload', () => saveSession());
+        document.addEventListener('visibilitychange', () => { if (document.hidden) saveSession(); });
+    }
+
+    /* ================= 啟動 ================= */
+    async function init() {
+        applyTheme();
+        bindEvents();
+        try {
+            const r = await fetch('./exams.json');
+            if (!r.ok) throw new Error('exams.json');
+            exams = await r.json();
+        } catch {
+            $('#view-home').hidden = false;
+            $('#view-home').innerHTML = '<div class="home"><p class="error">測驗列表載入失敗，請重新整理頁面。</p></div>';
+            return;
+        }
+        if (S) {
+            try { await resolveQuestions(); } catch { S = null; Q = []; saveSession(); }
+        }
+        const view = location.hash.slice(1) || 'home';
+        history.replaceState(null, '', `#${view}`);
+        render(view);
+    }
+
+    document.addEventListener('DOMContentLoaded', init);
+})();
