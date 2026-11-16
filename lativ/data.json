@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-16T01:04:56+00:00",
+ "updated": "2026-11-16T11:29:43+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 532,
- "count": 143,
+ "scanned": 533,
+ "count": 144,
  "products": [
   {
    "id": "64354",
@@ -271,6 +271,25 @@
    "url": "https://www.lativ.com.tw/product/72972"
   },
   {
+   "id": "68829",
+   "name": "純棉厚寬版假兩件T恤-男",
+   "price": 399,
+   "originPrice": 399,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "上衣類",
+   "subcategory": "厚磅系列",
+   "image": "https://cdx.lativ.com.tw/upload-v1/076009103AVpdblZS",
+   "colors": [
+    {
+     "name": "卡其",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048NL47JoZZH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/68829"
+  },
+  {
    "id": "72233",
    "name": "純棉厚寬版口袋五分袖T恤-男",
    "price": 220,
@@ -536,6 +555,10 @@
    "image": "https://cdx.lativ.com.tw/upload-v1/07600910vNVAkHGPS",
    "colors": [
     {
+     "name": "藏青",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048-yqNwK_AH"
+    },
+    {
      "name": "黑色",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048oUI0Kw_PS"
     }
@@ -571,7 +594,7 @@
    "origin": "中國",
    "category": "上衣類",
    "subcategory": "短袖上衣",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910rgUXaiZPH",
+   "image": "https://cdx.lativ.com.tw/upload-v1/076009107ylfvsvAS",
    "colors": [
     {
      "name": "白色",
@@ -1023,6 +1046,25 @@
    "url": "https://www.lativ.com.tw/product/74114"
   },
   {
+   "id": "70193",
+   "name": "純棉寬版條紋長袖T恤-男",
+   "price": 299,
+   "originPrice": 399,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "上衣類",
+   "subcategory": "長袖上衣",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910KrOrc9hAH",
+   "colors": [
+    {
+     "name": "黑色條",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048XrEjXn6ZH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/70193"
+  },
+  {
    "id": "74270",
    "name": "純棉寬版條紋長袖T恤-男",
    "price": 350,
@@ -1129,25 +1171,6 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/74433"
-  },
-  {
-   "id": "70302",
-   "name": "純棉粗紡立領半開襟上衣-男",
-   "price": 399,
-   "originPrice": 499,
-   "material": "棉 100%",
-   "origin": "中國",
-   "category": "上衣類",
-   "subcategory": "長袖上衣",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910sDkuuCeZH",
-   "colors": [
-    {
-     "name": "深灰綠",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048Oe_GCquAH"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/70302"
   },
   {
    "id": "74432",
@@ -2062,25 +2085,6 @@
    "url": "https://www.lativ.com.tw/product/74772"
   },
   {
-   "id": "73269",
-   "name": "人物印花T恤-男",
-   "price": 199,
-   "originPrice": 299,
-   "material": "棉 100%",
-   "origin": "台灣",
-   "category": "聯名授權",
-   "subcategory": "創意設計",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910cA5f8lyPH",
-   "colors": [
-    {
-     "name": "淺麻灰",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048WZXf8dOAS"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/73269"
-  },
-  {
    "id": "73298",
    "name": "動物印花T恤-01-男",
    "price": 199,
@@ -2296,6 +2300,25 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/72974"
+  },
+  {
+   "id": "72975",
+   "name": "粗紡寬版文字印花T恤-03-男",
+   "price": 299,
+   "originPrice": 399,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "聯名授權",
+   "subcategory": "創意設計",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910zWC4KyPAH",
+   "colors": [
+    {
+     "name": "深灰",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048W0oNxDdAH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/72975"
   },
   {
    "id": "72409",
