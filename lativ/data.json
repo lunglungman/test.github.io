@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-16T22:10:18+00:00",
+ "updated": "2026-11-17T07:59:11+00:00",
  "category": "男裝",
  "size": "M",
  "scanned": 531,
- "count": 143,
+ "count": 142,
  "products": [
   {
    "id": "64354",
    "name": "純棉網眼polo衫-男",
-   "price": 175,
+   "price": 199,
    "originPrice": 350,
    "material": "棉 100%",
    "origin": "中國",
@@ -47,7 +47,7 @@
   {
    "id": "72407",
    "name": "純棉網眼polo衫-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -98,7 +98,7 @@
   {
    "id": "72410",
    "name": "純棉網眼口袋polo衫-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 450,
    "material": "棉 100%",
    "origin": "中國",
@@ -137,7 +137,7 @@
   {
    "id": "64355",
    "name": "純棉網眼抽皺polo衫-男",
-   "price": 175,
+   "price": 199,
    "originPrice": 350,
    "material": "棉 100%",
    "origin": "中國",
@@ -145,10 +145,6 @@
    "subcategory": "polo系列",
    "image": "https://cdx.lativ.com.tw/upload-v1/07600910fZ1jHpYYS",
    "colors": [
-    {
-     "name": "紫色",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048SIM7SpYYS"
-    },
     {
      "name": "桔紅",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048epO7SpZYH"
@@ -203,7 +199,7 @@
   {
    "id": "72970",
    "name": "粗紡寬版口袋T恤-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -271,25 +267,6 @@
    "url": "https://www.lativ.com.tw/product/72972"
   },
   {
-   "id": "68829",
-   "name": "純棉厚寬版假兩件T恤-男",
-   "price": 399,
-   "originPrice": 399,
-   "material": "棉 100%",
-   "origin": "中國",
-   "category": "上衣類",
-   "subcategory": "厚磅系列",
-   "image": "https://cdx.lativ.com.tw/upload-v1/076009103AVpdblZS",
-   "colors": [
-    {
-     "name": "卡其",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048NL47JoZZH"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/68829"
-  },
-  {
    "id": "72233",
    "name": "純棉厚寬版口袋五分袖T恤-男",
    "price": 220,
@@ -342,7 +319,7 @@
   {
    "id": "72039",
    "name": "純棉厚磅圓領T恤-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -962,7 +939,7 @@
   {
    "id": "74271",
    "name": "純棉口袋拼接條紋上衣-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "主布：棉 100%\n配布：棉 100%",
    "origin": "中國",
@@ -1044,7 +1021,7 @@
   {
    "id": "74270",
    "name": "純棉寬版條紋長袖T恤-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -1233,7 +1210,7 @@
   {
    "id": "68678",
    "name": "卡其短褲-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 450,
    "material": "主布：棉 100%\n腰內貼：棉 100%\n袋布：聚酯纖維 65%、棉 35%",
    "origin": "中國",
@@ -1252,7 +1229,7 @@
   {
    "id": "72111",
    "name": "卡其短褲-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 450,
    "material": "主布：棉 100%\n腰內貼：棉 100%\n袋布：聚酯纖維 65%、棉 35%",
    "origin": "中國",
@@ -1307,7 +1284,7 @@
   {
    "id": "72313",
    "name": "小毛圈短褲-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "主布：棉 100%\n羅紋：棉 95%、彈性纖維 5%",
    "origin": "中國",
@@ -1497,7 +1474,7 @@
   {
    "id": "74931",
    "name": "LINE FRIENDS拉克蘭七分袖印花T恤-02-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -1516,7 +1493,7 @@
   {
    "id": "74774",
    "name": "LINE FRIENDS長袖印花T恤-01-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -1581,7 +1558,7 @@
   {
    "id": "74765",
    "name": "漫威系列長袖印花T恤-03-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -1703,7 +1680,7 @@
   {
    "id": "74817",
    "name": "STAR WARS系列寬版長袖印花T恤-07-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 450,
    "material": "棉 100%",
    "origin": "中國",
@@ -1722,7 +1699,7 @@
   {
    "id": "74761",
    "name": "STAR WARS系列長袖印花T恤-03-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -1741,7 +1718,7 @@
   {
    "id": "74762",
    "name": "STAR WARS系列長袖印花T恤-04-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -1779,7 +1756,7 @@
   {
    "id": "74764",
    "name": "STAR WARS系列長袖印花T恤-06-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -1817,7 +1794,7 @@
   {
    "id": "74815",
    "name": "七龍珠Z寬版長袖印花T恤-06-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 450,
    "material": "棉 100%",
    "origin": "中國",
@@ -1836,7 +1813,7 @@
   {
    "id": "74755",
    "name": "七龍珠Z長袖印花T恤-01-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -1969,7 +1946,7 @@
   {
    "id": "75331",
    "name": "七龍珠大魔長袖印花T恤-02-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 450,
    "material": "棉 100%",
    "origin": "中國",
@@ -2007,7 +1984,7 @@
   {
    "id": "74773",
    "name": "Jurassic World長袖印花T恤-02-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2045,7 +2022,7 @@
   {
    "id": "74772",
    "name": "Jurassic World長袖印花T恤-05-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2102,7 +2079,7 @@
   {
    "id": "75106",
    "name": "咖啡生活長袖印花T恤-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2121,7 +2098,7 @@
   {
    "id": "75111",
    "name": "壽司食光長袖印花T恤-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2140,7 +2117,7 @@
   {
    "id": "75107",
    "name": "山景長袖印花T恤-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2339,7 +2316,7 @@
   {
    "id": "75108",
    "name": "貓咪拳擊長袖印花T恤-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2396,7 +2373,7 @@
   {
    "id": "74085",
    "name": "可口可樂長袖印花T恤-02-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2537,7 +2514,7 @@
   {
    "id": "73249",
    "name": "大人的圖鑑厚版印花T恤-10-男",
-   "price": 200,
+   "price": 249,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2575,7 +2552,7 @@
   {
    "id": "74077",
    "name": "大人的圖鑑長袖印花T恤-02-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2651,7 +2628,7 @@
   {
    "id": "74081",
    "name": "航海王長袖印花T恤-03-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2670,7 +2647,7 @@
   {
    "id": "74082",
    "name": "航海王長袖印花T恤-04-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2727,7 +2704,7 @@
   {
    "id": "74769",
    "name": "蠟筆小新長袖印花T恤-02-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2746,7 +2723,7 @@
   {
    "id": "74770",
    "name": "蠟筆小新長袖印花T恤-03-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2792,7 +2769,7 @@
   {
    "id": "73100",
    "name": "超人力霸王厚版印花T恤-01-男",
-   "price": 200,
+   "price": 249,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2811,7 +2788,7 @@
   {
    "id": "73101",
    "name": "超人力霸王厚版印花T恤-06-男",
-   "price": 200,
+   "price": 249,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2849,7 +2826,7 @@
   {
    "id": "74933",
    "name": "超人力霸王長袖印花T恤-02-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 450,
    "material": "棉 100%",
    "origin": "中國",
@@ -2887,7 +2864,7 @@
   {
    "id": "74935",
    "name": "超人力霸王長袖印花T恤-06-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2906,7 +2883,7 @@
   {
    "id": "74932",
    "name": "超人力霸王長袖電繡T恤-01-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2925,7 +2902,7 @@
   {
    "id": "74938",
    "name": "迪士尼系列長袖印花T恤-01-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2944,7 +2921,7 @@
   {
    "id": "74936",
    "name": "迪士尼系列長袖印花T恤-02-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -3094,7 +3071,7 @@
   {
    "id": "70168",
    "name": "法蘭絨長袖襯衫-男",
-   "price": 399,
+   "price": 450,
    "originPrice": 499,
    "material": "棉 100%",
    "origin": "中國",
@@ -3190,7 +3167,7 @@
   {
    "id": "72336",
    "name": "格紋短袖襯衫-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 450,
    "material": "棉 100%",
    "origin": "中國",
@@ -3402,7 +3379,7 @@
   {
    "id": "70197",
    "name": "牛津修身長袖襯衫-男",
-   "price": 399,
+   "price": 450,
    "originPrice": 499,
    "material": "棉 100%",
    "origin": "中國",
