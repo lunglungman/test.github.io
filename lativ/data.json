@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-17T07:59:11+00:00",
+ "updated": "2026-11-17T18:37:34+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 531,
- "count": 142,
+ "scanned": 533,
+ "count": 141,
  "products": [
   {
    "id": "64354",
@@ -2765,25 +2765,6 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/72635"
-  },
-  {
-   "id": "73100",
-   "name": "超人力霸王厚版印花T恤-01-男",
-   "price": 249,
-   "originPrice": 399,
-   "material": "棉 100%",
-   "origin": "台灣",
-   "category": "聯名授權",
-   "subcategory": "超人力霸王",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910oXD25IMPH",
-   "colors": [
-    {
-     "name": "白色",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048rSC15qMPH"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/73100"
   },
   {
    "id": "73101",
