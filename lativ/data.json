@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-18T02:55:48+00:00",
+ "updated": "2026-11-18T11:49:05+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 532,
- "count": 141,
+ "scanned": 534,
+ "count": 142,
  "products": [
   {
    "id": "64354",
@@ -261,6 +261,10 @@
     {
      "name": "灰藍",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048KxDmtg_AS"
+    },
+    {
+     "name": "麻灰",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048pTC8T3uPH"
     }
    ],
    "size": "M",
@@ -431,6 +435,10 @@
    "subcategory": "條紋系列",
    "image": "https://cdx.lativ.com.tw/upload-v1/07600910GMLC2dEYH",
    "colors": [
+    {
+     "name": "麻灰條",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048k-jgE9RYH"
+    },
     {
      "name": "灰粉條",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048S77gi9aYH"
@@ -1017,6 +1025,25 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/74114"
+  },
+  {
+   "id": "70193",
+   "name": "純棉寬版條紋長袖T恤-男",
+   "price": 330,
+   "originPrice": 399,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "上衣類",
+   "subcategory": "長袖上衣",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910KrOrc9hAH",
+   "colors": [
+    {
+     "name": "黑色條",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048XrEjXn6ZH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/70193"
   },
   {
    "id": "74270",
@@ -2256,25 +2283,6 @@
    "url": "https://www.lativ.com.tw/product/72974"
   },
   {
-   "id": "72975",
-   "name": "粗紡寬版文字印花T恤-03-男",
-   "price": 299,
-   "originPrice": 399,
-   "material": "棉 100%",
-   "origin": "中國",
-   "category": "聯名授權",
-   "subcategory": "創意設計",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910zWC4KyPAH",
-   "colors": [
-    {
-     "name": "深灰",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048W0oNxDdAH"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/72975"
-  },
-  {
    "id": "72409",
    "name": "純棉網眼徽章polo衫-男",
    "price": 399,
@@ -2953,6 +2961,10 @@
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048g0j7vfPYS"
     },
     {
+     "name": "淺粉",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/004800481MvjbfPYH"
+    },
+    {
      "name": "藍色",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048wrbjbLAZH"
     },
@@ -3279,6 +3291,25 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/75328"
+  },
+  {
+   "id": "73635",
+   "name": "牛仔寬版短袖襯衫-男",
+   "price": 390,
+   "originPrice": 590,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "襯衫類",
+   "subcategory": "牛仔襯衫",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910uCfc_daAS",
+   "colors": [
+    {
+     "name": "藍色",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/004800483WLBulaAS"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/73635"
   },
   {
    "id": "74341",
