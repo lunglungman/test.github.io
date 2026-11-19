@@ -170,7 +170,8 @@
         <div class="chart-card">
             <div class="chart-tools">
                 <div class="seg" id="range">
-                    <button data-n="22" class="active">1 個月</button>
+                    <button data-n="5" class="active">5 天</button>
+                    <button data-n="22">1 個月</button>
                     <button data-n="66">3 個月</button>
                     <button data-n="0">6 個月</button>
                 </div>
@@ -320,7 +321,7 @@
 
 
         /* ---- 每日漲跌幅折線圖（自製 SVG，不需外部套件） ---- */
-        const chart = { data: null, n: 22, hidden: new Set() };
+        const chart = { data: null, n: 5, hidden: new Set() };
         const SERIES_COLORS = ['var(--s1)', 'var(--s2)', 'var(--s3)', 'var(--s4)', 'var(--s5)'];
 
         async function loadHistory() {
@@ -357,6 +358,7 @@
             const svg = $('#chart');
             const W = svg.clientWidth, H = svg.clientHeight;
             const pad = { l: 40, r: 10, t: 10, b: 24 };
+            const fewDays = chart.n && chart.n <= 10;
             const all = chart.data.dates;
             const start = chart.n ? Math.max(0, all.length - chart.n) : 0;
             const dates = all.slice(start);
@@ -367,7 +369,8 @@
             const step = span > 14 ? 5 : span > 6 ? 2 : 1;
             lo = Math.floor(lo / step) * step; hi = Math.ceil(hi / step) * step;
             if (lo === hi) { lo -= step; hi += step; }
-            const x = i => pad.l + (dates.length > 1 ? i / (dates.length - 1) : 0.5) * (W - pad.l - pad.r);
+            const inset = fewDays ? 24 : 0;   // 天數少時左右留白，點不會貼邊
+            const x = i => pad.l + inset + (dates.length > 1 ? i / (dates.length - 1) : 0.5) * (W - pad.l - pad.r - inset * 2);
             const y = v => pad.t + (hi - v) / (hi - lo) * (H - pad.t - pad.b);
 
             let grid = '', axis = '';
@@ -375,15 +378,18 @@
                 grid += `<line x1="${pad.l}" x2="${W - pad.r}" y1="${y(v)}" y2="${y(v)}" class="${v === 0 ? 'zero' : ''}"/>`;
                 axis += `<text x="${pad.l - 6}" y="${y(v) + 4}" text-anchor="end">${v > 0 ? '+' : ''}${v}%</text>`;
             }
-            const ticks = Math.min(W < 500 ? 4 : 6, dates.length);
+            const ticks = dates.length <= 7 ? dates.length : Math.min(W < 500 ? 4 : 6, dates.length);
             for (let k = 0; k < ticks; k++) {
                 const i = Math.round(k * (dates.length - 1) / Math.max(1, ticks - 1));
                 const d = dates[i];
-                axis += `<text x="${x(i)}" y="${H - 6}" text-anchor="${k === 0 ? 'start' : k === ticks - 1 ? 'end' : 'middle'}">${+d.slice(5, 7)}/${+d.slice(8)}</text>`;
+                axis += `<text x="${x(i)}" y="${H - 6}" text-anchor="${fewDays ? 'middle' : k === 0 ? 'start' : k === ticks - 1 ? 'end' : 'middle'}">${+d.slice(5, 7)}/${+d.slice(8)}</text>`;
             }
             const lines = vis.map(s => {
                 const pts = s.rows.slice(start).map((r, i) => r && r.pct != null ? `${x(i).toFixed(1)},${y(r.pct).toFixed(1)}` : null).filter(Boolean).join(' ');
-                return `<polyline points="${pts}" style="stroke:${s.color}"/>`;
+                // 天數少時在每個點畫圓點，比較好對照
+                const dots = dates.length <= 10 ? s.rows.slice(start).map((r, i) => r && r.pct != null
+                    ? `<circle cx="${x(i).toFixed(1)}" cy="${y(r.pct).toFixed(1)}" r="3" fill="${s.color}"/>` : '').join('') : '';
+                return `<polyline points="${pts}" style="stroke:${s.color}"/>${dots}`;
             }).join('');
             svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
             svg.innerHTML = `<g class="grid">${grid}</g><g class="axis">${axis}</g><g class="series">${lines}</g>
@@ -394,7 +400,7 @@
             const show = clientX => {
                 const box = svg.getBoundingClientRect();
                 const px = clientX - box.left;
-                const i = Math.max(0, Math.min(dates.length - 1, Math.round((px - pad.l) / (W - pad.l - pad.r) * (dates.length - 1))));
+                const i = Math.max(0, Math.min(dates.length - 1, Math.round((px - pad.l - inset) / (W - pad.l - pad.r - inset * 2) * (dates.length - 1))));
                 const gx = x(i);
                 const guide = svg.querySelector('#guide');
                 guide.setAttribute('x1', gx); guide.setAttribute('x2', gx); guide.setAttribute('visibility', 'visible');
