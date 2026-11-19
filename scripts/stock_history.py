@@ -76,8 +76,9 @@ def fetch_month(sym, ym):
         rows.append({
             "date": day,
             "close": close,
-            "change": round(change, 2),
-            "pct": round(change / ref * 100, 2) if ref else None,
+            # 除權息日證交所不提供漲跌（X0.00），記為 null 避免誤判為 0%
+            "change": None if ex else round(change, 2),
+            "pct": None if ex else (round(change / ref * 100, 2) if ref else None),
             **({"ex": True} if ex else {}),
         })
     return name, rows
@@ -95,6 +96,10 @@ def main():
         entry = data["symbols"].get(sym, {"name": sym, "rows": []})
         months = month_list(2) if entry["rows"] else month_list(MONTHS)
         by_date = {r["date"]: r for r in entry["rows"]}
+        for r in by_date.values():          # 舊資料相容
+            if r.get("ex"):
+                r["change"] = None
+                r["pct"] = None
         for ym in months:
             time.sleep(DELAY)
             name, rows = fetch_month(sym, ym)
