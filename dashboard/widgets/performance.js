@@ -28,10 +28,15 @@ export default {
 
         const results = entries.map(({ symbol, name, byDate }) => {
             const rows = dates.map(date => byDate.get(date));
-            const closes = rows.map(row => row?.close ?? null);
-            const base = closes.find(close => Number.isFinite(close) && close > 0);
-            const cumulative = closes.map(close => base && Number.isFinite(close)
-                ? (close / base - 1) * 100 : null);
+            // 累積報酬：以期間第一個有資料的交易日為 0%，之後每日漲跌幅連乘。
+            // 不用「收盤價 ÷ 起始收盤價」，因為除權（配股、分割）會造成假跌幅；除權息日 pct 為 null，當 0 處理。
+            const first = rows.findIndex(row => Number.isFinite(row?.close));
+            let growth = 1;
+            const cumulative = rows.map((row, i) => {
+                if (first < 0 || i < first || !row) return null;
+                if (i > first && Number.isFinite(row.pct)) growth *= 1 + row.pct / 100;
+                return (growth - 1) * 100;
+            });
             return {
                 label: name,
                 name,
