@@ -54,8 +54,8 @@
 {
 "date": "2026-06-11",
 "close": 2250.0,
-"change": 0.0,
-"pct": 0.0,
+"change": null,
+"pct": null,
 "ex": true
 },
 {
@@ -457,8 +457,8 @@
 {
 "date": "2026-09-16",
 "close": 2380.0,
-"change": 0.0,
-"pct": 0.0,
+"change": null,
+"pct": null,
 "ex": true
 },
 {
@@ -865,8 +865,8 @@
 {
 "date": "2026-07-07",
 "close": 4030.0,
-"change": 0.0,
-"pct": 0.0,
+"change": null,
+"pct": null,
 "ex": true
 },
 {
@@ -1453,8 +1453,8 @@
 {
 "date": "2026-06-08",
 "close": 4255.0,
-"change": 0.0,
-"pct": 0.0,
+"change": null,
+"pct": null,
 "ex": true
 },
 {
@@ -2341,8 +2341,8 @@
 {
 "date": "2026-07-22",
 "close": 3500.0,
-"change": 0.0,
-"pct": 0.0,
+"change": null,
+"pct": null,
 "ex": true
 },
 {
@@ -2911,8 +2911,8 @@
 {
 "date": "2026-06-17",
 "close": 2155.0,
-"change": 0.0,
-"pct": 0.0,
+"change": null,
+"pct": null,
 "ex": true
 },
 {
@@ -3542,7 +3542,7 @@
 ]
 }
 },
-"updated": "2026-11-19T07:28:05+00:00",
+"updated": "2026-11-19T09:05:56+00:00",
 "order": [
 "2330",
 "2454",
