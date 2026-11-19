@@ -1,0 +1,44 @@
+name: 更新股票每日漲跌
+
+on:
+  schedule:
+    - cron: "47 6 * * 1-5"    # 台北時間週一到週五 14:47（收盤資料公布後）
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/stock_history.py
+      - .github/workflows/stock-history.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stock-history
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓證交所每日成交資訊
+        run: python scripts/stock_history.py
+
+      - name: 有變動才提交
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add stocks/history.json
+          if git diff --cached --quiet; then
+            echo "沒有變動"
+          else
+            git commit -m "更新股票每日漲跌資料"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
