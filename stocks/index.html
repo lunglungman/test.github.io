@@ -350,9 +350,9 @@
         }
 
         function renderLegend() {
-            $('#legendBtns').innerHTML = chart.data.series.map(s =>
-                `<button data-sym="${s.symbol}" class="${chart.hidden.has(s.symbol) ? 'off' : ''}" style="--c:${s.color}"><i></i>${esc(s.name)}</button>`).join('')
-                + (chart.hidden.size ? '<button data-all="1" class="all">顯示全部</button>' : '');
+            $('#legendBtns').innerHTML = (chart.hidden.size ? '<button data-all="1" class="all">顯示全部</button>' : '')
+                + chart.data.series.map(s =>
+                `<button data-sym="${s.symbol}" class="${chart.hidden.has(s.symbol) ? 'off' : ''}" style="--c:${s.color}"><i></i>${esc(s.name)}</button>`).join('');
         }
 
         function drawChart() {
