@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#1f3a5f">
+    <title>股票儀表板</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="topbar">
+        <a class="back" href="../" aria-label="回入口首頁" title="回入口首頁">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+        </a>
+        <b>股票儀表板</b>
+        <span class="updated" id="updated">載入中…</span>
+        <div class="layout-wrap">
+            <button class="layout-btn" id="layoutBtn" aria-haspopup="true">版面</button>
+            <div class="layout-menu" id="layoutMenu" hidden></div>
+        </div>
+    </header>
+    <main>
+        <nav class="filter" id="filter" aria-label="股票篩選"></nav>
+        <div class="grid" id="grid"></div>
+        <footer>
+            資料來源：臺灣證券交易所盤後資料，每個交易日收盤後自動更新（融資融券於晚間補上）。<br>
+            點「主要／觀察」切換群組，點股票名稱只看該檔、再點其他可加入比較。右上「版面」可隱藏區塊。資料僅供參考。
+        </footer>
+    </main>
+    <script type="module" src="core.js"></script>
+</body>
+</html>
