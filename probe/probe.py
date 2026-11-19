@@ -13,7 +13,7 @@ def show(name,u):
     if "fields" in d: print("FIELDS",d["fields"]); print("ROWS",[r for r in d.get("data",[]) if r and str(r[0]).strip() in S][:3])
     for t in d.get("tables",[]) or []:
         print("TABLE",t.get("title"),"FIELDS",t.get("fields"),"GROUPS",t.get("groups")); print("ROWS",[r for r in t.get("data",[]) if r and str(r[0]).strip() in S][:3])
-D="20261119"
+D="20261118"
 show("T86","https://www.twse.com.tw/rwd/zh/fund/T86?date=%s&selectType=ALLBUT0999&response=json"%D)
 show("MARGN","https://www.twse.com.tw/rwd/zh/marginTrading/MI_MARGN?date=%s&selectType=ALL&response=json"%D)
 show("BWIBBU","https://www.twse.com.tw/rwd/zh/afterTrading/BWIBBU_d?date=%s&selectType=ALL&response=json"%D)
