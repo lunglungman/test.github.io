@@ -106,6 +106,10 @@ def update_prices(stocks):
         entry = data["symbols"].get(sym, {"name": s["name"], "rows": []})
         months = months_back(2) if entry["rows"] else months_back(PRICE_MONTHS)
         by_date = {r["date"]: r for r in entry["rows"]}
+        for r in by_date.values():          # 舊資料相容：除權息日的漲跌改為 null
+            if r.get("ex"):
+                r["change"] = None
+                r["pct"] = None
         for ym in months:
             d = get_json(f"{TWSE}/afterTrading/STOCK_DAY?date={ym}01&stockNo={sym}&response=json")
             if not d or d.get("stat") != "OK":
@@ -130,7 +134,10 @@ def update_prices(stocks):
                     "volume": lots(row[idx["成交股數"]]),
                 }
                 if raw.startswith("X"):
-                    r["ex"] = True   # 除權息日
+                    # 除權息日：證交所不提供漲跌（顯示 X0.00），無法得知參考價，漲跌記為 null
+                    r["ex"] = True
+                    r["change"] = None
+                    r["pct"] = None
                 by_date[r["date"]] = r
         entry["name"] = s["name"]
         entry["rows"] = sorted(by_date.values(), key=lambda r: r["date"])[-260:]
