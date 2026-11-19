@@ -103,12 +103,46 @@
         .est { font-size: .7rem; color: var(--muted); }
         .hide-sm { }
 
+
+        /* ---- 每日漲跌幅折線圖 ---- */
+        :root { --s1: #2563eb; --s2: #d97706; --s3: #7c3aed; --s4: #0891b2; --s5: #db2777; }
+        @media (prefers-color-scheme: dark) { :root { --s1: #60a5fa; --s2: #fbbf24; --s3: #a78bfa; --s4: #22d3ee; --s5: #f472b6; } }
+        .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 14px 14px 10px; }
+        .chart-tools { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 10px; }
+        .seg { display: inline-flex; padding: 3px; border-radius: 9px; background: var(--surface-2); border: 1px solid var(--border); }
+        .seg button { border: 0; background: transparent; color: var(--muted); padding: 4px 12px; border-radius: 6px; font: inherit; font-size: .85rem; cursor: pointer; }
+        .seg button.active { background: var(--surface); color: var(--text); box-shadow: var(--shadow); }
+        .legend { display: flex; flex-wrap: wrap; gap: 6px; }
+        .legend button {
+            display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--border); background: var(--surface);
+            border-radius: 999px; padding: 3px 10px; font: inherit; font-size: .82rem; color: var(--text); cursor: pointer;
+        }
+        .legend button i { width: 14px; height: 3px; border-radius: 2px; background: var(--c); }
+        .legend button.off { opacity: .4; }
+        .legend button.off i { background: var(--border); }
+        .chart-wrap { position: relative; }
+        .chart-wrap svg { display: block; width: 100%; height: 320px; touch-action: pan-y; }
+        .chart-wrap .grid line { stroke: var(--border); stroke-width: 1; }
+        .chart-wrap .grid line.zero { stroke: var(--muted); stroke-width: 1.2; }
+        .chart-wrap .axis text { fill: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+        .chart-wrap .series polyline { fill: none; stroke-width: 1.8; stroke-linejoin: round; stroke-linecap: round; }
+        .chart-wrap .guide { stroke: var(--muted); stroke-dasharray: 3 3; }
+        .tip {
+            position: absolute; top: 6px; pointer-events: none; background: var(--surface); border: 1px solid var(--border);
+            border-radius: 10px; box-shadow: var(--shadow); padding: 8px 10px; font-size: .8rem; min-width: 150px;
+        }
+        .tip b { display: block; margin-bottom: 4px; }
+        .tip div { display: flex; justify-content: space-between; gap: 12px; align-items: center; }
+        .tip div span:first-child { display: inline-flex; align-items: center; gap: 6px; }
+        .tip i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+        .chart-note { font-size: .75rem; color: var(--muted); margin: 6px 2px 0; }
         footer { margin-top: 36px; font-size: .8rem; color: var(--muted); text-align: center; line-height: 1.8; }
         @media (max-width: 560px) {
             .cards { grid-template-columns: 1fr; gap: 10px; }
             .price { font-size: 1.5rem; }
             th, td { padding: 9px 8px; font-size: .86rem; }
             .hide-sm { display: none; }
+            .chart-wrap svg { height: 260px; }
         }
     </style>
 </head>
@@ -131,6 +165,23 @@
             <thead><tr><th>股票</th><th>成交</th><th>漲跌</th><th>漲跌幅</th><th class="hide-sm">成交量</th><th class="hide-sm"></th></tr></thead>
             <tbody id="rows"></tbody>
         </table>
+
+        <h2>每日漲跌幅 <small id="histInfo"></small></h2>
+        <div class="chart-card">
+            <div class="chart-tools">
+                <div class="seg" id="range">
+                    <button data-n="22" class="active">1 個月</button>
+                    <button data-n="66">3 個月</button>
+                    <button data-n="0">6 個月</button>
+                </div>
+                <div class="legend" id="legendBtns"></div>
+            </div>
+            <div class="chart-wrap" id="chartWrap">
+                <svg id="chart" role="img" aria-label="主要盯盤 5 檔股票的每日漲跌幅折線圖"></svg>
+                <div class="tip" id="tip" hidden></div>
+            </div>
+            <p class="chart-note">每天收盤後自動更新（證交所資料）。點上方股票名稱可隱藏／顯示該條線；滑鼠移到圖上或手指點圖可看當天數字。</p>
+        </div>
 
         <footer>
             主要盯盤：富果行情 API，成交價約每 7 秒、零股五檔約每 30 秒更新；其他股票：證交所，約每 30 秒更新。<br>
@@ -266,6 +317,127 @@
             $('#statusText').textContent = open ? '盤中即時' : '已收盤';
         }
 
+
+
+        /* ---- 每日漲跌幅折線圖（自製 SVG，不需外部套件） ---- */
+        const chart = { data: null, n: 22, hidden: new Set() };
+        const SERIES_COLORS = ['var(--s1)', 'var(--s2)', 'var(--s3)', 'var(--s4)', 'var(--s5)'];
+
+        async function loadHistory() {
+            try {
+                const r = await fetch('history.json', { cache: 'no-cache' });
+                if (!r.ok) throw new Error(r.status);
+                const d = await r.json();
+                const order = d.order.filter(s => d.symbols[s]);
+                // 以日期為 x 軸，合併 5 檔
+                const dates = [...new Set(order.flatMap(s => d.symbols[s].rows.map(x => x.date)))].sort();
+                chart.data = {
+                    dates,
+                    series: order.map((s, i) => {
+                        const m = new Map(d.symbols[s].rows.map(x => [x.date, x]));
+                        return { symbol: s, name: d.symbols[s].name, color: SERIES_COLORS[i % 5], rows: dates.map(dt => m.get(dt) || null) };
+                    })
+                };
+                const last = dates[dates.length - 1];
+                $('#histInfo').textContent = `資料到 ${last.slice(5).replace('-', '/')}`;
+                renderLegend();
+                drawChart();
+            } catch (e) {
+                $('#histInfo').textContent = '資料載入失敗';
+            }
+        }
+
+        function renderLegend() {
+            $('#legendBtns').innerHTML = chart.data.series.map(s =>
+                `<button data-sym="${s.symbol}" class="${chart.hidden.has(s.symbol) ? 'off' : ''}" style="--c:${s.color}"><i></i>${esc(s.name)}</button>`).join('');
+        }
+
+        function drawChart() {
+            if (!chart.data) return;
+            const svg = $('#chart');
+            const W = svg.clientWidth, H = svg.clientHeight;
+            const pad = { l: 40, r: 10, t: 10, b: 24 };
+            const all = chart.data.dates;
+            const start = chart.n ? Math.max(0, all.length - chart.n) : 0;
+            const dates = all.slice(start);
+            const vis = chart.data.series.filter(s => !chart.hidden.has(s.symbol));
+            const vals = vis.flatMap(s => s.rows.slice(start).filter(Boolean).map(r => r.pct)).filter(v => v != null);
+            let lo = Math.min(0, ...vals), hi = Math.max(0, ...vals);
+            const span = hi - lo || 2;
+            const step = span > 14 ? 5 : span > 6 ? 2 : 1;
+            lo = Math.floor(lo / step) * step; hi = Math.ceil(hi / step) * step;
+            if (lo === hi) { lo -= step; hi += step; }
+            const x = i => pad.l + (dates.length > 1 ? i / (dates.length - 1) : 0.5) * (W - pad.l - pad.r);
+            const y = v => pad.t + (hi - v) / (hi - lo) * (H - pad.t - pad.b);
+
+            let grid = '', axis = '';
+            for (let v = lo; v <= hi + 1e-9; v += step) {
+                grid += `<line x1="${pad.l}" x2="${W - pad.r}" y1="${y(v)}" y2="${y(v)}" class="${v === 0 ? 'zero' : ''}"/>`;
+                axis += `<text x="${pad.l - 6}" y="${y(v) + 4}" text-anchor="end">${v > 0 ? '+' : ''}${v}%</text>`;
+            }
+            const ticks = Math.min(W < 500 ? 4 : 6, dates.length);
+            for (let k = 0; k < ticks; k++) {
+                const i = Math.round(k * (dates.length - 1) / Math.max(1, ticks - 1));
+                const d = dates[i];
+                axis += `<text x="${x(i)}" y="${H - 6}" text-anchor="${k === 0 ? 'start' : k === ticks - 1 ? 'end' : 'middle'}">${+d.slice(5, 7)}/${+d.slice(8)}</text>`;
+            }
+            const lines = vis.map(s => {
+                const pts = s.rows.slice(start).map((r, i) => r && r.pct != null ? `${x(i).toFixed(1)},${y(r.pct).toFixed(1)}` : null).filter(Boolean).join(' ');
+                return `<polyline points="${pts}" style="stroke:${s.color}"/>`;
+            }).join('');
+            svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+            svg.innerHTML = `<g class="grid">${grid}</g><g class="axis">${axis}</g><g class="series">${lines}</g>
+                <line class="guide" id="guide" y1="${pad.t}" y2="${H - pad.b}" visibility="hidden"/><g id="dots"></g>
+                <rect id="hit" x="${pad.l}" y="0" width="${W - pad.l - pad.r}" height="${H}" fill="transparent"/>`;
+
+            const hit = svg.querySelector('#hit');
+            const show = clientX => {
+                const box = svg.getBoundingClientRect();
+                const px = clientX - box.left;
+                const i = Math.max(0, Math.min(dates.length - 1, Math.round((px - pad.l) / (W - pad.l - pad.r) * (dates.length - 1))));
+                const gx = x(i);
+                const guide = svg.querySelector('#guide');
+                guide.setAttribute('x1', gx); guide.setAttribute('x2', gx); guide.setAttribute('visibility', 'visible');
+                const rows = vis.map(s => ({ s, r: s.rows[start + i] })).filter(o => o.r && o.r.pct != null).sort((a, b) => b.r.pct - a.r.pct);
+                svg.querySelector('#dots').innerHTML = rows.map(o => `<circle cx="${gx}" cy="${y(o.r.pct)}" r="3.5" fill="${o.s.color}" stroke="var(--surface)" stroke-width="1.5"/>`).join('');
+                const tip = $('#tip');
+                const d = dates[i];
+                tip.innerHTML = `<b>${+d.slice(5, 7)}/${+d.slice(8)}</b>` + rows.map(o =>
+                    `<div><span style="--c:${o.s.color}"><i></i>${esc(o.s.name)}</span><span class="num ${dir(o.r.pct)}">${o.r.pct > 0 ? '+' : ''}${o.r.pct.toFixed(2)}%</span></div>`).join('');
+                tip.hidden = false;
+                const tw = tip.offsetWidth;
+                tip.style.left = `${gx + 12 + tw > W ? gx - 12 - tw : gx + 12}px`;
+            };
+            const hide = () => {
+                $('#tip').hidden = true;
+                svg.querySelector('#guide').setAttribute('visibility', 'hidden');
+                svg.querySelector('#dots').innerHTML = '';
+            };
+            hit.addEventListener('mousemove', e => show(e.clientX));
+            hit.addEventListener('mouseleave', hide);
+            hit.addEventListener('touchstart', e => show(e.touches[0].clientX), { passive: true });
+            hit.addEventListener('touchmove', e => show(e.touches[0].clientX), { passive: true });
+        }
+
+        $('#range').addEventListener('click', e => {
+            const b = e.target.closest('button');
+            if (!b) return;
+            chart.n = Number(b.dataset.n);
+            $('#range').querySelectorAll('button').forEach(x => x.classList.toggle('active', x === b));
+            drawChart();
+        });
+        $('#legendBtns').addEventListener('click', e => {
+            const b = e.target.closest('button');
+            if (!b) return;
+            const s = b.dataset.sym;
+            chart.hidden.has(s) ? chart.hidden.delete(s) : chart.hidden.add(s);
+            if (chart.hidden.size === chart.data.series.length) chart.hidden.delete(s);  // 至少留一條
+            renderLegend();
+            drawChart();
+        });
+        let resizeTimer;
+        window.addEventListener('resize', () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(drawChart, 150); });
+        loadHistory();
 
         poller('realtime', renderCards, $('#rtInfo'))();
         poller('others', renderRows, $('#otInfo'))();
