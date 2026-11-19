@@ -120,6 +120,7 @@
         .legend button i { width: 14px; height: 3px; border-radius: 2px; background: var(--c); }
         .legend button.off { opacity: .4; }
         .legend button.off i { background: var(--border); }
+        .legend button.all { color: var(--primary); border-style: dashed; }
         .chart-wrap { position: relative; }
         .chart-wrap svg { display: block; width: 100%; height: 320px; touch-action: pan-y; }
         .chart-wrap .grid line { stroke: var(--border); stroke-width: 1; }
@@ -181,7 +182,7 @@
                 <svg id="chart" role="img" aria-label="主要盯盤 5 檔股票的每日漲跌幅折線圖"></svg>
                 <div class="tip" id="tip" hidden></div>
             </div>
-            <p class="chart-note">每天收盤後自動更新（證交所資料）。點上方股票名稱可隱藏／顯示該條線；滑鼠移到圖上或手指點圖可看當天數字。</p>
+            <p class="chart-note">每天收盤後自動更新（證交所資料）。點股票名稱只看該檔，再點其他股票可加入比較，點「顯示全部」恢復；滑鼠移到圖上或手指點圖可看當天數字。</p>
         </div>
 
         <footer>
@@ -350,7 +351,8 @@
 
         function renderLegend() {
             $('#legendBtns').innerHTML = chart.data.series.map(s =>
-                `<button data-sym="${s.symbol}" class="${chart.hidden.has(s.symbol) ? 'off' : ''}" style="--c:${s.color}"><i></i>${esc(s.name)}</button>`).join('');
+                `<button data-sym="${s.symbol}" class="${chart.hidden.has(s.symbol) ? 'off' : ''}" style="--c:${s.color}"><i></i>${esc(s.name)}</button>`).join('')
+                + (chart.hidden.size ? '<button data-all="1" class="all">顯示全部</button>' : '');
         }
 
         function drawChart() {
@@ -435,9 +437,20 @@
         $('#legendBtns').addEventListener('click', e => {
             const b = e.target.closest('button');
             if (!b) return;
+            if (b.dataset.all) { chart.hidden.clear(); renderLegend(); drawChart(); return; }
             const s = b.dataset.sym;
-            chart.hidden.has(s) ? chart.hidden.delete(s) : chart.hidden.add(s);
-            if (chart.hidden.size === chart.data.series.length) chart.hidden.delete(s);  // 至少留一條
+            const all = chart.data.series.map(x => x.symbol);
+            const visible = all.filter(x => !chart.hidden.has(x));
+            if (visible.length === all.length) {
+                // 全部顯示時第一次點：只顯示這一檔
+                all.forEach(x => { if (x !== s) chart.hidden.add(x); });
+            } else if (visible.length === 1 && visible[0] === s) {
+                // 只剩這一檔時再點它：恢復全部
+                chart.hidden.clear();
+            } else {
+                // 其他情況：加入或移除這一檔，方便兩三檔比較
+                chart.hidden.has(s) ? chart.hidden.delete(s) : chart.hidden.add(s);
+            }
             renderLegend();
             drawChart();
         });
