@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-19T11:45:40+00:00",
+ "updated": "2026-11-19T20:42:00+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 533,
- "count": 141,
+ "scanned": 531,
+ "count": 140,
  "products": [
   {
    "id": "64354",
@@ -776,10 +776,6 @@
     {
      "name": "礦藍",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048fperbwaAH"
-    },
-    {
-     "name": "黑色",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048HBT4vwaAH"
     }
    ],
    "size": "M",
@@ -1091,25 +1087,6 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/74431"
-  },
-  {
-   "id": "70303",
-   "name": "純棉粗紡條紋圓領長袖T恤-男",
-   "price": 399,
-   "originPrice": 499,
-   "material": "棉 100%",
-   "origin": "中國",
-   "category": "上衣類",
-   "subcategory": "長袖上衣",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910p_V__DeZS",
-   "colors": [
-    {
-     "name": "白色條",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048dNCuuCeYS"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/70303"
   },
   {
    "id": "74433",
