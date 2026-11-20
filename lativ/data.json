@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T11:46:54+00:00",
+ "updated": "2026-11-20T20:26:58+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 531,
- "count": 142,
+ "scanned": 527,
+ "count": 141,
  "products": [
   {
    "id": "64354",
@@ -1631,25 +1631,6 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/73493"
-  },
-  {
-   "id": "73610",
-   "name": "S.W.SMILEY®寬版印花T恤-09-男",
-   "price": 249,
-   "originPrice": 350,
-   "material": "棉 100%",
-   "origin": "中國",
-   "category": "聯名授權",
-   "subcategory": "S.W.SMILEY",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910gfOEjqMPS",
-   "colors": [
-    {
-     "name": "藏青",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048lLOi7qxPS"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/73610"
   },
   {
    "id": "74816",
