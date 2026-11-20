@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-20T02:22:08+00:00",
+ "updated": "2026-11-20T11:46:54+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 529,
- "count": 140,
+ "scanned": 531,
+ "count": 142,
  "products": [
   {
    "id": "64354",
@@ -156,7 +156,7 @@
   {
    "id": "72971",
    "name": "粗紡圓領T恤-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -439,6 +439,10 @@
    "subcategory": "條紋系列",
    "image": "https://cdx.lativ.com.tw/upload-v1/07600910GMLC2dEYH",
    "colors": [
+    {
+     "name": "麻灰條",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048k-jgE9RYH"
+    },
     {
      "name": "灰粉條",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048S77gi9aYH"
@@ -1528,7 +1532,7 @@
   {
    "id": "74768",
    "name": "漫威系列長袖印花T恤-02-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -1585,7 +1589,7 @@
   {
    "id": "74766",
    "name": "漫威系列長袖電繡T恤-01-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -1952,6 +1956,25 @@
    "url": "https://www.lativ.com.tw/product/75331"
   },
   {
+   "id": "73611",
+   "name": "Jurassic World寬版印花T恤-09-男",
+   "price": 249,
+   "originPrice": 350,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "聯名授權",
+   "subcategory": "侏羅紀世界",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910SQ1Ofc4AS",
+   "colors": [
+    {
+     "name": "淺卡其",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048DD2OfB4AS"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/73611"
+  },
+  {
    "id": "74818",
    "name": "Jurassic World寬版長袖印花T恤-01-男",
    "price": 390,
@@ -1992,7 +2015,7 @@
   {
    "id": "74771",
    "name": "Jurassic World長袖印花T恤-04-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2049,7 +2072,7 @@
   {
    "id": "75110",
    "name": "動物長袖印花T恤-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2125,7 +2148,7 @@
   {
    "id": "75116",
    "name": "文字寬版長袖印花T恤-03-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 450,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2305,7 +2328,7 @@
   {
    "id": "75109",
    "name": "週末休閒長袖印花T恤-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2503,7 +2526,7 @@
   {
    "id": "74076",
    "name": "大人的圖鑑長袖印花T恤-01-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2560,7 +2583,7 @@
   {
    "id": "74079",
    "name": "航海王長袖印花T恤-01-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2579,7 +2602,7 @@
   {
    "id": "74080",
    "name": "航海王長袖印花T恤-02-男",
-   "price": 350,
+   "price": 390,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2636,7 +2659,7 @@
   {
    "id": "74083",
    "name": "航海王長袖印花T恤-05-男",
-   "price": 350,
+   "price": 390,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2693,7 +2716,7 @@
   {
    "id": "74770",
    "name": "蠟筆小新長袖印花T恤-03-男",
-   "price": 330,
+   "price": 299,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2891,7 +2914,7 @@
   {
    "id": "74937",
    "name": "迪士尼系列長袖印花T恤-05-男",
-   "price": 350,
+   "price": 330,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -3295,6 +3318,29 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/74341"
+  },
+  {
+   "id": "74813",
+   "name": "牛仔立領長袖襯衫-男",
+   "price": 550,
+   "originPrice": 590,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "襯衫類",
+   "subcategory": "牛仔襯衫",
+   "image": "https://cdx.lativ.com.tw/upload-v1/076009100NBBYbIAS",
+   "colors": [
+    {
+     "name": "黑灰",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048c96Vx40AS"
+    },
+    {
+     "name": "藍色",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048WT6QMr0PS"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/74813"
   },
   {
    "id": "74812",
