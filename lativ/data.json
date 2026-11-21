@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21T02:21:47+00:00",
+ "updated": "2026-11-21T11:11:50+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 524,
- "count": 141,
+ "scanned": 525,
+ "count": 142,
  "products": [
   {
    "id": "64354",
@@ -175,10 +175,6 @@
     {
      "name": "卡其",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048iwF8TguAH"
-    },
-    {
-     "name": "咖色",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048Waomt3uAH"
     },
     {
      "name": "深灰綠",
@@ -439,10 +435,6 @@
    "subcategory": "條紋系列",
    "image": "https://cdx.lativ.com.tw/upload-v1/07600910GMLC2dEYH",
    "colors": [
-    {
-     "name": "麻灰條",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048k-jgE9RYH"
-    },
     {
      "name": "灰粉條",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048S77gi9aYH"
@@ -2247,6 +2239,25 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/72974"
+  },
+  {
+   "id": "72975",
+   "name": "粗紡寬版文字印花T恤-03-男",
+   "price": 299,
+   "originPrice": 399,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "聯名授權",
+   "subcategory": "創意設計",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910zWC4KyPAH",
+   "colors": [
+    {
+     "name": "深灰",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048W0oNxDdAH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/72975"
   },
   {
    "id": "72409",
