@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T11:31:29+00:00",
+ "updated": "2026-11-22T19:45:04+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 523,
- "count": 140,
+ "scanned": 521,
+ "count": 139,
  "products": [
   {
    "id": "64354",
@@ -534,25 +534,6 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/72128"
-  },
-  {
-   "id": "72127",
-   "name": "竹節棉口袋圓領T恤-男",
-   "price": 199,
-   "originPrice": 299,
-   "material": "棉 100%",
-   "origin": "中國",
-   "category": "上衣類",
-   "subcategory": "短袖上衣",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910juxSequPH",
-   "colors": [
-    {
-     "name": "藍綠",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/0048004892xHJquPH"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/72127"
   },
   {
    "id": "68043",
