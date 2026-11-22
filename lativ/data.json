@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21T19:21:23+00:00",
+ "updated": "2026-11-22T01:22:59+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 525,
- "count": 142,
+ "scanned": 522,
+ "count": 141,
  "products": [
   {
    "id": "64354",
@@ -2235,25 +2235,6 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/72974"
-  },
-  {
-   "id": "72975",
-   "name": "粗紡寬版文字印花T恤-03-男",
-   "price": 299,
-   "originPrice": 399,
-   "material": "棉 100%",
-   "origin": "中國",
-   "category": "聯名授權",
-   "subcategory": "創意設計",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910zWC4KyPAH",
-   "colors": [
-    {
-     "name": "深灰",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048W0oNxDdAH"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/72975"
   },
   {
    "id": "72409",
