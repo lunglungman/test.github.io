@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T08:42:31+00:00",
+ "updated": "2026-11-25T19:21:04+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 515,
- "count": 137,
+ "scanned": 516,
+ "count": 139,
  "products": [
   {
    "id": "64354",
@@ -536,6 +536,25 @@
    "url": "https://www.lativ.com.tw/product/72128"
   },
   {
+   "id": "72127",
+   "name": "竹節棉口袋圓領T恤-男",
+   "price": 199,
+   "originPrice": 299,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "上衣類",
+   "subcategory": "短袖上衣",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910juxSequPH",
+   "colors": [
+    {
+     "name": "藍綠",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/0048004892xHJquPH"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/72127"
+  },
+  {
    "id": "68043",
    "name": "純棉V領T恤-男",
    "price": 179,
@@ -1054,6 +1073,25 @@
    "url": "https://www.lativ.com.tw/product/74431"
   },
   {
+   "id": "70303",
+   "name": "純棉粗紡條紋圓領長袖T恤-男",
+   "price": 399,
+   "originPrice": 499,
+   "material": "棉 100%",
+   "origin": "中國",
+   "category": "上衣類",
+   "subcategory": "長袖上衣",
+   "image": "https://cdx.lativ.com.tw/upload-v1/07600910p_V__DeZS",
+   "colors": [
+    {
+     "name": "白色條",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048dNCuuCeYS"
+    }
+   ],
+   "size": "M",
+   "url": "https://www.lativ.com.tw/product/70303"
+  },
+  {
    "id": "74433",
    "name": "純棉粗紡條紋圓領長袖T恤-男",
    "price": 450,
@@ -1121,10 +1159,6 @@
     {
      "name": "軍綠",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048C2S4FhCAS"
-    },
-    {
-     "name": "深棕",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048DUSrn-DAS"
     },
     {
      "name": "黑色",
