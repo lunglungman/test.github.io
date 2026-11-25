@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T23:55:21+00:00",
+ "updated": "2026-11-25T08:42:31+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 516,
- "count": 138,
+ "scanned": 515,
+ "count": 137,
  "products": [
   {
    "id": "64354",
@@ -1042,10 +1042,6 @@
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048SSyprkQPS"
     },
     {
-     "name": "灰綠",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048D5yprkVAH"
-    },
-    {
      "name": "藏青",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048bJyp4kVPS"
     },
@@ -1896,25 +1892,6 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/75331"
-  },
-  {
-   "id": "73611",
-   "name": "Jurassic World寬版印花T恤-09-男",
-   "price": 233,
-   "originPrice": 350,
-   "material": "棉 100%",
-   "origin": "中國",
-   "category": "聯名授權",
-   "subcategory": "侏羅紀世界",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910SQ1Ofc4AS",
-   "colors": [
-    {
-     "name": "淺卡其",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048DD2OfB4AS"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/73611"
   },
   {
    "id": "74818",
