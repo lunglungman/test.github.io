@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:46:03+00:00",
+ "updated": "2026-11-27T12:31:09+00:00",
  "category": "男裝",
  "size": "M",
  "scanned": 513,
@@ -173,10 +173,6 @@
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048iwF8TguAH"
     },
     {
-     "name": "咖色",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048Waomt3uAH"
-    },
-    {
      "name": "深灰綠",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048fFpmtguPH"
     },
@@ -265,7 +261,7 @@
   {
    "id": "72233",
    "name": "純棉厚寬版口袋五分袖T恤-男",
-   "price": 233,
+   "price": 249,
    "originPrice": 299,
    "material": "棉 100%",
    "origin": "中國",
@@ -288,7 +284,7 @@
   {
    "id": "72236",
    "name": "純棉厚寬版拉鍊袋五分袖T恤-男",
-   "price": 249,
+   "price": 250,
    "originPrice": 350,
    "material": "棉 100%",
    "origin": "中國",
@@ -523,7 +519,7 @@
   {
    "id": "72128",
    "name": "竹節棉亨利領T恤-男",
-   "price": 233,
+   "price": 249,
    "originPrice": 299,
    "material": "棉 100%",
    "origin": "中國",
@@ -1029,7 +1025,7 @@
   {
    "id": "74431",
    "name": "純棉粗紡圓領口袋長袖T恤-男",
-   "price": 399,
+   "price": 450,
    "originPrice": 499,
    "material": "棉 100%",
    "origin": "中國",
@@ -1125,6 +1121,10 @@
     {
      "name": "軍綠",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048C2S4FhCAS"
+    },
+    {
+     "name": "深棕",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048DUSrn-DAS"
     },
     {
      "name": "黑色",
@@ -2407,7 +2407,7 @@
   {
    "id": "73249",
    "name": "大人的圖鑑厚版印花T恤-10-男",
-   "price": 233,
+   "price": 249,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2597,7 +2597,7 @@
   {
    "id": "74769",
    "name": "蠟筆小新長袖印花T恤-02-男",
-   "price": 350,
+   "price": 299,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "台灣",
@@ -2662,7 +2662,7 @@
   {
    "id": "73101",
    "name": "超人力霸王厚版印花T恤-06-男",
-   "price": 233,
+   "price": 249,
    "originPrice": 399,
    "material": "棉 100%",
    "origin": "中國",
@@ -2922,7 +2922,7 @@
   {
    "id": "75097",
    "name": "棉質工裝寬版長袖襯衫-男",
-   "price": 650,
+   "price": 590,
    "originPrice": 690,
    "material": "棉 100%",
    "origin": "中國",
@@ -3075,10 +3075,6 @@
     {
      "name": "藍色格",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048QnZLRjNYH"
-    },
-    {
-     "name": "黑灰格",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048z6ELRj0YH"
     }
    ],
    "size": "M",
@@ -3134,7 +3130,7 @@
   {
    "id": "75328",
    "name": "法蘭絨格紋寬版連帽長袖襯衫-男",
-   "price": 790,
+   "price": 750,
    "originPrice": 790,
    "material": "主布：棉 100%\n帽子：棉 100%\n帽裡：棉 100%",
    "origin": "中國",
@@ -3180,7 +3176,7 @@
   {
    "id": "74813",
    "name": "牛仔立領長袖襯衫-男",
-   "price": 550,
+   "price": 490,
    "originPrice": 590,
    "material": "棉 100%",
    "origin": "中國",
@@ -3203,7 +3199,7 @@
   {
    "id": "74812",
    "name": "牛仔長袖襯衫-男",
-   "price": 550,
+   "price": 490,
    "originPrice": 590,
    "material": "棉 100%",
    "origin": "中國",
