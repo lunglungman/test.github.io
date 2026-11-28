@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-28T07:54:55+00:00",
+ "updated": "2026-11-28T17:36:13+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 512,
- "count": 136,
+ "scanned": 515,
+ "count": 135,
  "products": [
   {
    "id": "64354",
@@ -27,6 +27,10 @@
     {
      "name": "亮藍",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048Gj68HoYZH"
+    },
+    {
+     "name": "灰綠",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/0048004868JmSoZZS"
     },
     {
      "name": "卡其",
@@ -242,10 +246,6 @@
    "subcategory": "厚磅系列",
    "image": "https://cdx.lativ.com.tw/upload-v1/07600910QuNDee7PS",
    "colors": [
-    {
-     "name": "白色",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048J-s8T3uPS"
-    },
     {
      "name": "深綠",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/004800483GW8T3uAH"
@@ -1547,6 +1547,10 @@
    "image": "https://cdx.lativ.com.tw/upload-v1/07600910LweahbfAS",
    "colors": [
     {
+     "name": "淺麻灰",
+     "thumb": "https://cdx.lativ.com.tw/upload-v1/004800485aJahvLAH"
+    },
+    {
      "name": "黑色",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048NVea-bfAH"
     }
@@ -2135,25 +2139,6 @@
    ],
    "size": "M",
    "url": "https://www.lativ.com.tw/product/72973"
-  },
-  {
-   "id": "72974",
-   "name": "粗紡寬版文字印花T恤-02-男",
-   "price": 299,
-   "originPrice": 399,
-   "material": "棉 100%",
-   "origin": "中國",
-   "category": "聯名授權",
-   "subcategory": "創意設計",
-   "image": "https://cdx.lativ.com.tw/upload-v1/07600910_vU0xCdPS",
-   "colors": [
-    {
-     "name": "白色",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/004800483GENxDlAS"
-    }
-   ],
-   "size": "M",
-   "url": "https://www.lativ.com.tw/product/72974"
   },
   {
    "id": "72409",
