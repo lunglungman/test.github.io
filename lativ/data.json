@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-27T23:30:10+00:00",
+ "updated": "2026-11-28T07:54:55+00:00",
  "category": "男裝",
  "size": "M",
- "scanned": 513,
+ "scanned": 512,
  "count": 136,
  "products": [
   {
@@ -365,10 +365,6 @@
     {
      "name": "灰白條",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048OgK_tA_AS"
-    },
-    {
-     "name": "綠白條",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048xvK_TPuAH"
     }
    ],
    "size": "M",
@@ -745,10 +741,6 @@
     {
      "name": "礦藍",
      "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048fperbwaAH"
-    },
-    {
-     "name": "黑色",
-     "thumb": "https://cdx.lativ.com.tw/upload-v1/00480048HBT4vwaAH"
     }
    ],
    "size": "M",
